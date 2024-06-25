@@ -41,9 +41,9 @@ We'd love your help in improving the website with features, bug reports, and pat
 
 ### Update Assets & Information
 
-This repository acts as our "shared public folder" which you can edit to make changes reflect on the website. If you feel like any data is inaccurate, please make a PR and we'll merge it as soon as we can.
+This repository acts as our "shared public folder" which you can edit to make changes reflect on the website. If you feel like any data is inaccurate, please [fork the repository](https://github.com/Luzefiru/wuwatracker/fork) and create a [pull request](https://github.com/Luzefiru/wuwatracker/compare) once you're done. We'll merge it as soon as we can.
 
-#### Beta Tester Program
+### Beta Tester Program
 
 If you're interested in testing new features or having access to the beta server, head over to our [Discord Server](https://discord.gg/mADnEXwZGT) and read the pinned messages in the `#staff-application` text channel.
 
