@@ -1,77 +1,88 @@
 export interface Event {
-  id: number;
+  id?: number; // announcement id
   name: string;
   description?: string;
   img: string;
   startDate: string;
   endDate: string;
-  color?: string;
-  url?: string;
-  showOnHome?: boolean;
+  color?: string; // defaults to automatically detecting the img color (prefer darker colors)
+  url?: string; // link to an informative page about the event
+  showOnHome?: boolean; // whether we show it in the home dashboard
 }
 
-// Helper function to generate a random color in hexadecimal format
-const getRandomColor = (): string => {
-  return '#' + Math.floor(Math.random() * 16777215).toString(16);
+export const events: { banners: Event[]; activities: Event[] } = {
+  banners: [
+    {
+      id: 10191,
+      name: '[When Thunder Pours] Featured Resonator Convene',
+      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/XUvRpLaygBSPNnoM.jpg',
+      startDate: '2024-06-06 10:00',
+      endDate: '2024-06-26 11:59',
+    },
+    {
+      id: 10192,
+      name: '[Absolute Pulsation] \nFeatured Weapon Convene',
+      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/RhasUibVrDXaewvP.jpg',
+      startDate: '2024-06-06 10:00',
+      endDate: '2024-06-26 11:59',
+    },
+    {
+      // Credits to Mero
+      name: '[Thawborn Renewal] Featured Resonator Convene',
+      img: 'https://preview.redd.it/1-1-in-game-banners-via-mero-v0-72wrtbhe2f5d1.jpg?width=640&crop=smart&auto=webp&s=76e2216263a5be3d2871c7f737355136b711107e',
+      startDate: '2024-06-27 10:00',
+      endDate: '2024-07-17 11:59',
+    },
+    {
+      // Credits to Mero
+      name: '[Absolute Pulsation] \nFeatured Weapon Convene',
+      img: 'https://preview.redd.it/1-1-in-game-banners-via-mero-v0-72wrtbhe2f5d1.jpg?width=640&crop=smart&auto=webp&s=76e2216263a5be3d2871c7f737355136b711107e',
+      startDate: '2024-06-27 10:00',
+      endDate: '2024-07-17 11:59',
+    },
+    {
+      // Credits to Mero
+      name: '[Stellar Plummage] Featured Resonator Convene',
+      img: 'https://i.redd.it/1-1-in-game-banners-via-mero-v0-wlbeh9he2f5d1.jpg?width=1280&format=pjpg&auto=webp&s=5ab8d1fffb548d95b3ead4489bcb5eea1084b034',
+      startDate: '2024-07-18 10:00',
+      endDate: '2024-08-07 11:59',
+    },
+    {
+      // Credits to Mero
+      name: '[Absolute Pulsation] \nFeatured Weapon Convene',
+      img: 'https://i.redd.it/1-1-in-game-banners-via-mero-v0-wlbeh9he2f5d1.jpg?width=1280&format=pjpg&auto=webp&s=5ab8d1fffb548d95b3ead4489bcb5eea1084b034',
+      startDate: '2024-07-18 10:00',
+      endDate: '2024-08-07 11:59',
+    },
+  ],
+  activities: [
+    {
+      id: 10199,
+      name: '"Chord Cleansing" LT Echo Double Drop Event',
+      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/VLUKnFABIwENgpiX.jpg',
+      startDate: '2024-06-20 04:00',
+      endDate: '2024-06-27 03:59',
+    },
+    {
+      id: 10214,
+      name: 'Wuthering Exploration \nLimited-Time Event',
+      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/uMJRhEmCgPNElAxX.jpg',
+      startDate: '2024-06-13 10:00',
+      endDate: '2024-06-27 03:59',
+    },
+    {
+      id: 10194,
+      name: 'Alloy Smelt \nLimited Time Battle Event',
+      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/WSrKcdNwytNiSRAs.jpg',
+      startDate: '2024-06-06 10:00',
+      endDate: '2024-06-27 03:59',
+    },
+    {
+      id: 10201,
+      name: 'Second Coming of Solaris Limited Time Collection Event',
+      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/jpGLPKjxPaIfhrbw.jpg',
+      startDate: '2024-06-13 04:00',
+      endDate: '2024-06-27 03:59',
+    },
+  ],
 };
-
-const events: Event[] = [
-  {
-    id: 1,
-    name: 'Ascendant Aces',
-    description: 'Placeholder description for Ascendant Aces event',
-    img: '/assets/events/placeholder.png', // Placeholder image name or URL
-    startDate: '2024-06-06',
-    endDate: '2024-06-26',
-    color: getRandomColor(), // Random color generated here
-    url: 'https://game8.co/games/Wuthering-Waves/archives/456482',
-    showOnHome: true,
-  },
-  {
-    id: 2,
-    name: 'Alloy Smelt',
-    description: 'Placeholder description for Alloy Smelt event',
-    img: '/assets/events/placeholder.png', // Placeholder image name or URL
-    startDate: '2024-06-06',
-    endDate: '2024-06-27',
-    color: getRandomColor(), // Random color generated here
-    url: 'https://game8.co/games/Wuthering-Waves/archives/455403',
-    showOnHome: true,
-  },
-  {
-    id: 3,
-    name: 'Wuthering Exploration',
-    description: 'Placeholder description for Wuthering Exploration event',
-    img: '/assets/events/placeholder.png', // Placeholder image name or URL
-    startDate: '2024-06-13',
-    endDate: '2024-06-27',
-    color: getRandomColor(), // Random color generated here
-    url: 'https://game8.co/games/Wuthering-Waves/archives/457210',
-    showOnHome: true,
-  },
-  {
-    id: 4,
-    name: 'Second Coming of Solaris',
-    description: 'Placeholder description for Second Coming of Solaris event',
-    img: '/assets/events/placeholder.png', // Placeholder image name or URL
-    startDate: '2024-06-13',
-    endDate: '2024-06-27',
-    color: getRandomColor(), // Random color generated here
-    url: 'https://game8.co/games/Wuthering-Waves/archives/457618',
-    showOnHome: true,
-  },
-  {
-    id: 5,
-    name: '"Chord Cleansing" LT Echo Double Drop',
-    description:
-      'Placeholder description for "Chord Cleansing" LT Echo Double Drop event',
-    img: '/assets/events/placeholder.png', // Placeholder image name or URL
-    startDate: '2024-06-20',
-    endDate: '2024-06-27',
-    color: getRandomColor(), // Random color generated here
-    url: 'https://game8.co/games/Wuthering-Waves/archives/457211',
-    showOnHome: true,
-  },
-];
-
-export default events;

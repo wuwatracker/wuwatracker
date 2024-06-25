@@ -37,7 +37,7 @@ export const limitedCharacterRateUpRules: RateUpRule[] = [
     rateUp5Names: ['Changli'],
     rateUp4Names: ['Baizhi', 'Taoqi', 'Mortefi'],
     startDate: '2024-07-19',
-    endDate: '2024-08-08',
+    endDate: '2024-08-07',
   },
 ] as const;
 
@@ -77,6 +77,6 @@ export const limitedWeaponRateUpRules: RateUpRule[] = [
     rateUp5Names: ['Blazing Brilliance'],
     rateUp4Names: ['Baizhi', 'Taoqi', 'Mortefi'],
     startDate: '2024-07-18',
-    endDate: '2024-08-08',
+    endDate: '2024-08-07',
   },
 ] as const;
