@@ -1,3 +1,5 @@
+import { convertDatesToServerTime } from './lib/convertDatesToServerTime';
+
 export interface Event {
   id?: number; // announcement id
   name: string;
@@ -10,7 +12,12 @@ export interface Event {
   showOnHome?: boolean; // whether we show it in the home dashboard
 }
 
-export const events: { banners: Event[]; activities: Event[] } = {
+/**
+ * Edit the values here.
+ *
+ * Make sure the `startDate` and `endDate` values are the game server's time (UTC+8) which are the SEA, Asia, HK server times.
+ */
+const rawEvents: { banners: Event[]; activities: Event[] } = {
   banners: [
     {
       id: 10191,
@@ -92,4 +99,9 @@ export const events: { banners: Event[]; activities: Event[] } = {
       endDate: '2024-06-27 03:59',
     },
   ],
+};
+
+export const events = {
+  banners: convertDatesToServerTime(rawEvents.banners),
+  activities: convertDatesToServerTime(rawEvents.activities),
 };

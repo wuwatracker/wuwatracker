@@ -1,3 +1,5 @@
+import { convertDatesToServerTime } from './lib/convertDatesToServerTime';
+
 /**
  * Represents a rate-up rule with associated featured gacha item names and date range.
  */
@@ -8,7 +10,7 @@ export type RateUpRule = {
   endDate: string; // End date (inclusive) of the rate-up rule's validity
 };
 
-export const limitedCharacterRateUpRules: RateUpRule[] = [
+export const rawLimitedCharacterRateUpRules: RateUpRule[] = [
   {
     rateUp5Names: ['Jiyan'],
     rateUp4Names: ['Chixia', 'Danjin', 'Mortefi'],
@@ -41,7 +43,7 @@ export const limitedCharacterRateUpRules: RateUpRule[] = [
   },
 ] as const;
 
-export const limitedWeaponRateUpRules: RateUpRule[] = [
+export const rawLimitedWeaponRateUpRules: RateUpRule[] = [
   {
     rateUp5Names: ['Verdant Summit'],
     rateUp4Names: ['Augment', 'Hollow Mirage', 'Dauntless Evernight'],
@@ -80,3 +82,11 @@ export const limitedWeaponRateUpRules: RateUpRule[] = [
     endDate: '2024-08-07',
   },
 ] as const;
+
+export const limitedCharacterRateUpRules = convertDatesToServerTime(
+  rawLimitedCharacterRateUpRules
+);
+
+export const limitedWeaponRateUpRules = convertDatesToServerTime(
+  rawLimitedWeaponRateUpRules
+);
