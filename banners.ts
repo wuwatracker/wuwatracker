@@ -21,14 +21,14 @@ export interface BannerMetadata {
 export const bannerMetadata: BannerMetadata[] = [
   {
     cardPoolType: 1,
-    title: 'When Thunder Pours',
+    title: 'Thawborn Renewal',
     description: 'Featured Resonator',
-    featuredName: 'Yinlin',
+    featuredName: 'Jinhsi',
     pullCost: 160,
     fiveStarPity: 80,
     fourStarPity: 10,
-    luckdrawSrc: '/assets/luckdraw/yinlin.webp',
-    categorySrc: '/assets/portraits/yinlin.webp',
+    luckdrawSrc: '/assets/luckdraw/jinhsi.webp',
+    categorySrc: '/assets/portraits/jinhsi.webp',
     href: '/convene/limited-character',
     rules: limitedCharacterRateUpRules,
   },
