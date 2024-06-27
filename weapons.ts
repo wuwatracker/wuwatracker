@@ -5,19 +5,19 @@ type WeaponMetadata = Record<
 
 export const weaponTypes = {
   Sword: {
-    url: "/assets/weapon-types/sword.webp",
+    url: "/assets/icons/weapon-types/sword.webp",
   },
   Broadblade: {
-    url: "/assets/weapon-types/broadblade.webp",
+    url: "/assets/icons/weapon-types/broadblade.webp",
   },
   Gauntlet: {
-    url: "/assets/weapon-types/gauntlet.webp",
+    url: "/assets/icons/weapon-types/gauntlet.webp",
   },
   Gun: {
-    url: "/assets/weapon-types/pistols.webp",
+    url: "/assets/icons/weapon-types/pistols.webp",
   },
   Rectifiers: {
-    url: "/assets/weapon-types/rectifier.webp",
+    url: "/assets/icons/weapon-types/rectifier.webp",
   },
 } as Record<string, { url: string }>;
 
