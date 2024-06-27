@@ -40,21 +40,17 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       isGlobal: true,
     },
     {
-      // Image Credits to Mero
       name: 'Thawborn Renewal - Jinhsi Banner',
-      img: 'https://preview.redd.it/1-1-in-game-banners-via-mero-v0-72wrtbhe2f5d1.jpg?width=640&crop=smart&auto=webp&s=76e2216263a5be3d2871c7f737355136b711107e',
+      img: 'https://pbs.twimg.com/media/GRDFoUGboAALFAW?format=jpg&name=medium',
       startDate: '2024-06-28 13:00',
       endDate: '2024-07-22 09:59',
-      color: '#74acb3',
       isGlobal: true,
     },
     {
-      // Image Credits to Mero
       name: 'Absolute Pulsation - Jinhsi Weapon Banner',
-      img: 'https://preview.redd.it/1-1-in-game-banners-via-mero-v0-72wrtbhe2f5d1.jpg?width=640&crop=smart&auto=webp&s=76e2216263a5be3d2871c7f737355136b711107e',
+      img: 'https://pbs.twimg.com/media/GRDIoCQaMAA9Ioy?format=jpg&name=medium',
       startDate: '2024-06-28 13:00',
       endDate: '2024-07-22 09:59',
-      color: '#74acb3',
       isGlobal: true,
     },
     {
