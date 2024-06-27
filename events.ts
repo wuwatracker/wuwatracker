@@ -102,12 +102,12 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       endDate: '2024-06-27 03:59',
     },
     {
-	  id: 10250,
-	  name: 'Tower of Adversity: Hazard Zone',
-	  img: 'https://raw.githubusercontent.com/antisocial93/WuWa-base/main/hazardzoneicon.jpg',
-	  startDate: '2024-06-23 04:00',
-	  endDate: '2024-07-07 03:59',
-	  },
+      id: ,
+      name: 'Tower of Adversity: Hazard Zone',
+      img: 'https://raw.githubusercontent.com/antisocial93/WuWa-base/main/hazardzoneicon.jpg',
+      startDate: '2024-06-23 04:00',
+      endDate: '2024-07-07 03:59',
+    },
   ],
 };
 
