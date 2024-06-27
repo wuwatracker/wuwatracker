@@ -10,6 +10,7 @@ export interface Event {
   color?: string; // defaults to automatically detecting the img color (prefer darker colors)
   url?: string; // link to an informative page about the event
   showOnHome?: boolean; // whether we show it in the home dashboard
+  isGlobal?: boolean;
 }
 
 /**
@@ -28,6 +29,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       img: 'https://aki-gm-resources-back.aki-game.net/notice/image/XUvRpLaygBSPNnoM.jpg',
       startDate: '2024-06-06 10:00',
       endDate: '2024-06-26 11:59',
+      isGlobal: true,
     },
     {
       id: 10192,
@@ -35,6 +37,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       img: 'https://aki-gm-resources-back.aki-game.net/notice/image/RhasUibVrDXaewvP.jpg',
       startDate: '2024-06-06 10:00',
       endDate: '2024-06-26 11:59',
+      isGlobal: true,
     },
     {
       // Image Credits to Mero
@@ -43,6 +46,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       startDate: '2024-06-28 13:00',
       endDate: '2024-07-17 11:59',
       color: '#74acb3',
+      isGlobal: true,
     },
     {
       // Image Credits to Mero
@@ -51,6 +55,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       startDate: '2024-06-28 13:00',
       endDate: '2024-07-17 11:59',
       color: '#74acb3',
+      isGlobal: true,
     },
     {
       // Image Credits to Mero
@@ -59,6 +64,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       startDate: '2024-07-18 13:00',
       endDate: '2024-08-07 11:59',
       color: '#a24c4e',
+      isGlobal: true,
     },
     {
       // Image Credits to Mero
@@ -67,6 +73,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       startDate: '2024-07-18 13:00',
       endDate: '2024-08-07 11:59',
       color: '#a24c4e',
+      isGlobal: true,
     },
   ],
   activities: [
