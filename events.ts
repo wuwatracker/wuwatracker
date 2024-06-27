@@ -41,14 +41,14 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     },
     {
       name: 'Thawborn Renewal - Jinhsi Banner',
-      img: 'https://pbs.twimg.com/media/GRDFoUGboAALFAW?format=jpg&name=medium',
+      img: 'https://raw.githubusercontent.com/antisocial93/WuWa-base/main/jinhsiConvene.jpg',
       startDate: '2024-06-28 13:00',
       endDate: '2024-07-22 09:59',
       isGlobal: true,
     },
     {
       name: 'Absolute Pulsation - Jinhsi Weapon Banner',
-      img: 'https://pbs.twimg.com/media/GRDIoCQaMAA9Ioy?format=jpg&name=medium',
+      img: 'https://raw.githubusercontent.com/antisocial93/WuWa-base/main/agesofharvestConvene.jpg',
       startDate: '2024-06-28 13:00',
       endDate: '2024-07-22 09:59',
       isGlobal: true,
