@@ -104,8 +104,8 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     {
       name: 'Tower of Adversity: Hazard Zone',
       img: 'https://raw.githubusercontent.com/antisocial93/WuWa-base/main/hazardzoneicon.jpg',
-      startDate: '2024-06-23 04:00',
-      endDate: '2024-07-07 03:59',
+      startDate: '2024-06-23 11:00',
+      endDate: '2024-07-07 10:59',
     },
   ],
 };
