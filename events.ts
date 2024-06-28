@@ -162,7 +162,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       reliability: 'Official',
     },
     {
-      name: 'Tactial Simulacra: Limited-time Battle Challenge',
+      name: 'Tactical Simulacra: Limited-time Battle Challenge',
       img: 'https://snipboard.io/sX1Mva.jpg',
       color: '#89848c',
       description:
