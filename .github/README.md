@@ -55,6 +55,6 @@ If you're interested in testing new features or having access to the beta server
 
 Thank you to all the Rovers who contributed to this project! May your Convenes be golden evermore.
 
-<a href="https://github.com/Luzefiru/wuwatracker/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Luzefiru/wuwatracker" />
+<a href="https://github.com/luzefiru/wuwatracker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=luzefiru/wuwatracker" />
 </a>
