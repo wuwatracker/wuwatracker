@@ -139,6 +139,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       endDate: '2024-08-13 03:59',
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      isGlobal: true,
     },
     {
       name: 'Lollo Campaign: Limited-time Commission Event',
