@@ -46,7 +46,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     {
       name: 'Thawborn Renewal - Jinhsi Banner',
       img: 'https://raw.githubusercontent.com/antisocial93/WuWa-base/main/jinhsiConvene.jpg',
-      startDate: '2024-06-28 13:00',
+      startDate: '2024-06-28 12:00',
       endDate: '2024-07-22 09:59',
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
@@ -55,7 +55,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     {
       name: 'Absolute Pulsation - Jinhsi Weapon Banner',
       img: 'https://raw.githubusercontent.com/antisocial93/WuWa-base/main/agesofharvestConvene.jpg',
-      startDate: '2024-06-28 13:00',
+      startDate: '2024-06-28 12:00',
       endDate: '2024-07-22 09:59',
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
@@ -88,7 +88,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       img: 'https://snipboard.io/dBPpt2.jpg',
       color: '#e4c190',
       description: `You can complete tasks in Pioneer Podcast and accumulate Podcast EXP. Level up your Podcast to get rich rewards. Unlock "Insider Channel" or "Connoisseur Channel" and level up your Podcast to win extra rewards including Astrite*600, a 4-star Golden Eternal Series Weapon of Choice, and Radiant Tide!`,
-      startDate: '2024-06-28 13:00',
+      startDate: '2024-06-28 12:00',
       endDate: '2024-07-22 09:59',
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
@@ -100,7 +100,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       color: '#633d35',
       description:
         "Divided into four stages, this event will have separate stages unlocked according to the progress of Main Quests. By completing Exploration & Puzzle-solving, Battle Challenge, Gathering, and other quests available in the Mt. Firmament, you'll be awarded diverse rewards.",
-      startDate: '2024-06-28 13:00',
+      startDate: '2024-06-28 12:00',
       endDate: '2024-07-22 09:59',
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
@@ -112,7 +112,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       color: '#7a4738',
       description:
         'Follow the clues to explore the corresponding area, take the correct photos, or search at the target location. Completing the above tasks will grant rewards.',
-      startDate: '2024-06-28 13:00',
+      startDate: '2024-06-28 12:00',
       endDate: '2024-07-22 09:59',
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
@@ -135,7 +135,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       description:
         'Log into the game and check in to claim rewards: 5x Radiant Tide & 5x Lustrous Tide',
       color: '#4f493e',
-      startDate: '2024-06-28 13:00',
+      startDate: '2024-06-28 12:00',
       endDate: '2024-08-13 03:59',
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
