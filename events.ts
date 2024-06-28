@@ -101,7 +101,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       description:
         "Divided into four stages, this event will have separate stages unlocked according to the progress of Main Quests. By completing Exploration & Puzzle-solving, Battle Challenge, Gathering, and other quests available in the Mt. Firmament, you'll be awarded diverse rewards.",
       startDate: '2024-06-28 12:00',
-      endDate: '2024-07-22 09:59',
+      endDate: '2024-08-13 03:59',
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
@@ -113,7 +113,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       description:
         'Follow the clues to explore the corresponding area, take the correct photos, or search at the target location. Completing the above tasks will grant rewards.',
       startDate: '2024-06-28 12:00',
-      endDate: '2024-07-22 09:59',
+      endDate: '2024-08-13 03:59',
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
@@ -204,7 +204,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     },
     {
       id: 10214,
-      name: 'Wuthering Exploration \nLimited-Time Event',
+      name: 'Wuthering Exploration Limited-Time Event',
       img: 'https://aki-gm-resources-back.aki-game.net/notice/image/uMJRhEmCgPNElAxX.jpg',
       startDate: '2024-06-13 10:00',
       endDate: '2024-06-27 03:59',
@@ -212,7 +212,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     },
     {
       id: 10194,
-      name: 'Alloy Smelt \nLimited Time Battle Event',
+      name: 'Alloy Smelt Limited Time Battle Event',
       img: 'https://aki-gm-resources-back.aki-game.net/notice/image/WSrKcdNwytNiSRAs.jpg',
       startDate: '2024-06-06 10:00',
       endDate: '2024-06-27 03:59',
