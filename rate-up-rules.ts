@@ -32,14 +32,14 @@ export const rawLimitedCharacterRateUpRules: RateUpRule[] = [
   {
     rateUp5Names: ['Jinhsi'],
     rateUp4Names: ['Sanhua', 'Yangyang', 'Danjin'],
-    startDate: '2024-06-27',
-    endDate: '2024-07-18',
+    startDate: '2024-06-28 12:00',
+    endDate: '2024-07-22 09:59',
   },
   {
     rateUp5Names: ['Changli'],
     rateUp4Names: ['Baizhi', 'Taoqi', 'Mortefi'],
-    startDate: '2024-07-19',
-    endDate: '2024-08-07',
+    startDate: '2024-07-22 13:00',
+    endDate: '2024-08-14 11:59',
   },
 ] as const;
 
@@ -72,14 +72,14 @@ export const rawLimitedWeaponRateUpRules: RateUpRule[] = [
   {
     rateUp5Names: ['Ages of Harvest'],
     rateUp4Names: ['Sanhua', 'Yangyang', 'Danjin'],
-    startDate: '2024-06-27',
-    endDate: '2024-07-17',
+    startDate: '2024-06-28 12:00',
+    endDate: '2024-07-22 09:59',
   },
   {
     rateUp5Names: ['Blazing Brilliance'],
     rateUp4Names: ['Baizhi', 'Taoqi', 'Mortefi'],
-    startDate: '2024-07-18',
-    endDate: '2024-08-07',
+    startDate: '2024-07-22 13:00',
+    endDate: '2024-08-14 11:59',
   },
 ] as const;
 
