@@ -84,6 +84,41 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
   ],
   activities: [
     {
+      name: 'Pioneer Podcast',
+      img: 'https://snipboard.io/dBPpt2.jpg',
+      color: '#e4c190',
+      description: `You can complete tasks in Pioneer Podcast and accumulate Podcast EXP. Level up your Podcast to get rich rewards. Unlock "Insider Channel" or "Connoisseur Channel" and level up your Podcast to win extra rewards including Astrite*600, a 4-star Golden Eternal Series Weapon of Choice, and Radiant Tide!`,
+      startDate: '2024-06-28 13:00',
+      endDate: '2024-07-22 09:59',
+      isGlobal: true,
+      url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
+      reliability: 'Official',
+    },
+    {
+      name: '[Tales from Mt. Firmament] Area Exploration Event',
+      img: 'https://snipboard.io/zWIVdM.jpg',
+      color: '#633d35',
+      description:
+        "Divided into four stages, this event will have separate stages unlocked according to the progress of Main Quests. By completing Exploration & Puzzle-solving, Battle Challenge, Gathering, and other quests available in the Mt. Firmament, you'll be awarded diverse rewards.",
+      startDate: '2024-06-28 13:00',
+      endDate: '2024-07-22 09:59',
+      isGlobal: true,
+      url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
+      reliability: 'Official',
+    },
+    {
+      name: '[Traces of Mt. Firmament] Photo Collection Event',
+      img: 'https://snipboard.io/VA7tnJ.jpg',
+      color: '#7a4738',
+      description:
+        'Follow the clues to explore the corresponding area, take the correct photos, or search at the target location. Completing the above tasks will grant rewards.',
+      startDate: '2024-06-28 13:00',
+      endDate: '2024-07-22 09:59',
+      isGlobal: true,
+      url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
+      reliability: 'Official',
+    },
+    {
       name: 'Limited Time Check-in Event',
       img: 'https://snipboard.io/cPrHtu.jpg',
       description:
