@@ -64,7 +64,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     {
       name: 'Stellar Plummage - Changli Banner',
       img: 'https://snipboard.io/VlJ2EM.jpg',
-      startDate: '2024-07-22 13:00',
+      startDate: '2024-07-22 10:00',
       endDate: '2024-08-14 11:59',
       color: '#88302d',
       isGlobal: true,
@@ -74,7 +74,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     {
       name: 'Absolute Pulsation - Changli Weapon Banner',
       img: 'https://snipboard.io/tsbezS.jpg',
-      startDate: '2024-07-22 13:00',
+      startDate: '2024-07-22 10:00',
       endDate: '2024-08-14 11:59',
       color: '#ee8548',
       isGlobal: true,
