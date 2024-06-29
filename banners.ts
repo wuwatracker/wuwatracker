@@ -97,11 +97,24 @@ export const bannerMetadata: BannerMetadata[] = [
     href: '/convene/starter-selector',
     rules: [],
   },
+  {
+    cardPoolType: 7,
+    title: 'Selector Ticket',
+    description: 'Convene Giveback Event',
+    featuredName: 'Verina',
+    pullCost: 0,
+    fiveStarPity: 1,
+    fourStarPity: 1,
+    luckdrawSrc: '/assets/luckdraw/verina.webp',
+    categorySrc: '/assets/portraits/verina.webp',
+    href: '/convene/giveback-event',
+    rules: [],
+  },
 ];
 
-export type CardPoolType = 1 | 2 | 3 | 4 | 5 | 6;
+export type CardPoolType = 1 | 2 | 3 | 4 | 5 | 6 | 7;
 
-export const VALID_CARD_POOL_TYPES: CardPoolType[] = [1, 2, 3, 4, 5, 6];
+export const VALID_CARD_POOL_TYPES: CardPoolType[] = [1, 2, 3, 4, 5, 6, 7];
 
 export function isValidCardPoolType(
   cardPoolType: number
