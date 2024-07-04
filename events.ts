@@ -120,7 +120,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     },
     {
       name: 'Limited Time Check-in Event',
-      img: 'https://snipboard.io/cPrHtu.jpg',
+      img: 'https://snipboard.io/l6iRhf.jpg',
       description:
         'Log in the game and check in to receive corresponding rewards on respective dates.',
       startDate: '2024-07-04 04:00',
@@ -153,7 +153,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     },
     {
       name: 'Depths of Illusive Realm: Dreams Ablaze in Darkness',
-      img: 'https://snipboard.io/ZU4bEz.jpg',
+      img: 'https://snipboard.io/nEcqzG.jpg',
       color: '#9a4431',
       description: `The New Season "Dreams Ablaze in Darkness" opens! New mechanics such as Tokens, Symphony Rank, and different Memetic Tuning are available for you to create your own powerful build. Main rewards are; 1000x Astrite, 1x Malleable Elite Class Echo I, 1x Malleable Elite Class Echo II, Premium Tuners, Crystal Solvents.`,
       startDate: '2024-07-04 10:00',
