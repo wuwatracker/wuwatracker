@@ -266,7 +266,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       img: 'https://snipboard.io/NnA3YO.jpg',
       startDate: '2024-07-08 11:00',
       endDate: '2024-07-22 10:59',
-      color: '#4be549',
+      color: '#18235f',
       reliability: 'Official',
     },
   ],
