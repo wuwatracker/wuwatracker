@@ -1,54 +1,53 @@
 {
   "Items": {
-    "Aalto": "Aalto",
-    "Baizhi": "Baizhi",
-    "Calcharo": "Calcharo",
+    "Aalto": "Алто",
+    "Baizhi": "Байджи",
+    "Calcharo": "Какаро",
     "Changli": "Changli",
-    "Chixia": "Chixia",
-    "Danjin": "Danjin",
-    "Encore": "Encore",
-    "Jianxin": "Jianxin",
-    "Jinhsi": "Jinhsi",
-    "Jiyan": "Jiyan",
-    "Lingyang": "Lingyang",
-    "Mortefi": "Mortefi",
-    "Sanhua": "Sanhua",
-    "Taoqi": "Taoqi",
-    "Verina": "Verina",
-    "Yangyang": "Yangyang",
-    "Yinlin": "Yinlin",
-    "Yuanwu": "Yuanwu",
-
-    "Abyss Surges": "Abyss Surges",
+    "Chixia": "Чіся",
+    "Danjin": "Даньдзінь",
+    "Encore": "Анкор",
+    "Jianxin": "Дзяньсінь",
+    "Jinhsi": "Цзіньсі",
+    "Jiyan": "Дзіянь",
+    "Lingyang": "Лін'янь",
+    "Mortefi": "Мортефі",
+    "Sanhua": "Саньхва",
+    "Taoqi": "Таоці",
+    "Verina": "Веріна",
+    "Yangyang": "Ян'ян",
+    "Yinlin": "Їньлінь",
+    "Yuanwu": "Янву",
+    "Abyss Surges": "Сплески безодні",
     "Ages of Harvest": "Ages of Harvest",
-    "Amity Accord": "Amity Accord",
-    "Autumntrace": "Autumntrace",
+    "Amity Accord": "Дружня угода",
+    "Autumntrace": "Осінній слід",
     "Beguiling Melody": "Beguiling Melody",
     "Blazing Brilliance": "Blazing Brilliance",
-    "Broadblade of Night": "Broadblade of Night",
-    "Broadblade of Voyager": "Broadblade of Voyager",
-    "Broadblade#41": "Broadblade#41",
-    "Cadenza": "Cadenza",
-    "Commando of Conviction": "Commando of Conviction",
-    "Comet Flare": "Comet Flare",
-    "Cosmic Ripples": "Cosmic Ripples",
-    "Dauntless Evernight": "Dauntless Evernight",
-    "Discord": "Discord",
-    "Emerald of Genesis": "Emerald of Genesis",
-    "Gauntlets of Night": "Gauntlets of Night",
-    "Gauntlets of Voyager": "Gauntlets of Voyager",
-    "Gauntlets#21D": "Gauntlets#21D",
-    "Guardian Broadblade": "Guardian Broadblade",
-    "Guardian Gauntlets": "Guardian Gauntlets",
-    "Guardian Pistols": "Guardian Pistols",
-    "Guardian Rectifier": "Guardian Rectifier",
-    "Guardian Sword": "Guardian Sword",
-    "Helios Cleaver": "Helios Cleaver",
-    "Hollow Mirage": "Hollow Mirage",
-    "Jinzhou Keeper": "Jinzhou Keeper",
-    "Lunar Cutter": "Lunar Cutter",
-    "Lumingloss": "Lumingloss",
-    "Lustrous Razor": "Lustrous Razor",
+    "Broadblade of Night": "Широке лезо Ночі",
+    "Broadblade of Voyager": "Широке лезо Вояджера",
+    "Broadblade#41": "Широкий меч#41",
+    "Cadenza": "Каденція",
+    "Commando of Conviction": "Команда переконання",
+    "Comet Flare": "Спалах комети",
+    "Cosmic Ripples": "Космічні хвилі",
+    "Dauntless Evernight": "Безстрашна ніч",
+    "Discord": "Розбрат",
+    "Emerald of Genesis": "Смарагд Буття",
+    "Gauntlets of Night": "Рукавиці Ночі",
+    "Gauntlets of Voyager": "Рукавиці Вояджера",
+    "Gauntlets#21D": "Рукавиці#21D",
+    "Guardian Broadblade": "Широкий клинок Вартового",
+    "Guardian Gauntlets": "Руковиці Вартового",
+    "Guardian Pistols": "Пістолети Вартового",
+    "Guardian Rectifier": "Випрямляч Вартового",
+    "Guardian Sword": "Вартового меч",
+    "Helios Cleaver": "Геліос Клівер",
+    "Hollow Mirage": "Порожнистий міраж",
+    "Jinzhou Keeper": "Хранитель Цзіньчжоу",
+    "Lumar Cutter": "Роздрібнювач Місяця",
+    "Lumingloss": "Втрата світла",
+    "Lustrous Razor": "Блискуче Лезо",
     "Marcato": "Marcato",
     "Novaburst": "Novaburst",
     "Originite: Type I": "Originite: Type I",
@@ -75,7 +74,6 @@
     "Variation": "Variation",
     "Verdant Summit": "Verdant Summit"
   },
-
   "CardPoolNames": {
     "Featured Resonator": "Featured Resonator",
     "Featured Weapon": "Featured Weapon",
@@ -84,457 +82,435 @@
     "Beginner Convene": "Beginner Convene",
     "Beginner's Choice": "Beginner's Choice",
     "Selector Ticket": "Selector Ticket",
-
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
     "Beginner Selector": "Beginner's Choice Convene",
     "Convene Giveback Event": "Absolute Pulsation",
-
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
     "Thawborn Renewal": "Thawborn Renewal"
   },
-
   "Metadata": {
     "Generic": {
       "title": "Wuwa Tracker",
-      "description": "Лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Синхронізуйте дані на всіх пристроях, діліться своїми результатами з друзями та легко ведіть облік свого облікового запису!"
+      "description": "Лічильник жалю для Wuthering Waves, використовуючи найсвіжіші дані з глобальною статистикою та багато іншого. Синхронізуйте свої дані з пристроями, діліться витягами з вашими друзями та легко відстежуйте свій обліковий запис!"
     },
     "Achievements": {
       "title": "Досягнення - Wuwa Tracker",
-      "description": "Відстежуйте свої досягнення в Wuthering Waves, вільно імпортуйте та експортуйте дані між пристроями! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
+      "description": "Відстежуйте свої досягнення в Wuthering Waves і вільно імпортуйте та експортуйте дані на різні пристрої! Wuwa Tracker - це лічильник жалю для Wuthering Waves, який використовує актуальні дані з глобальною статистикою і багато іншого. Діліться своїми досягненнями з друзями та відстежуйте свій обліковий запис!"
     },
     "Convene": {
       "Index": {
-        "title": "Історія зборів - Wuwa Tracker",
-        "description": "Переглядайте оновлену статистику вибору в Wuthering Waves та недавні зібрання. Використовуйте готові до скріншотів панелі для показу своїм друзям! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
+        "title": "Історія Скликань - Wuwa Tracker",
+        "description": "Переглядайте авто-втивантажених нещодавніх Скликань в Wuthering Waves та Статистику. Використовуйте готові головну панель, щоб похвалитися перед друзями! Лічильник жалості Wuwa Tracker для Wuthering Waves, використовуючи актуальні дані з глобальною статистикою і багато іншого. Діліться з друзями своїми потягами та відстежуйте свій акаунт!"
       },
       "Global": {
         "title": "Глобальна статистика - Wuwa Tracker",
-        "description": "Переглядайте глобальну статистику вибору для банера {currentBanner} з особливістю {currentFeaturedResonator}! Використовуйте готові до скріншотів панелі для показу своїм друзям! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
+        "description": "Перегляньте глобальну статистику витягів банера {currentBanner} з {currentFeaturedResonator}! Використовуйте готові до скріншоту інформаційні панелі для похвалитися перед друзями! Лічильник милості Wuwa Tracker для Wuthering Waves, з актуальними глобальними статистичними даними та багато іншим. Діліться своїми витягами з друзями і ведіть свій обліковий запис!"
       },
       "Share": {
-        "title": "Історія спільного використання - Wuwa Tracker",
-        "description": "Створіть картку історії зборів для показу вашої історії вибору друзям! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
+        "title": "Поділитися історією - Wuwa Tracker",
+        "description": "Створіть картку історії скликань зі своєю історією витягувань, щоб поділитися нею з друзями! Лічильник милості Wuwa Tracker для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми витягуваннями з друзями та відстежуйте свій обліковий запис!"
       }
     },
     "Error": {
       "title": "Сталася помилка",
-      "description": "Під час використання Wuwa Tracker сталася помилка. Будь ласка, надішліть звіт на наш сервер Discord, щоб ми могли якомога швидше виправити проблему."
+      "description": "Під час використання Wuwa Tracker сталася помилка. Будь ласка, надішліть звіт на наш сервер Discord, щоб ми могли оперативно її вирішити."
     },
     "Import": {
-      "title": "Імпорт історії зборів - Wuwa Tracker",
-      "description": "Слідуйте за нашим інтерактивним посібником, щоб відобразити дані Wuthering Waves та переглянути вашу статистику. Ми підтримуємо імпорт з ПК, Android та iOS з автоматичними методами. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
+      "title": "Імпорт історії Скликань - Wuwa Tracker",
+      "description": "Дотримуйтесь нашого інтерактивного посібника, щоб відобразити ваші дані Wuthering Waves і переглянути статистику. Підтримується імпорт з ПК, Android та iOS пристроїв за допомогою автоматичних методів. Лічильник жалості Wuwa Tracker для Wuthering Waves, використовуючи актуальні дані з глобальною статистикою і багато іншого. Діліться своїми потягуваннями з друзями та відстежуйте свій акаунт!"
     },
     "Not Found": {
-      "title": "Сторінку не знайдено",
-      "description": "Ця сторінка не знайдена на Wuwa Tracker. Будь ласка, поверніться на головну сторінку для початку ведення обліку історії зборів Wuthering Waves."
+      "title": "Не знайдено",
+      "description": "Ця сторінка не знайдена на Wuwa Tracker. Будь ласка, поверніться на головну сторінку, щоб почати відстежувати ваші дані історії скликань Wuthering Wave."
     },
     "Privacy Policy": {
       "title": "Політика конфіденційності - Wuwa Tracker",
-      "description": "Цей документ про політику конфіденційності описує типи особистої інформації, яку отримує та збирає Wuwa Tracker, і як вона використовується. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого."
+      "description": "Цей документ про політику конфіденційності описує типи особистої інформації, яку отримує та збирає Wuwa Tracker, а також те, як вона використовується. Wuwa Tracker - це лічильник жалю до \" Wuthering Waves\", що використовує актуальні дані з глобальною статистикою та багато іншого."
     },
     "Sequences": {
       "title": "Послідовності - Wuwa Tracker",
-      "description": "Рахуйте і показуйте ваші дубльовані резонатори та зброю та переглядайте пов'язану інформацію. Ви можете показати їх своїм друзям!"
+      "description": "Порахуйте і покажіть свої дублікати резонаторів і зброї, а також перегляньте інформацію про них. Ви можете показати їх своїм друзям!"
     },
     "Settings": {
       "title": "Налаштування - Wuwa Tracker",
-      "description": "Синхронізуйте свої дані через Google, увійшовши в систему. Керуйте вашими даними з вибору Wuthering Waves в одному місці. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
+      "description": "Синхронізуйте свої дані через Google, увійшовши в систему. Керуйте своїми даними витягувань Wuthering Waves в одному місці. Лічильник жалості Wuwa Tracker для Wuthering Waves, використовуючи актуальні дані з глобальною статистикою і не тільки. Діліться своїми показниками з друзями та відстежуйте свій обліковий запис!"
     },
     "Terms & Conditions": {
-      "title": "Умови використання - Wuwa Tracker",
-      "description": "Ці умови та положення описують правила та регламенти використання веб-сайту та послуг Wuwa Tracker."
+      "title": "Правила та Умови - Wuwa Tracker",
+      "description": "Ці умови визначають правила та положення використання вебсайт та послуг Wuwa Tracker."
     },
     "Timeline": {
-      "title": "Хронологія подій - Wuwa Tracker",
-      "description": "Використовуйте ваш часовий пояс або будь-який часовий пояс сервера Wuthering Waves, щоб переглядати розклад кожного банера, ігрові події, Вежу Адверситі та Глибини Мантикори - все в одному місці. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
+      "title": "Розклад подій - Wuwa Tracker",
+      "description": "Використовуючи свій місцевий часовий пояс або будь-який часовий пояс сервера Wuthering Waves, ви можете переглядати розклад кожного банера, внутрішньоігрові події, періоди проходження Вежі Нещасть та Глибин Ілюзорного царства - і все це в одному місці. Wuwa Tracker лічильник жалості для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми витягуваннями з друзями та відстежуйте свій акаунт!"
     }
   },
-
   "Layout": {
     "LocaleSwitcher": {
-      "label": "Допомогти у перекладі"
+      "label": "Допомога з перекладом"
     }
   },
-
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "Головна панель",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
-        "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "pulls": "витягів",
+        "pity": "жалю",
+        "events": "подій",
+        "statistics": "статистики",
+        "data": "дані",
+        "updates": "оновлень"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "Трекер Wuwa допомагає вам відстежувати",
+      "description": "Лічильник жалю для Wuthering Waves, використовуючи найсвіжіші дані з глобальною статистикою та багато іншого. Ми прагнемо надати найкращі інструменти, щоб продемонструвати ваш Wuthering Waves прогрес вашим друзям."
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "Import History": "Import History",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "Почати",
+      "description": "Ласкаво просимо, Ровере. Розпочнемо?",
+      "Import History": "Імпортувати історію",
+      "View Pull History": "Переглянути історію витягів",
+      "Sync Your Data": "Синхронізація",
+      "Your data will now sync automatically!": "Тепер ваші дані буде автоматично синхронізовано!"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "Журнали змін",
+      "description": "Переглянути анонси сайту можна тут."
     },
     "Community": {
-      "title": "Community"
+      "title": "Спільнота"
     }
   },
-
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "Досягнення",
+    "description": "Подяка <link>StarDB's WuWa Achievements V1.1 spreadsheet for WuWa Achievements V1.1</link> за початкові дані.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "Дані успішно імпортовано.",
+        "import-invalid": "Будь ласка, імпортуйте дійсні дані.",
+        "parse-fail": "Не вдалося розпізнати JSON файл.",
+        "download-fail": "Не вдалося завантажити.",
+        "download-start": "Незабаром розпочнеться ваше завантаження."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "Скористайтеся фільтрами, щоб дізнатися, які досягнення вам не вистачає.",
+      "Completed": "Виконано",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "Імпорт даних",
+        "description": "Використовуйте раніше експортовані дані та синхронізуйте їх з вашим браузером."
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Hidden": "Сховано",
+      "Click to upload": "Натисніть для завантаження",
+      "or drag and drop": "або перетягніть файл",
+      "Import": "Імпорт",
+      "Export as JSON": "Експортувати як JSON",
+      "Need Tips?": "Потрібні підказки?"
     }
   },
-
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "Відстежування Скликань",
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "Глобальна статистика"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "Категорія Скликань"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "Нещодавні",
+      "and": "та",
+      "Convenes": "скликання",
+      "no-filters": "Жодного фільтру не вибрано.",
+      "no-records": "Записів не знайдено."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
-      "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Pull History": "Історію витягів",
+      "Pull Num": "Витяг №",
+      "Item": "Об'єкт",
+      "Pity": "Жалю",
+      "Date Received": "Дані отримано",
+      "no-records": "Записів не знайдено."
     },
     "UserBannerStats": {
-      "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Total": "Всього",
+      "Astrites": "Астрітів",
+      "Pulls": "витягів"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "везіння",
+      "no-luck": "Цей банер не має статистики везіння.",
+      "no-records": "Записів не знайдено.",
+      "calibrating": "Калібрування...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Середнє везіння",
+          "formula": "Яке у вас середнє {qualityLevel} зіркове везіння?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Співвідношення везіння",
+          "formula": "Який відсоток від загальної кількості ваших витягів були {qualityLevel} зірковими?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "50/50 Перемоги",
+          "formula": "Який відсоток тиражів 50/50 ви виграли?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Тиражів виграно",
+          "formula": "Як часто ти витягував 4-зіркового персонажа/предмет?"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "title": "Глобальна статистика",
+      "Switch Banner": "Змінити банер",
+      "Banner List": "Список банерів",
+      "Pulls Per Day": "Витягів за день",
+      "Pulls By Pity": "Витяг за милостинею",
+      "Pulls By Name": "Витяги по назви",
+      "Pulls": "Витягів"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "title": "Поділитися карткою",
+      "description": "Налаштуйте та завантажте вашу історію витягів Wuthering Waves, щоб поділитися нею з іншими!",
+      "Customize": "Налаштовувати",
+      "Edit Share Card": "Редагувати карточку",
+      "edit-description": "Ваша картка оновлюється в режимі реального часу, коли ви вносите зміни.",
+      "Select Banner": "Виберіть банер",
+      "Background": "Фон",
+      "Foreground": "Передній план",
+      "recommendation": "Ми рекомендуємо співвідношенні сторін 1:1 для зображень при 2048х20448.",
+      "Download": "Завантажити"
     }
   },
-
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "Довідник по імпорту",
     "PC": {
-      "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "title": "ПК",
+      "Automatic": "Автоматично",
+      "Manual": "Інструкція"
     },
     "Android": {
       "title": "Android",
-      "Airplane": "Airplane"
+      "Airplane": "Режим \"Політ\""
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "Виберіть спосіб",
+      "description": "Якщо автоматичний метод не працює для вас, спробуйте зробити це вручну за допомогою іншої інструкції. Якщо вам все ще потрібна допомога, будь ласка, відвідайте наш <link>Discord</link>.",
+      "description-android": "Якщо перший спосіб не працює, спробуйте інший. Якщо вам все ще потрібна допомога, відвідайте наш <link>Discord</link>."
     },
-
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Недійсна URL-адреса історії скликань.",
+      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "title": "Спочатку запустіть Wuthering Waves і відкрийте вашу історію скликань в грі",
+        "description": "Після цього, відкрийте Windows PowerShell, та вставте наступний скрипт.",
+        "History URL Script": "Скрипт URL історії",
+        "Click the copy button on the right": "Натисніть кнопку Копіювати праворуч",
+        "note": "Примітка: Цей скрипт не редагує ваші файли, він лише витягує URL із вашого журналу. Ви можете <link>переглянути скрипт тут</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Вставте URL сюди",
+        "Your Convene History URL": "Ваша URL-адреса історії скликань"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Натисніть кнопку \"Імпортувати історію\" на цьому вебсайті"
       },
-      "Import History": "Import History"
+      "Import History": "Імпортувати історію"
     },
-
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "invalid-url": "Недійсна URL-адреса історії скликань.",
+      "import-success": "URL-адреса історії скликання успішно імпортована!",
+      "found-url": "Ми знайшли URL! Натисніть кнопку \"Імпортувати історію\", щоб продовжити.",
+      "not-found-url": "У файлі журналу не знайдено дійсної URL-адреси.",
+      "Click to upload": "Натисніть для завантаження",
+      "or drag and drop": "або перетягніть файл",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "Спочатку запустіть Wuthering Waves і відкрийте вашу історію скликань в грі"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "Перейти до каталогу встановлення",
+        "description": "Клацніть правою кнопкою миші на ярлику вашої гри Wuthering Waves і виберіть <code>Відкрити розташування файлу</code>. Ви побачите файл <code>launcher.exe</code> і багато файлів з розширенням <code>.dll</code>."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "Шукайте файл <code>debug.log</code> у Провіднику файлів і завантажте його тут"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Натисніть кнопку \"Імпортувати історію\" на цьому вебсайті"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC.",
-      "Import History": "Import History"
+      "Video Tutorial": "Відеоурок",
+      "PC Import Tutorial Video": "Відеоурок по імпорту з ПК",
+      "video-tutorial-desc": "Слідуйте за покроковим відеоуроком на YouTube від <highlight>cacaowithwater</highlight> з нашого <link>Discord-сервера</link>, щоб імпортувати ваші дані на ПК.",
+      "Import History": "Імпортувати історію"
     },
-
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "Недійсний шлях до гри",
+      "invalid-url": "Недійсна URL-адреса історії скликань",
+      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "title": "Скопіюйте ваш каталог встановлення",
+        "description": "Знайдіть теку, яка містить <code>Wuthering Waves.exe</code> і <code>Client</code> теку.",
+        "Your installation directory": "Ваш каталог встановлення",
+        "warning": "Попередження: Якщо ви редагували файл <code>Engine.ini</code>, щоб вимкнути журнали, вам потрібно знову їх увімкнути перед відкриттям історії Convene, інакше скрипт не працюватиме."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "Запустіть Wuthering Waves і відкрийте вашу історію скликань в грі",
+        "description": "Після цього, відкрийте Windows PowerShell, та вставте наступний скрипт.",
+        "invalid-directory": "Спочатку введіть правильний каталог встановлення!",
+        "Stuck? Click the “Need Help?” button": "Застряг? Натисніть кнопку \"Потрібна допомога?\"",
+        "note": "Примітка: Цей скрипт не редагує ваші файли, він лише витягує URL із вашого журналу. Ви можете <link>переглянути скрипт тут</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Вставте URL сюди",
+        "Your Convene History URL": "Ваша URL-адреса історії скликань"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Натисніть кнопку \"Імпортувати історію\" на цьому вебсайті"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!",
-      "Import History": "Import History"
+      "Video Tutorial": "Відеоурок",
+      "PC Import Tutorial Video": "Відеоурок по імпорту з ПК",
+      "video-tutorial-desc": "Дотримуйтесь цього покрокового навчального посібника YouTube для імпортування Ваших даних з ПК. Будь ласка, приєднуйтесь до нашої <link>Discord Server</link>, щоб попросити будь-яку допомогу!",
+      "Import History": "Імпортувати історію"
     },
-
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "Невірні дані JSON - переконайтеся, що скопіювали крапки з комою",
+      "invalid-url": "Недійсна URL-адреса історії скликань",
+      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "title": "Дотримуйтесь нашої відеоінструкції",
+        "description": "Подібно до отримання історії в Genshin Impact або Honkai Star Rail, слідуйте <video>цьому відеоуроку від Chario</video>, щоб завантажити та використовувати <app>Stream - Network Debug Tool</app>.",
+        "Video Tutorial": "Відеоурок",
+        "iOS Import Tutorial Video": "Відеоурок по імпорту з IOos",
+        "video-tutorial-desc": "Слідуйте за покроковим відеоуроком на YouTube від <highlight>Chario</highlight> з нашого <link>Discord-сервера</link>, щоб імпортувати ваші дані на ПК."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Вставте JSON сюди"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Натисніть кнопку \"Імпортувати історію\" на цьому вебсайті"
       },
-      "Import History": "Import History"
+      "Import History": "Імпортувати історію"
     },
-
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Недійсна URL-адреса історії скликань",
+      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Використовуйте Termux для отримання URL-адреси історії скликань",
+        "description": "Подібно до отримання історії в Genshin Impact або Honkai Star Rail, слідуйте <video>цьому посібнику від Mirai0009</video>, щоб завантажити та використовувати <app>Ascent v2.1.6</app> для отримання вашої URL.",
+        "note": "Цей метод підтримує тільки версії Android 11 і вище.",
+        "troubleshooting": "Якщо це не працює належним чином, перевірте розділ <link>виправлення неполадок</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Вставте URL сюди",
+        "Your Convene History URL": "Ваша URL-адреса історії скликань"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " Натисніть кнопку \"Імпортувати історію\" на цьому вебсайті"
       },
-      "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009.",
-      "Import History": "Import History"
+      "Video Tutorial": "Відеоурок",
+      "Android Ascent Import Tutorial Video": "Відеоурок з імпорту Ascent для Android",
+      "video-tutorial-desc": "Спочатку уважно прочитайте <guide>цей текстовий посібник</guide>, а потім перегляньте <video>відео на YouTube</video>, щоб імпортувати дані на Android. Усі заслуги належать Mirai0009.",
+      "Import History": "Імпортувати історію"
     },
-
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Недійсна URL-адреса історії скликань",
+      "import-success": "URL-адреса історії успішно імпортована!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Використовуйте Termux для отримання URL-адреси історії скликань",
+        "description": "Подібно до отримання історії в Genshin Impact або Honkai Star Rail, слідуйте <guide> цьому посібнику від eqdamini </guide>, щоб завантажити та використовувати <app>Termux</app> для отримання вашої URL-адреси."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Вставте URL сюди",
+        "Your Convene History URL": "Ваша URL-адреса історії скликань"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Натисніть кнопку \"Імпортувати історію\" на цьому вебсайті"
       },
-      "Import History": "Import History"
+      "Import History": "Імпортувати історію"
     },
-
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Недійсна URL-адреса історії скликань",
+      "import-success": "URL-адреса історії успішно імпортована!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "title": "Дотримуйтесь нашої відеоінструкції",
+        "description": "Перегляньте <link>цей відеоурок від yukio36</link> після відкриття додатка Wuthering Waves.",
+        "Video Tutorial": "Відеоурок",
+        "Android Airplane Mode Import Tutorial Video": "Відеоурок з імпорту для Android у режимі \"Політ\"",
+        "video-tutorial-desc": "Слідуйте за покроковим відеоуроком на YouTube від <highlight>yukio36</highlight> з нашого <link>Discord-сервера</link>, щоб імпортувати ваші дані на Android без необхідності завантаження чого-небудь.",
+        "note": "Примітка: Це може не працювати для кожного пристрою, тому спробуйте інші методи, якщо він не працює."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Вставте URL сюди",
+        "Your Convene History URL": "Ваша URL-адреса історії скликань"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Натисніть кнопку \"Імпортувати історію\" на цьому вебсайті"
       },
-      "Import History": "Import History"
+      "Import History": "Імпортувати історію"
     }
   },
-
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
-
+    "title": "Налаштування",
+    "Google Account": "Обліковий запис Google",
+    "Browser Data": "Дані з браузера",
+    "Report an Issue": "Повідомити про проблему",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "sign-out-success": "Успішний вихід з системи.",
+      "login-to-sync": "Ви повинні увійти в систему, перш ніж мати можливість синхронізувати дані.",
+      "import-to-sync": "Спочатку імпортуйте ваші дані, щоб розпочати синхронізацію!",
+      "data-is-in-sync": "Дані синхронізовані з вашим обліковим записом Google.",
+      "is-synced": "Дані синхронізовані",
+      "is-not-synced": "Дані НЕ синхронізовані",
+      "Cloud Backup": "Хмарне резервне копіювання",
+      "description": "\nЗберігайте свої дані за допомогою облікового запису Google та отримуйте доступ до них на будь-якому пристрої. Після входу в систему просто натисніть кнопку \"Синхронізувати дані\", щоб завантажити або завантажити дані на ваш пристрій.",
+      "Guest": "Гість",
+      "Sign In to Google": "Увійти в обліковий запис Google",
+      "Log Out": "Вийти",
+      "Sync Data": "Синхронізувати дані",
+      "Google Data": "Дані з Google",
+      "Browser Data": "Дані з браузера",
+      "browser-data-different": "Дані вашого локального браузера відрізняються від даних облікового запису Google.",
+      "browser-data-different-confirmation": "Ваші локальні дані з ID гравця ({localId}) конфліктують з ID вашого гравця Google (${googleId}). Бажаєте зберегти локальні дані вашого браузера чи натомість використовувати дані вашого облікового запису Google?"
     },
-
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "Ви успішно вийшли з системи.",
+      "Sign out": "Вийти",
+      "Sign In to Google": "Увійти до облікового запису Google"
     },
-
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "require-url-before-downloading": "Перед завантаженням вам необхідно мати дійсну URL-адресу Історії Скликань.",
+      "download-failed": "Не вдалося почати завантаження.",
+      "download-starting": "Незабаром розпочнеться ваше завантаження.",
+      "invalid-url": "Будь ласка, введіть коректну URL-адресу історії скликань.",
+      "import-success": "URL-адреса історії успішно імпортована!",
+      "delete-local-success": "Локальні дані історії видалено.",
+      "Convene History Data": "Дані Історії Скликань",
+      "Import Tutorial": "Довідник по імпорту",
+      "Go to Import Tutorial": "Перейти до Довідника по імпорту",
+      "description": "Вивантажте або змініть URL-адресу власної історії скликань тут.",
+      "Your Convene History URL": "Ваша URL-адреса історії скликань",
+      "Download Your History": "Завантажити вашу історію",
+      "Delete Browser Saved Data": "Видалити збережені дані браузера",
+      "Delete your local data": "Видалити ваші місцеві дані",
+      "Save": "Зберегти"
     },
-
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "Конфіденційність",
+      "description": "Керуйте дозволами Wuwa Tracker щодо обробки ваших даних."
     },
-
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "Надіслати дані витягувань для загальної статистики"
     }
   },
-
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "title": "Хронологія",
+    "heading": "Хронологія подій",
+    "description": "Переглядайте події Wuthering Waves у вашому локальному часовому поясі або в іншому <link>Server Times</link>.",
+    "github-update-message": "Оновлено {time} користувачем {author}.",
+    "Edit this page on GitHub": "Редагувати цю сторінку на GitHub",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "Таймери за розкладом сервера",
+      "description": "Порівняйте свій місцевий час з ігровими серверами Wuthers, щоб спланувати ваші наступні пригоди."
     }
   }
 }
