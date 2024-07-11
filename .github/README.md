@@ -31,6 +31,7 @@
   <a href="https://github.com/Luzefiru/wuwatracker/deployments/Production">
     <img src="https://img.shields.io/github/deployments/luzefiru/wuwatracker/production?label=vercel&logo=vercel&logoColor=white" alt="deployment status" style="height: 20px;">
   </a>
+  <img src="https://badges.crowdin.net/wuwatracker/localized.svg" alt="translation progress" style="height: 20px;"/>
 </h5>
 
 <img width="1080" src="./img/README-banner.png" />
@@ -49,24 +50,26 @@ We are looking for translators to help us support more languages. Please read th
 
 #### Languages We Support
 
-| Filename   | Country       | Language Name       | ISO Code |
-| ---------- | ------------- | ------------------- | -------- |
-| br.json    | Brazil        | Portuguese          | pt       |
-| de.json    | Germany       | German              | de       |
-| en.json    | United States | English             | en       |
-| es.json    | Spain         | Spanish             | es       |
-| fr.json    | France        | French              | fr       |
-| id.json    | Indonesia     | Indonesian          | id       |
-| in.json    | India         | Hindi               | hi       |
-| ja.json    | Japan         | Japanese            | ja       |
-| ko.json    | South Korea   | Korean              | ko       |
-| ms.json    | Malaysia      | Malay               | ms       |
-| ru.json    | Russia        | Russian             | ru       |
-| th.json    | Thailand      | Thai                | th       |
-| ua.json    | Ukraine       | Ukrainian           | ua       |
-| vi.json    | Vietnam       | Vietnamese          | vi       |
-| zh_CN.json | China         | Simplified Chinese  | zh_CN    |
-| zh_TW.json | China         | Traditional Chinese | zh_TW    |
+| Filename   | Country         | Language Name       | ISO Code |
+| ---------- | --------------- | ------------------- | -------- |
+| de.json    | Germany         | German              | de       |
+| en.json    | United States   | English             | en       |
+| es.json    | Spain           | Spanish             | es       |
+| fr.json    | France          | French              | fr       |
+| id.json    | Indonesia       | Indonesian          | id       |
+| in.json    | India           | Hindi               | hi       |
+| ja.json    | Japan           | Japanese            | ja       |
+| ko.json    | South Korea     | Korean              | ko       |
+| ms.json    | Malaysia        | Malay               | ms       |
+| pt.json    | Portugal/Brazil | Portuguese          | pt       |
+| ru.json    | Russia          | Russian             | ru       |
+| th.json    | Thailand        | Thai                | th       |
+| uk.json    | Ukraine         | Ukrainian           | uk       |
+| vi.json    | Vietnam         | Vietnamese          | vi       |
+| zh_CN.json | China           | Simplified Chinese  | zh_CN    |
+| zh_TW.json | China           | Traditional Chinese | zh_TW    |
+
+[![Crowdin](https://badges.crowdin.net/wuwatracker/localized.svg)](https://crowdin.com)
 
 ### Beta Tester Program
 
