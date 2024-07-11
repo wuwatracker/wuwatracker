@@ -99,64 +99,64 @@
 
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Synchronize your data across devices and share your pulls with your friends and track your account easily!"
+      "title": "वूवा ट्रैकर",
+      "description": "वथेरिंग वेव्स के लिए एक पिटी काउंटर, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपने डिवाइसों के बीच अपने डेटा को सिंक्रनाइज़ करें, अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को आसानी से ट्रैक करें!"
     },
     "Achievements": {
-      "title": "Achievements - Wuwa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "उपलब्धियां - Wuwa Tracker",
+      "description": "अपनी वथेरिंग वेव्स उपलब्धियों को ट्रैक करें और अपने डेटा को विभिन्न डिवाइसों पर आज़ादी से आयात और निर्यात करें! Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को ट्रैक करें!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - Wuwa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent convnes. Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "खींचाई इतिहास - Wuwa Tracker",
+        "description": "वथेरिंग वेव्स में अपडेटेड खींचाई सांख्यिकियों और हाल की खींचाई देखें। अपने दोस्तों के सामने दिखाने के लिए स्क्रीनशॉट-तैयार डैशबोर्ड का उपयोग करें! Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को ट्रैक करें!"
       },
       "Global": {
-        "title": "Global Statistics - Wuwa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "ग्लोबल सांख्यिकी - Wuwa Tracker",
+        "description": "{currentBanner} बैनर के लिए ग्लोबल खींचाई सांख्यिकियाँ देखें, जिसमें {currentFeaturedResonator} शामिल हैं! अपने दोस्तों के सामने दिखाने के लिए स्क्रीनशॉट-तैयार डैशबोर्ड का उपयोग करें! Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को ट्रैक करें!"
       },
       "Share": {
-        "title": "Share History - Wuwa Tracker",
-        "description": "Create a convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "इतिहास साझा करें - Wuwa Tracker",
+        "description": "अपने खींचाई इतिहास के साथ एक खींचाई इतिहास कार्ड बनाएं और इसे अपने दोस्तों के साथ साझा करें! Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को ट्रैक करें!"
       }
     },
     "Error": {
-      "title": "An Error Occured",
-      "description": "An error occured while using Wuwa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "एक त्रुटि हुई है",
+      "description": "Wuwa ट्रैकर का उपयोग करते समय एक त्रुटि हुई है। कृपया हमारे Discord सर्वर पर रिपोर्ट भेजें ताकि हम इसे शीघ्र ही ठीक कर सकें।"
     },
     "Import": {
-      "title": "Import Convene History - Wuwa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "खींचाई इतिहास आयात करें - Wuwa Tracker",
+      "description": "Wuthering Waves डेटा दिखाने और अपनी सांख्यिकियों को देखने के लिए हमारे इंटरैक्टिव ट्यूटोरियल का पालन करें। हम PC, Android और iOS डिवाइस से स्वचालित तरीकों से आयात समर्थन करते हैं। Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को ट्रैक करें!"
     },
     "Not Found": {
-      "title": "Not Found",
-      "description": "This page is not found on Wuwa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "title": "यह पृष्ठ नहीं मिला",
+      "description": "यह पृष्ठ Wuwa ट्रैकर पर नहीं मिला। कृपया मुख्य पृष्ठ पर वापस जाएं और अपने Wuthering Waves खींचाई इतिहास डेटा को ट्रैक करना शुरू करें।"
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - Wuwa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by Wuwa Tracker and how it is used. Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "गोपनीयता नीति - Wuwa Tracker",
+      "description": "यह गोपनीयता नीति दस्तावेज़ विविध प्रकार की व्यक्तिगत जानकारी को स्वीकृत करती है, जो Wuwa ट्रैकर द्वारा प्राप्त और जुटाई जाती है। Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है।"
     },
     "Sequences": {
-      "title": "Sequences - Wuwa Tracker",
-      "description": "Count and showcase your duplicate Resonators and Weapons and see information related to them. You can showcase them to your friends!"
+      "title": "अनुक्रम - Wuwa Tracker",
+      "description": "अपने डुप्लिकेट रेज़ोनेटर्स और वेर्डन्स की गिनती और प्रदर्शित करें और उनके संबंधित जानकारी देखें। आप इन्हें अपने दोस्तों को दिखा सकते हैं!"
     },
     "Settings": {
-      "title": "Settings - Wuwa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "सेटिंग्स - Wuwa Tracker",
+      "description": "Google पर साइन इन करके अपने डेटा को सिंक्रनाइज़ करें। अपनी Wuthering Waves खींचाई डेटा को एक ही जगह पर प्रबंधित करें। Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को ट्रैक करें!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - Wuwa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of Wuwa Tracker's website and services."
+      "title": "नियम और शर्तें - Wuwa Tracker",
+      "description": "ये नियम और शर्तें Wuwa ट्रैकर की वेबसाइट और सेवाओं के उपयोग के नियम और विधियों को स्पष्ट करते हैं।"
     },
     "Timeline": {
-      "title": "Event Timeline - Wuwa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "इवेंट टाइमलाइन - Wuwa Tracker",
+      "description": "अपने स्थानीय समय क्षेत्र या किसी भी वथेरिंग वेव्स सर्वर के समय क्षेत्र का उपयोग करके आप हर बैनर की अनुसूची, गेम की घटनाओं, एडवर्सिटी टॉवर और इल्युज़िव रीअल्म की अवधियों को एक ही जगह में देख सकते हैं। Wuwa Tracker वथेरिंग वेव्स के लिए एक पिटी काउंटर है, जो ग्लोबल सांख्यिकी और अधिक से अप-टू-डेट डेटा का उपयोग करता है। अपनी खींचाई को अपने दोस्तों के साथ साझा करें और अपने खाते को ट्रैक करें!"
     }
   },
 
   "Layout": {
     "LocaleSwitcher": {
-      "label": "Change Language"
+      "label": "अनुवाद में सहायता करें"
     }
   },
 

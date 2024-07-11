@@ -100,63 +100,63 @@
   "Metadata": {
     "Generic": {
       "title": "Wuwa Tracker",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Synchronize your data across devices and share your pulls with your friends and track your account easily!"
+      "description": "Лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Синхронізуйте дані на всіх пристроях, діліться своїми результатами з друзями та легко ведіть облік свого облікового запису!"
     },
     "Achievements": {
-      "title": "Achievements - Wuwa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Досягнення - Wuwa Tracker",
+      "description": "Відстежуйте свої досягнення в Wuthering Waves, вільно імпортуйте та експортуйте дані між пристроями! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - Wuwa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent convnes. Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Історія зборів - Wuwa Tracker",
+        "description": "Переглядайте оновлену статистику вибору в Wuthering Waves та недавні зібрання. Використовуйте готові до скріншотів панелі для показу своїм друзям! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
       },
       "Global": {
-        "title": "Global Statistics - Wuwa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Глобальна статистика - Wuwa Tracker",
+        "description": "Переглядайте глобальну статистику вибору для банера {currentBanner} з особливістю {currentFeaturedResonator}! Використовуйте готові до скріншотів панелі для показу своїм друзям! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
       },
       "Share": {
-        "title": "Share History - Wuwa Tracker",
-        "description": "Create a convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Історія спільного використання - Wuwa Tracker",
+        "description": "Створіть картку історії зборів для показу вашої історії вибору друзям! Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
       }
     },
     "Error": {
-      "title": "An Error Occured",
-      "description": "An error occured while using Wuwa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Сталася помилка",
+      "description": "Під час використання Wuwa Tracker сталася помилка. Будь ласка, надішліть звіт на наш сервер Discord, щоб ми могли якомога швидше виправити проблему."
     },
     "Import": {
-      "title": "Import Convene History - Wuwa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Імпорт історії зборів - Wuwa Tracker",
+      "description": "Слідуйте за нашим інтерактивним посібником, щоб відобразити дані Wuthering Waves та переглянути вашу статистику. Ми підтримуємо імпорт з ПК, Android та iOS з автоматичними методами. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
     },
     "Not Found": {
-      "title": "Not Found",
-      "description": "This page is not found on Wuwa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "title": "Сторінку не знайдено",
+      "description": "Ця сторінка не знайдена на Wuwa Tracker. Будь ласка, поверніться на головну сторінку для початку ведення обліку історії зборів Wuthering Waves."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - Wuwa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by Wuwa Tracker and how it is used. Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "Політика конфіденційності - Wuwa Tracker",
+      "description": "Цей документ про політику конфіденційності описує типи особистої інформації, яку отримує та збирає Wuwa Tracker, і як вона використовується. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого."
     },
     "Sequences": {
-      "title": "Sequences - Wuwa Tracker",
-      "description": "Count and showcase your duplicate Resonators and Weapons and see information related to them. You can showcase them to your friends!"
+      "title": "Послідовності - Wuwa Tracker",
+      "description": "Рахуйте і показуйте ваші дубльовані резонатори та зброю та переглядайте пов'язану інформацію. Ви можете показати їх своїм друзям!"
     },
     "Settings": {
-      "title": "Settings - Wuwa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Налаштування - Wuwa Tracker",
+      "description": "Синхронізуйте свої дані через Google, увійшовши в систему. Керуйте вашими даними з вибору Wuthering Waves в одному місці. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - Wuwa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of Wuwa Tracker's website and services."
+      "title": "Умови використання - Wuwa Tracker",
+      "description": "Ці умови та положення описують правила та регламенти використання веб-сайту та послуг Wuwa Tracker."
     },
     "Timeline": {
-      "title": "Event Timeline - Wuwa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Хронологія подій - Wuwa Tracker",
+      "description": "Використовуйте ваш часовий пояс або будь-який часовий пояс сервера Wuthering Waves, щоб переглядати розклад кожного банера, ігрові події, Вежу Адверситі та Глибини Мантикори - все в одному місці. Wuwa Tracker - це лічильник жалю для Wuthering Waves, що використовує актуальні дані з глобальною статистикою та багато іншого. Діліться своїми результатами з друзями та ведіть облік свого облікового запису!"
     }
   },
 
   "Layout": {
     "LocaleSwitcher": {
-      "label": "Change Language"
+      "label": "Допомогти у перекладі"
     }
   },
 

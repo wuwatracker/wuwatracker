@@ -100,63 +100,63 @@
   "Metadata": {
     "Generic": {
       "title": "Wuwa Tracker",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Synchronize your data across devices and share your pulls with your friends and track your account easily!"
+      "description": "Sebuah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Segerakan data anda di semua peranti dan kongsi tarikan anda dengan rakan-rakan serta lacak akaun anda dengan mudah!"
     },
     "Achievements": {
-      "title": "Achievements - Wuwa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Pencapaian - Wuwa Tracker",
+      "description": "Jejak pencapaian Gelombang Wuthering anda dan import & eksport data anda secara bebas di semua peranti! Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Kongsi tarikan anda dengan rakan-rakan dan lacak akaun anda!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - Wuwa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent convnes. Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Sejarah Perhimpunan - Wuwa Tracker",
+        "description": "Lihat statistik tarikan Gelombang Wuthering yang dikemaskini dan perhimpunan terkini anda. Gunakan papan pemuka siap cetak untuk membanggakan kepada rakan-rakan! Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Kongsi tarikan anda dengan rakan-rakan dan lacak akaun anda!"
       },
       "Global": {
-        "title": "Global Statistics - Wuwa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Statistik Global - Wuwa Tracker",
+        "description": "Lihat statistik tarikan global untuk banner {currentBanner}, menampilkan {currentFeaturedResonator}! Gunakan papan pemuka siap cetak untuk membanggakan kepada rakan-rakan! Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Kongsi tarikan anda dengan rakan-rakan dan lacak akaun anda!"
       },
       "Share": {
-        "title": "Share History - Wuwa Tracker",
-        "description": "Create a convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Kongsi Sejarah - Wuwa Tracker",
+        "description": "Cipta kad sejarah perhimpunan dengan sejarah tarikan anda untuk kongsi dengan rakan-rakan! Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Kongsi tarikan anda dengan rakan-rakan dan lacak akaun anda!"
       }
     },
     "Error": {
-      "title": "An Error Occured",
-      "description": "An error occured while using Wuwa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Ralat Berlaku - Wuwa Tracker",
+      "description": "Sebuah ralat berlaku semasa menggunakan Wuwa Tracker. Sila hantar laporan ke server Discord kami untuk kami segera menanganinya."
     },
     "Import": {
-      "title": "Import Convene History - Wuwa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Import Sejarah Perhimpunan - Wuwa Tracker",
+      "description": "Ikuti tutorial interaktif kami untuk paparkan data Gelombang Wuthering dan lihat statistik anda. Kami menyokong import dari PC, peranti Android, dan iOS dengan kaedah automatik. Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Kongsi tarikan anda dengan rakan-rakan dan lacak akaun anda!"
     },
     "Not Found": {
-      "title": "Not Found",
-      "description": "This page is not found on Wuwa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "title": "Tidak Dijumpai",
+      "description": "Halaman ini tidak dijumpai di Wuwa Tracker. Sila kembali ke halaman utama untuk mulakan melacak data Sejarah Perhimpunan Gelombang Wuthering anda."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - Wuwa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by Wuwa Tracker and how it is used. Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "Dasar Privasi - Wuwa Tracker",
+      "description": "Dokumen dasar privasi ini menerangkan jenis maklumat peribadi yang diterima dan dikumpulkan oleh Wuwa Tracker serta bagaimana ia digunakan. Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain."
     },
     "Sequences": {
-      "title": "Sequences - Wuwa Tracker",
-      "description": "Count and showcase your duplicate Resonators and Weapons and see information related to them. You can showcase them to your friends!"
+      "title": "Rantaian - Wuwa Tracker",
+      "description": "Kira dan tunjukkan Resonator dan Senjata berganda anda serta lihat maklumat berkaitan. Anda boleh mempamerkannya kepada rakan-rakan!"
     },
     "Settings": {
-      "title": "Settings - Wuwa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Tetapan - Wuwa Tracker",
+      "description": "Segerakan data anda melalui Google dengan log masuk. Urus data tarikan Wuthering Waves anda di satu tempat. Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Kongsi tarikan anda dengan rakan-rakan dan lacak akaun anda!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - Wuwa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of Wuwa Tracker's website and services."
+      "title": "Syarat & Peraturan - Wuwa Tracker",
+      "description": "Syarat dan peraturan ini menghuraikan peraturan dan peraturan untuk penggunaan laman web dan perkhidmatan Wuwa Tracker."
     },
     "Timeline": {
-      "title": "Event Timeline - Wuwa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Jadual Acara - Wuwa Tracker",
+      "description": "Gunakan zon masa tempatan atau mana-mana zon masa pelayan Gelombang Wuthering untuk melihat jadual setiap bendera, acara dalam permainan, Tower of Adversity & Depths of Illusive Realm - semua dalam satu tempat. Wuwa Tracker adalah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Kongsi tarikan anda dengan rakan-rakan dan lacak akaun anda!"
     }
   },
 
   "Layout": {
     "LocaleSwitcher": {
-      "label": "Change Language"
+      "label": "Bantu Terjemahkan"
     }
   },
 

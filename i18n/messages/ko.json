@@ -99,64 +99,64 @@
 
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Synchronize your data across devices and share your pulls with your friends and track your account easily!"
+      "title": "Wuwa 트래커",
+      "description": "최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 모든 기기간 데이터 동기화 및 친구들과 추첨 결과를 공유하고 계정을 쉽게 추적할 수 있습니다!"
     },
     "Achievements": {
-      "title": "Achievements - Wuwa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "성취 - Wuwa 트래커",
+      "description": "유더링 웨이브의 성취를 추적하고 모든 기기에서 자유롭게 데이터를 가져오고 내보낼 수 있습니다! 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 추첨 결과를 친구들과 공유하고 계정을 추적합니다!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - Wuwa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent convnes. Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "모임 기록 - Wuwa 트래커",
+        "description": "업데이트된 유더링 웨이브 추첨 통계 및 최근 모임을 확인할 수 있습니다. 친구들에게 자랑할 수 있는 스크린샷 준비 대시보드를 사용하세요! 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 추첨 결과를 친구들과 공유하고 계정을 추적합니다!"
       },
       "Global": {
-        "title": "Global Statistics - Wuwa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "전 세계 통계 - Wuwa 트래커",
+        "description": "{currentBanner} 배너의 전 세계 추첨 통계를 특징으로 합니다. 친구들에게 자랑할 수 있는 스크린샷 준비 대시보드를 사용하세요! 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 추첨 결과를 친구들과 공유하고 계정을 추적합니다!"
       },
       "Share": {
-        "title": "Share History - Wuwa Tracker",
-        "description": "Create a convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "기록 공유 - Wuwa 트래커",
+        "description": "추첨 기록을 공유할 수 있는 모임 기록 카드를 생성하세요! 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 추첨 결과를 친구들과 공유하고 계정을 추적합니다!"
       }
     },
     "Error": {
-      "title": "An Error Occured",
-      "description": "An error occured while using Wuwa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "오류 발생 - Wuwa Tracker",
+      "description": "Wuwa Tracker를 사용하는 동안 오류가 발생했습니다. 문제를 신속히 해결하기 위해 Discord 서버로 보고서를 보내 주세요."
     },
     "Import": {
-      "title": "Import Convene History - Wuwa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "모임 기록 가져오기 - Wuwa Tracker",
+      "description": "유더링 웨이브 데이터를 표시하고 통계를 볼 대화형 자습서를 따라 주세요. PC, Android 및 iOS 기기에서 자동 방법으로 가져올 수 있습니다. 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 추첨 결과를 친구들과 공유하고 계정을 추적합니다!"
     },
     "Not Found": {
-      "title": "Not Found",
-      "description": "This page is not found on Wuwa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "title": "페이지를 찾을 수 없음 - Wuwa Tracker",
+      "description": "이 페이지는 Wuwa Tracker에서 찾을 수 없습니다. 유더링 웨이브 모임 기록 데이터 추적을 시작하려면 메인 페이지로 돌아가세요."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - Wuwa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by Wuwa Tracker and how it is used. Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "개인정보 보호 정책 - Wuwa Tracker",
+      "description": "이 개인정보 보호 정책 문서는 Wuwa Tracker가 수신하고 수집하는 개인 정보 유형 및 그 사용 방법을 설명합니다. 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다."
     },
     "Sequences": {
-      "title": "Sequences - Wuwa Tracker",
-      "description": "Count and showcase your duplicate Resonators and Weapons and see information related to them. You can showcase them to your friends!"
+      "title": "시퀀스 - Wuwa Tracker",
+      "description": "중복된 레조네이터 및 무기를 계산하고 쇼케이스하여 관련 정보를 확인할 수 있습니다. 친구들에게 자랑하세요!"
     },
     "Settings": {
-      "title": "Settings - Wuwa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "설정 - Wuwa Tracker",
+      "description": "Google을 통해 데이터를 동기화하십시오. Wuthering Waves의 추첨 데이터를 한 곳에서 관리하세요. 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 추첨 결과를 친구들과 공유하고 계정을 추적합니다!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - Wuwa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of Wuwa Tracker's website and services."
+      "title": "이용 약관 - Wuwa Tracker",
+      "description": "이 이용 약관은 Wuwa Tracker 웹 사이트 및 서비스 사용에 대한 규칙과 규정을 명확히 합니다."
     },
     "Timeline": {
-      "title": "Event Timeline - Wuwa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "이벤트 타임라인 - Wuwa Tracker",
+      "description": "지역 시간대 또는 유더링 웨이브 서버 시간대를 사용하여 모든 배너 일정, 게임 이벤트, Adversity Tower 및 Depths of Illusive Realm 기간을 한 곳에서 볼 수 있습니다. 최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 추첨 결과를 친구들과 공유하고 계정을 추적합니다!"
     }
   },
 
   "Layout": {
     "LocaleSwitcher": {
-      "label": "Change Language"
+      "label": "번역 도움말"
     }
   },
 

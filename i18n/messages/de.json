@@ -100,63 +100,63 @@
   "Metadata": {
     "Generic": {
       "title": "Wuwa Tracker",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Synchronize your data across devices and share your pulls with your friends and track your account easily!"
+      "description": "Ein Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Synchronisieren Sie Ihre Daten über Geräte hinweg, teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto einfach!"
     },
     "Achievements": {
-      "title": "Achievements - Wuwa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Erfolge - Wuwa Tracker",
+      "description": "Verfolgen Sie Ihre Wuthering Waves-Erfolge und importieren und exportieren Sie Ihre Daten frei über Geräte hinweg! Wuwa Tracker ist ein Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - Wuwa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent convnes. Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Ziehungsverlauf - Wuwa Tracker",
+        "description": "Sehen Sie sich Ihre aktuellen Ziehungsstatistiken und kürzlichen Ziehungen in Wuthering Waves an. Verwenden Sie screenshot-fähige Dashboards, um sich vor Ihren Freunden zu rühmen! Wuwa Tracker Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto!"
       },
       "Global": {
-        "title": "Global Statistics - Wuwa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Globale Statistiken - Wuwa Tracker",
+        "description": "Sehen Sie sich globale Ziehungsstatistiken für das {currentBanner}-Banner an, mit {currentFeaturedResonator}! Verwenden Sie screenshot-fähige Dashboards, um sich vor Ihren Freunden zu rühmen! Wuwa Tracker Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto!"
       },
       "Share": {
-        "title": "Share History - Wuwa Tracker",
-        "description": "Create a convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Verlauf teilen - Wuwa Tracker",
+        "description": "Erstellen Sie eine Ziehungshistorie-Karte mit Ihrem Ziehungsverlauf, um sie mit Ihren Freunden zu teilen! Wuwa Tracker Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto!"
       }
     },
     "Error": {
-      "title": "An Error Occured",
-      "description": "An error occured while using Wuwa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Ein Fehler ist aufgetreten",
+      "description": "Ein Fehler ist bei der Nutzung von Wuwa Tracker aufgetreten. Bitte senden Sie einen Bericht an unseren Discord-Server, damit wir ihn umgehend beheben können."
     },
     "Import": {
-      "title": "Import Convene History - Wuwa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Ziehungsverlauf importieren - Wuwa Tracker",
+      "description": "Folgen Sie unserem interaktiven Tutorial, um Ihre Wuthering Waves-Daten anzuzeigen und Ihre Statistiken zu sehen. Wir unterstützen Importe von PC-, Android- und iOS-Geräten mit automatischen Methoden. Wuwa Tracker Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto!"
     },
     "Not Found": {
-      "title": "Not Found",
-      "description": "This page is not found on Wuwa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "title": "Nicht gefunden",
+      "description": "Diese Seite wurde auf Wuwa Tracker nicht gefunden. Bitte gehen Sie zurück zur Hauptseite, um Ihren Wuthering Waves-Ziehungsverlauf zu verfolgen."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - Wuwa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by Wuwa Tracker and how it is used. Wuwa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "Datenschutzerklärung - Wuwa Tracker",
+      "description": "Dieses Dokument zur Datenschutzerklärung beschreibt die Arten von persönlichen Informationen, die von Wuwa Tracker empfangen und gesammelt werden, und wie sie verwendet werden. Wuwa Tracker ist ein Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet."
     },
     "Sequences": {
-      "title": "Sequences - Wuwa Tracker",
-      "description": "Count and showcase your duplicate Resonators and Weapons and see information related to them. You can showcase them to your friends!"
+      "title": "Sequenzen - Wuwa Tracker",
+      "description": "Zählen und zeigen Sie Ihre doppelten Resonatoren und Waffen und sehen Sie Informationen zu ihnen. Sie können sie Ihren Freunden zeigen!"
     },
     "Settings": {
-      "title": "Settings - Wuwa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Einstellungen - Wuwa Tracker",
+      "description": "Synchronisieren Sie Ihre Daten über Google, indem Sie sich anmelden. Verwalten Sie Ihre Wuthering Waves-Ziehungsdaten an einem Ort. Wuwa Tracker Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - Wuwa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of Wuwa Tracker's website and services."
+      "title": "Nutzungsbedingungen - Wuwa Tracker",
+      "description": "Diese Nutzungsbedingungen umreißen die Regeln und Vorschriften für die Nutzung der Website und der Dienste von Wuwa Tracker."
     },
     "Timeline": {
-      "title": "Event Timeline - Wuwa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Ereignis-Timeline - Wuwa Tracker",
+      "description": "Unter Verwendung Ihrer lokalen Zeitzone oder einer beliebigen Wuthering Waves-Serverzeitzone können Sie jeden Banner-Zeitplan, Spielereignisse, Turm der Widrigkeiten und Tiefen des Illusionsreichs-Zeiträume - alles an einem Ort - anzeigen. Wuwa Tracker Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto!"
     }
   },
 
   "Layout": {
     "LocaleSwitcher": {
-      "label": "Change Language"
+      "label": "Übersetzungshilfe"
     }
   },
 
