@@ -1,28 +1,28 @@
 {
   "Items": {
-    "Aalto": "Aalto",
-    "Baizhi": "Baizhi",
-    "Calcharo": "Calcharo",
-    "Changli": "Changli",
-    "Chixia": "Chixia",
-    "Danjin": "Danjin",
-    "Encore": "Encore",
-    "Jianxin": "Jianxin",
-    "Jinhsi": "Jinhsi",
-    "Jiyan": "Jiyan",
-    "Lingyang": "Lingyang",
-    "Mortefi": "Mortefi",
-    "Sanhua": "Sanhua",
-    "Taoqi": "Taoqi",
-    "Verina": "Verina",
-    "Yangyang": "Yangyang",
-    "Yinlin": "Yinlin",
-    "Yuanwu": "Yuanwu",
+    "Aalto": "Аалто",
+    "Baizhi": "Байчжи",
+    "Calcharo": "Кальчаро",
+    "Changli": "Чан Ли",
+    "Chixia": "Чиксия",
+    "Danjin": "Даньцзинь",
+    "Encore": "Энкор",
+    "Jianxin": "Цзяньсинь",
+    "Jinhsi": "Дзиньси",
+    "Jiyan": "Дзиянь",
+    "Lingyang": "Линь Ян",
+    "Mortefi": "Мортефи",
+    "Sanhua": "Саньхуа",
+    "Taoqi": "Тао Си",
+    "Verina": "Верина",
+    "Yangyang": "Йен Ен",
+    "Yinlin": "Инь Линь",
+    "Yuanwu": "Ян Ву",
 
-    "Abyss Surges": "Abyss Surges",
-    "Ages of Harvest": "Ages of Harvest",
-    "Amity Accord": "Amity Accord",
-    "Autumntrace": "Autumntrace",
+    "Abyss Surges": "Всплески Бездны(Бездна)",
+    "Ages of Harvest": "Эпохи сбора урожая",
+    "Amity Accord": "Дружеское согласие",
+    "Autumntrace": "Осенняя тропа",
     "Beguiling Melody": "Beguiling Melody",
     "Blazing Brilliance": "Blazing Brilliance",
     "Broadblade of Night": "Broadblade of Night",
@@ -77,18 +77,18 @@
   },
 
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
+    "Featured Resonator": "Ивентовый Резонатор",
+    "Featured Weapon": "Ивентовое оружие",
+    "Permanent Resonator": "Постоянный Резонатор",
+    "Permanent Weapon": "Постоянное оружие",
+    "Beginner Convene": "Баннер новичка",
+    "Beginner's Choice": "Выбор новичка",
+    "Selector Ticket": "Билетный баннер",
 
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
+    "Beginner Selector": "Выбор новичка",
     "Convene Giveback Event": "Absolute Pulsation",
 
     "Absolute Pulsation": "Absolute Pulsation",
@@ -100,24 +100,24 @@
   "Metadata": {
     "Generic": {
       "title": "Wuwa Tracker",
-      "description": "Счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Синхронизируйте свои данные между устройствами, делитесь своими достижениями с друзьями и легко отслеживайте свой аккаунт!"
+      "description": "Счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Синхронизируйте свои данные между устройствами, делитесь своими достижениями с друзьями и легко следите за прогрессом своего аккаунта!"
     },
     "Achievements": {
       "title": "Достижения - Wuwa Tracker",
-      "description": "Отслеживайте свои достижения в Wuthering Waves, свободно импортируйте и экспортируйте данные между устройствами! Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте свой аккаунт!"
+      "description": "Отслеживайте свои достижения в Wuthering Waves, а также свободно импортируйте и экспортируйте данные между устройствами! Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и следите за прогрессом своего аккаунта!"
     },
     "Convene": {
       "Index": {
-        "title": "История собраний - Wuwa Tracker",
-        "description": "Просматривайте обновленную статистику выпадения в Wuthering Waves и недавние сборы. Используйте готовые для скриншотов панели для хвастовства перед друзьями! Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте свой аккаунт!"
+        "title": "История круток - Wuwa Tracker",
+        "description": "Просматривайте обновленную статистику выпадения в Wuthering Waves и недавние крутки. Используйте панели с возможностью загрузки пользовательских изображений, чтобы покрасоваться перед друзьями! Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
       },
       "Global": {
         "title": "Глобальная статистика - Wuwa Tracker",
-        "description": "Просматривайте глобальную статистику выпадения для баннера {currentBanner}, с особенностью {currentFeaturedResonator}! Используйте готовые для скриншотов панели для хвастовства перед друзьями! Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте свой аккаунт!"
+        "description": "Просматривайте глобальную статистику выпадений для баннера {currentBanner}, с особенностью {currentFeaturedResonator}! Используйте панели с возможностью загрузки пользовательских изображений, чтобы покрасоваться перед друзьями! Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
       },
       "Share": {
-        "title": "История совместного использования - Wuwa Tracker",
-        "description": "Создайте карту истории сборов, чтобы поделиться своей историей выпадений с друзьями! Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте свой аккаунт!"
+        "title": "Поделиться  - Wuwa Tracker",
+        "description": "Создайте персональную карточку, чтобы поделиться своей историей выпадений с друзьями! Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
       }
     },
     "Error": {
@@ -125,24 +125,24 @@
       "description": "Произошла ошибка при использовании Wuwa Tracker. Пожалуйста, отправьте отчет на наш сервер Discord, чтобы мы могли быстро исправить проблему."
     },
     "Import": {
-      "title": "Импорт истории собраний - Wuwa Tracker",
-      "description": "Следуйте нашему интерактивному руководству, чтобы отобразить данные Wuthering Waves и просмотреть свою статистику. Мы поддерживаем импорт данных с ПК, устройств Android и iOS с автоматическими методами. Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте свой аккаунт!"
+      "title": "Импорт круток - Wuwa Tracker",
+      "description": "Следуйте нашему интерактивному руководству, чтобы отобразить свою подробную историю круток в Wuthering Waves и просмотреть статистику. Мы поддерживаем импорт данных с ПК, устройств Android и iOS при помощи автоматических и ручных методов. Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
     },
     "Not Found": {
       "title": "Страница не найдена",
-      "description": "Эта страница не найдена на Wuwa Tracker. Пожалуйста, вернитесь на главную страницу, чтобы начать отслеживание данных истории собраний Wuthering Waves."
+      "description": "Эта страница не найдена на Wuwa Tracker. Пожалуйста, вернитесь на главную страницу, чтобы начать отслеживание данных истории круток в Wuthering Waves."
     },
     "Privacy Policy": {
       "title": "Политика конфиденциальности - Wuwa Tracker",
-      "description": "Этот документ о политике конфиденциальности описывает типы личной информации, которые получает и собирает Wuwa Tracker, а также способы их использования. Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое."
+      "description": "Этот документ о политике конфиденциальности описывает типы личной информации, которые получает и собирает Wuwa Tracker, а также способы их использования. Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое."
     },
     "Sequences": {
       "title": "Последовательности - Wuwa Tracker",
-      "description": "Подсчитывайте и демонстрируйте ваши повторяющиеся резонаторы и оружие, а также просматривайте связанную информацию. Вы можете показать их своим друзьям!"
+      "description": "Подсчитывайте и демонстрируйте прогресс Последовательностей ваших Резонаторов и Оружия, а также просматривайте связанную с этим информацию. Вы можете показать их своим друзьям!"
     },
     "Settings": {
       "title": "Настройки - Wuwa Tracker",
-      "description": "Синхронизируйте свои данные через Google, войдя в систему. Управляйте своими данными о выпадениях в Wuthering Waves в одном месте. Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте свой аккаунт!"
+      "description": "Синхронизируйте свои данные через Google, войдя в систему. Управляйте своими данными о выпадениях в Wuthering Waves в одном месте. Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
     },
     "Terms & Conditions": {
       "title": "Условия использования - Wuwa Tracker",
@@ -150,7 +150,7 @@
     },
     "Timeline": {
       "title": "Хронология событий - Wuwa Tracker",
-      "description": "Используйте ваш часовой пояс или любой часовой пояс сервера Wuthering Waves, чтобы просматривать расписание каждого баннера, игровых событий, башни Adversity и Depths of Illusive Realm - все в одном месте. Wuwa Tracker - это счетчик сожалений для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте свой аккаунт!"
+      "description": "При помощи данной функции, вы можете просматривать расписание каждого баннера, ивента, Башни Невзгод и Используйте ваш часовой пояс или любой часовой пояс сервера Wuthering Waves, чтобы просматривать расписание каждого баннера, игровых событий, Башни Невзгод и Глубин Царства Иллюзий - все в одном месте. Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
     }
   },
 
@@ -176,92 +176,92 @@
     },
     "Tutorial": {
       "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "Import History": "Import History",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "description": "Добро пожаловать, Скиталец. Давайте начнём?",
+      "Import History": "Импортировать историю круток",
+      "View Pull History": "Просмотреть историю круток",
+      "Sync Your Data": "Синхронизировать свои данные",
+      "Your data will now sync automatically!": "Теперь ваши данные синхронизируются автоматически!"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "Изменения",
+      "description": "Здесь описаны последние изменения на сайте."
     },
     "Community": {
-      "title": "Community"
+      "title": "Сообщество"
     }
   },
 
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "Достижения",
+    "description": "Благодарность <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> за предоставленную информацию.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "Данные успешно импортированы.",
+        "import-invalid": "Пожалуйста, предоставьте правильные данные.",
+        "parse-fail": "Не удалось получить файл JSON.",
+        "download-fail": "Ошибка при скачивании.",
+        "download-start": "Ваша загрузка скоро начнётся."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "Используйте фильтры, чтобы выяснить, какие достижения вы ещё не получили.",
+      "Completed": "Получено",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "Импортировать данные",
+        "description": "Используйте ранее сохранённую информацию, чтобы синхронизировать её с вашим браузером."
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Hidden": "Скрыто",
+      "Click to upload": "Нажмите для загрузки",
+      "or drag and drop": "Или перетащите",
+      "Import": "Импорт",
+      "Export as JSON": "Сохранено в JSON",
+      "Need Tips?": "Нужны подсказки?"
     }
   },
 
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "История круток",
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "Глобальная статистика"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "Категории круток"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "Недавние",
+      "and": "и",
+      "Convenes": "Крутки",
+      "no-filters": "Фильтры не выбраны.",
+      "no-records": "Записей не найдено."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
-      "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Pull History": "История круток",
+      "Pull Num": "Крутка №.",
+      "Item": "Получено",
+      "Pity": "Крутка",
+      "Date Received": "Дата и время получения",
+      "no-records": "Записей не найдено."
     },
     "UserBannerStats": {
-      "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Total": "Всего",
+      "Astrites": "Астрита",
+      "Pulls": "Круток"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "Удача",
+      "no-luck": "У этого баннера нет показателя \"Удача\".",
+      "no-records": "Записей не найдено.",
+      "calibrating": "Калибровка...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Средний гарант",
+          "formula": "Каков ваш средний {qualityLevel}-звёздочный гарант?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Частота выпадения",
+          "formula": "Каков процент выпадения {qualityLevel}-звёздочного от общего числа круток?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "50/50 Побед",
+          "formula": "Каков ваш процент выигрыша круток 50/50?"
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
@@ -270,25 +270,25 @@
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
+      "title": "Глобальная статистика",
+      "Switch Banner": "Сменить баннер",
+      "Banner List": "Список баннеров",
+      "Pulls Per Day": "Круток в день",
       "Pulls By Pity": "Pulls By Pity",
       "Pulls By Name": "Pulls By Name",
       "Pulls": "Pulls"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "title": "Поделиться",
+      "description": "Настройте для себя, а затем скачайте историю своих круток в Wuthering Waves для возможности поделиться с друзьями!",
+      "Customize": "Настроить",
+      "Edit Share Card": "Настроить карточку",
+      "edit-description": "При внесении изменений карточка будет меняться у вас на экране.",
+      "Select Banner": "Выбрать баннер",
+      "Background": "Задний фон",
+      "Foreground": "Передний фон",
+      "recommendation": "Рекомендуются квадратные изображения с разрешением 2048x2048.",
+      "Download": "Скачать"
     }
   },
 
@@ -311,10 +311,10 @@
     },
 
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalid круток History URL.",
+      "import-success": "Successfully imported круток History URL!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
+        "title": "First, launch Wuthering Waves and Open Your In-game круток History",
         "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
         "History URL Script": "History URL Script",
         "Click the copy button on the right": "Click the copy button on the right",
@@ -322,7 +322,7 @@
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "Your круток History URL"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -331,14 +331,14 @@
     },
 
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalid круток History URL.",
+      "import-success": "Successfully imported круток History URL!",
       "found-url": "We found a URL! Click the Import History button to proceed.",
       "not-found-url": "No valid URL found in the log file.",
       "Click to upload": "Click to upload",
       "or drag and drop": "or drag and drop",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "First, launch Wuthering Waves and Open Your In-game круток History"
       },
       "2": {
         "title": "Go to Your Installation Directory",
@@ -358,16 +358,16 @@
 
     "PC3Tutorial": {
       "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalid круток History URL",
+      "import-success": "Successfully imported круток History URL!",
       "1": {
         "title": "Copy Your Installation Directory",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
         "Your installation directory": "Your installation directory",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your круток history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
+        "title": "Launch Wuthering Waves on PC and Open Your In-game круток History",
         "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
         "invalid-directory": "Input a valid installation directory first!",
         "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
@@ -375,7 +375,7 @@
       },
       "3": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "Your круток History URL"
       },
       "4": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -388,8 +388,8 @@
 
     "IOSTutorial": {
       "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalid круток History URL",
+      "import-success": "Successfully imported круток History URL!",
       "1": {
         "title": "Follow our Video Tutorial",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
@@ -407,17 +407,17 @@
     },
 
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalid круток History URL",
+      "import-success": "Successfully imported круток History URL!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
+        "title": "Use Ascent To Get круток History URL",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
         "note": "This method only supports Android versions 11 and above.",
         "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "Your круток History URL"
       },
       "3": {
         "title": " Press the \"Import History\" Button on this Website"
@@ -429,15 +429,15 @@
     },
 
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalid круток History URL",
+      "import-success": "Successfully imported круток History URL!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
+        "title": "Use Termux To Get круток History URL",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "Your круток History URL"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -446,8 +446,8 @@
     },
 
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalid круток History URL",
+      "import-success": "Successfully imported круток History URL!",
       "1": {
         "title": "Follow our Video Tutorial",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
@@ -458,7 +458,7 @@
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "Your круток History URL"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -499,17 +499,17 @@
     },
 
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
+      "require-url-before-downloading": "You need a valid круток History URL before downloading.",
       "download-failed": "Failed to start download.",
       "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
+      "invalid-url": "Please input a valid круток History URL.",
+      "import-success": "Successfully imported круток History URL locally!",
       "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
+      "Convene History Data": "круток History Data",
       "Import Tutorial": "Import Tutorial",
       "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
+      "description": "Export or change your круток History URL here.",
+      "Your Convene History URL": "Your круток History URL",
       "Download Your History": "Download Your History",
       "Delete Browser Saved Data": "Delete Browser Saved Data",
       "Delete your local data": "Delete your local data",
