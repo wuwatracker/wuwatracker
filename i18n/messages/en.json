@@ -97,6 +97,10 @@
     "Thawborn Renewal": "Thawborn Renewal"
   },
 
+  "Common": {
+    "Import History": "Import History"
+  },
+
   "Metadata": {
     "Generic": {
       "title": "Wuwa Tracker",
@@ -177,7 +181,6 @@
     "Tutorial": {
       "title": "Get Started",
       "description": "Welcome, Rover. Let's get you started, shall we?",
-      "Import History": "Import History",
       "View Pull History": "View Pull History",
       "Sync Your Data": "Sync Your Data",
       "Your data will now sync automatically!": "Your data will now sync automatically!"
@@ -326,8 +329,7 @@
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
-      },
-      "Import History": "Import History"
+      }
     },
 
     "PC2Tutorial": {
@@ -352,8 +354,7 @@
       },
       "Video Tutorial": "Video Tutorial",
       "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC.",
-      "Import History": "Import History"
+      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
     },
 
     "PC3Tutorial": {
@@ -382,8 +383,7 @@
       },
       "Video Tutorial": "Video Tutorial",
       "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!",
-      "Import History": "Import History"
+      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
     },
 
     "IOSTutorial": {
@@ -402,8 +402,7 @@
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
-      },
-      "Import History": "Import History"
+      }
     },
 
     "Android1Tutorial": {
@@ -424,8 +423,7 @@
       },
       "Video Tutorial": "Video Tutorial",
       "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009.",
-      "Import History": "Import History"
+      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
     },
 
     "Android2Tutorial": {
@@ -441,8 +439,7 @@
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
-      },
-      "Import History": "Import History"
+      }
     },
 
     "Android3Tutorial": {
@@ -462,8 +459,7 @@
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
-      },
-      "Import History": "Import History"
+      }
     }
   },
 
