@@ -82,15 +82,15 @@
     "Beginner Convene": "Bannière du débutant",
     "Beginner's Choice": "Choix du débutant",
     "Selector Ticket": "Ticket sélecteur",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Absolute Pulsation",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "Tidal Chorus": "Chorale des vagues",
+    "Winter Brume Banner": "Bannière de la brume d'hiver",
+    "Utterance of Marvels": "Une voix fraiche",
+    "Beginner Selector": "Invocation au choix du débutant",
+    "Convene Giveback Event": "Pulsation tranchante",
+    "Absolute Pulsation": "Pulsation tranchante",
+    "Prevail the Lasting Night": "Une nuit blanche",
+    "When Thunder Pours": "Sous la pluie effrayante",
+    "Thawborn Renewal": "Le rêve du printemps"
   },
   "Common": {
     "Import History": "Importer l'historique"
@@ -160,11 +160,11 @@
     "title": "Tableau de bord",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "invocations",
-        "pity": "pity",
-        "events": "événements",
-        "statistics": "statistiques",
-        "data": "donnée",
+        "pulls": "vos invocations",
+        "pity": "votre pity",
+        "events": "les événements",
+        "statistics": "vos statistiques",
+        "data": "vos données",
         "updates": "mises à jour"
       },
       "title": "Wuwa tracker vous aide à suivre",
@@ -187,7 +187,7 @@
   },
   "Achievements": {
     "title": "Trophées",
-    "description": "Crédits à <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> pour les données initiales.",
+    "description": "Merci à <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> pour les données.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Importation des données réussie.",
@@ -257,8 +257,8 @@
           "formula": "Quel pourcentage de 50/50 avez-vous gagné ?"
         },
         "RateUpWins4": {
-          "title": "4 étoiles gagnées",
-          "formula": "Quel est votre chance d'obtenir un 4 étoile qui est sur la bannière ?"
+          "title": "En vedette",
+          "formula": "Quel est votre chance d'obtenir un résonateur 4 étoiles qui est sur la bannière ?"
         }
       }
     },
@@ -494,7 +494,7 @@
       "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "Partager vos données pour les statistiques"
     }
   },
   "Timeline": {
