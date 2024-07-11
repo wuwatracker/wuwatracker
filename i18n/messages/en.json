@@ -109,7 +109,7 @@
     "Convene": {
       "Index": {
         "title": "Convene History - Wuwa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent convnes. Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
         "title": "Global Statistics - Wuwa Tracker",
@@ -117,7 +117,7 @@
       },
       "Share": {
         "title": "Share History - Wuwa Tracker",
-        "description": "Create a convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Create a Convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Error": {
@@ -364,7 +364,7 @@
         "title": "Copy Your Installation Directory",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
         "Your installation directory": "Your installation directory",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your Convene history, otherwise the script won't work."
       },
       "2": {
         "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
