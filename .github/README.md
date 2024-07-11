@@ -63,7 +63,7 @@ We are looking for translators to help us support more languages. Please read th
 | ms.json    | Malaysia      | Malay               | ms       |
 | ru.json    | Russia        | Russian             | ru       |
 | th.json    | Thailand      | Thai                | th       |
-| uk.json    | Ukraine       | Ukrainian           | uk       |
+| ua.json    | Ukraine       | Ukrainian           | ua       |
 | vi.json    | Vietnam       | Vietnamese          | vi       |
 | zh_CN.json | China         | Simplified Chinese  | zh_CN    |
 | zh_TW.json | China         | Traditional Chinese | zh_TW    |
