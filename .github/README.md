@@ -43,6 +43,31 @@ We'd love your help in improving the website with features, bug reports, and pat
 
 This repository acts as our "shared public folder" which you can edit to make changes reflect on the website. If you feel like any data is inaccurate, please [fork the repository](https://github.com/Luzefiru/wuwatracker/fork) and create a [pull request](https://github.com/Luzefiru/wuwatracker/compare) once you're done. We'll merge it as soon as we can.
 
+### Localization
+
+We are looking for translators to help us support more languages. Please read the [i18n README.md file](https://github.com/Luzefiru/wuwatracker/tree/main/i18n) to get started.
+
+#### Languages We Support
+
+| Filename   | Country       | Language Name       | ISO Code |
+| ---------- | ------------- | ------------------- | -------- |
+| br.json    | Brazil        | Portuguese          | pt       |
+| de.json    | Germany       | German              | de       |
+| en.json    | United States | English             | en       |
+| es.json    | Spain         | Spanish             | es       |
+| fr.json    | France        | French              | fr       |
+| id.json    | Indonesia     | Indonesian          | id       |
+| in.json    | India         | Hindi               | hi       |
+| ja.json    | Japan         | Japanese            | ja       |
+| ko.json    | South Korea   | Korean              | ko       |
+| ms.json    | Malaysia      | Malay               | ms       |
+| ru.json    | Russia        | Russian             | ru       |
+| th.json    | Thailand      | Thai                | th       |
+| uk.json    | Ukraine       | Ukrainian           | uk       |
+| vi.json    | Vietnam       | Vietnamese          | vi       |
+| zh_CN.json | China         | Simplified Chinese  | zh_CN    |
+| zh_TW.json | China         | Traditional Chinese | zh_TW    |
+
 ### Beta Tester Program
 
 If you're interested in testing new features or having access to the beta server, head over to our [Discord Server](https://discord.gg/mADnEXwZGT) and read the pinned messages in the `#staff-application` text channel.

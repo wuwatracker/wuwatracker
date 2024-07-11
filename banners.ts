@@ -47,7 +47,7 @@ export const bannerMetadata: BannerMetadata[] = [
   },
   {
     cardPoolType: 3,
-    title: 'Permanent Character',
+    title: 'Permanent Resonator',
     description: 'Tidal Chorus',
     featuredName: 'Encore',
     pullCost: 160,
@@ -60,7 +60,7 @@ export const bannerMetadata: BannerMetadata[] = [
   },
   {
     cardPoolType: 4,
-    title: 'Weapon Permanent',
+    title: 'Permanent Weapon',
     description: 'Winter Brume Banner',
     featuredName: 'Lustrous Razor',
     pullCost: 160,
