@@ -1,8 +1,8 @@
 ## Localization
 
-[![Crowdin](https://badges.crowdin.net/wuwatracker/localized.svg)](https://crowdin.com)
+<img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat&logo=Crowdin&logoColor=white" alt="translation provider" style="height: 20px;"/>
 
-We need more translators to help us translate the rest of the pages.
+We need more translators to help us translate the rest of the pages in Crowdin.
 
 > [!NOTE]
 > These initial langauges are based on the top countries that use our application as of the time of writing this.
@@ -30,41 +30,11 @@ We need more translators to help us translate the rest of the pages.
 
 ### We Need Your Help!
 
-If you want to translate for your language or make any corrections, please join our [Discord Server](https://discord.gg/mADnEXwZGT) and apply in the `#staff-application` text channel or fork this repository before making a [Pull Request here](https://github.com/Luzefiru/wuwatracker/compare).
+We're managing translations with [Crowdin](https://crowdin.com/) so that our translators can easily edit & make comments on translations!
 
-#### Recommended Workflow
+For the best translation experience, please join our [Discord Server](https://discord.gg/mADnEXwZGT) and apply in the `#staff-application` text channel.
 
-I recommend you use a text-editor like [Visual Studio Code](https://code.visualstudio.com/download) to help you select multiple values at the same time. For example highlighting text and pressing `CTRL+D` will select the next occurence, or `CTRL+SHIFT+L` will select all occurences which you can edit at the same time.
-
-Next, you [fork this repository](https://github.com/Luzefiru/wuwatracker/fork) and open the `lang.json` file you want to edit with VSCode.
-
-Afterwards, the actual editing flow looks like this:
-
-1. You'll have the original English translations laid out like this with the "key" on the left corresponding to the "translation value" on the right:
-
-```json
-"SharePageContent": {
-  "title": "Share Card",
-  "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-  "Edit Share Card": "Edit Share Card",
-  "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-  "Download": "Download"
-}
-```
-
-2. So, if I were to translate this to another language, I'll simply substitute the "translation values" on the right while keeping the "keys" intact:
-
-```json
-"SharePageContent": {
-  "title": "Ibahagi ang Card",
-  "description": "I-customize at i-download ang iyong kasaysayan ng Convene sa Wuthering Waves upang maibahagi ito sa iba!",
-  "Edit Share Card": "I-edit ang Ibahaging Card",
-  "recommendation": "Inirerekumenda namin ang 1:1 na aspect ratio para sa mga larawan sa 2048x2048 na resolution.",
-  "Download": "I-download"
-}
-```
-
-3. Once you're done, save the file and proceed to [open Pull Request here](https://github.com/Luzefiru/wuwatracker/compare)!
+Otherwise, you can directly fork this GitHub repository and make a [Pull Request here](https://github.com/Luzefiru/wuwatracker/compare) to make changes. Once approved, it will sync with our Crowding translations.
 
 ### Have Questions?
 
