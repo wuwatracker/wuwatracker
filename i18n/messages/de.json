@@ -479,7 +479,7 @@
       "invalid-url": "Please input a valid Convene History URL.",
       "import-success": "Successfully imported Convene History URL locally!",
       "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
+      "Convene History Data": "Ziehung-Verlauf Daten",
       "Import Tutorial": "Import Tutorial",
       "Go to Import Tutorial": "Gehe zum Import Tutorial",
       "description": "Exportiere oder ändere deine verlauf URL hier.",
@@ -491,16 +491,16 @@
     },
     "SettingGlobalStats": {
       "title": "Privatsphäre",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "description": "Verwalte WuWa Trackers Berechtigungen, wenn es um den Umgang deiner Daten geht."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "Gebe deine Pull Daten ab für globale Statistiken"
     }
   },
   "Timeline": {
     "title": "Zeitleiste",
     "heading": "Event Zeitleiste",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
+    "description": "Betrachte Wuthering Waves Events in deiner lokalen Zeitzone oder in anderen <link> Zeiten </link>.",
     "github-update-message": "Aktualisiert am {time} von {author}.",
     "Edit this page on GitHub": "Bearbeite diese Seite auf GitHub",
     "ResetTimers": {
