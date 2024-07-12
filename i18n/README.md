@@ -1,6 +1,8 @@
 ## Localization
 
-<img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat&logo=Crowdin&logoColor=white" alt="translation provider" style="height: 20px;"/>
+<a href="https://discord.gg/mADnEXwZGT">
+  <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat&logo=Crowdin&logoColor=white" alt="translation provider" style="height: 20px;"/>
+</a>
 
 We need more translators to help us translate the rest of the pages in Crowdin.
 
@@ -23,10 +25,10 @@ We need more translators to help us translate the rest of the pages in Crowdin.
 | pt.json    | Portugal/Brazil | Portuguese          | pt       |
 | ru.json    | Russia          | Russian             | ru       |
 | th.json    | Thailand        | Thai                | th       |
-| uk.json    | Ukraine         | Ukrainian           | uk       |
+| ua.json    | Ukraine         | Ukrainian           | uk_UA    |
 | vi.json    | Vietnam         | Vietnamese          | vi       |
-| zh_CN.json | China           | Simplified Chinese  | zh_CN    |
-| zh_TW.json | China           | Traditional Chinese | zh_TW    |
+| zh-CN.json | China           | Simplified Chinese  | zh_CN    |
+| zh-TW.json | China           | Traditional Chinese | zh_TW    |
 
 ### We Need Your Help!
 
@@ -34,7 +36,7 @@ We're managing translations with [Crowdin](https://crowdin.com/) so that our tra
 
 For the best translation experience, please join our [Discord Server](https://discord.gg/mADnEXwZGT) and apply in the `#staff-application` text channel.
 
-Otherwise, you can directly fork this GitHub repository and make a [Pull Request here](https://github.com/Luzefiru/wuwatracker/compare) to make changes. Once approved, it will sync with our Crowding translations.
+Otherwise, you can directly fork this GitHub repository and make a [Pull Request here](https://github.com/Luzefiru/wuwatracker/compare) to make changes. Once approved, it will sync with our Crowdin translations.
 
 ### Have Questions?
 

@@ -64,12 +64,14 @@ We are looking for translators to help us support more languages. Please read th
 | pt.json    | Portugal/Brazil | Portuguese          | pt       |
 | ru.json    | Russia          | Russian             | ru       |
 | th.json    | Thailand        | Thai                | th       |
-| uk.json    | Ukraine         | Ukrainian           | uk       |
+| ua.json    | Ukraine         | Ukrainian           | uk_UA    |
 | vi.json    | Vietnam         | Vietnamese          | vi       |
-| zh_CN.json | China           | Simplified Chinese  | zh_CN    |
-| zh_TW.json | China           | Traditional Chinese | zh_TW    |
+| zh-CN.json | China           | Simplified Chinese  | zh_CN    |
+| zh-TW.json | China           | Traditional Chinese | zh_TW    |
 
-[![Crowdin](https://badges.crowdin.net/wuwatracker/localized.svg)](https://crowdin.com)
+<a href="https://discord.gg/mADnEXwZGT">
+  <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat&logo=Crowdin&logoColor=white" alt="translation provider" style="height: 40px;"/>
+</a>
 
 ### Beta Tester Program
 
