@@ -268,18 +268,18 @@
       "Banner List": "Banner List",
       "Pulls Per Day": "Pulls Per Day",
       "Pulls By Pity": "Pulls bei Pity",
-      "Pulls By Name": "Pulls By Name",
+      "Pulls By Name": "Pulls bei Name",
       "Pulls": "Pulls"
     },
     "SharePageContent": {
       "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
+      "description": "Individualisiere und lade deinen Wuthering Waves Verlauf herunter und teile ihn mit anderen!",
+      "Customize": "Individualisieren",
       "Edit Share Card": "Edit Share Card",
       "edit-description": "Your card updates in real time as you make changes.",
       "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
+      "Background": "Hintergrund",
+      "Foreground": "Vordergrund",
       "recommendation": "Wir empfehlen ein 1:1 Verhältnis für Bilder bei einer 2048x2048 Auflösung.",
       "Download": "Herunterladen"
     }
@@ -350,7 +350,7 @@
       "1": {
         "title": "Copy Your Installation Directory",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "Your installation directory": "Dein Installationspfad",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
@@ -458,12 +458,12 @@
       "is-not-synced": "Data is NOT synced",
       "Cloud Backup": "Cloud Backup",
       "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
+      "Guest": "Gast",
+      "Sign In to Google": "Anmelden mit Google",
+      "Log Out": "abmelden",
+      "Sync Data": "Synchronisiere Daten",
+      "Google Data": "Googledaten",
+      "Browser Data": "Browser-Daten",
       "browser-data-different": "Your local browser data is different from your Google Account data.",
       "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
     },
@@ -481,16 +481,16 @@
       "delete-local-success": "Deleted local history data.",
       "Convene History Data": "Convene History Data",
       "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "Go to Import Tutorial": "Gehe zum Import Tutorial",
+      "description": "Exportiere oder ändere deine verlauf URL hier.",
+      "Your Convene History URL": "Deine verlauf URL",
+      "Download Your History": "Lade deinen Verlauf herunter",
+      "Delete Browser Saved Data": "Lösche deine gespeicherten Browser-Daten",
+      "Delete your local data": "Lösche deine lokalen Daten",
+      "Save": "Speichern"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
+      "title": "Privatsphäre",
       "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
@@ -498,14 +498,14 @@
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
+    "title": "Zeitleiste",
+    "heading": "Event Zeitleiste",
     "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "github-update-message": "Aktualisiert am {time} von {author}.",
+    "Edit this page on GitHub": "Bearbeite diese Seite auf GitHub",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "Täglicher Server Reset Timer",
+      "description": "Vergleiche deine Lokale Zeit mit den Wuthering Waves Spiel Servern um dein nächstes Abenteuer zu planen."
     }
   }
 }
