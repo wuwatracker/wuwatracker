@@ -10,14 +10,14 @@
     "Jianxin": "Цзяньсинь",
     "Jinhsi": "Дзиньси",
     "Jiyan": "Дзиянь",
-    "Lingyang": "Линь Ян",
+    "Lingyang": "Лин Ян",
     "Mortefi": "Мортефи",
     "Sanhua": "Саньхуа",
     "Taoqi": "Тао Си",
     "Verina": "Верина",
-    "Yangyang": "Йен Ен",
+    "Yangyang": "Янъян",
     "Yinlin": "Инь Линь",
-    "Yuanwu": "Ян Ву",
+    "Yuanwu": "Юаньву",
     "Abyss Surges": "Всплески Бездны(Бездна)",
     "Ages of Harvest": "Эпохи сбора урожая",
     "Amity Accord": "Дружеское согласие",
@@ -93,11 +93,11 @@
     "Thawborn Renewal": "Thawborn Renewal"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "Импорт истории"
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
+      "title": "WuWa Tracker",
       "description": "Счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Синхронизируйте свои данные между устройствами, делитесь своими достижениями с друзьями и легко следите за прогрессом своего аккаунта!"
     },
     "Achievements": {
@@ -160,21 +160,21 @@
     "title": "Dashboard",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
-        "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "pulls": "крутки",
+        "pity": "гарант",
+        "events": "события",
+        "statistics": "статистика",
+        "data": "данные",
+        "updates": "обновления"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "WuWa Tracker позволяет вам отслеживать",
+      "description": "Счётчик круток для Wuthering Waves, использующий актуальную информацию, с глобальной статистикой и не только. Мы стремимся предоставить лучшие инструменты для того, чтобы вы могли поделиться своим прогрессом с друзьями."
     },
     "Tutorial": {
-      "title": "Get Started",
+      "title": "Подготовка",
       "description": "Добро пожаловать, Скиталец. Давайте начнём?",
-      "View Pull History": "Просмотреть историю круток",
-      "Sync Your Data": "Синхронизировать свои данные",
+      "View Pull History": "Посмотреть историю",
+      "Sync Your Data": "Синхронизировать",
       "Your data will now sync automatically!": "Теперь ваши данные синхронизируются автоматически!"
     },
     "Changelogs": {
