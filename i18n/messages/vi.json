@@ -93,7 +93,7 @@
     "Thawborn Renewal": "Thawborn Renewal"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "Nhập Lịch sử Triệu hồi"
   },
   "Metadata": {
     "Generic": {
@@ -160,97 +160,97 @@
     "title": "Dashboard",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
+        "pulls": "lượt rút",
         "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "events": "sự kiện",
+        "statistics": "thống kê",
+        "data": "dữ liệu",
+        "updates": "cập nhật"
       },
       "title": "Wuwa Tracker helps you track",
       "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "Bắt Đầu",
+      "description": "Chào mừng, Rover. Chúng ta nên bắt đầu thôi, nha?",
+      "View Pull History": "Xem lịch sử triệu hồi",
+      "Sync Your Data": "Đồng Bộ Dữ Liệu của Bạn",
+      "Your data will now sync automatically!": "Dữ liệu sẽ được đồng bộ hóa tự động!"
     },
     "Changelogs": {
       "title": "Changelogs",
-      "description": "View website announcements here."
+      "description": "Xem thông báo ở đây."
     },
     "Community": {
-      "title": "Community"
+      "title": "Cộng đồng"
     }
   },
   "Achievements": {
-    "title": "Achievements",
+    "title": "Thành tựu",
     "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
+        "import-success": "Nhập dữ liệu thành công.",
+        "import-invalid": "Nhập dữ liệu thành công.",
         "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "download-fail": "Tải xuống thất bại.",
+        "download-start": "Quá trình tải xuống sẽ bắt đầu ngay thôi."
       },
       "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "Completed": "Hoàn tất",
       "ImportDialog": {
-        "title": "Import Data",
+        "title": "Nhập dữ liệu",
         "description": "Use your previously exported data and sync it with your browser."
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Hidden": "Ẩn",
+      "Click to upload": "Bấm để tải lên",
+      "or drag and drop": "hoặc kéo và thả",
+      "Import": "Nhập",
+      "Export as JSON": "Xuất file dưới dạng JSON",
+      "Need Tips?": "Cần mẹo hong?"
     }
   },
   "Convene": {
     "title": "Convene Tracker",
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "Thống kê toàn cầu"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "Mục Triệu Hồi"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "Gần đây",
+      "and": "và",
+      "Convenes": "Triệu hồi",
+      "no-filters": "Không có bộ lọc nào được chọn.",
+      "no-records": "Không có dữ liệu được tìm thấy."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
+      "Pull History": "Lịch sử Triệu hồi",
+      "Pull Num": "Lượt rút thứ",
+      "Item": "Vật phẩm",
       "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Date Received": "Ngày nhận",
+      "no-records": "Không có dữ liệu được tìm thấy."
     },
     "UserBannerStats": {
-      "Total": "Total",
+      "Total": "Tổng lượt",
       "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Pulls": "Lượt rút"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "Độ may mắn",
+      "no-luck": "Banner này không có số liệu thống kê may mắn.",
+      "no-records": "Không có dữ liệu được tìm thấy.",
+      "calibrating": "Đang điều chỉnh...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Pity trung bình",
+          "formula": "Pity {qualityLevel}-star trung bình của bạn là bao nhiêu?"
         },
         "PullRatio": {
           "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "formula": "Bao nhiêu % lượt roll của bạn là {qualityLevel}-stars?"
         },
         "RateUpWins": {
           "title": "50/50 Wins",
@@ -258,38 +258,38 @@
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "formula": "Bạn có hay roll được nhân vật được tăng tỉ lệ không?"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "title": "Thống Kê Toàn Cầ",
+      "Switch Banner": "Đổi Banner",
+      "Banner List": "Danh sách Banner",
+      "Pulls Per Day": "Lượt rút theo ngày",
+      "Pulls By Pity": "Lượt rút theo pity",
+      "Pulls By Name": "Lượt rút theo tên",
+      "Pulls": "Lượt rút"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "title": "Chia sẻ",
+      "description": "Tùy chỉnh và tải xuống Lịch sử Triệu hồi của bạn để chia sẻ với mọi người nhé!",
+      "Customize": "Tùy chỉnh",
+      "Edit Share Card": "Chỉnh sửa thẻ",
+      "edit-description": "Thẻ của bạn cập nhật ngay khi bạn thực hiện thay đổi.",
+      "Select Banner": "Chọn Banner",
+      "Background": "Hình nền",
+      "Foreground": "Hình nhân vật",
+      "recommendation": "Bạn nên dùng tỷ lệ khung hình 1:1 cho hình ảnh ở độ phân giải 2048x2048.",
+      "Download": "Tải xuống"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "Hướng Dẫn Nhập",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "Automatic": "Tự động",
+      "Manual": "Thủ công"
     },
     "Android": {
       "title": "Android",
@@ -297,88 +297,88 @@
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "Chọn phương pháp",
+      "description": "Nếu phương pháp tự động không hoạt động, hãy thử thực hiện thủ công theo hướng dẫn. Nếu bạn vẫn cần sự trợ giúp, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi.",
+      "description-android": "Nếu cách đầu tiên không hoạt động, hãy thử những cách còn lại, Nếu bạn vẫn cần sự trợ giúp, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History trong trò chơi",
+        "description": "Sau đó, mở Windows PowerShell, và dán đoạn script sau vào.",
+        "History URL Script": "Script URL Lịch sử Triệu hồi",
+        "Click the copy button on the right": "Bấm vào nút sao chép bên phải",
+        "note": "Ghi chú: Đoạn script không chỉnh sửa file của bạn, nó chỉ đơn giản là trích xuất URL từ log. Bạn có thể <link>xem đoạn script ở đây</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nhấn nút \"Import History\" trên trang này"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
+      "found-url": "Đã tìm thấy URL! Bấm vào nút Import History để bắt đầu.",
+      "not-found-url": "Không tìm thấy URL hợp lệ trong file log.",
+      "Click to upload": "Bấm để tải lên",
+      "or drag and drop": "hoặc kéo và thả",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History trong trò chơi"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "Chuyển đến thư mục cài đặt của bạn",
+        "description": "Chuột phải vào launcher của Wuthering Waves và chọn <code>Open file location</code>. Bạn sẽ thấy <code>launcher.exe</code> và rất nhiều file <code>.dll</code>."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "Tìm <code>debug.log</code> trong File Explorer và tải nó lên đây"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nhấn nút \"Import History\" trên trang này"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "Video Hướng dẫn",
+      "PC Import Tutorial Video": "Video Hướng dẫn nhập trên PC",
+      "video-tutorial-desc": "Hãy làm theo hướng dẫn từng bước qua YouTube của <highlight>cacaowithwater</highlight> từ <link>Discord Server</link> để nhập dữ liệu trên PC."
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "Đường dẫn trò chơi không hợp lệ",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "Sao chép thư mục cài đặt của bạn",
+        "description": "Tìm thư mục chứa <code>Wuthering Waves.exe</code> và thư mục <code>Client</code>.",
+        "Your installation directory": "Thư mục cài đặt của bạn",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History trong trò chơi",
+        "description": "Sau đó, mở Windows PowerShell, và dán đoạn script sau vào.",
+        "invalid-directory": "Hãy nhập thư mục cài đặt hợp lệ vào trước!",
+        "Stuck? Click the “Need Help?” button": "Cần sự trợ giúp? Hãy bấm vào “Need Help?” để được giúp đỡ ngay nhé!",
+        "note": "Ghi chú: Đoạn script không chỉnh sửa file của bạn, nó chỉ đơn giản là trích xuất URL từ log. Bạn có thể <link>xem đoạn script ở đây</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nhấn nút \"Import History\" trên trang này"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "Video Tutorial": "Video Hướng dẫn",
+      "PC Import Tutorial Video": "Video Hướng dẫn nhập trên PC",
+      "video-tutorial-desc": "Hãy làm theo hướng dẫn từng bước này trên YouTube để nhập dữ liệu của bạn trên PC. Và <link>Máy chủ Discord</link> của chúng tôi để yêu cầu bất kỳ trợ giúp nào nhé!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "Dữ liệu JSON không hợp lệ - đừng quên sao chép dấu chấm phẩy nha",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
+        "title": "Hãy làm theo Video hướng dẫn",
+        "description": "Tương tự như lấy lịch sử triệu hồi trong Genshin Impact hoặc Honkai Star Rail, hãy làm theo <video>video hướng dẫn bởi Chario</video> để tải và sử dụng <app>Stream - Network Debug Tool</app>.",
+        "Video Tutorial": "Video Hướng dẫn",
         "iOS Import Tutorial Video": "iOS Import Tutorial Video",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
       },
@@ -426,86 +426,86 @@
     },
     "Android3Tutorial": {
       "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "title": "Hãy làm theo Video hướng dẫn",
+        "description": "Làm theo <link>video hướng dẫn này bởi yukio36</link> sau khi chạy Wuthering Waves.",
+        "Video Tutorial": "Video Hướng dẫn",
+        "Android Airplane Mode Import Tutorial Video": "Video Hướng dẫn nhập chế độ trong Máy bay trên Android",
+        "video-tutorial-desc": "Hãy làm theo hướng dẫn này bởi <highlight>yukio36</highlight> từ <link>máy chủ Discord</link> để nhập dữ liệu trên Android cần không cần tải bất kì thứ gì.",
+        "note": "Ghi chú: Cách này không hoạt động trên một số thiết bị, hãy thử những cách khác nếu nó không hoạt động."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nhấn nút \"Import History\" trên trang này"
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "Cài đặt",
+    "Google Account": "Tài khoản Google",
+    "Browser Data": "Dữ liệu trình duyệt",
+    "Report an Issue": "Báo cáo vấn đề",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
+      "sign-out-success": "Đăng xuất thành công.",
+      "login-to-sync": "Bạn phải đăng nhập trước khi có thể đồng bộ dữ liệu.",
+      "import-to-sync": "Nhập dữ liệu vào trước để bắt đầu đồng bộ nha!",
+      "data-is-in-sync": "Dữ liệu đã được đồng bộ với tài khoản Google.",
+      "is-synced": "Dữ liệu đã được đồng bộ",
+      "is-not-synced": "Dữ liệu CHƯA được đồng bộ",
       "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "description": "Lưu dữ liệu của bạn bằng Tài khoản Google và truy cập dữ liệu của bạn trên bất kỳ thiết bị nào. Sau khi đăng nhập, chỉ cần nhấp vào nút \"Đồng bộ hóa dữ liệu\" để tải lên hoặc tải xuống dữ liệu của bạn vào thiết bị.",
+      "Guest": "Khách",
+      "Sign In to Google": "Đăng nhập vào Google",
+      "Log Out": "Đăng xuất",
+      "Sync Data": "Đồng bộ dữ liệu",
+      "Google Data": "Dữ liệu từ Google",
+      "Browser Data": "Dữ liệu từ Trình duyệt",
+      "browser-data-different": "Dữ liệu trình duyệt của bạn khác với dữ liệu Tài khoản Google của bạn.",
+      "browser-data-different-confirmation": "Dữ liệu của bạn với ID người chơi ({localId}) xung đột với ID người chơi trong Tài khoản Google của bạn (${googleId}). Bạn muốn giữ lại dữ liệu của trình duyệt hay bạn muốn sử dụng dữ liệu Tài khoản Google của mình?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "Đăng xuất thành công.",
+      "Sign out": "Đăng xuất",
+      "Sign In to Google": "Đăng nhập vào Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "require-url-before-downloading": "Bạn cần có URL Lịch sử Triệu hồi hợp lệ trước khi tải xuống.",
+      "download-failed": "Tải xuống thất bại.",
+      "download-starting": "Quá trình tải xuống sẽ bắt đầu ngay thôi.",
+      "invalid-url": "Vui lòng nhập URL Lịch sử Triệu hồi hợp lệ.",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
+      "delete-local-success": "Xóa dữ liệu Lịch sử Triệu hồi trên trình duyệt.",
+      "Convene History Data": "Dữ liệu Lịch sử Triệu hồi",
+      "Import Tutorial": "Hướng dẫn nhập",
+      "Go to Import Tutorial": "Đến Hướng dẫn nhập Dữ liệu",
+      "description": "Xuất hoặc thay đổi URL Lịch sử Triệu hồi ở đây.",
+      "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn",
+      "Download Your History": "Tải Lịch sử Triệu hồi",
+      "Delete Browser Saved Data": "Xóa dữ liệu trình duyệt đã lưu",
+      "Delete your local data": "Xóa dữ liệu Lịch sử Triệu hồi trên trình duyệt",
+      "Save": "Lưu"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "Chính sách",
+      "description": "Quản lý quyền của Wuwa Tracker khi xử lý dữ liệu của bạn."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "Gửi lịch sử triệu hồi cho thống kê toàn cầu"
     }
   },
   "Timeline": {
     "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "heading": "Timeline sự kiện",
+    "description": "Xem các sự kiện của Wuthering Waves theo múi giờ địa phương của bạn hoặc <link>các múi giờ của Server</link> khác.",
+    "github-update-message": "Cập nhật vào lúc {time} bởi {author}.",
+    "Edit this page on GitHub": "Chỉnh sửa trang này trên GitHub",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "Bộ đếm thời gian của các Server",
+      "description": "So sánh giờ địa phương của bạn với máy chủ Wuthering Waves để lên kế hoạch cho cuộc phiêu lưu tiếp theo của bạn."
     }
   }
 }
