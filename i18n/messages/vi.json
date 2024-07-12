@@ -1,11 +1,11 @@
 {
   "Items": {
     "Aalto": "Aalto",
-    "Baizhi": "Baizhi",
+    "Baizhi": "Bạch Chỉ",
     "Calcharo": "Calcharo",
-    "Changli": "Changli",
+    "Changli": "Trường Ly",
     "Chixia": "Chixia",
-    "Danjin": "Danjin",
+    "Danjin": "Đan Cẩn",
     "Encore": "Encore",
     "Jianxin": "Jianxin",
     "Jinhsi": "Jinhsi",
@@ -168,18 +168,18 @@
         "updates": "cập nhật"
       },
       "title": "Wuwa Tracker giúp Bạn theo dõi",
-      "description": "Một bộ pity choWuthering Waves, sử dụng dữ liệu cập nhật với số liệu thống kê toàn cầu và hơn thế nữa. Chúng tôi mong muốn cung cấp những công cụ tốt nhất để giới thiệu tiến trình Sóng Gió Hú của bạn với bạn bè."
+      "description": "Một bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu cập nhật với số liệu thống kê toàn cầu và hơn thế nữa. Chúng tôi mong muốn cung cấp những công cụ tốt nhất để giới thiệu tiến trình Wuthering Waves của bạn với bạn bè."
     },
     "Tutorial": {
       "title": "Bắt Đầu",
-      "description": "Chào mừng, Rover. Chúng ta nên bắt đầu thôi, nha?",
+      "description": "Chào mừng, Rover. Chúng ta nên bắt đầu thôi nhỉ?",
       "View Pull History": "Xem lịch sử triệu hồi",
-      "Sync Your Data": "Đồng Bộ Dữ Liệu của Bạn",
+      "Sync Your Data": "Đồng Bộ Dữ Liệu",
       "Your data will now sync automatically!": "Dữ liệu sẽ được đồng bộ hóa tự động!"
     },
     "Changelogs": {
       "title": "Changelogs",
-      "description": "Xem thông báo ở đây."
+      "description": "Thông báo và thay đổi sẽ ở đây."
     },
     "Community": {
       "title": "Cộng đồng"
@@ -230,13 +230,13 @@
       "Pull Num": "Lượt rút thứ",
       "Item": "Vật phẩm",
       "Pity": "Pity",
-      "Date Received": "Ngày nhận",
+      "Date Received": "Thời gian nhận",
       "no-records": "Không có dữ liệu được tìm thấy."
     },
     "UserBannerStats": {
       "Total": "Tổng lượt",
       "Astrites": "Astrites",
-      "Pulls": "Lượt rút"
+      "Pulls": "đã roll được"
     },
     "UserBannerStatsLuckCards": {
       "Luck": "Độ may mắn",
@@ -245,16 +245,16 @@
       "calibrating": "Đang điều chỉnh...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Pity trung bình",
-          "formula": "Pity {qualityLevel}-star trung bình của bạn là bao nhiêu?"
+          "title": "Pity Trung Bình",
+          "formula": "Pity {qualityLevel}-sao trung bình của bạn là bao nhiêu?"
         },
         "PullRatio": {
           "title": "Pull Ratio",
-          "formula": "Bao nhiêu % lượt roll của bạn là {qualityLevel}-stars?"
+          "formula": "Bao nhiêu % lượt roll của bạn là {qualityLevel}-sao?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "Tỉ lệ trúng rate-up",
+          "formula": "Bao nhiêu % nhân vật 5-sao của Bạn không bị lệch?"
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
@@ -263,7 +263,7 @@
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Thống Kê Toàn Cầ",
+      "title": "Thống Kê Toàn Cầu",
       "Switch Banner": "Đổi Banner",
       "Banner List": "Danh sách Banner",
       "Pulls Per Day": "Lượt rút theo ngày",
