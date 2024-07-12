@@ -465,7 +465,7 @@
       "Google Data": "Données Google",
       "Browser Data": "Données du navigateur",
       "browser-data-different": "Les données locales de votre navigateur sont différentes de celles de votre compte Google.",
-      "browser-data-different-confirmation": "Vos données locales (ID {localId}) est en conflit avec les données de votre compte Google (ID ${googleId}). Voulez-vous garder les données locales de votre navigateur ou celles de votre compte Google ?"
+      "browser-data-different-confirmation": "Vos données locales (ID {localId}) sont en conflit avec les données de votre compte Google (ID ${googleId}). Voulez-vous garder les données locales de votre navigateur ou celles de votre compte Google ?"
     },
     "SignInButton": {
       "sign-out-success": "Déconnexion réussie.",
@@ -500,7 +500,7 @@
   "Timeline": {
     "title": "Calendrier",
     "heading": "Calendrier des événements",
-    "description": "Voyez les événements de Wuthering Waves avec votre heure locale ou avec d'autres <link>horaires de serveur</link>.",
+    "description": "Suivez les événements de Wuthering Waves avec votre heure locale ou avec d'autres <link>horaires de serveur</link>.",
     "github-update-message": "Mis à jour le {time} par {author}.",
     "Edit this page on GitHub": "Modifiez cette page sur GitHub",
     "ResetTimers": {
