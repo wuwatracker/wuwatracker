@@ -93,7 +93,7 @@
     "Thawborn Renewal": "Le rêve du printemps"
   },
   "Common": {
-    "Import History": "Importer l'historique"
+    "Import History": "Importer"
   },
   "Metadata": {
     "Generic": {
@@ -173,8 +173,8 @@
     "Tutorial": {
       "title": "Commençons",
       "description": "Bienvenue, Nomade. Commençons, d'accord ?",
-      "View Pull History": "Voir l'historique des invocations",
-      "Sync Your Data": "Synchroniser vos données",
+      "View Pull History": "Voir l'historique",
+      "Sync Your Data": "Sync vos données",
       "Your data will now sync automatically!": "Vos données se synchroniseront maintenant automatiquement !"
     },
     "Changelogs": {
@@ -219,9 +219,9 @@
       "Convene Categories": "Catégories d'invocation"
     },
     "UserRecentConvenes": {
-      "Recent": "Récents",
+      "Recent": "Invocations",
       "and": "et",
-      "Convenes": "Invocations",
+      "Convenes": "récentes",
       "no-filters": "Aucun filtre sélectionné.",
       "no-records": "Aucun historique trouvé."
     },
@@ -234,7 +234,7 @@
       "no-records": "Aucun historique trouvé."
     },
     "UserBannerStats": {
-      "Total": "Total",
+      "Total": "Nombre",
       "Astrites": "Astrites",
       "Pulls": "Invocations"
     },
