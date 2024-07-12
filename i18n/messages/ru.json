@@ -250,11 +250,11 @@
         },
         "PullRatio": {
           "title": "Частота удачи",
-          "formula": "Каков процент выпадения {qualityLevel}-звёздочного от общего числа круток?"
+          "formula": "Каков процент {qualityLevel}-звёздочных круток от общего числа?"
         },
         "RateUpWins": {
-          "title": "50/50 Побед",
-          "formula": "Каков ваш процент выигрыша круток 50/50?"
+          "title": "Побед в 50/50",
+          "formula": "Каков ваш процент выигрыша в 50/50?"
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
@@ -273,39 +273,39 @@
     },
     "SharePageContent": {
       "title": "Поделиться",
-      "description": "Настройте для себя, а затем скачайте историю своих круток в Wuthering Waves для возможности поделиться с друзьями!",
+      "description": "Настройте по своему желанию, а затем скачайте историю своих круток в виде карточки для возможности поделиться с друзьями!",
       "Customize": "Настроить",
-      "Edit Share Card": "Настроить карточку",
+      "Edit Share Card": "Настройка карточки",
       "edit-description": "При внесении изменений карточка будет меняться у вас на экране.",
       "Select Banner": "Выбрать баннер",
       "Background": "Задний фон",
       "Foreground": "Передний фон",
-      "recommendation": "Рекомендуются квадратные изображения с разрешением 2048x2048.",
+      "recommendation": "Мы рекомендуем использовать квадратные изображения с разрешением 2048x2048.",
       "Download": "Скачать"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "Руководство по импорту",
     "PC": {
-      "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "title": "ПК",
+      "Automatic": "Автоматический",
+      "Manual": "Ручной"
     },
     "Android": {
       "title": "Android",
-      "Airplane": "Airplane"
+      "Airplane": "Режим полёта"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Выбрать способ",
+      "title": "Выбрать метод",
       "description": "Если автоматический метод не сработал, попробуйте использовать ручной способ. Если ничего не получается - обратитесь на наш <link>Discord сервер</link>.",
       "description-android": "Если первый способ не сработал, попробуйте другой способ. Если ничего не получается - обратитесь на наш <link>Discord сервер</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid круток History URL.",
-      "import-success": "Successfully imported круток History URL!",
+      "invalid-url": "Неверная ссылка на историю круток.",
+      "import-success": "Ссылка на историю круток импортирована!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game круток History",
+        "title": "Сначала запустите Wuthering Waves, а затем откройте историю круток в игре",
         "description": "После этого откройте Windows PowerShell и вставьте следующий сценарий.",
         "History URL Script": "History URL Script",
         "Click the copy button on the right": "Click the copy button on the right",
@@ -313,21 +313,21 @@
       },
       "2": {
         "title": "Вставьте ссылку сюда",
-        "Your Convene History URL": "Your круток History URL"
+        "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid круток History URL.",
-      "import-success": "Successfully imported круток History URL!",
+      "invalid-url": "Неверная ссылка на историю круток.",
+      "import-success": "Ссылка на историю круток импортирована!",
       "found-url": "Мы получили ссылку! Нажмите \"Импорт\", чтобы импортировать историю.",
       "not-found-url": "Не удалось найти нужную ссылку в журнале.",
       "Click to upload": "Нажмите для отправки",
       "or drag and drop": "или перетащите",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game круток History"
+        "title": "Сначала запустите Wuthering Waves, а затем откройте историю круток в игре"
       },
       "2": {
         "title": "Найдите папку с игрой",
@@ -345,16 +345,16 @@
     },
     "PC3Tutorial": {
       "invalid-path": "Неверный путь установки игры",
-      "invalid-url": "Invalid круток History URL",
-      "import-success": "Successfully imported круток History URL!",
+      "invalid-url": "Неверная ссылка на историю круток",
+      "import-success": "Ссылка на историю круток импортирована!",
       "1": {
         "title": "Скопируйте путь к папке с игрой",
         "description": "Найдите папку, которая содержит <code>Wuthering Waves.exe</code> и папку <code>Client</code>.",
         "Your installation directory": "Путь к папке с игрой",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your круток history, otherwise the script won't work."
+        "warning": "Предупреждение: Если вы изменяли файл <code>Engine.ini</code> в папке с игрой, чтобы отключить логи, вам нужно включить их снова перед тем, как открыть историю круток внутри игры, в противном случае сценарий не сработает."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game круток History",
+        "title": "Сначала запустите Wuthering Waves на ПК, а затем откройте историю круток в игре",
         "description": "После этого откройте Windows PowerShell и вставьте следующий сценарий.",
         "invalid-directory": "Сначала укажите правильный путь к папке с игрой!",
         "Stuck? Click the “Need Help?” button": "Нужна помощь? Нажмите кнопку \"Нужна помощь?\"",
@@ -362,7 +362,7 @@
       },
       "3": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your круток History URL"
+        "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "4": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -373,60 +373,60 @@
     },
     "IOSTutorial": {
       "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid круток History URL",
-      "import-success": "Successfully imported круток History URL!",
+      "invalid-url": "Неверная ссылка на историю круток",
+      "import-success": "Ссылка на историю круток импортирована!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
+        "title": "Следуйте нашему видеогайду",
+        "description": "Так же, как и для Genshin Impact или Honkai Star Rail, вы можете использовать приложение <app>Stream - Network Debug Tool</app>, следуя <video>этому видео гайду, сделанному Chario</video>, чтобы получить ссылку на историю круток.",
         "Video Tutorial": "Video Tutorial",
         "iOS Import Tutorial Video": "iOS Import Tutorial Video",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Вставьте сюда скопированное содержимое JSON"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Нажмите кнопку \"Импорт\""
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid круток History URL",
-      "import-success": "Successfully imported круток History URL!",
+      "invalid-url": "Неверная ссылка на историю круток",
+      "import-success": "Ссылка на историю круток импортирована!",
       "1": {
-        "title": "Use Ascent To Get круток History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Используйте приложение Ascent, чтобы получить ссылку на историю круток",
+        "description": "Так же, как и для Genshin Impact или Honkai Star Rail, вы можете использовать приложение <app>Ascent v2.1.6</app>, следуя <video>этому видео гайду, сделанному Mirai0009</video>, чтобы получить ссылку на историю круток.",
+        "note": "Этот метод поддерживает только устройства с версией Android 11 и выше.",
+        "troubleshooting": "Если что-то работает не так, проверьте <link>раздел проблем и их решений</link>."
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your круток History URL"
+        "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "3": {
         "title": " Press the \"Import History\" Button on this Website"
       },
-      "Video Tutorial": "Video Tutorial",
+      "Video Tutorial": "Видеогайд",
       "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
       "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid круток History URL",
-      "import-success": "Successfully imported круток History URL!",
+      "invalid-url": "Неверная ссылка на историю круток",
+      "import-success": "Ссылка на историю круток импортирована!",
       "1": {
-        "title": "Use Termux To Get круток History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Используйте приложение Termux, чтобы получить ссылку на историю круток",
+        "description": "Так же, как и для Genshin Impact или Honkai Star Rail, вы можете использовать приложение <app>Termux</app>, следуя <guide>этому видео гайду, сделанному eqdamini</guide>, чтобы получить ссылку на историю круток."
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your круток History URL"
+        "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Нажмите кнопку \"Импорт\""
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid круток History URL",
-      "import-success": "Successfully imported круток History URL!",
+      "invalid-url": "Неверная ссылка на историю круток",
+      "import-success": "Ссылка на историю круток импортирована!",
       "1": {
         "title": "Следуйте нашему видеогайду",
         "description": "Следуйте <link>этому видеогайду, сделанному yukio36</link>, после того как запустите Wuthering Waves.",
@@ -437,7 +437,7 @@
       },
       "2": {
         "title": "Вставьте ссылку сюда",
-        "Your Convene History URL": "Your круток History URL"
+        "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -470,20 +470,20 @@
     "SignInButton": {
       "sign-out-success": "Signed out successfully.",
       "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "Sign In to Google": "Войти в Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid круток History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid круток History URL.",
-      "import-success": "Successfully imported круток History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "круток History Data",
-      "Import Tutorial": "Import Tutorial",
+      "require-url-before-downloading": "Для скачивания вам необходима правильная ссылка на историю круток.",
+      "download-failed": "Ошибка при скачивании.",
+      "download-starting": "Ваша загрузка скоро начнётся.",
+      "invalid-url": "Пожалуйста, предоставьте правильную ссылку на историю круток.",
+      "import-success": "Ссылка на историю круток импортирована на устройство!",
+      "delete-local-success": "Локальная история круток удалена.",
+      "Convene History Data": "Данные о истории круток",
+      "Import Tutorial": "Руководство по импорту",
       "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your круток History URL here.",
-      "Your Convene History URL": "Your круток History URL",
+      "description": "Здесь вы можете скопировать или изменить ссылку на вашу историю круток.",
+      "Your Convene History URL": "Ваша ссылка на историю круток",
       "Download Your History": "Download Your History",
       "Delete Browser Saved Data": "Delete Browser Saved Data",
       "Delete your local data": "Delete your local data",
@@ -501,7 +501,7 @@
     "title": "Timeline",
     "heading": "Event Timeline",
     "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
+    "github-update-message": "Обновлено в {time} пользователем {author}.",
     "Edit this page on GitHub": "Edit this page on GitHub",
     "ResetTimers": {
       "title": "Server Daily Reset Timers",
