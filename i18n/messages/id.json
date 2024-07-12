@@ -93,7 +93,7 @@
     "Thawborn Renewal": "Thawborn Renewal"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "Impor Riwayat"
   },
   "Metadata": {
     "Generic": {
@@ -157,15 +157,15 @@
     }
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "Menu",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
+        "pulls": "gacha",
         "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
+        "events": "event",
+        "statistics": "statistik",
         "data": "data",
-        "updates": "updates"
+        "updates": "pembaruan"
       },
       "title": "Wuwa Tracker membantu anda melacak",
       "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan banyak lainya. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah!"
@@ -182,12 +182,12 @@
       "description": "Lihat pemberitahuan website disini."
     },
     "Community": {
-      "title": "Community"
+      "title": "Komunitas"
     }
   },
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "Pencapaian",
+    "description": "Kredit diberikan kepada <link>spreadsheet WuWa Achievements V1.1 StarDB</link> untuk data awal.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Import data sukses. ",
@@ -211,7 +211,7 @@
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "Pelacak Convene",
     "ConveneCategoryGlobal": {
       "Global Statistics": "Statistik Global"
     },
@@ -268,11 +268,11 @@
       "Banner List": "Katalog Banner",
       "Pulls Per Day": "Gacha Per Hari",
       "Pulls By Pity": "Gacha dengan Pity",
-      "Pulls By Name": "Gacha dengan Nama",
+      "Pulls By Name": "Gacha Per Karakter",
       "Pulls": "Gacha"
     },
     "SharePageContent": {
-      "title": "Berbagi Kartu",
+      "title": "Bagikan Kartu",
       "description": "Kostumisasi dan donwload Convene History Wuthering Waves Anda dan berbagi kepada orang lain!",
       "Customize": "Kostumisasi",
       "Edit Share Card": "Edit Kartu Berbagi",
