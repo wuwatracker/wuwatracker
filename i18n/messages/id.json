@@ -285,7 +285,7 @@
     }
   },
   "Import": {
-    "Import Tutorial": "Impor Tutorial",
+    "Import Tutorial": "Panduan Import",
     "PC": {
       "title": "PC",
       "Automatic": "Otomatis",
@@ -298,154 +298,154 @@
     "iOS": "iOS",
     "Heading": {
       "title": "Pilih Caranya ",
-      "description": "Jika cara otommatis tidak berkerja untuk Anda, coba lakukan dengan manual dengan menggunakan cara lain di panduan. Jika Anda masih membutuhkan bantuan, tolong kunjungi kami <link>Discord Server</link>.",
-      "description-android": "Jika cara utama masih tidak berkerja untuk Anda gunakan cara lainya. Jika Anda masih membutuhkan bantuan, tolong kunjungi kami <link>Discord Server</link>."
+      "description": "Jika cara otommatis tidak berkerja untuk Anda, coba lakukan dengan manual dengan menggunakan cara lain di panduan. Jika Anda masih membutuhkan bantuan, tolong kunjungi <link>Discord Server</link> kami.",
+      "description-android": "Jika cara utama masih tidak berkerja untuk Anda gunakan cara lainya. Jika Anda masih membutuhkan bantuan, tolong kunjungi <link>Discord Server</link> kami."
     },
     "PC1Tutorial": {
-      "invalid-url": "Alamat Convene History tidak valid.",
-      "import-success": "Sukses mengimport  Alamat Convene History!",
+      "invalid-url": "Alamat Riwayat Convene Tidak Valid.",
+      "import-success": "Berhasil mengimpor Alamat Riwayat Convene!",
       "1": {
-        "title": "Pertama, jalankan Wuthering Waves dan buka History Convene di dalam game",
-        "description": "Setelahnya, buka Windows PowerShell dan copy paste script berikut.",
-        "History URL Script": "Script Alamat History",
-        "Click the copy button on the right": "Klik tombol copy di samping kanan",
-        "note": "Note: Script tidak mengedit file Anda, ia hanya mengambil Alamat dari logs Anda. Anda dapat <link>melihat script disini</link>."
+        "title": "Pertama, jalankan Wuthering Waves dan Buka Riwayat Convene di dalam game",
+        "description": "Setelah itu, buka Windows PowerShell, lalu tempelkan skrip berikut.",
+        "History URL Script": "Skrip Alamat Riwayat",
+        "Click the copy button on the right": "Klik tombol salin di sebelah kanan",
+        "note": "Catatan: Skrip ini tidak mengedit file Anda, skrip ini hanya mengekstrak Alamat dari log Anda. Anda dapat <link>melihat skripnya di sini</link>."
       },
       "2": {
-        "title": "Paste alamat disini",
-        "Your Convene History URL": "Alamat Convene History Anda"
+        "title": "Tempelkan Alamat-nya di sini",
+        "Your Convene History URL": "Alamat Riwayat Convene Anda"
       },
       "3": {
-        "title": "Tekan tombol \"Import History\" pada website ini."
+        "title": "Tekan Tombol \"Impor Riwayat\" di Situs Web ini"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Alamat Convene History tidak valid.",
-      "import-success": "Sukses mengimport  Alamat Convene History!",
-      "found-url": "Kami menemukan Alamat Anda! Klik Tombol Import History untuk melanjutkan.",
-      "not-found-url": "Tidak menemukan Alamat yang valid di file log.",
-      "Click to upload": "Klik untuk upload",
-      "or drag and drop": "atau tarik dan jatuhkan",
+      "invalid-url": "Alamat Riwayat Convene Tidak Valid.",
+      "import-success": "Berhasil mengimpor Alamat Riwayat Convene!",
+      "found-url": "Kami menemukan Alamat-nya! Klik tombol Impor Riwayat untuk melanjutkan.",
+      "not-found-url": "Tidak ada Alamat valid yang ditemukan di file log.",
+      "Click to upload": "Klik untuk mengunggah",
+      "or drag and drop": "atau seret dan lepas",
       "1": {
-        "title": "Pertama, buka Wuthering Waves dan Buka Convene History di dalam game Anda"
+        "title": "Pertama, luncurkan Wuthering Waves dan Buka Riwayat Convene Dalam Game Anda"
       },
       "2": {
         "title": "Pergi ke tempat game Anda di instal",
-        "description": "Klik kanan Wuthering Waves game launcher Anda dan Pilih <code>Open file location</code>. Anda harusnya melihat <code>launcher.exe</code> dan banya file  <code>.dll</code>."
+        "description": "Klik kanan game launcher Wuthering Waves Anda dan Pilih <code>Open file location</code>. Anda harusnya melihat <code>launcher.exe</code> dan banya file <code>.dll</code>."
       },
       "3": {
-        "title": "Cari file <code>debug.log</code> di File Explorer and Upload  Itu Disini."
+        "title": "Cari file <code>debug.log</code> di File Explorer and Upload Itu Disini"
       },
       "4": {
         "title": "Tekan Tombol \"Import History\" pada Website ini"
       },
       "Video Tutorial": "Video Tutorial",
       "PC Import Tutorial Video": "Video Tutorial Impor PC",
-      "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
+      "video-tutorial-desc": "Ikuti petunjuk YouTube ini langkah demi langkah oleh <highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda."
     },
     "PC3Tutorial": {
-      "invalid-path": "Tempat Penyimpanan Game Tidak Valid",
-      "invalid-url": "Alamat Convene History Tidak Valid",
-      "import-success": "Mengimport Alamat Convene History Sukses!",
+      "invalid-path": "Alamat Tempat Penyimpanan Game Tidak Valid",
+      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
+      "import-success": "Mengimport Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Copy Alamat Tempat Game Anda di Instal",
-        "description": "Cari folder yang ada file <code>Wuthering Waves.exe</code> dan <code>Client Game</code> folder.",
+        "description": "Cari folder yang ada <code>Wuthering Waves.exe</code> dan <code> sebuah Client </code> folder.",
         "Your installation directory": "Tempat Game Anda di Instal",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "warning": "Peringatan: Jika Anda mengedit file <code>Engine.ini</code> untuk menonaktifkan log, Anda harus mengaktifkannya kembali sebelum membuka riwayat Convene Anda, jika tidak, skrip tidak akan berfungsi."
       },
       "2": {
-        "title": "Pertama, buka Wuthering Waves dan Buka Convene History di dalam game Anda",
-        "description": "Setelahnya, buka Windows PowerShell dan copy paste script berikut.",
-        "invalid-directory": "Masukan alamat tempat game Anda di instal!",
-        "Stuck? Click the “Need Help?” button": "Bingung? Klik tombol \"Butuh Bantuan?\"",
-        "note": "Note: Script tidak mengedit file Anda, ia hanya mengambil Alamat dari logs Anda. Anda dapat <link>melihat script disini</link>."
+        "title": "Luncurkan Wuthering Waves di PC dan Buka Riwayat Convene Dalam Game Anda",
+        "description": "Setelah itu, buka Windows PowerShell, lalu tempelkan skrip berikut.",
+        "invalid-directory": "Masukkan alamat tempat installasi game Anda yang valid terlebih dahulu!",
+        "Stuck? Click the “Need Help?” button": "Bingung? Klik tombol tautan “Butuh Bantuan?”",
+        "note": "Catatan: Skrip ini tidak mengedit file Anda, skrip ini hanya mengekstrak Alamat dari log Anda. Anda dapat melihat skripnya <link>di sini</link>."
       },
       "3": {
-        "title": "Paste alamat disini",
-        "Your Convene History URL": "Alamat Convene History Anda"
+        "title": "Tempelkan Alamat-nya di sini",
+        "Your Convene History URL": "Alamat Riwayat Convene Anda"
       },
       "4": {
-        "title": "Tekan Tombol \"Import History\" pada Website ini"
+        "title": "Tekan Tombol \"Impor Riwayat\" di Situs Web ini"
       },
       "Video Tutorial": "Video Tutorial",
       "PC Import Tutorial Video": "Video Tutorial Impor PC",
-      "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
+      "video-tutorial-desc": "Ikuti tutorial YouTube langkah demi langkah ini untuk mengimpor data Anda di PC. Silakan bergabung dengan <link>Server Discord</link> kami untuk meminta bantuan apa pun!"
     },
     "IOSTutorial": {
       "invalid-json": "Data JSON tidak valid - pastikan untuk menyalin titik koma",
-      "invalid-url": "Alamat Convene History tidak valid.",
-      "import-success": "Sukses mengimport Alamat Convene History!",
+      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
+      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Ikuti Video Tutorial Kami",
-        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>tutorial video dari Chario</video> ini untuk mengunduh dan menggunakan <app>Stream - Network Debug Tool</app>.",
+        "description": "Mirip dengan mendapatkan riwayat Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>video tutorial dari Chario</video> ini untuk mengunduh dan menggunakan <app>Stream - Network Debug Tool</app>.",
         "Video Tutorial": "Video Tutorial",
         "iOS Import Tutorial Video": "Video Tutorial Impor iOS",
-        "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>Chario</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
+        "video-tutorial-desc": "Ikuti tutorial YouTube langkah demi langkah ini oleh <highlight>Chario</highlight> dari <link>Server Discord</link> kami untuk mengimpor data Anda di PC."
       },
       "2": {
-        "title": "Paste JSON di Sini"
+        "title": "Tempel JSON di sini"
       },
       "3": {
-        "title": "Tekan Tombol \"Import History\" pada Website ini"
+        "title": "Tekan Tombol \"Impor Riwayat\" di Situs Web ini"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Alamat Convene History tidak valid.",
-      "import-success": "Sukses mengimport Alamat Convene History!",
+      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
+      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
-        "title": "Gunakan Ascent Untuk Mengambil Alamat Convene History",
-        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>tutorial video dari Mirai0009</video> ini untuk mengunduh dan menggunakan <app>Ascent v2.1.6</app> untuk mengambil Alamat Anda.",
-        "note": "Metode ini hanya support untuk Android versi 11 ke atas.",
-        "troubleshooting": "Jika tidak berkerja dengan benar, cek <link>bagian pemecah masalah</link>."
+        "title": "Gunakan Ascent Untuk Mengambil Alamat Riwayat Convene",
+        "description": "Mirip dengan mendapatkan riwayat Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>panduan dari Mirai0009</video> ini untuk mengunduh dan menggunakan <app>Ascent v2.1.6</app> untuk mendapatkan Alamat Anda.",
+        "note": "Cara ini hanya mendukung Android versi 11 ke atas.",
+        "troubleshooting": "Jika tidak berfungsi dengan benar, periksa <link>bagian pemecahan masalah</link>."
       },
       "2": {
-        "title": "Paste alamat disini",
-        "Your Convene History URL": "Alamat Convene History Anda"
+        "title": "Tempelkan Alamat-nya di sini",
+        "Your Convene History URL": "Alamat Riwayat Convene Anda"
       },
       "3": {
-        "title": "Tekan Tombol \"Import History\" pada Website ini"
+        "title": " Tekan Tombol \"Impor Riwayat\" di Situs Web ini"
       },
       "Video Tutorial": "Video Tutorial",
       "Android Ascent Import Tutorial Video": "Video Tutorial Impor Ascent Android",
-      "video-tutorial-desc": "Pertama, tolong baca ini dengan teliti <guide>teks panduan</guide> lalu ikuti video ini <video>YouTube video</video> untuk mengambil data Anda di Android. Semua jasa diberikan untuk Mirai0009."
+      "video-tutorial-desc": "Pertama, baca dengan cermat <guide>panduan teks ini</guide> lalu ikuti <video>video YouTube</video> ini untuk mendapatkan data Anda di Android. Semua kredit diberikan kepada Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Alamat Convene History tidak valid.",
-      "import-success": "Sukses mengimport Alamat Convene History!",
+      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
+      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
-        "title": "Gunakan Termux Untuk Mengambil Alamat Convene History",
-        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <guide>tutorial dari eqdamini</guide> untuk mendownlaod dan menggunakan <app>Termux</app> untuk mengambil Alamat Anda."
+        "title": "Gunakan Termux Untuk Mendapatkan Alamat Riwayat Convene",
+        "description": "Mirip dengan mendapatkan riwayat Anda di Genshin Impact atau Honkai Star Rail, ikuti <guide>panduan dari eqdamini</guide> ini untuk mengunduh dan menggunakan <app>Termux</app> untuk mendapatkan Alamat Anda."
       },
       "2": {
-        "title": "Paste alamat disini",
-        "Your Convene History URL": "Alamat Convene History Anda"
+        "title": "Tempelkan Alamat-nya di sini",
+        "Your Convene History URL": "Alamat Riwayat Convene Anda"
       },
       "3": {
-        "title": "Tekan Tombol \"Import History\" pada Website ini"
+        "title": "Tekan Tombol \"Impor Riwayat\" di Situs Web ini"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Alamat Convene History tidak valid.",
-      "import-success": "Sukses mengimport Alamat Convene History!",
+      "invalid-url": "Alamat Riwayat Convene History Tidak Valid",
+      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Ikuti Video Tutorial Kami",
-        "description": "Ikuti <link>video tutorial dari yukio36</link> setelah membuka aplikasi Wuthering Waves.",
+        "description": "Ikuti <link>video tutorial dari yukio36</link> ini setelah membuka aplikasi Wuthering Waves.",
         "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Mode Pesawat Import Tutorial Video",
-        "video-tutorial-desc": "Ikuti video tutorial YouTube ini langkah demi langkah dari <highlight>yukio36</highlight> dari <link>Discord Server Kami</link> untuk mengimpor data pada Android tanpa mendownload apa-apa.",
-        "note": "Catatan: Ini mungkin tidak berkerja untuk semua perangkat, jadi gunakan cara lain jika cara ini gagal."
+        "Android Airplane Mode Import Tutorial Video": "Video Tutorial Impor Mode Pesawat Android",
+        "video-tutorial-desc": "Ikuti tutorial YouTube langkah demi langkah ini oleh <highlight>yukio36</highlight> dari <link>Server Discord</link> kami untuk mengimpor data Anda ke Android tanpa mengunduh apa pun.",
+        "note": "Catatan: Ini mungkin tidak berfungsi pada semua perangkat, jadi coba metode lain jika gagal."
       },
       "2": {
-        "title": "Paste alamat disini",
-        "Your Convene History URL": "Alamat Convene History Anda"
+        "title": "Tempelkan Alamat-nya di sini",
+        "Your Convene History URL": "Alamat Riwayat Convene Anda"
       },
       "3": {
-        "title": "Tekan Tombol \"Import History\" pada Website ini"
+        "title": "Tekan Tombol \"Impor Riwayat\" di Situs Web ini"
       }
     }
   },
   "Settings": {
-    "title": "Setting",
+    "title": "Pengaturan",
     "Google Account": "Akun Google",
     "Browser Data": "Data Browser",
     "Report an Issue": "Laporkan Masalah",
@@ -473,20 +473,20 @@
       "Sign In to Google": "Masuk ke Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "Anda memerlukan Alamat Convene History yang valid sebelum mengunduh.",
+      "require-url-before-downloading": "Anda memerlukan Alamat Riwayat Convene yang valid sebelum mengunduh.",
       "download-failed": "Gagal memulai pengunduhan.",
       "download-starting": "Pengunduhan Anda akan segera dimulai.",
-      "invalid-url": "Silakan masukkan Alamat History Convene yang valid.",
-      "import-success": "Berhasil mengimpor Alamat History Convene secara lokal!",
-      "delete-local-success": "Data history lokal dihapus.",
-      "Convene History Data": "Data History Convene",
+      "invalid-url": "Silakan masukkan Alamat Riwayat Convene yang valid.",
+      "import-success": "Mengimpor Alamat Riwayat Convene secara lokal Berhasil!",
+      "delete-local-success": "Data riwayat lokal dihapus.",
+      "Convene History Data": "Data Riwayat Convene",
       "Import Tutorial": "Impor Tutorial",
-      "Go to Import Tutorial": "Pergi ke Import Tutorial",
-      "description": "Ekspor atau ubah Alamat History Convene Anda disini.",
-      "Your Convene History URL": "Alamat History Convene Anda",
-      "Download Your History": "Unduh History Anda",
+      "Go to Import Tutorial": "Buka Tutorial Impor",
+      "description": "Ekspor atau ubah Alamat Riwayat Convene Anda di sini.",
+      "Your Convene History URL": "Alamat Riwayat Convene Anda",
+      "Download Your History": "Unduh Riwayat Anda",
       "Delete Browser Saved Data": "Hapus Data Browser yang Tersimpan",
-      "Delete your local data": "Hapus data lokal Anda",
+      "Delete your local data": "Hapus data lokal anda",
       "Save": "Menyimpan"
     },
     "SettingGlobalStats": {
