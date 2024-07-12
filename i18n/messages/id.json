@@ -167,19 +167,19 @@
         "data": "data",
         "updates": "updates"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "Wuwa Tracker membantu Anda melacak Pity. Penghitungan Pity untuk Wuthering Waves, menggunakan data terkini yang global dan masih banyak lainnya. Kami mempunyai visi untuk menyediakan alat terbaik untuk menampilkan jejak kemajuan Wuthering Waves kalian kepada teman-teman Anda.",
+      "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan banyak lainya. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah!"
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "Ayo Mulai!",
+      "description": "Welcome, Rover. Let's get you started, shall we?\nSelamat Datang, Rover. Aku bantu kamu mulai, siap?",
+      "View Pull History": "Lihat Gacha History",
+      "Sync Your Data": "Sinkronisasikan Data Anda",
+      "Your data will now sync automatically!": "Data Anda mulai sekarang akan tersinkronisasi secara otomatis"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "Daftar Perubahan",
+      "description": "Lihat pemberitahuan website disini."
     },
     "Community": {
       "title": "Community"
@@ -190,48 +190,48 @@
     "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "Import data sukses. ",
+        "import-invalid": "Tolong masukan data yang benar.",
+        "parse-fail": "Gagal memuat JSON file.",
+        "download-fail": "Gagal mengunduh.",
+        "download-start": "Unduhan Anda akan mulai dengan sekejap."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "Gunakan filter untuk membantumu mencari pencapaian apa yang kamu belum dapatkan.",
+      "Completed": "Sukses",
       "ImportDialog": {
         "title": "Import Data",
         "description": "Use your previously exported data and sync it with your browser."
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "Hidden": "Sembunyikan",
+      "Click to upload": "Klik untuk upload",
+      "or drag and drop": "atau tarik dan jatuhkan",
       "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Export as JSON": "Export sebagai JSON",
+      "Need Tips?": "Butuh saran?"
     }
   },
   "Convene": {
     "title": "Convene Tracker",
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "Statistik Global"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "Convene Kategori"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
+      "Recent": "Terbaru",
+      "and": "dan",
       "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "no-filters": "Tidak ada filter yang dipilih.",
+      "no-records": "Tidak ada jejak yang ditemukan."
     },
     "UserPullHistoryTable": {
       "Pull History": "Pull History",
       "Pull Num": "Pull No.",
       "Item": "Item",
       "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Date Received": "Waktu Terima.",
+      "no-records": "Tidak ada jejak yang ditemukan."
     },
     "UserBannerStats": {
       "Total": "Total",
@@ -239,273 +239,273 @@
       "Pulls": "Pulls"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "Beruntung ",
+      "no-luck": "Banner ini tidak ada statistik keberuntungan.",
+      "no-records": "Tidak ada jejak yang ditemukan.",
+      "calibrating": "Kaliberasi...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Pity Rata-Rata",
+          "formula": "Berapa Pity rata-rata Anda {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Pull Rasio",
+          "formula": "Berapa persen total keseluruhan Gacha {qualityLevel}-stars?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "50/50 Menang",
+          "formula": "Berapa persen dari 50/50 gacha yang Anda menangkan?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Rate-up Menang",
+          "formula": "Seberapa sering 4-star gacha rate anda?"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "title": "Statistik Global",
+      "Switch Banner": "Ganti Banner",
+      "Banner List": "Katalog Banner",
+      "Pulls Per Day": "Gacha Per Hari",
+      "Pulls By Pity": "Gacha dengan Pity",
+      "Pulls By Name": "Gacha dengan Nama",
+      "Pulls": "Gacha"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "title": "Berbagi Kartu",
+      "description": "Kostumisasi dan donwload Convene History Wuthering Waves Anda dan berbagi kepada orang lain!",
+      "Customize": "Kostumisasi",
+      "Edit Share Card": "Edit Kartu Berbagi",
+      "edit-description": "Kartu anda diperbarui secara tepat waktu seiring perubahan yang Anda buat.",
+      "Select Banner": "Pilih Banner",
+      "Background": "Latar Belakang",
+      "Foreground": "Latar Depan",
+      "recommendation": "Kami merekomendasikan 1:1 aspek rasio untuk gambar beresolusi 2048x2048",
+      "Download": "Unduh"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "Panduan Import",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
+      "Automatic": "Otomatis",
       "Manual": "Manual"
     },
     "Android": {
       "title": "Android",
-      "Airplane": "Airplane"
+      "Airplane": "Mode Pesawat"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "Pilih Caranya ",
+      "description": "Jika cara otommatis tidak berkerja untuk Anda, coba lakukan dengan manual dengan menggunakan cara lain di panduan. Jika Anda masih membutuhkan bantuan, tolong kunjungi kami <link>Discord Server</link>.",
+      "description-android": "Jika cara utama masih tidak berkerja untuk Anda gunakan cara lainya. Jika Anda masih membutuhkan bantuan, tolong kunjungi kami <link>Discord Server</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport  Alamat Convene History!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "title": "Pertama, jalankan Wuthering Waves dan buka History Convene di dalam game",
+        "description": "Setelahnya, buka Windows PowerShell dan copy paste script berikut.",
+        "History URL Script": "Script Alamat History",
+        "Click the copy button on the right": "Klik tombol copy di samping kanan",
+        "note": "Note: Script tidak mengedit file Anda, ia hanya mengambil Alamat dari logs Anda. Anda dapat <link>melihat script disini</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Tekan tombol \"Import History\" pada website ini."
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport  Alamat Convene History!",
+      "found-url": "Kami menemukan Alamat Anda! Klik Tombol Import History untuk melanjutkan.",
+      "not-found-url": "Tidak menemukan Alamat yang valid di file log.",
+      "Click to upload": "Klik untuk upload",
+      "or drag and drop": "atau tarik dan jatuhkan",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "Pertama, buka Wuthering Waves dan Buka Convene History di dalam game Anda"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "Pergi ke tempat game Anda di instal",
+        "description": "Klik kanan Wuthering Waves game launcher Anda dan Pilih <code>Open file location</code>. Anda harusnya melihat <code>launcher.exe</code> dan banya file  <code>.dll</code>."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "Cari file <code>debug.log</code> di File Explorer and Upload  Itu Disini."
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
       },
       "Video Tutorial": "Video Tutorial",
       "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "Tempat Penyimpanan Game Tidak Valid",
+      "invalid-url": "Alamat Convene History Tidak Valid",
+      "import-success": "Mengimport Alamat Convene History Sukses!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "Copy Alamat Tempat Game Anda di Instal",
+        "description": "Cari folder yang ada file <code>Wuthering Waves.exe</code> dan <code>Client Game</code> folder.",
+        "Your installation directory": "Tempat Game Anda di Instal",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "Pertama, buka Wuthering Waves dan Buka Convene History di dalam game Anda",
+        "description": "Setelahnya, buka Windows PowerShell dan copy paste script berikut.",
+        "invalid-directory": "Masukan alamat tempat game Anda di instal!",
+        "Stuck? Click the “Need Help?” button": "Bingung? Klik tombol \"Butuh Bantuan?\"",
+        "note": "Note: Script tidak mengedit file Anda, ia hanya mengambil Alamat dari logs Anda. Anda dapat <link>melihat script disini</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
       },
       "Video Tutorial": "Video Tutorial",
       "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "Data JSON tidak valid - pastikan untuk menyalin titik koma",
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
+        "title": "Ikuti Video Tutorial Kami",
+        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>tutorial video dari Chario</video> ini untuk mengunduh dan menggunakan <app>Stream - Network Debug Tool</app>.",
         "Video Tutorial": "Video Tutorial",
         "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>Chario</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Paste JSON di Sini"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Gunakan Ascent Untuk Mengambil Alamat Convene History",
+        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>tutorial video dari Mirai0009</video> ini untuk mengunduh dan menggunakan <app>Ascent v2.1.6</app> untuk mengambil Alamat Anda.",
+        "note": "Metode ini hanya support untuk Android versi 11 ke atas.",
+        "troubleshooting": "Jika tidak berkerja dengan benar, cek <link>bagian pemecah masalah</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
       },
       "Video Tutorial": "Video Tutorial",
       "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "video-tutorial-desc": "Pertama, tolong baca ini dengan teliti <guide>teks panduan</guide> lalu ikuti video ini <video>YouTube video</video> untuk mengambil data Anda di Android. Semua jasa diberikan untuk Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Gunakan Termux Untuk Mengambil Alamat Convene History",
+        "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <guide>tutorial dari eqdamini</guide> untuk mendownlaod dan menggunakan <app>Termux</app> untuk mengambil Alamat Anda."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Alamat Convene History tidak valid.",
+      "import-success": "Sukses mengimport Alamat Convene History!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
+        "title": "Ikuti Video Tutorial Kami",
+        "description": "Ikuti <link>video tutorial dari yukio36</link> setelah membuka aplikasi Wuthering Waves.",
         "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "Android Airplane Mode Import Tutorial Video": "Android Mode Pesawat Import Tutorial Video",
+        "video-tutorial-desc": "Ikuti video tutorial YouTube ini langkah demi langkah dari <highlight>yukio36</highlight> dari <link>Discord Server Kami</link> untuk mengimpor data pada Android tanpa mendownload apa-apa.",
+        "note": "Catatan: Ini mungkin tidak berkerja untuk semua perangkat, jadi gunakan cara lain jika cara ini gagal."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Paste alamat disini",
+        "Your Convene History URL": "Alamat Convene History Anda"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Tekan Tombol \"Import History\" pada Website ini"
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "Setting",
+    "Google Account": "Akun Google",
+    "Browser Data": "Data Browser",
+    "Report an Issue": "Laporkan Masalah",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "sign-out-success": "Berhasil keluar.",
+      "login-to-sync": "Anda harus login sebelum dapat melakukan sinkronisasi.",
+      "import-to-sync": "Impor data Anda terlebih dahulu untuk mulai menyinkronkan!",
+      "data-is-in-sync": "Data disinkronkan dengan Akun Google Anda.",
+      "is-synced": "Data disinkronkan",
+      "is-not-synced": "Data TIDAK disinkronkan",
+      "Cloud Backup": "Cadangan Cloud",
+      "description": "Simpan data Anda menggunakan Akun Google Anda dan akses data Anda di perangkat apa pun. Setelah masuk, cukup klik tombol \"Sinkronkan Data\" untuk mengunggah atau mengunduh data Anda ke perangkat Anda.",
+      "Guest": "Tamu",
+      "Sign In to Google": "Masuk ke Google",
+      "Log Out": "Keluar",
+      "Sync Data": "Sinkronkan Data",
+      "Google Data": "Data Google",
+      "Browser Data": "Data Browser",
+      "browser-data-different": "Data browser lokal Anda berbeda dengan data Akun Google Anda.",
+      "browser-data-different-confirmation": "Data lokal Anda dengan ID pemain ({localId}) bertentangan dengan ID pemain Akun Google Anda (${googleId}). Apakah Anda ingin menyimpan data lokal browser Anda atau ingin menggunakan data Akun Google Anda?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "Berhasil keluar.",
+      "Sign out": "Keluar",
+      "Sign In to Google": "Masuk ke Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
+      "require-url-before-downloading": "Anda memerlukan Alamat Convene History yang valid sebelum mengunduh.",
+      "download-failed": "Gagal memulai pengunduhan.",
+      "download-starting": "Pengunduhan Anda akan segera dimulai.",
+      "invalid-url": "Silakan masukkan Alamat History Convene yang valid.",
+      "import-success": "Berhasil mengimpor Alamat History Convene secara lokal!",
+      "delete-local-success": "Data history lokal dihapus.",
+      "Convene History Data": "Data History Convene",
       "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "Go to Import Tutorial": "Pergi ke Import Tutorial",
+      "description": "Ekspor atau ubah Alamat History Convene Anda disini.",
+      "Your Convene History URL": "Alamat History Convene Anda",
+      "Download Your History": "Unduh History Anda",
+      "Delete Browser Saved Data": "Hapus Data Browser yang Tersimpan",
+      "Delete your local data": "Hapus data lokal Anda",
+      "Save": "Menyimpan"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "Privasi",
+      "description": "Kelola izin Wuwa Tracker saat menangani data Anda."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "Kirimkan data gacha untuk statistik global"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "title": "Linimasa",
+    "heading": "Garis Waktu Event",
+    "description": "Lihat event Wuthering Waves di zona waktu lokal Anda atau di <link>Waktu Server</link> lainnya.",
+    "github-update-message": "Diperbarui pada {time} oleh {author}.",
+    "Edit this page on GitHub": "Edit halaman ini di GitHub",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "Timer Reset Harian Server",
+      "description": "Bandingkan waktu setempat Anda dengan server game Wuthering Waves untuk merencanakan petualangan Anda berikutnya."
     }
   }
 }
