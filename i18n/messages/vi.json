@@ -219,9 +219,9 @@
       "Convene Categories": "Mục Triệu Hồi"
     },
     "UserRecentConvenes": {
-      "Recent": "Gần đây",
+      "Recent": " ",
       "and": "và",
-      "Convenes": "Triệu hồi",
+      "Convenes": "Đã Triệu Hồi",
       "no-filters": "Không có bộ lọc nào được chọn.",
       "no-records": "Không có dữ liệu được tìm thấy."
     },
@@ -250,14 +250,14 @@
         },
         "PullRatio": {
           "title": "Pull Ratio",
-          "formula": "Bao nhiêu % lượt roll của bạn là {qualityLevel}-sao?"
+          "formula": "Bao nhiêu % lượt quay của bạn là {qualityLevel}-sao?"
         },
         "RateUpWins": {
-          "title": "Tỉ lệ trúng rate-up",
+          "title": "% Trúng rate-up",
           "formula": "Bao nhiêu % nhân vật 5-sao của Bạn không bị lệch?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
+          "title": "% Trúng rate-up",
           "formula": "Bạn có hay roll được nhân vật được tăng tỉ lệ không?"
         }
       }
@@ -266,10 +266,10 @@
       "title": "Thống Kê Toàn Cầu",
       "Switch Banner": "Đổi Banner",
       "Banner List": "Danh sách Banner",
-      "Pulls Per Day": "Lượt rút theo ngày",
-      "Pulls By Pity": "Lượt rút theo pity",
-      "Pulls By Name": "Lượt rút theo tên",
-      "Pulls": "Lượt rút"
+      "Pulls Per Day": "Lượt Quay Theo Ngày",
+      "Pulls By Pity": "Lượt Quay Theo Pity",
+      "Pulls By Name": "Đã Quay Ra Theo Tên",
+      "Pulls": "Đã Quay Ra"
     },
     "SharePageContent": {
       "title": "Chia sẻ",
