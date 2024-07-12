@@ -253,7 +253,7 @@
           "formula": "Quel pourcentage de vos invocations a été des {qualityLevel} étoiles?"
         },
         "RateUpWins": {
-          "title": "50/50 gagné",
+          "title": "50/50 gagnés",
           "formula": "Quel pourcentage de 50/50 avez-vous gagné ?"
         },
         "RateUpWins4": {
@@ -263,7 +263,7 @@
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Statistiques",
+      "title": "Statistiques globales",
       "Switch Banner": "Changer de bannière",
       "Banner List": "Liste des bannières",
       "Pulls Per Day": "Invocations par jour",
@@ -285,11 +285,11 @@
     }
   },
   "Import": {
-    "Import Tutorial": "Tutoriel",
+    "Import Tutorial": "Tutoriel d'importation",
     "PC": {
       "title": "PC",
       "Automatic": "Automatique",
-      "Manual": "Manuel"
+      "Manual": "Manuelle"
     },
     "Android": {
       "title": "Android",
@@ -299,10 +299,10 @@
     "Heading": {
       "title": "Choisir la méthode",
       "description": "Si la méthode automatique ne fonctionne pas, essayez la méthode manuelle. Si vous avez toujours besoin d'aide, visitez notre <link>serveur discord</link>.",
-      "description-android": "Si la première méthode ne fonctionne pas, essayez l'autre. Si vous avez toujours besoin d'aide, visitez notre <link>serveur discord</link>."
+      "description-android": "Si la première méthode ne fonctionne pas, essayez l'autre. Si vous avez toujours besoin d'aide, visitez notre <link>serveur Discord</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "L'URL de votre historique n'est pas valide.",
+      "invalid-url": "URL d'historique d'invocations invalide.",
       "import-success": "Importation réussie !",
       "1": {
         "title": "Tout d'abord, lancez Wuthering Waves et ouvrez l'historique d'invocation dans le jeu",
@@ -322,16 +322,16 @@
     "PC2Tutorial": {
       "invalid-url": "L'URL de votre historique n'est pas valide.",
       "import-success": "Importation réussie de l'URL de votre histoire !",
-      "found-url": "Nous avons trouvé une URL ! Cliquez sur le bouton Importer l'historique pour continuer.",
+      "found-url": "Nous avons trouvé une URL ! Cliquez sur le bouton \"Importer l'historique\" pour continuer.",
       "not-found-url": "Aucune URL valide n'a été trouvée dans le fichier.",
       "Click to upload": "Cliquez pour télécharger",
       "or drag and drop": "ou glisser déposer",
       "1": {
-        "title": "Tout d'abord, lancez Wuthering Waves et ouvrez l'historique d'invocation dans le jeu"
+        "title": "Tout d'abord, lancez Wuthering Waves et ouvrez l'historique d'invocations dans le jeu"
       },
       "2": {
         "title": "Accédez à votre répertoire d'installation",
-        "description": "Clic droit sur le launcher Wuthering Waves et sélectionnez <code>Ouvrir l'emplacement du fichier</code>. vous devriez voir le <code>launcher.exe</code> et de nombreux fichier <code>.dll</code>."
+        "description": "Clic droit sur le lanceur de Wuthering Waves et sélectionnez <code>Ouvrir l'emplacement du fichier</code>. Vous devriez voir le fichier <code>launcher.exe</code> et de nombreux fichiers <code>.dll</code>."
       },
       "3": {
         "title": "Cherchez le fichier <code>debug.log</code> dans votre Explorateur de fichiers et importez-le ici"
@@ -345,24 +345,24 @@
     },
     "PC3Tutorial": {
       "invalid-path": "Le chemin d'accès au jeu est invalide",
-      "invalid-url": "L'URL de votre historique de Convier n'est pas valide",
-      "import-success": "Importation réussie de l'URL de votre historique de Convier !",
+      "invalid-url": "URL d'historique d'invocations invalide",
+      "import-success": "Importation réussie !",
       "1": {
-        "title": "Copiez le chemin d'accès au dossier du jeu",
+        "title": "Copiez le chemin à votre répertoire d'installation",
         "description": "Trouvez le dossier qui contient le fichier <code>Wuthering Waves.exe</code> et le dossier <code>Client</code>.",
-        "Your installation directory": "Votre chemin d'accès au dossier",
+        "Your installation directory": "Votre répertoire d'installation",
         "warning": "Avertissement : si vous éditer votre fichier <code>Engine.ini</code> pour désactiver les logs, vous devrez les réactiver avant d'ouvrir votre historique, sinon le script ne fonctionnera pas."
       },
       "2": {
-        "title": "Lancez Wuthering Waves sur votre PC, en jeu, ouvrez un historique d'invocations de Convier.",
-        "description": "Ensuite, ouvrez Windows PowerShell, et copiez-y le script suivant.",
-        "invalid-directory": "Renseignez un chemin d'accès au dossier valide !",
+        "title": "Lancez Wuthering Waves sur votre PC, en jeu, ouvrez un historique d'invocations",
+        "description": "Ensuite, ouvrez Windows PowerShell, et collez-y le script suivant.",
+        "invalid-directory": "Renseignez un chemin de répertoire valide !",
         "Stuck? Click the “Need Help?” button": "Coincé ? Cliquez sur le bouton \"Besoin d'aide ?\"",
-        "note": "Note : Le script ne modifie pas vos fichiers, il extrait simplement l'URL de votre historique de Convier. Vous pouvez <link>voir le script ici</link>."
+        "note": "Note : Le script ne modifie pas vos fichiers, il extrait simplement l'URL de vos journaux. Vous pouvez <link>voir le script ici</link>."
       },
       "3": {
-        "title": "Copiez l'URL ici",
-        "Your Convene History URL": "Votre URL d'historique de Convier"
+        "title": "Collez l'URL ici",
+        "Your Convene History URL": "L'URL de votre historique"
       },
       "4": {
         "title": "Appuyez sur le bouton \"Importer l'historique\""
@@ -373,11 +373,11 @@
     },
     "IOSTutorial": {
       "invalid-json": "Données JSON invalides – veuillez vérifier que vous copiez les points-virgules",
-      "invalid-url": "URL d'historique de Convier invalide",
-      "import-success": "Importation de votre historique de Convier réussie !",
+      "invalid-url": "URL d'historique d'invocations invalide",
+      "import-success": "Importation réussie !",
       "1": {
         "title": "Suivez notre tutoriel vidéo",
-        "description": "Comme pour obtenir votre historique Genshin Impact ou Honkai Star Rail, suivez <video>ce tutoriel vidéo de Chario</video> pour télécharger et utiliser <app>Stream - Network Debug Tool</app>.",
+        "description": "Comme pour obtenir votre historique d'invocations pour Genshin Impact ou Honkai Star Rail, suivez <video>ce tutoriel vidéo de Chario</video> pour télécharger et utiliser <app>Stream - Network Debug Tool</app> pour obtenir votre URL.",
         "Video Tutorial": "Tutoriel vidéo",
         "iOS Import Tutorial Video": "Tutoriel vidéo d'importation sur iOS",
         "video-tutorial-desc": "Suivez ce tutoriel étape par étape sur YouTube, par <highlight>Chario</highlight> de notre <link>serveur Discord</link> pour importer vos données sur PC."
@@ -390,17 +390,17 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "URL d'historique de Convier invalide",
-      "import-success": "Importation de votre historique de Convier réussie !",
+      "invalid-url": "URL d'historique d'invocations invalide",
+      "import-success": "Importation réussie !",
       "1": {
-        "title": "Utilisez Ascent pour obtenir votre URL d'historique de Convier",
+        "title": "Utilisez Ascent pour obtenir votre URL d'historique d'invocations",
         "description": "Comme pour obtenir votre historique d'invocations pour Genshin Impact ou Honkai Star Rail, suivez <video>ce tutoriel vidéo de Chario</video> pour télécharger et utiliser <app>Ascent v2.1.6</app> pour obtenir votre URL.",
         "note": "Cette méthode supporte seulement les versions d'Android 11 ou ultérieures.",
         "troubleshooting": "Si vous rencontrez un problème, consultez <link>la section de dépannage</link>."
       },
       "2": {
         "title": "Collez l'URL ici",
-        "Your Convene History URL": "Votre URL d'historique de Convier"
+        "Your Convene History URL": "L'URL de votre historique"
       },
       "3": {
         "title": "Appuyez sur le bouton \"Importer l'historique\"."
@@ -410,23 +410,23 @@
       "video-tutorial-desc": "Pour commencer, lisez attentivement <guide>ce guide textuel</guide>, puis suivez <video>cette vidéo YouTube</video> pour récupérer vos données sur Android. Tous les crédits reviennent à Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "URL d'historique de Convier invalide",
-      "import-success": "Importation de votre historique de Convier réussie !",
+      "invalid-url": "URL d'historique d'invocations invalide",
+      "import-success": "Importation réussie !",
       "1": {
-        "title": "Utilisez Termux pour obtenir votre URL d'historique de Convier",
+        "title": "Utilisez Termux pour obtenir votre URL d'historique d'invocations",
         "description": "Comme pour obtenir votre historique d'invocations pour Genshin Impact ou Honkai Star Rail, suivez <guide>ce tutoriel vidéo de eqdamini</guide> pour télécharger et utiliser <app>Ascent v2.</app> pour obtenir votre URL."
       },
       "2": {
         "title": "Collez l'URL ici",
-        "Your Convene History URL": "Votre URL d'historique de Convier"
+        "Your Convene History URL": "L'URL de votre historique"
       },
       "3": {
         "title": "Appuyez sur le bouton \"Importer l'historique\""
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "URL d'historique de Convier invalide",
-      "import-success": "Importation de votre historique de Convier réussie !",
+      "invalid-url": "URL d'historique d'invocations invalide",
+      "import-success": "Importation réussie !",
       "1": {
         "title": "Suivez notre tutoriel vidéo",
         "description": "Suivez <link>cette vidéo tutorielle de yukio36</link> après avoir lancé Wuthering Waves.",
@@ -437,7 +437,7 @@
       },
       "2": {
         "title": "Collez l'URL ici",
-        "Your Convene History URL": "Votre URL d'historique de Convier"
+        "Your Convene History URL": "L'URL de votre historique"
       },
       "3": {
         "title": "Appuyez sur le bouton \"Importer l'historique\""
@@ -464,8 +464,8 @@
       "Sync Data": "Synchroniser les données",
       "Google Data": "Données Google",
       "Browser Data": "Données du navigateur",
-      "browser-data-different": "Vos données locales de votre navigateur sont différentes de celles sur votre compte Google.",
-      "browser-data-different-confirmation": "Vos données locales avec l'ID ({localId}) est en conflit avec les données de votre compte Google avec l'ID (${googleId}). Voulez-vous garder les données locales de votre navigateur ou celles de votre compte Google ?"
+      "browser-data-different": "Les données locales de votre navigateur sont différentes de celles de votre compte Google.",
+      "browser-data-different-confirmation": "Vos données locales (ID {localId}) est en conflit avec les données de votre compte Google (ID ${googleId}). Voulez-vous garder les données locales de votre navigateur ou celles de votre compte Google ?"
     },
     "SignInButton": {
       "sign-out-success": "Déconnexion réussie.",
@@ -473,17 +473,17 @@
       "Sign In to Google": "Se connecter avec Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "Vous avez besoin d'une URL valide d'historique de Convier avant de télécharger.",
+      "require-url-before-downloading": "Vous avez besoin d'une URL valide d'historique avant de télécharger.",
       "download-failed": "Échec du téléchargement.",
       "download-starting": "Votre téléchargement va commencer.",
-      "invalid-url": "Veuillez renseigner une URL d'historique de Convier valide.",
-      "import-success": "Importation de votre historique de Convier réussie !",
+      "invalid-url": "Veuillez renseigner une URL d'historique d'invocations valide.",
+      "import-success": "Importation réussie !",
       "delete-local-success": "Données d'historique locales supprimées.",
-      "Convene History Data": "Donnée d'historique de Convier",
+      "Convene History Data": "Données d'historique d'invocations",
       "Import Tutorial": "Tutoriel d'importation",
       "Go to Import Tutorial": "Allez au tutoriel d'importation",
-      "description": "Ici, exportez ou modifiez votre URL d'historique de Convier.",
-      "Your Convene History URL": "Votre URL d'historique de Convier",
+      "description": "Ici, exportez ou modifiez votre URL d'historique d'invocations.",
+      "Your Convene History URL": "L'URL de votre historique",
       "Download Your History": "Télécharger votre historique",
       "Delete Browser Saved Data": "Supprimer les données sauvegardées dans le navigateur",
       "Delete your local data": "Supprimer vos données locales",
@@ -494,13 +494,13 @@
       "description": "Gérer les permissions accordées à Wuwa Tracker pour manipuler vos données."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Partager vos données pour les statistiques"
+      "Submit pull data for global statistics": "Partager vos données pour les statistiques globales"
     }
   },
   "Timeline": {
     "title": "Calendrier",
     "heading": "Calendrier des événements",
-    "description": "Voyez les événements de Wuthering Waves avec votre heure locale ou avec d'autres <link>fuseaux horaires de serveur</link>.",
+    "description": "Voyez les événements de Wuthering Waves avec votre heure locale ou avec d'autres <link>horaires de serveur</link>.",
     "github-update-message": "Mis à jour le {time} par {author}.",
     "Edit this page on GitHub": "Modifiez cette page sur GitHub",
     "ResetTimers": {
