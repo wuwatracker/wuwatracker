@@ -167,8 +167,8 @@
         "data": "dữ liệu",
         "updates": "cập nhật"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "Wuwa Tracker giúp Bạn theo dõi",
+      "description": "Một bộ pity choWuthering Waves, sử dụng dữ liệu cập nhật với số liệu thống kê toàn cầu và hơn thế nữa. Chúng tôi mong muốn cung cấp những công cụ tốt nhất để giới thiệu tiến trình Sóng Gió Hú của bạn với bạn bè."
     },
     "Tutorial": {
       "title": "Bắt Đầu",
@@ -187,20 +187,20 @@
   },
   "Achievements": {
     "title": "Thành tựu",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "description": "Nguồn: <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> cho dữ liệu ban đầu.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Nhập dữ liệu thành công.",
         "import-invalid": "Nhập dữ liệu thành công.",
-        "parse-fail": "Failed to parse JSON file.",
+        "parse-fail": "Phân tích file JSON thất bại.",
         "download-fail": "Tải xuống thất bại.",
         "download-start": "Quá trình tải xuống sẽ bắt đầu ngay thôi."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
+      "description": "Sử dụng bộ lọc để tìm kiếm thành tựu chưa hoàn thành.",
       "Completed": "Hoàn tất",
       "ImportDialog": {
         "title": "Nhập dữ liệu",
-        "description": "Use your previously exported data and sync it with your browser."
+        "description": "Sử dụng dữ liệu đã xuất ra trước đó và đồng bộ hóa nó với trình duyệt của bạn."
       },
       "Hidden": "Ẩn",
       "Click to upload": "Bấm để tải lên",
@@ -379,53 +379,53 @@
         "title": "Hãy làm theo Video hướng dẫn",
         "description": "Tương tự như lấy lịch sử triệu hồi trong Genshin Impact hoặc Honkai Star Rail, hãy làm theo <video>video hướng dẫn bởi Chario</video> để tải và sử dụng <app>Stream - Network Debug Tool</app>.",
         "Video Tutorial": "Video Hướng dẫn",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "iOS Import Tutorial Video": "Video Hướng dẫn nhập trên iOS",
+        "video-tutorial-desc": "Hãy làm theo hướng dẫn trên YouTube bởi<highlight>Chario</highlight> từ <link>Máy chủ Discord</link> để nhập dữ liệu của bạn trên PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Dán JSON vào đây"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nhấn nút \"Import History\" trên trang này"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Sử dụng Ascent để lấy URL Lịch sử Triệu hồi",
+        "description": "Tương tự như lấy lịch sử triệu hồi trong Genshin Impact hoặc Honkai Star Rail, hãy làm theo <video>hướng dẫn này của Mirai0009</video> để tải và sử dụng <app>Ascent v2.1.6</app> và lấy URL.",
+        "note": "Phương pháp này chỉ hỗ trợ phiên bản Android 11 trở lên.",
+        "troubleshooting": "Nếu nó không hoạt động, hãy kiểm tra <link>troubleshooting section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " Nhấn nút \"Import History\" trên trang này"
       },
-      "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Video Tutorial": "Video Hướng dẫn",
+      "Android Ascent Import Tutorial Video": "Video Hướng dẫn nhập bằng Ascent trên Android",
+      "video-tutorial-desc": "Đầu tiên, hãy đọc thật cẩn thận <guide>hướng dẫn này</guide> và thực hiện theo <video>YouTube video</video> để lấy dữ liệu của bạn trên Android. Tất cả credits thuộc về Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Sử dụng Termux để lấy URL Lịch sử Triệu hồi",
+        "description": "Tương tự như lấy lịch sử triệu hồi trong Genshin Impact hoặc Honkai Star Rail, hãy làm theo <guide>hướng dẫn bởi eqdamini</guide> để tải và sử dụng <app>Termux</app> và lấy URL."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Dán URL vào đây",
+        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nhấn nút \"Import History\" trên trang này"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
         "title": "Hãy làm theo Video hướng dẫn",
