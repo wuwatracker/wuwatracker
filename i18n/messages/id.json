@@ -98,24 +98,24 @@
   "Metadata": {
     "Generic": {
       "title": "Wuwa Tracker",
-      "description": "Sebuah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Sinkronkan data Anda di semua perangkat dan bagikan hasil tarikan Anda dengan teman serta lacak akun Anda dengan mudah!"
+      "description": "Penghitung pity untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Sinkronkan data Anda di seluruh perangkat dan bagikan gacha Anda dengan teman-teman dan lacak akun Anda dengan mudah!"
     },
     "Achievements": {
       "title": "Prestasi - Wuwa Tracker",
-      "description": "Lacak prestasi Gelombang Wuthering Anda dan impor & ekspor data Anda dengan bebas di semua perangkat! Pelacak Wuwa - Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+      "description": "Lacak prestasi Gelombang Wuthering Anda dan impor & ekspor data Anda dengan bebas di semua perangkat! Pelacak Wuwa - Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak akun Anda!"
     },
     "Convene": {
       "Index": {
-        "title": "Sejarah Kumpul - Wuwa Tracker",
-        "description": "Lihat statistik tarikan Gelombang Wuthering yang diperbarui dan kumpulan terbaru Anda. Gunakan dasbor siap tangkap untuk memamerkan kepada teman-teman! Pelacak Wuwa - Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+        "title": "Riwayat Convene - Wuwa Tracker",
+        "description": "Lihat statistik gacha Wuthering Waves yang diperbarui dan Convenes terkini. Gunakan menu yang siap menangkap tangkapan layar untuk menyombongkan diri kepada teman-teman Anda! Penghitung pity Wuwa Tracker untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Bagikan gacha Anda dengan teman dan lacak akun Anda!"
       },
       "Global": {
         "title": "Statistik Global - Wuwa Tracker",
-        "description": "Lihat statistik tarikan global untuk spanduk {currentBanner}, menampilkan {currentFeaturedResonator}! Gunakan dasbor siap tangkap untuk memamerkan kepada teman-teman! Pelacak Wuwa - Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+        "description": "Lihat statistik gacha global untuk banner {currentBanner}, yang menampilkan {currentFeaturedResonator}! Gunakan menu yang siap menangkap tangkapan layar untuk menyombongkan diri kepada teman-teman Anda! Penghitung pity Wuwa Tracker untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Bagikan gacha Anda dengan teman dan lacak akun Anda!"
       },
       "Share": {
-        "title": "Bagikan Sejarah - Wuwa Tracker",
-        "description": "Buat kartu sejarah kumpul dengan riwayat tarikan Anda untuk dibagikan dengan teman! Pelacak Wuwa - Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+        "title": "Bagikan Riwayat - Wuwa Tracker",
+        "description": "Buat kartu riwayat Convene dengan riwayat gacha Anda untuk dibagikan dengan teman-teman Anda! Penghitung pity Wuwa Tracker untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Bagikan tarikan Anda dengan teman dan lacak akun Anda!"
       }
     },
     "Error": {
@@ -123,16 +123,16 @@
       "description": "Terjadi kesalahan saat menggunakan Wuwa Tracker. Harap kirim laporan ke server Discord kami agar kami dapat menanganinya segera."
     },
     "Import": {
-      "title": "Impor Sejarah Kumpul - Wuwa Tracker",
-      "description": "Ikuti tutorial interaktif kami untuk menampilkan data Gelombang Wuthering dan lihat statistik Anda. Kami mendukung impor dari PC, perangkat Android, dan iOS dengan metode otomatis. Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+      "title": "Impor Riwayat Convene - Wuwa Tracker",
+      "description": "Ikuti tutorial interaktif kami untuk menampilkan data Wuthering Waves dan lihat statistik Anda. Kami mendukung impor dari PC, perangkat Android, dan iOS dengan metode otomatis. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak akun Anda!"
     },
     "Not Found": {
       "title": "Halaman Tidak Ditemukan - Wuwa Tracker",
-      "description": "Halaman ini tidak ditemukan di Wuwa Tracker. Silakan kembali ke halaman utama untuk mulai melacak data Sejarah Kumpul Gelombang Wuthering Anda."
+      "description": "Halaman ini tidak ditemukan di Wuwa Tracker. Silakan kembali ke halaman utama untuk mulai melacak data Riwayat Convene Wuthering Waves Anda."
     },
     "Privacy Policy": {
       "title": "Kebijakan Privasi - Wuwa Tracker",
-      "description": "Dokumen kebijakan privasi ini menjelaskan jenis informasi pribadi yang diterima dan dikumpulkan oleh Wuwa Tracker serta bagaimana penggunaannya. Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi."
+      "description": "Dokumen kebijakan privasi ini menjelaskan jenis informasi pribadi yang diterima dan dikumpulkan oleh Wuwa Tracker serta bagaimana penggunaannya. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi."
     },
     "Sequences": {
       "title": "Urutan - Wuwa Tracker",
@@ -140,7 +140,7 @@
     },
     "Settings": {
       "title": "Pengaturan - Wuwa Tracker",
-      "description": "Sinkronkan data Anda melalui Google dengan masuk. Kelola data tarikan Wuthering Waves Anda di satu tempat. Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+      "description": "Sinkronkan data Anda melalui Google dengan masuk. Kelola data tarikan Wuthering Waves Anda di satu tempat. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
     },
     "Terms & Conditions": {
       "title": "Syarat & Ketentuan - Wuwa Tracker",
@@ -148,7 +148,7 @@
     },
     "Timeline": {
       "title": "Garis Waktu Acara - Wuwa Tracker",
-      "description": "Dengan zona waktu lokal atau zona waktu server Gelombang Wuthering mana pun, Anda dapat melihat jadwal setiap spanduk, acara dalam permainan, periode Menara Adversitas dan Kedalaman Dunia Ilusi - semua dalam satu tempat. Wuwa Tracker adalah hitung mundur kesedihan untuk Gelombang Wuthering, menggunakan data terbaru dengan statistik global dan lebih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+      "description": "Dengan zona waktu lokal atau zona waktu server Gelombang Wuthering mana pun, Anda dapat melihat jadwal setiap spanduk, acara dalam permainan, periode Menara Adversitas dan Kedalaman Dunia Ilusi - semua dalam satu tempat. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
     }
   },
   "Layout": {
@@ -168,18 +168,18 @@
         "updates": "pembaruan"
       },
       "title": "Wuwa Tracker membantu anda melacak",
-      "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan banyak lainya. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah!"
+      "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah."
     },
     "Tutorial": {
       "title": "Ayo Mulai!",
       "description": "Selamat Datang, Rover. Aku bantu kamu mulai, siap?",
-      "View Pull History": "Lihat Gacha History",
+      "View Pull History": "Lihat Riwayat Gacha",
       "Sync Your Data": "Sinkronisasikan Data Anda",
       "Your data will now sync automatically!": "Data Anda mulai sekarang akan tersinkronisasi secara otomatis"
     },
     "Changelogs": {
-      "title": "Daftar Perubahan",
-      "description": "Lihat pemberitahuan website disini."
+      "title": "Changelogs",
+      "description": "Lihat pengumuman situs web di sini."
     },
     "Community": {
       "title": "Komunitas"
@@ -190,24 +190,24 @@
     "description": "Kredit diberikan kepada <link>spreadsheet WuWa Achievements V1.1 StarDB</link> untuk data awal.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Import data sukses. ",
-        "import-invalid": "Tolong masukan data yang benar.",
-        "parse-fail": "Gagal memuat JSON file.",
-        "download-fail": "Gagal mengunduh.",
-        "download-start": "Unduhan Anda akan mulai dengan sekejap."
+        "import-success": "Data berhasil diimpor.",
+        "import-invalid": "Harap impor data yang valid.",
+        "parse-fail": "Gagal memuat file JSON.",
+        "download-fail": "Gagal memulai pengunduhan.",
+        "download-start": "Pengunduhan Anda akan segera dimulai."
       },
       "description": "Gunakan filter untuk membantumu mencari pencapaian apa yang kamu belum dapatkan.",
-      "Completed": "Sukses",
+      "Completed": "Berhasil",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "Impor Data",
+        "description": "Gunakan data yang Anda ekspor sebelumnya dan sinkronkan dengan browser Anda."
       },
-      "Hidden": "Sembunyikan",
-      "Click to upload": "Klik untuk upload",
+      "Hidden": "Tersembunyi",
+      "Click to upload": "Klik untuk mengunggah",
       "or drag and drop": "atau tarik dan jatuhkan",
-      "Import": "Import",
+      "Import": "Impor",
       "Export as JSON": "Export sebagai JSON",
-      "Need Tips?": "Butuh saran?"
+      "Need Tips?": "Butuh Tip?"
     }
   },
   "Convene": {
@@ -216,64 +216,64 @@
       "Global Statistics": "Statistik Global"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Kategori"
+      "Convene Categories": "Kategori Convene"
     },
     "UserRecentConvenes": {
       "Recent": "Terbaru",
       "and": "dan",
       "Convenes": "Convenes",
       "no-filters": "Tidak ada filter yang dipilih.",
-      "no-records": "Tidak ada jejak yang ditemukan."
+      "no-records": "Tidak ada catatan yang ditemukan."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
+      "Pull History": "Riwayat Gacha",
+      "Pull Num": "Gacha No.",
       "Item": "Item",
       "Pity": "Pity",
-      "Date Received": "Waktu Terima.",
-      "no-records": "Tidak ada jejak yang ditemukan."
+      "Date Received": "Tanggal Diterima",
+      "no-records": "Tidak ada catatan yang ditemukan."
     },
     "UserBannerStats": {
       "Total": "Total",
       "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Pulls": "Banyak Gacha"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Beruntung ",
+      "Luck": "Keberuntungan",
       "no-luck": "Banner ini tidak ada statistik keberuntungan.",
-      "no-records": "Tidak ada jejak yang ditemukan.",
-      "calibrating": "Kaliberasi...",
+      "no-records": "Tidak ada catatan yang ditemukan.",
+      "calibrating": "Mengkalibrasi...",
       "Percentiles": {
         "AvgPity": {
           "title": "Pity Rata-Rata",
-          "formula": "Berapa Pity rata-rata Anda {qualityLevel}-star pity?"
+          "formula": "Berapa Pity rata-rata {qualityLevel}-star Anda?"
         },
         "PullRatio": {
-          "title": "Pull Rasio",
-          "formula": "Berapa persen total keseluruhan Gacha {qualityLevel}-stars?"
+          "title": "Rasio Gacha",
+          "formula": "Berapa persentase total gacha {qualityLevel}-stars Anda?"
         },
         "RateUpWins": {
-          "title": "50/50 Menang",
+          "title": "Kemenangan 50/50",
           "formula": "Berapa persen dari 50/50 gacha yang Anda menangkan?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Menang",
-          "formula": "Seberapa sering 4-star gacha rate anda?"
+          "title": "Rate-up Kemenangan",
+          "formula": "Seberapa sering rate-up gacha bintang 4 Anda?"
         }
       }
     },
     "GlobalStatsPageContent": {
       "title": "Statistik Global",
       "Switch Banner": "Ganti Banner",
-      "Banner List": "Katalog Banner",
+      "Banner List": "Daftar Banner",
       "Pulls Per Day": "Gacha Per Hari",
-      "Pulls By Pity": "Gacha dengan Pity",
+      "Pulls By Pity": "Gacha Per Pity",
       "Pulls By Name": "Gacha Per Karakter",
       "Pulls": "Gacha"
     },
     "SharePageContent": {
       "title": "Bagikan Kartu",
-      "description": "Kostumisasi dan donwload Convene History Wuthering Waves Anda dan berbagi kepada orang lain!",
+      "description": "Kostumisasi dan download Riwayat Convene Wuthering Waves Anda dan berbagi kepada orang lain!",
       "Customize": "Kostumisasi",
       "Edit Share Card": "Edit Kartu Berbagi",
       "edit-description": "Kartu anda diperbarui secara tepat waktu seiring perubahan yang Anda buat.",
@@ -285,7 +285,7 @@
     }
   },
   "Import": {
-    "Import Tutorial": "Panduan Import",
+    "Import Tutorial": "Impor Tutorial",
     "PC": {
       "title": "PC",
       "Automatic": "Otomatis",
@@ -340,7 +340,7 @@
         "title": "Tekan Tombol \"Import History\" pada Website ini"
       },
       "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "PC Import Tutorial Video": "Video Tutorial Impor PC",
       "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
     },
     "PC3Tutorial": {
@@ -368,7 +368,7 @@
         "title": "Tekan Tombol \"Import History\" pada Website ini"
       },
       "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "PC Import Tutorial Video": "Video Tutorial Impor PC",
       "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>cacaowithwater</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
     },
     "IOSTutorial": {
@@ -379,7 +379,7 @@
         "title": "Ikuti Video Tutorial Kami",
         "description": "Mirip dengan mendapatkan history Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>tutorial video dari Chario</video> ini untuk mengunduh dan menggunakan <app>Stream - Network Debug Tool</app>.",
         "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
+        "iOS Import Tutorial Video": "Video Tutorial Impor iOS",
         "video-tutorial-desc": "Ikuti petunjuk ini langkah demi langkah<highlight>Chario</highlight> dari Server <link>Discord Kami</link> untuk mengimpor data pada PC Anda"
       },
       "2": {
@@ -406,7 +406,7 @@
         "title": "Tekan Tombol \"Import History\" pada Website ini"
       },
       "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
+      "Android Ascent Import Tutorial Video": "Video Tutorial Impor Ascent Android",
       "video-tutorial-desc": "Pertama, tolong baca ini dengan teliti <guide>teks panduan</guide> lalu ikuti video ini <video>YouTube video</video> untuk mengambil data Anda di Android. Semua jasa diberikan untuk Mirai0009."
     },
     "Android2Tutorial": {
@@ -480,7 +480,7 @@
       "import-success": "Berhasil mengimpor Alamat History Convene secara lokal!",
       "delete-local-success": "Data history lokal dihapus.",
       "Convene History Data": "Data History Convene",
-      "Import Tutorial": "Import Tutorial",
+      "Import Tutorial": "Impor Tutorial",
       "Go to Import Tutorial": "Pergi ke Import Tutorial",
       "description": "Ekspor atau ubah Alamat History Convene Anda disini.",
       "Your Convene History URL": "Alamat History Convene Anda",
