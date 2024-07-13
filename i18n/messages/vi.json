@@ -57,38 +57,38 @@
     "Originite: Type V": "Originite: Type V",
     "Overture": "Overture",
     "Pistols of Night": "Pistols of Night",
-    "Pistols of Voyager": "Pistols of Voyager",
+    "Pistols of Voyager": "Súng lục của Nhà Du hành",
     "Pistols#26": "Pistols#26",
     "Rectifier of Night": "Rectifier of Night",
     "Rectifier of Voyager": "Rectifier of Voyager",
     "Rectifier#25": "Rectifier#25",
-    "Scale: Slasher": "Scale: Slasher",
-    "Static Mist": "Static Mist",
-    "Stonard": "Stonard",
-    "Stringmaster": "Stringmaster",
-    "Sword of Night": "Sword of Night",
-    "Sword of Voyager": "Sword of Voyager",
-    "Sword#18": "Sword#18",
-    "Thunderbolt": "Thunderbolt",
-    "Undying Flame": "Undying Flame",
-    "Variation": "Variation",
+    "Scale: Slasher": "Cấp Độ: Sát Thủ",
+    "Static Mist": "Sương Tĩnh",
+    "Stonard": "Tựa Thạch",
+    "Stringmaster": "Khôi Lỗi Sư",
+    "Sword of Night": "Đoản Kiếm của Màn Đêm",
+    "Sword of Voyager": "Đoản Kiếm của Nhà Du hành",
+    "Sword#18": "Đoản kiếm số 18",
+    "Thunderbolt": "Sấm Rền",
+    "Undying Flame": "Hỏa Diểm Bất Tận",
+    "Variation": "Biến thể",
     "Verdant Summit": "Verdant Summit"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
-    "Tidal Chorus": "Tidal Chorus",
+    "Featured Resonator": "Nhân vật giới hạn",
+    "Featured Weapon": "Vũ khí giới hạn",
+    "Permanent Resonator": "Cộng hưởng sư tiêu chuẩn",
+    "Permanent Weapon": "Vũ khí tiêu chuẩn",
+    "Beginner Convene": "Banner Tân thủ",
+    "Beginner's Choice": "Tân thủ tự chọn",
+    "Selector Ticket": "Vé chọn nhân vật",
+    "Tidal Chorus": "Khúc Triều đồng",
     "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Absolute Pulsation",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
+    "Utterance of Marvels": "Tiếng gọi của Kỳ Quan",
+    "Beginner Selector": "Banner tự chọn của Tân thủ",
+    "Convene Giveback Event": "Xung Động Tuyệt Đối",
+    "Absolute Pulsation": "Xung Động Tuyệt Đối",
+    "Prevail the Lasting Night": "Hừng Đông Sau Đêm",
     "When Thunder Pours": "When Thunder Pours",
     "Thawborn Renewal": "Thawborn Renewal"
   },
@@ -157,10 +157,10 @@
     }
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "Tổng quan",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "lượt rút",
+        "pulls": "lượt quay",
         "pity": "pity",
         "events": "sự kiện",
         "statistics": "thống kê",
@@ -187,7 +187,7 @@
   },
   "Achievements": {
     "title": "Thành tựu",
-    "description": "Nguồn: <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> cho dữ liệu ban đầu.",
+    "description": "Nguồn: <link>StarDB's WuWa Achievements V1.1 spreadsheet</link>.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Nhập dữ liệu thành công.",
@@ -202,7 +202,7 @@
         "title": "Nhập dữ liệu",
         "description": "Sử dụng dữ liệu đã xuất ra trước đó và đồng bộ hóa nó với trình duyệt của bạn."
       },
-      "Hidden": "Ẩn",
+      "Hidden": "Đã ẩn",
       "Click to upload": "Bấm để tải lên",
       "or drag and drop": "hoặc kéo và thả",
       "Import": "Nhập",
@@ -211,32 +211,32 @@
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "Theo dõi lượt quay",
     "ConveneCategoryGlobal": {
       "Global Statistics": "Thống kê toàn cầu"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Mục Triệu Hồi"
+      "Convene Categories": "Mục lượt quay"
     },
     "UserRecentConvenes": {
       "Recent": " ",
       "and": "và",
-      "Convenes": "Đã Triệu Hồi",
+      "Convenes": "Các lượt quay",
       "no-filters": "Không có bộ lọc nào được chọn.",
       "no-records": "Không có dữ liệu được tìm thấy."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Lịch sử Triệu hồi",
-      "Pull Num": "Lượt rút thứ",
+      "Pull History": "Lịch sử quay",
+      "Pull Num": "Lượt quay thứ",
       "Item": "Vật phẩm",
       "Pity": "Pity",
-      "Date Received": "Thời gian nhận",
+      "Date Received": "Thời gian ghi nhận",
       "no-records": "Không có dữ liệu được tìm thấy."
     },
     "UserBannerStats": {
       "Total": "Tổng lượt",
       "Astrites": "Astrites",
-      "Pulls": "đã roll được"
+      "Pulls": "Đã quay được"
     },
     "UserBannerStatsLuckCards": {
       "Luck": "Độ may mắn",
@@ -249,11 +249,11 @@
           "formula": "Pity {qualityLevel}-sao trung bình của bạn là bao nhiêu?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
+          "title": "Tỉ lệ lượt quay",
           "formula": "Bao nhiêu % lượt quay của bạn là {qualityLevel}-sao?"
         },
         "RateUpWins": {
-          "title": "% Trúng rate-up",
+          "title": "tỉ lệ trúng 50/50",
           "formula": "Bao nhiêu % nhân vật 5-sao của Bạn không bị lệch?"
         },
         "RateUpWins4": {
@@ -275,8 +275,8 @@
       "title": "Chia sẻ",
       "description": "Tùy chỉnh và tải xuống Lịch sử Triệu hồi của bạn để chia sẻ với mọi người nhé!",
       "Customize": "Tùy chỉnh",
-      "Edit Share Card": "Chỉnh sửa thẻ",
-      "edit-description": "Thẻ của bạn cập nhật ngay khi bạn thực hiện thay đổi.",
+      "Edit Share Card": "Chỉnh sửa bản chia sẻ",
+      "edit-description": "Bản chia sẻ của bạn cập nhật ngay khi bạn thực hiện thay đổi.",
       "Select Banner": "Chọn Banner",
       "Background": "Hình nền",
       "Foreground": "Hình nhân vật",
@@ -297,15 +297,15 @@
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Chọn phương pháp",
-      "description": "Nếu phương pháp tự động không hoạt động, hãy thử thực hiện thủ công theo hướng dẫn. Nếu bạn vẫn cần sự trợ giúp, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi.",
+      "title": "Chọn một cách dưới đây",
+      "description": "Nếu nhập tự động không hoạt động, hãy thực hiện thủ công theo hướng dẫn. Nếu bạn cần giúp đỡ, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi.",
       "description-android": "Nếu cách đầu tiên không hoạt động, hãy thử những cách còn lại, Nếu bạn vẫn cần sự trợ giúp, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi."
     },
     "PC1Tutorial": {
-      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
+      "invalid-url": "URL Lịch sử Quay không hợp lệ.",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
-        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History trong trò chơi",
+        "title": "Đầu tiên, khởi chạy Wuthering Waves và mở Convene History trong trò chơi",
         "description": "Sau đó, mở Windows PowerShell, và dán đoạn script sau vào.",
         "History URL Script": "Script URL Lịch sử Triệu hồi",
         "Click the copy button on the right": "Bấm vào nút sao chép bên phải",
@@ -313,21 +313,21 @@
       },
       "2": {
         "title": "Dán URL vào đây",
-        "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn"
+        "Your Convene History URL": "URL Lịch sử Quay của Bạn"
       },
       "3": {
         "title": "Nhấn nút \"Import History\" trên trang này"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
-      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
-      "found-url": "Đã tìm thấy URL! Bấm vào nút Import History để bắt đầu.",
+      "invalid-url": "URL Lịch sử Quay không hợp lệ.",
+      "import-success": "Đã nhập URL Lịch sử Quay thành công!",
+      "found-url": "Đã tìm thấy URL! Bấm vào nút Nhập Lịch sử Quayđể bắt đầu.",
       "not-found-url": "Không tìm thấy URL hợp lệ trong file log.",
       "Click to upload": "Bấm để tải lên",
       "or drag and drop": "hoặc kéo và thả",
       "1": {
-        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History trong trò chơi"
+        "title": "Đầu tiên, mở Wuthering Waves và mở Lịch sử Quay trong trò chơi"
       },
       "2": {
         "title": "Chuyển đến thư mục cài đặt của bạn",
@@ -456,7 +456,7 @@
       "data-is-in-sync": "Dữ liệu đã được đồng bộ với tài khoản Google.",
       "is-synced": "Dữ liệu đã được đồng bộ",
       "is-not-synced": "Dữ liệu CHƯA được đồng bộ",
-      "Cloud Backup": "Cloud Backup",
+      "Cloud Backup": "Sao lưu dữ liệu từ xa",
       "description": "Lưu dữ liệu của bạn bằng Tài khoản Google và truy cập dữ liệu của bạn trên bất kỳ thiết bị nào. Sau khi đăng nhập, chỉ cần nhấp vào nút \"Đồng bộ hóa dữ liệu\" để tải lên hoặc tải xuống dữ liệu của bạn vào thiết bị.",
       "Guest": "Khách",
       "Sign In to Google": "Đăng nhập vào Google",

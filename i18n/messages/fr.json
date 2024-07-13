@@ -93,7 +93,7 @@
     "Thawborn Renewal": "Le rêve du printemps"
   },
   "Common": {
-    "Import History": "Importer l'historique"
+    "Import History": "Importer"
   },
   "Metadata": {
     "Generic": {
@@ -173,8 +173,8 @@
     "Tutorial": {
       "title": "Commençons",
       "description": "Bienvenue, Nomade. Commençons, d'accord ?",
-      "View Pull History": "Voir l'historique des invocations",
-      "Sync Your Data": "Synchroniser vos données",
+      "View Pull History": "Voir l'historique",
+      "Sync Your Data": "Sync vos données",
       "Your data will now sync automatically!": "Vos données se synchroniseront maintenant automatiquement !"
     },
     "Changelogs": {
@@ -219,9 +219,9 @@
       "Convene Categories": "Catégories d'invocation"
     },
     "UserRecentConvenes": {
-      "Recent": "Récents",
+      "Recent": "Invocations",
       "and": "et",
-      "Convenes": "Invocations",
+      "Convenes": "récentes",
       "no-filters": "Aucun filtre sélectionné.",
       "no-records": "Aucun historique trouvé."
     },
@@ -234,7 +234,7 @@
       "no-records": "Aucun historique trouvé."
     },
     "UserBannerStats": {
-      "Total": "Total",
+      "Total": "Nombre",
       "Astrites": "Astrites",
       "Pulls": "Invocations"
     },
@@ -465,7 +465,7 @@
       "Google Data": "Données Google",
       "Browser Data": "Données du navigateur",
       "browser-data-different": "Les données locales de votre navigateur sont différentes de celles de votre compte Google.",
-      "browser-data-different-confirmation": "Vos données locales (ID {localId}) est en conflit avec les données de votre compte Google (ID ${googleId}). Voulez-vous garder les données locales de votre navigateur ou celles de votre compte Google ?"
+      "browser-data-different-confirmation": "Vos données locales (ID {localId}) sont en conflit avec les données de votre compte Google (ID ${googleId}). Voulez-vous garder les données locales de votre navigateur ou celles de votre compte Google ?"
     },
     "SignInButton": {
       "sign-out-success": "Déconnexion réussie.",
@@ -500,7 +500,7 @@
   "Timeline": {
     "title": "Calendrier",
     "heading": "Calendrier des événements",
-    "description": "Voyez les événements de Wuthering Waves avec votre heure locale ou avec d'autres <link>horaires de serveur</link>.",
+    "description": "Suivez les événements de Wuthering Waves avec votre heure locale ou avec d'autres <link>horaires de serveur</link>.",
     "github-update-message": "Mis à jour le {time} par {author}.",
     "Edit this page on GitHub": "Modifiez cette page sur GitHub",
     "ResetTimers": {
