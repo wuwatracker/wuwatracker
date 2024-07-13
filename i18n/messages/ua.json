@@ -156,6 +156,22 @@
       "label": "Допомога з перекладом"
     }
   },
+  "MenuList": {
+    "Tools": "Інструменти",
+    "Guides": "Інструкції",
+    "Config": "Конфігурація",
+    "Convene Tracker": "Скликання",
+    "Global Stats": "Статистика",
+    "Share History": "Поділитися",
+    "Sequences": "Послідовності",
+    "Achievements": "Досягнення",
+    "Timeline": "Розклад",
+    "Import": "Імпорт",
+    "Settings": "Налаштування",
+    "Support Us": "Підтримати",
+    "Sign In to Google": "Sign In to Google",
+    "Sign Out": "Sign Out"
+  },
   "Dashboard": {
     "title": "Головна панель",
     "Greeting": {
@@ -167,7 +183,7 @@
         "data": "дані",
         "updates": "оновлення"
       },
-      "title": "Трекер Wuwa допомагає вам відстежувати",
+      "title": "Wuwa Tracker допомагає відстежувати",
       "description": "Лічильник жалю для Wuthering Waves, використовуючи найсвіжіші дані з глобальною статистикою та багато іншого. Ми прагнемо надати найкращі інструменти, щоб продемонструвати ваш Wuthering Waves прогрес вашим друзям."
     },
     "Tutorial": {
@@ -500,12 +516,12 @@
   "Timeline": {
     "title": "Хронологія",
     "heading": "Хронологія подій",
-    "description": "Переглядайте події Wuthering Waves у вашому локальному часовому поясі або в іншому <link>Server Times</link>.",
+    "description": "Переглядайте події Wuthering Waves за локальним часом або в іншому <link>часовому поясі сервера</link>.",
     "github-update-message": "Оновлено {time} користувачем {author}.",
     "Edit this page on GitHub": "Редагувати цю сторінку на GitHub",
     "ResetTimers": {
       "title": "Таймери за розкладом сервера",
-      "description": "Порівняйте свій місцевий час з ігровими серверами Wuthers, щоб спланувати ваші наступні пригоди."
+      "description": "Порівняйте свій місцевий час з часовими поясами серверами Wuthering Waves, щоб спланувати ваші наступні пригоди."
     }
   }
 }
