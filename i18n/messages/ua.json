@@ -75,8 +75,8 @@
     "Verdant Summit": "Зелена вершина"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Скликання особливого Резонатора",
-    "Featured Weapon": "Скликання особливою зброї",
+    "Featured Resonator": "Особливий Резонатор",
+    "Featured Weapon": "Особлива зброя",
     "Permanent Resonator": "Постійні Резонатори",
     "Permanent Weapon": "Постійна зброя",
     "Beginner Convene": "Початкове Скликання",
@@ -169,8 +169,8 @@
     "Import": "Імпорт",
     "Settings": "Налаштування",
     "Support Us": "Підтримати",
-    "Sign In to Google": "Sign In to Google",
-    "Sign Out": "Sign Out"
+    "Sign In To Google": "Вхід в Google",
+    "Sign Out": "Вийти"
   },
   "Dashboard": {
     "title": "Головна панель",
@@ -486,7 +486,7 @@
     "SignInButton": {
       "sign-out-success": "Ви успішно вийшли з системи.",
       "Sign out": "Вийти",
-      "Sign In to Google": "Увійти до облікового запису Google"
+      "Sign In to Google": "Вхід Google"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Перед завантаженням вам необхідно мати дійсну URL-адресу Історії Скликань.",
