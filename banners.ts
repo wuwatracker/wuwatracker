@@ -21,8 +21,8 @@ export interface BannerMetadata {
 export const bannerMetadata: BannerMetadata[] = [
   {
     cardPoolType: 1,
-    title: 'Thawborn Renewal',
-    description: 'Featured Resonator',
+    title: 'Featured Resonator',
+    description: 'Thawborn Renewal',
     featuredName: 'Jinhsi',
     pullCost: 160,
     fiveStarPity: 80,
@@ -34,8 +34,8 @@ export const bannerMetadata: BannerMetadata[] = [
   },
   {
     cardPoolType: 2,
-    title: 'Absolute Pulsation',
-    description: 'Featured Weapon',
+    title: 'Featured Weapon',
+    description: 'Absolute Pulsation',
     featuredName: 'Ages of Harvest',
     pullCost: 160,
     fiveStarPity: 80,
