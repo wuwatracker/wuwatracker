@@ -332,7 +332,7 @@
         "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
-        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg az \"Előzmények importálása\" gombot ezen a weboldalon"
       }
     },
     "PC2Tutorial": {
@@ -353,7 +353,7 @@
         "title": "Keresd meg a <code>debug.log</code> fájlt a fájlkezelőben, és töltsd fel ide"
       },
       "4": {
-        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg az \"Előzmények importálása\" gombot ezen a weboldalon"
       },
       "Video Tutorial": "Oktatóvideó",
       "PC Import Tutorial Video": "Importálás számítógépen oktatóvideó",
@@ -402,42 +402,42 @@
         "title": "Illesszd be ide a JSON-t"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nyomd meg az \"Előzmények importálása\" gombot ezen a weboldalon"
       }
     },
     "Android1Tutorial": {
       "invalid-url": "Érvénytelen húzási előzmény URL",
       "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Használd a Ascent-et, hogy megkapd a húzási előzmény URL-t",
+        "description": "Hasonlóan a Genshin Impact vagy a Honkai Star Rail előzményeinek megszerzéséhez, kövesd <video>a Mirai0009</video> útmutatóját, hogy letöltsd és használd az <app>Ascent v2.1.6</app>-t az URL-ed megszerzéséhez.",
+        "note": "Ez a módszer csak a 11-es vagy annál magasabb Android-verziókat támogatja.",
+        "troubleshooting": "Ha nem működik megfelelően, nézd meg a <link>hibaelhárítás</link> részt."
       },
       "2": {
         "title": "Illesszd be az URL-t ide",
         "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " Nyomd meg a \" Előzmények importálása\" gombot ezen a weboldalon"
       },
       "Video Tutorial": "Oktatóvideó",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Android Ascent Import Tutorial Video": "Android Ascent importálás oktatóvideó",
+      "video-tutorial-desc": "Először olvasd el figyelmesen ezt a <guide>szöveges útmutató</guide>t, majd kövesd ezt a <video>YouTube-videót</video>, hogy megkapd az adataidat Androidon. Minden elismerés Mirai0009-nek jár."
     },
     "Android2Tutorial": {
       "invalid-url": "Érvénytelen húzási előzmény URL",
       "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Termux használata a húzási előzmények URL-címének lekérdezéséhez",
+        "description": "Hasonlóan a Genshin Impact vagy a Honkai Star Rail előzményeihez, kövesd <guide>ezt az eqdamini által készített útmutatót</guide>, hogy letöltsd és használd az <app>Termux</app>-t az URL-ed lekérdezéséhez."
       },
       "2": {
         "title": "Illesszd be az URL-t ide",
         "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
-        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg az \"Előzmények importálása\" gombot ezen a weboldalon"
       }
     },
     "Android3Tutorial": {
@@ -456,7 +456,7 @@
         "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
-        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg az \"Előzmények importálása\" gombot ezen a weboldalon"
       }
     }
   },
