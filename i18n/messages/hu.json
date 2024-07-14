@@ -75,13 +75,13 @@
     "Verdant Summit": "Verdant Summit"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
+    "Featured Resonator": "Kiemelt karakter",
+    "Featured Weapon": "Kiemelt fegyver",
+    "Permanent Resonator": "Állandó karakter",
+    "Permanent Weapon": "Állandó fegyver",
+    "Beginner Convene": "Kezdők húzása",
+    "Beginner's Choice": "Kezdők választása",
+    "Selector Ticket": "Válogató jegy",
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
@@ -111,11 +111,11 @@
       },
       "Global": {
         "title": "Globális statisztikák - Wuwa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Nézd meg a {currentBanner} banner globális húzási statisztikáit, amelyben a {currentFeaturedResonator} szerepel! Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess barátaidnak! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a számládat!"
       },
       "Share": {
         "title": "Történet megosztása - Wuwa Tracker",
-        "description": "Create a Convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Készíts egy húzási előzménykártyát, hogy megoszthasd barátaiddal! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       }
     },
     "Error": {
@@ -250,12 +250,12 @@
       "no-records": "Nem található feljegyzés."
     },
     "UserBannerStats": {
-      "Total": "Összesen",
+      "Total": "Összes",
       "Astrites": "Asztritok",
-      "Pulls": "Húzások"
+      "Pulls": "húzások"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Szerencse",
+      "Luck": "szerencse",
       "no-luck": "Ez a banner nem rendelkezik szerencse statisztikával.",
       "no-records": "Nem található feljegyzés.",
       "calibrating": "Kalibrálás...",
@@ -273,7 +273,7 @@
           "formula": "Az 50/50-es húzások hány százalékát nyerted meg?"
         },
         "RateUpWins4": {
-          "title": "Ráta-emelés nyerések",
+          "title": "Felhúzási nyerések",
           "formula": "Milyen gyakran voltak 4 csillagos húzások?"
         }
       }
@@ -336,70 +336,70 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Érvénytelen húzási előzmény URL",
+      "invalid-url": "Érvénytelen húzási előzmény URL.",
       "import-success": "Sikeresen importáltad a húzási előzményeidet!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
+      "found-url": "Találtunk egy URL-t! A folytatáshoz kattints az Előzmények importálása gombra.",
+      "not-found-url": "Nem találtunk érvényes URL-t a naplófájlban.",
       "Click to upload": "Kattints a feltöltéshez",
       "or drag and drop": "vagy húzd és engedd el",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "Először is, indítsd el a Wuthering Waves-t és nyisd meg a játékbeli előzményeidet"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "Menjen a telepítési könyvtárba",
+        "description": "Kattints a jobb gombbal a Wuthering Waves játékindítóra, és válaszd a <code>Fájl megnyitása</code> lehetőséget. Látnod kell a <code>launcher.exe</code> és egy csomó <code>.dll</code> fájlt."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "Keresd meg a <code>debug.log</code> fájlt a fájlkezelőben, és töltsd fel ide"
       },
       "4": {
         "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
       },
       "Video Tutorial": "Oktatóvideó",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "PC Import Tutorial Video": "Importálás számítógépen oktatóvideó",
+      "video-tutorial-desc": "Kövesd ezt a <link>Discord szerver</link>ünkről lévő <highlight>cacaowithwater</highlight> által készített, lépésről lépésre bemutatott YouTube oktatóanyagot a számítógépen lévő adatok importálásához."
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
+      "invalid-path": "Érvénytelen játék elérési útvonal",
+      "invalid-url": "Érvénytelen húzási előzmény URL",
       "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your Convene history, otherwise the script won't work."
+        "title": "Másold a telepítési könyvtárat",
+        "description": "Keresd meg a <code>Wuthering Waves.exe</code> és egy <code>Client</code> nevű mappát tartalmazó mappát.",
+        "Your installation directory": "A telepítési könyvtárad",
+        "warning": "Figyelmeztetés: Ha az <code>Engine.ini</code> fájlt úgy módosítottad, hogy letiltottad a naplózást, akkor a húzási előzmények megnyitása előtt újra engedélyezned kell őket, különben a szkript nem fog működni."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "Indítsd el a Wuthering Waves-t számítógépen, és nyisd meg a játékon belüli előzményeket",
+        "description": "Ezután nyisd meg a Windows PowerShellt, majd illeszd be a következő szkriptet.",
+        "invalid-directory": "Először adj meg egy érvényes telepítési könyvtárat!",
+        "Stuck? Click the “Need Help?” button": "Beragadtál? Kattints a \"Segítség kellene?\" gombra",
+        "note": "Megjegyzés: A szkript nem szerkeszti a fájlokat, egyszerűen csak kivonja az URL-t a naplóból. A szkriptet <link>itt</link> tekintheted meg."
       },
       "3": {
         "title": "Illesszd be az URL-t ide",
         "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Nyomd meg az \"Előzmények importálása\" gombot ezen a weboldalon"
       },
       "Video Tutorial": "Oktatóvideó",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "PC Import Tutorial Video": "Importálás számítógépen oktatóvideó",
+      "video-tutorial-desc": "Kövesd ezt a lépésről-lépésre bemutató YouTube oktatóanyagot az adatok számítógépen történő importálásához. Kérlek csatlakozz a <link>Discord szerver</link>ünkhöz, ha bármilyen segítséget szeretnél kérni!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
+      "invalid-json": "Érvénytelen JSON-adatok - ügyelj a pontosvesszők másolására",
       "invalid-url": "Érvénytelen húzási előzmény URL",
       "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
+        "title": "Kövesd az oktatóvideónkat",
+        "description": "Hasonlóan a Genshin Impact vagy a Honkai Star Rail előzményeihez, kövesd <video>a Chario által készített bemutató videót</video> a <app>Stream - Network Debug Tool</app> letöltéséhez és használatához.",
         "Video Tutorial": "Oktatóvideó",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "iOS Import Tutorial Video": "iOS importálás oktatóvideó",
+        "video-tutorial-desc": "Kövesd ezt a <link>Discord szerver</link>ünkről lévő <highlight>Chario</highlight> által készített, lépésről lépésre bemutatott YouTube oktatóanyagot, hogy importáld az adataidat a számítógépen."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Illesszd be ide a JSON-t"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -444,12 +444,12 @@
       "invalid-url": "Érvénytelen húzási előzmény URL",
       "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
+        "title": "Kövesd az oktatóvideónkat",
+        "description": "Kövesd <link>ezt a yukio36 által készített oktatóvideót</link>, miután megnyitottad a Wuthering Waves alkalmazást.",
         "Video Tutorial": "Oktatóvideó",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "Android Airplane Mode Import Tutorial Video": "Android repülőgép üzemmód importálás oktatóvideó",
+        "video-tutorial-desc": "Kövesd ezt a <link>Discord szerver</link>ünkről lévő <highlight>yukio36</highlight> által készített lépésről lépésre bemutatót a YouTube-on, hogy bármi letöltése nélkül importáld az adataidat Androidra.",
+        "note": "Megjegyzés: Ez nem minden eszközön működik, ezért próbáld meg a többi módszert, ha nem sikerül."
       },
       "2": {
         "title": "Illesszd be az URL-t ide",
@@ -516,7 +516,7 @@
   "Timeline": {
     "title": "Idővonal",
     "heading": "Esemény idővonal",
-    "description": "Nézd meg a Wuthering Waves eseményeit a helyi időzónádban vagy más <link>Szerveridők</link>-ben.",
+    "description": "Nézd meg a Wuthering Waves eseményeit a helyi időzónádban vagy más <link>szerveridők</link>-ben.",
     "github-update-message": "Frissítette {time} a {author}.",
     "Edit this page on GitHub": "Szerkeszd ezt az oldalt a GitHub-on",
     "ResetTimers": {
