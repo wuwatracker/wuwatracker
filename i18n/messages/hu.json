@@ -97,58 +97,58 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa követés",
+      "title": "Wuwa Tracker",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Szinkronizáld az adataidat az eszközeid között, oszd meg a húzásaidat barátaiddal, és könnyedén nyomon követheted a fiókodat!"
     },
     "Achievements": {
-      "title": "Teljesítmények - Wuwa követő",
-      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importálhatod és exportálhatod az adataidat az összes eszközödre! A Wuwa követő a Wuthering Waves kívánság számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
+      "title": "Teljesítmények - Wuwa Tracker",
+      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importálhatod és exportálhatod az adataidat az összes eszközödre! A Wuwa Tracker a Wuthering Waves kívánság számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
     },
     "Convene": {
       "Index": {
-        "title": "Húzási történet - Wuwa követő",
-        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! Wuwa követő kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "title": "Húzási történet - Wuwa Tracker",
+        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       },
       "Global": {
-        "title": "Globális statisztikák - Wuwa követő",
+        "title": "Globális statisztikák - Wuwa Tracker",
         "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "Történet megosztása - Wuwa követő",
+        "title": "Történet megosztása - Wuwa Tracker",
         "description": "Create a Convene history card with your pull history to share with your friends! Wuwa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Error": {
       "title": "Hiba történt",
-      "description": "Hiba történt a Wuwa követő használata közben. Kérlek, küldj egy jelentést a Discord szerverünkre, hogy azonnal tudjunk intézkedni."
+      "description": "Hiba történt a Wuwa Tracker használata közben. Kérlek, küldj egy jelentést a Discord szerverünkre, hogy azonnal tudjunk intézkedni."
     },
     "Import": {
-      "title": "Húzási történet importálás - Wuwa Tracker",
-      "description": "Kövesd interaktív útmutatónkat a Wuthering Waves-adatok megjelenítéséhez és a statisztikák megtekintéséhez. Támogatjuk az automatikus módszerekkel történő importálást PC-ről, Android- és iOS-eszközökről. Wuwa Tracker pity számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásodat barátaiddal és kövesd a fiókodat!"
+      "title": "Húzási előzmény importálás - Wuwa Tracker",
+      "description": "Kövesd interaktív útmutatónkat a Wuthering Waves-adatok megjelenítéséhez és a statisztikák megtekintéséhez. Támogatjuk az automatikus módszerekkel történő importálást PC-ről, Android- és iOS-eszközökről. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásodat barátaiddal és kövesd a fiókodat!"
     },
     "Not Found": {
       "title": "Nem található",
-      "description": "Ez az oldal nem található a Wuwa követő oldalon. Kérlek, térj vissza a főoldalra, hogy elkezdhesd nyomon követni a Wuthering Waves húzási történetedet."
+      "description": "Ez az oldal nem található a Wuwa Tracker oldalon. Kérlek, térj vissza a főoldalra, hogy elkezdhesd nyomon követni a Wuthering Waves húzási előzményedet."
     },
     "Privacy Policy": {
-      "title": "Adatvédelmi irányelvek - Wuwa követő",
-      "description": "Ez az adatvédelmi irányelvek dokumentum ismerteti a Wuwa követő által kapott és gyűjtött személyes adatok típusait és azok felhasználási módját. A Wuwa követő egy pity számláló a Wuthering Waves számára, amely a naprakész adatokat használja globális statisztikákkal és egyebekkel."
+      "title": "Adatvédelmi irányelvek - Wuwa Tracker",
+      "description": "Ez az adatvédelmi irányelvek dokumentum ismerteti a Wuwa Tracker által kapott és gyűjtött személyes adatok típusait és azok felhasználási módját. A Wuwa követő egy pity számláló a Wuthering Waves számára, amely a naprakész adatokat használja globális statisztikákkal és egyebekkel."
     },
     "Sequences": {
-      "title": "Sorozatok - Wuwa követő",
+      "title": "Sorozatok - Wuwa Tracker",
       "description": "Számold- és mutasd meg a karaktereid és fegyvereid. Nézd meg a velük kapcsolatos információkat. Megmutathatod ezeket a barátaidnak!"
     },
     "Settings": {
-      "title": "Beállítások - Wuwa követő",
-      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. Wuwa követő kívánsáf számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Oszd meg húzásaidat barátaiddal és kövesd nyomon a fiókodat!"
+      "title": "Beállítások - Wuwa Tracker",
+      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Oszd meg húzásaidat barátaiddal és kövesd nyomon a fiókodat!"
     },
     "Terms & Conditions": {
-      "title": "Szerződési feltételek - Wuwa követő",
-      "description": "Ezek a feltételek a Wuwa követő weboldalának és szolgáltatásainak használatára vonatkozó szabályokat és előírásokat tartalmazzák."
+      "title": "Szerződési feltételek - Wuwa Tracker",
+      "description": "Ezek a feltételek a Wuwa Tracker weboldalának és szolgáltatásainak használatára vonatkozó szabályokat és előírásokat tartalmazzák."
     },
     "Timeline": {
-      "title": "Esemény idővonal - Wuwa követő",
-      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. Wuwa követő kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+      "title": "Esemény idővonal - Wuwa Tracker",
+      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
     }
   },
   "Layout": {
@@ -183,7 +183,7 @@
         "data": "adat",
         "updates": "frissítések"
       },
-      "title": "Wuwa követő segít követni",
+      "title": "Wuwa Tracker segít követni",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet."
     },
     "Tutorial": {
@@ -218,7 +218,7 @@
         "title": "Adatok importálása",
         "description": "Használd a korábban exportált adataidat, és szinkronizáld a böngésződdel."
       },
-      "Hidden": "Rejtet",
+      "Hidden": "Rejtett",
       "Click to upload": "Kattints a feltöltéshez",
       "or drag and drop": "vagy húzd és engedd el",
       "Import": "Importálás",
@@ -227,7 +227,7 @@
     }
   },
   "Convene": {
-    "title": "Húzás követő",
+    "title": "Húzás követés",
     "ConveneCategoryGlobal": {
       "Global Statistics": "Globális statisztikák"
     },
@@ -261,8 +261,8 @@
       "calibrating": "Kalibrálás...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Átlagos sajnálat",
-          "formula": "Mennyi az átlagos {qualityLevel}-csillagos sajnálatod?"
+          "title": "Átlagos kívánság",
+          "formula": "Mennyi az átlagos {qualityLevel}-csillagos kívánságod?"
         },
         "PullRatio": {
           "title": "Húzási arány",
@@ -318,8 +318,8 @@
       "description-android": "Ha az első módszer nem működik, próbáld ki a másikat. Ha továbbra is segítségre van szükséged, akkor látogass el a <link>Discord szerver</link> oldalunkra."
     },
     "PC1Tutorial": {
-      "invalid-url": "Érvénytelen húzási előzmény URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Érvénytelen húzási előzmény URL.",
+      "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
         "title": "Először is, indítsd el a Wuthering Waves-t és nyisd meg a játékbeli húzási előzményeidet.",
         "description": "Ezután nyisd meg a Windows PowerShellt, majd illeszd be a következő szkriptet.",
@@ -329,19 +329,19 @@
       },
       "2": {
         "title": "Az URL beillesztése ide",
-        "Your Convene History URL": "A húzás előzményei URL-címe"
+        "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
-        "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
       }
     },
     "PC2Tutorial": {
       "invalid-url": "Érvénytelen húzási előzmény URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "found-url": "We found a URL! Click the Import History button to proceed.",
       "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "Click to upload": "Kattints a feltöltéshez",
+      "or drag and drop": "vagy húzd és engedd el",
       "1": {
         "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
       },
@@ -353,7 +353,7 @@
         "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
       },
       "4": {
-        "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
       },
       "Video Tutorial": "Oktatóvideó",
       "PC Import Tutorial Video": "PC Import Tutorial Video",
@@ -362,7 +362,7 @@
     "PC3Tutorial": {
       "invalid-path": "Invalid Game Path",
       "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
         "title": "Copy Your Installation Directory",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
@@ -377,8 +377,8 @@
         "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Illesszd be az URL-t ide",
+        "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "4": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -390,7 +390,7 @@
     "IOSTutorial": {
       "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
       "invalid-url": "Érvénytelen húzási előzmény URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
         "title": "Follow our Video Tutorial",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
@@ -407,7 +407,7 @@
     },
     "Android1Tutorial": {
       "invalid-url": "Érvénytelen húzási előzmény URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
         "title": "Use Ascent To Get Convene History URL",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
@@ -415,8 +415,8 @@
         "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Illesszd be az URL-t ide",
+        "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
         "title": " Press the \"Import History\" Button on this Website"
@@ -427,36 +427,36 @@
     },
     "Android2Tutorial": {
       "invalid-url": "Érvénytelen húzási előzmény URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
         "title": "Use Termux To Get Convene History URL",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Illesszd be az URL-t ide",
+        "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
-        "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
       }
     },
     "Android3Tutorial": {
       "invalid-url": "Érvénytelen húzási előzmény URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Sikeresen importáltad a húzási előzményeidet!",
       "1": {
         "title": "Follow our Video Tutorial",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
+        "Video Tutorial": "Oktatóvideó",
         "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
         "note": "Note: This may not work for every device, so try the other methods if it fails."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Illesszd be az URL-t ide",
+        "Your Convene History URL": "Húzási előzmény URL-címe"
       },
       "3": {
-        "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
+        "title": "Nyomd meg a \"Előzmények importálása\" gombot ezen a weboldalon"
       }
     }
   },
@@ -489,25 +489,25 @@
       "Sign In to Google": "Bejelentkezés Google-el"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "A letöltés előtt érvényes húzási történet URL-címre van szükséged.",
+      "require-url-before-downloading": "A letöltés előtt érvényes húzási előzmény URL-címre van szükséged.",
       "download-failed": "Nem sikerült elindítani a letöltést.",
       "download-starting": "A letöltés hamarosan elindul.",
-      "invalid-url": "Kérlek, adj meg egy érvényes húzási történet URL-t.",
-      "import-success": "Sikeresen importáltuk a húzási történet URL-t helyileg!",
-      "delete-local-success": "Helyi történet adatok törlve.",
+      "invalid-url": "Kérlek, adj meg egy érvényes húzási előzmény URL-t.",
+      "import-success": "Sikeresen importáltuk a húzási előzményeidet helyileg!",
+      "delete-local-success": "Helyi előzmény adatok törlve.",
       "Convene History Data": "Húzási történet adatok",
       "Import Tutorial": "Importálás bemutató",
       "Go to Import Tutorial": "Menj a Importálás bemutatóhoz",
-      "description": "Exportáld vagy változtasd meg a húzási történet URL-címét itt.",
-      "Your Convene History URL": "Húzási történet URL-címe",
-      "Download Your History": "Történeted letöltése",
+      "description": "Exportáld vagy változtasd meg a húzási előzmény URL-címét itt.",
+      "Your Convene History URL": "Húzási előzmény URL-címe",
+      "Download Your History": "Előzményeid letöltése",
       "Delete Browser Saved Data": "Böngésző mentett adatainak törlése",
       "Delete your local data": "Helyi adatok törlése",
       "Save": "Mentés"
     },
     "SettingGlobalStats": {
       "title": "Adatvédelem",
-      "description": "Kezeld a Wuwa követő jogosultságait, amikor az adataidat kezeli."
+      "description": "Kezeld a Wuwa Tracker jogosultságait, amikor az adataidat kezeli."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Adatok beküldése a globális statisztikákhoz"
