@@ -266,7 +266,7 @@
         },
         "PullRatio": {
           "title": "Pull Verhältnis",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "formula": "Wie viel Prozent von deinen Pulls insgesamt waren {qualityLevel}-sterne?"
         },
         "RateUpWins": {
           "title": "50/50 gewonnen",
@@ -279,10 +279,10 @@
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
+      "title": "Globale Statistiken",
+      "Switch Banner": "Banner ändern",
+      "Banner List": "Banner Liste",
+      "Pulls Per Day": "Pulls pro Tag",
       "Pulls By Pity": "Pulls bei Pity",
       "Pulls By Name": "Pulls bei Name",
       "Pulls": "Pulls"
@@ -291,9 +291,9 @@
       "title": "Share Card",
       "description": "Individualisiere und lade deinen Wuthering Waves Verlauf herunter und teile ihn mit anderen!",
       "Customize": "Individualisieren",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
+      "Edit Share Card": "Ändere deine Postkarte",
+      "edit-description": "Deine Postkarte ändert sich in Echtzeit während du Änderung da rann, vornimmst.",
+      "Select Banner": "Wähle Banner",
       "Background": "Hintergrund",
       "Foreground": "Vordergrund",
       "recommendation": "Wir empfehlen ein 1:1 Verhältnis für Bilder bei einer 2048x2048 Auflösung.",
@@ -314,17 +314,17 @@
     "iOS": "iOS",
     "Heading": {
       "title": "Wähle eine Methode",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "description": "Wenn die automatische Methode nicht für dich funktioniert, kannst du versuchen es manuell zu machen mithilfe von anderen Tutorials.\nWenn du immer noch Hilfe brauchst, kannst du unserem <link> Discord Server zu beitreten</link>.",
+      "description-android": "Wenn die erste Methode nicht für dich funktioniert, kannst du noch eine andere probieren, wenn du immer noch Hilfe brauchst, kann du unserem <link>Discord Server zu beitreten</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalide Convene-Verlauf-URL.",
+      "import-success": "Erfolgreich Convene-Verlauf-URL importiert!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
+        "title": "Erstens, öffne Wuthering Waves und öffne im Spiel deinen Convene Verlauf",
+        "description": "Danach öffnest du Windows PowerShell und fügst das folgende Script ein.",
+        "History URL Script": "Verlauf URL Script",
+        "Click the copy button on the right": "Drücke auf den kopieren Knopf auf der rechten Seite",
         "note": "Merke: Das Script ändert nicht deine Dateien, es sucht nur die URL aus deinen Logs.\nDu kannst das Script <link> hier sehen </link>."
       },
       "2": {
@@ -494,7 +494,7 @@
       "download-starting": "Your download will start shortly.",
       "invalid-url": "Please input a valid Convene History URL.",
       "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
+      "delete-local-success": "Lokale Verlauf-Daten gelöscht.",
       "Convene History Data": "Ziehung-Verlauf Daten",
       "Import Tutorial": "Import Tutorial",
       "Go to Import Tutorial": "Gehe zum Import Tutorial",
