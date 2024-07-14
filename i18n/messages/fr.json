@@ -157,20 +157,20 @@
     }
   },
   "MenuList": {
-    "Tools": "Tools",
+    "Tools": "Outils",
     "Guides": "Guides",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Config": "Configuration",
+    "Convene Tracker": "Compteur d'invocations",
+    "Global Stats": "Stats globale",
+    "Share History": "Partager",
+    "Sequences": "Séquences",
+    "Achievements": "Trophées",
+    "Timeline": "Calendrier",
+    "Import": "Importer",
+    "Settings": "Paramètres",
+    "Support Us": "Soutenez-nous",
+    "Sign In To Google": "Se connecter via Google",
+    "Sign Out": "Se déconnecter"
   },
   "Dashboard": {
     "title": "Tableau de bord",
@@ -250,7 +250,7 @@
       "no-records": "Aucun historique trouvé."
     },
     "UserBannerStats": {
-      "Total": "Nombre",
+      "Total": "Nbr.",
       "Astrites": "Astrites",
       "Pulls": "Invocations"
     },
@@ -516,7 +516,7 @@
   "Timeline": {
     "title": "Calendrier",
     "heading": "Calendrier des événements",
-    "description": "Suivez les événements de Wuthering Waves avec votre heure locale ou avec d'autres <link>horaires de serveur</link>.",
+    "description": "Suivez les événements de Wuthering Waves sur votre fuseau horaire ou avec d'autres <link>horaires de serveur</link>.",
     "github-update-message": "Mis à jour le {time} par {author}.",
     "Edit this page on GitHub": "Modifiez cette page sur GitHub",
     "ResetTimers": {
