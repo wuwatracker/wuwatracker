@@ -169,11 +169,11 @@
     "Import": "Импорт данных",
     "Settings": "Настройки",
     "Support Us": "Поддержите нас",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Sign In To Google": "Войти в Google",
+    "Sign Out": "Выйти"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "Главная страница",
     "Greeting": {
       "AnimatedWords": {
         "pulls": "крутки",
@@ -285,7 +285,7 @@
       "Pulls Per Day": "Круток в день",
       "Pulls By Pity": "Гарант по круткам",
       "Pulls By Name": "Крутки по именам",
-      "Pulls": "Pulls"
+      "Pulls": "Круток"
     },
     "SharePageContent": {
       "title": "Поделиться",
@@ -485,7 +485,7 @@
     },
     "SignInButton": {
       "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
+      "Sign out": "Выйти",
       "Sign In to Google": "Войти в Google"
     },
     "SettingConveneHistoryUrl": {
@@ -514,8 +514,8 @@
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Хронология событий",
+    "title": "Календарь",
+    "heading": "Календарь событий",
     "description": "Просматривайте даты внутриигровых событий по своему часовому поясу, или используя один из <link>часовых поясов серверов игры</link>.",
     "github-update-message": "Обновлено {time} пользователем {author}.",
     "Edit this page on GitHub": "Edit this page on GitHub",
