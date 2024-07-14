@@ -97,17 +97,17 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa követő",
-      "description": "A Wuthering Waves pity számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Szinkronizáld az adataidat az eszközeid között, oszd meg a húzásaidat barátaiddal, és könnyedén nyomon követheted a fiókodat!"
+      "title": "Wuwa követés",
+      "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Szinkronizáld az adataidat az eszközeid között, oszd meg a húzásaidat barátaiddal, és könnyedén nyomon követheted a fiókodat!"
     },
     "Achievements": {
       "title": "Teljesítmények - Wuwa követő",
-      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importáld és exportáld az adataidat az összes eszközödre! A Wuwa követő a Wuthering Waves pity számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
+      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importálhatod és exportálhatod az adataidat az összes eszközödre! A Wuwa követő a Wuthering Waves kívánság számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
     },
     "Convene": {
       "Index": {
         "title": "Húzási történet - Wuwa követő",
-        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! Wuwa követő pity számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! Wuwa követő kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       },
       "Global": {
         "title": "Globális statisztikák - Wuwa követő",
@@ -136,11 +136,11 @@
     },
     "Sequences": {
       "title": "Sorozatok - Wuwa követő",
-      "description": "Számold meg és mutasd be a duplikált rezonátorokat és fegyvereket, és nézd meg a velük kapcsolatos információkat. Bemutathatod őket barátaidnak!"
+      "description": "Számold- és mutasd meg a karaktereid és fegyvereid. Nézd meg a velük kapcsolatos információkat. Megmutathatod ezeket a barátaidnak!"
     },
     "Settings": {
       "title": "Beállítások - Wuwa követő",
-      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. Wuwa követő pity számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Ossza meg húzásait barátaival és kövesse nyomon a fiókját!"
+      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. Wuwa követő kívánsáf számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Oszd meg húzásaidat barátaiddal és kövesd nyomon a fiókodat!"
     },
     "Terms & Conditions": {
       "title": "Szerződési feltételek - Wuwa követő",
@@ -148,7 +148,7 @@
     },
     "Timeline": {
       "title": "Esemény idővonal - Wuwa követő",
-      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. Wuwa k övető pity számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. Wuwa követő kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
     }
   },
   "Layout": {
@@ -160,7 +160,7 @@
     "Tools": "Eszközök",
     "Guides": "Útmutatók",
     "Config": "Konfiguráció",
-    "Convene Tracker": "Húzás követő",
+    "Convene Tracker": "Húzás követés",
     "Global Stats": "Globális statisztikák",
     "Share History": "Előzmények megosztása",
     "Sequences": "Sorozatok",
@@ -177,25 +177,25 @@
     "Greeting": {
       "AnimatedWords": {
         "pulls": "húzások",
-        "pity": "pity",
+        "pity": "kívánság",
         "events": "események",
         "statistics": "statisztikák",
         "data": "adat",
         "updates": "frissítések"
       },
       "title": "Wuwa követő segít követni",
-      "description": "A Wuthering Waves pity számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet."
+      "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet."
     },
     "Tutorial": {
       "title": "Kezdjünk hozzá",
       "description": "Isten hozott, Rover. Kezdjünk neki, rendben?",
-      "View Pull History": "Húzási történet megtekintése",
+      "View Pull History": "Húzás előzmények megtekintése",
       "Sync Your Data": "Adatok szinkronizálása",
       "Your data will now sync automatically!": "Az adatok mostantól automatikusan szinkronizálódnak!"
     },
     "Changelogs": {
       "title": "Változásnapló",
-      "description": "A honlapon közzétett bejelentések itt tekinthetők meg."
+      "description": "A honlapon közzétett bejelentések itt tekinthetőek meg."
     },
     "Community": {
       "title": "Közösség"
@@ -245,7 +245,7 @@
       "Pull History": "Húzás előzmények",
       "Pull Num": "Húzási szám.",
       "Item": "Tárgy",
-      "Pity": "Pity",
+      "Pity": "Kívánság",
       "Date Received": "Megkapás dátuma",
       "no-records": "Nem található feljegyzés."
     },
@@ -282,14 +282,14 @@
       "title": "Globális statisztikák",
       "Switch Banner": "Banner váltás",
       "Banner List": "Banner lista",
-      "Pulls Per Day": "Húzások napok szerint",
-      "Pulls By Pity": "Húzások szánalom szerint",
+      "Pulls Per Day": "Húzások naponként",
+      "Pulls By Pity": "Húzások kívánság szerint",
       "Pulls By Name": "Húzások név szerint",
       "Pulls": "Húzások"
     },
     "SharePageContent": {
       "title": "Kártya megosztása",
-      "description": "Testre szabhatod és letöltheted a Wuthering Waves húzási előzményeit, hogy megoszthasd másokkal!",
+      "description": "Testre szabhatod és letöltheted a Wuthering Waves húzási előzményeidet, hogy megoszthasd másokkal!",
       "Customize": "Testreszabás",
       "Edit Share Card": "Megosztási kártya szerkesztése",
       "edit-description": "A kártya valós időben frissül, amint módosításokat teszel.",
@@ -303,7 +303,7 @@
   "Import": {
     "Import Tutorial": "Importálás bemutató",
     "PC": {
-      "title": "PC",
+      "title": "Számítógép",
       "Automatic": "Automatikus",
       "Manual": "Manuális"
     },
@@ -355,7 +355,7 @@
       "4": {
         "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
       },
-      "Video Tutorial": "Video Tutorial",
+      "Video Tutorial": "Oktatóvideó",
       "PC Import Tutorial Video": "PC Import Tutorial Video",
       "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
     },
@@ -381,9 +381,9 @@
         "Your Convene History URL": "Your Convene History URL"
       },
       "4": {
-        "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
+        "title": "Press the \"Import History\" Button on this Website"
       },
-      "Video Tutorial": "Video Tutorial",
+      "Video Tutorial": "Oktatóvideó",
       "PC Import Tutorial Video": "PC Import Tutorial Video",
       "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
     },
@@ -394,7 +394,7 @@
       "1": {
         "title": "Follow our Video Tutorial",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
+        "Video Tutorial": "Oktatóvideó",
         "iOS Import Tutorial Video": "iOS Import Tutorial Video",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
       },
@@ -402,7 +402,7 @@
         "title": "Paste the JSON Here"
       },
       "3": {
-        "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
+        "title": "Press the \"Import History\" Button on this Website"
       }
     },
     "Android1Tutorial": {
@@ -419,9 +419,9 @@
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
-        "title": "Nyomd meg a \"Történet importálása\" gombot ezen a weboldalon"
+        "title": " Press the \"Import History\" Button on this Website"
       },
-      "Video Tutorial": "Video Tutorial",
+      "Video Tutorial": "Oktatóvideó",
       "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
       "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
     },
