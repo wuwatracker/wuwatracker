@@ -250,7 +250,7 @@
       "no-records": "Aucun historique trouvé."
     },
     "UserBannerStats": {
-      "Total": "Nbr.",
+      "Total": "Total",
       "Astrites": "Astrites",
       "Pulls": "Invocations"
     },
