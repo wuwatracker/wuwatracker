@@ -1,11 +1,11 @@
 {
   "Items": {
     "Aalto": "Aalto",
-    "Baizhi": "Bạch Chỉ",
+    "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
-    "Changli": "Trường Ly",
+    "Changli": "Changli",
     "Chixia": "Chixia",
-    "Danjin": "Đan Cẩn",
+    "Danjin": "Danjin",
     "Encore": "Encore",
     "Jianxin": "Jianxin",
     "Jinhsi": "Jinhsi",
@@ -18,7 +18,7 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
-    "Abyss Surges": "Vực Thẳm Vô Hạn",
+    "Abyss Surges": "Abyss Surges",
     "Ages of Harvest": "Ages of Harvest",
     "Amity Accord": "Amity Accord",
     "Autumntrace": "Autumntrace",
@@ -27,10 +27,10 @@
     "Broadblade of Night": "Dạ trường Kiếm",
     "Broadblade of Voyager": "Du hành trường kiếm",
     "Broadblade#41": "Trường Kiếm số 41",
-    "Cadenza": "Khúc Cao Trào",
-    "Commando of Conviction": "Phán quyết của Biệt quân",
+    "Cadenza": "Cadenza",
+    "Commando of Conviction": "Commando of Conviction",
     "Comet Flare": "Hào Quang Sao Chổi",
-    "Cosmic Ripples": "Dao Động Không Gian",
+    "Cosmic Ripples": "Cosmic Ripples",
     "Dauntless Evernight": "Dạ Kiếm Vĩnh Hằng",
     "Discord": "Discord",
     "Emerald of Genesis": "Lục Bảo Sáng Thế",
@@ -44,48 +44,48 @@
     "Guardian Sword": "Đoản Kiếm Hộ Vệ",
     "Helios Cleaver": "Đoản Kiếm Helios",
     "Hollow Mirage": "Kính Hoa Thủy Nguyệt",
-    "Jinzhou Keeper": "Vọng Gác Jinzhou",
+    "Jinzhou Keeper": "Jinzhou Keeper",
     "Lunar Cutter": "Nguyệt Đao",
     "Lumingloss": "Minh Đao",
     "Lustrous Razor": "Ánh Đao",
     "Marcato": "Marcato",
-    "Novaburst": "Pháp Lực Nova",
+    "Novaburst": "Novaburst",
     "Originite: Type I": "Mẫu thử: Loại I",
     "Originite: Type II": "Mẫu thử: Loại II",
     "Originite: Type III": "Mẫu thử: Loại III",
     "Originite: Type IV": "Mẫu thử: Loại IV",
     "Originite: Type V": "Mẫu thử: Loại V",
-    "Overture": "Khúc Mở Đầu",
+    "Overture": "Overture",
     "Pistols of Night": "Súng ngắn Đêm Đen",
     "Pistols of Voyager": "Súng lục của Nhà Du hành",
     "Pistols#26": "Súng ngắn mẫu 26",
-    "Rectifier of Night": "Bộ Chỉnh Lưu Đêm Đen",
-    "Rectifier of Voyager": "Bộ Chỉnh Lưu của Nhà Du Hành",
-    "Rectifier#25": "Mẫu Chỉnh Lưu số 25",
-    "Scale: Slasher": "Cấp Độ: Sát Thủ",
+    "Rectifier of Night": "Rectifier of Night",
+    "Rectifier of Voyager": "Rectifier of Voyager",
+    "Rectifier#25": "Pháp khí số 25",
+    "Scale: Slasher": "Scale: Slasher",
     "Static Mist": "Sương Tĩnh",
     "Stonard": "Tựa Thạch",
     "Stringmaster": "Khôi Lỗi Sư",
     "Sword of Night": "Đoản Kiếm của Màn Đêm",
     "Sword of Voyager": "Đoản Kiếm của Nhà Du hành",
     "Sword#18": "Đoản kiếm số 18",
-    "Thunderbolt": "Sấm Rền",
+    "Thunderbolt": "Thunderbolt",
     "Undying Flame": "Hỏa Diểm Bất Tận",
-    "Variation": "Biến Thể",
+    "Variation": "Variation",
     "Verdant Summit": "Verdant Summit"
   },
   "CardPoolNames": {
     "Featured Resonator": "Nhân Vật Giới Hạn",
     "Featured Weapon": "Vũ Khí Giới Hạn",
-    "Permanent Resonator": "Nhân vật Vĩnh viễn",
+    "Permanent Resonator": "Nhân Vật Tiêu Chuẩn",
     "Permanent Weapon": "Vũ Khí Tiêu Chuẩn",
     "Beginner Convene": "Banner Tân thủ",
     "Beginner's Choice": "Chọn lựa của Tân Thủ",
     "Selector Ticket": "Vé Chọn",
     "Tidal Chorus": "Khúc Triều Đồng",
-    "Winter Brume Banner": "Winter Brume Banner",
+    "Winter Brume Banner": "Sương Giá Đông",
     "Utterance of Marvels": "Kỳ Quan Vọng",
-    "Beginner Selector": "Banner tự chọn của Tân thủ",
+    "Beginner Selector": "Tự chọn của Tân Thủ",
     "Convene Giveback Event": "Xung Động Tuyệt Đối",
     "Absolute Pulsation": "Xung Động Tuyệt Đối",
     "Prevail the Lasting Night": "Hừng Đông Sau Đêm",
@@ -163,17 +163,17 @@
     "Convene Tracker": "Theo dõi Lượt Quay",
     "Global Stats": "Thống kê Toàn cầu",
     "Share History": "Chia sẻ Lịch sử Quay",
-    "Sequences": "Bức sóng",
+    "Sequences": "Cung mệnh",
     "Achievements": "Thành Tựu",
     "Timeline": "Timeline",
     "Import": "Nhập Dữ Liệu",
     "Settings": "Cài Đặt",
     "Support Us": "Ủng Hộ Chúng Tôi",
-    "Sign In To Google": "Sign In To Google",
+    "Sign In To Google": "Đăng nhập vào Google",
     "Sign Out": "Đăng xuất"
   },
   "Dashboard": {
-    "title": "Tổng quan",
+    "title": "Tổng Quan",
     "Greeting": {
       "AnimatedWords": {
         "pulls": "lượt quay",
@@ -207,12 +207,12 @@
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Nhập dữ liệu thành công.",
-        "import-invalid": "Nhập dữ liệu thành công.",
+        "import-invalid": "Vui lòng nhập dữ liệu hợp lệ.",
         "parse-fail": "Phân tích file JSON thất bại.",
         "download-fail": "Tải xuống thất bại.",
         "download-start": "Quá trình tải xuống sẽ bắt đầu ngay thôi."
       },
-      "description": "Sử dụng bộ lọc để tìm kiếm thành tựu chưa hoàn thành.",
+      "description": "Sử dụng bộ lọc để tìm những thành tựu chưa hoàn thành.",
       "Completed": "Hoàn tất",
       "ImportDialog": {
         "title": "Nhập dữ liệu",
@@ -242,7 +242,7 @@
       "no-records": "Không có dữ liệu được tìm thấy."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Lịch sử quay",
+      "Pull History": "Lịch sử Triệu hồi",
       "Pull Num": "Lượt quay thứ",
       "Item": "Vật phẩm",
       "Pity": "Pity",
@@ -269,7 +269,7 @@
           "formula": "Bao nhiêu % lượt quay của bạn là {qualityLevel}-sao?"
         },
         "RateUpWins": {
-          "title": "Tỉ lệ trúng 50/50",
+          "title": "Tỉ lệ Trúng 50/50",
           "formula": "Bao nhiêu % nhân vật 5-sao của Bạn không bị lệch?"
         },
         "RateUpWins4": {
@@ -291,7 +291,7 @@
       "title": "Chia sẻ",
       "description": "Tùy chỉnh và tải xuống Lịch sử Triệu hồi của bạn để chia sẻ với mọi người nhé!",
       "Customize": "Tùy chỉnh",
-      "Edit Share Card": "Chỉnh sửa bản chia sẻ",
+      "Edit Share Card": "Chỉnh sửa Bản Chia sẻ",
       "edit-description": "Bản chia sẻ của bạn cập nhật ngay khi bạn thực hiện thay đổi.",
       "Select Banner": "Chọn Banner",
       "Background": "Hình nền",
@@ -313,12 +313,12 @@
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Chọn một cách dưới đây",
+      "title": "Chọn phương pháp",
       "description": "Nếu nhập tự động không hoạt động, hãy thực hiện thủ công theo hướng dẫn. Nếu bạn cần giúp đỡ, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi.",
       "description-android": "Nếu cách đầu tiên không hoạt động, hãy thử những cách còn lại, Nếu bạn vẫn cần sự trợ giúp, hãy tham gia <link>Máy chủ Discord</link> của chúng tôi."
     },
     "PC1Tutorial": {
-      "invalid-url": "URL Lịch sử Quay không hợp lệ.",
+      "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "1": {
         "title": "Đầu tiên, khởi chạy Wuthering Waves và mở Convene History trong trò chơi",
@@ -337,13 +337,13 @@
     },
     "PC2Tutorial": {
       "invalid-url": "URL Lịch sử Triệu hồi không hợp lệ.",
-      "import-success": "Đã nhập URL Lịch sử Quay thành công!",
+      "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "found-url": "Đã tìm thấy URL! Bấm vào nút Nhập Lịch sử Triệu hồi để bắt đầu.",
       "not-found-url": "Không tìm thấy URL hợp lệ trong file log.",
       "Click to upload": "Bấm để tải lên",
       "or drag and drop": "hoặc kéo và thả",
       "1": {
-        "title": "Đầu tiên, mở Wuthering Waves và mở Lịch sử Quay trong trò chơi"
+        "title": "Đầu tiên, khởi chạy Wuthering Waves và mở Convene History trong trò chơi"
       },
       "2": {
         "title": "Chuyển đến thư mục cài đặt của bạn",
@@ -353,7 +353,7 @@
         "title": "Tìm <code>debug.log</code> trong File Explorer và tải nó lên đây"
       },
       "4": {
-        "title": "Bấm vào \"Import History\""
+        "title": "Bấm vào nút \"Nhập Lịch sử Triệu hồi\""
       },
       "Video Tutorial": "Video Hướng dẫn",
       "PC Import Tutorial Video": "Video Hướng dẫn nhập trên PC",
@@ -370,7 +370,7 @@
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Đầu tiên, chạy Wuthering Waves và mở Convene History trong trò chơi",
+        "title": "Đầu tiên, khởi chạy Wuthering Waves và mở Convene History trong trò chơi",
         "description": "Sau đó, mở Windows PowerShell, và dán đoạn script sau vào.",
         "invalid-directory": "Hãy nhập thư mục cài đặt hợp lệ vào trước!",
         "Stuck? Click the “Need Help?” button": "Cần sự trợ giúp? Hãy bấm vào “Need Help?” để được giúp đỡ ngay nhé!",
@@ -496,7 +496,7 @@
       "import-success": "Đã nhập URL Lịch sử Triệu hồi thành công!",
       "delete-local-success": "Xóa dữ liệu Lịch sử Triệu hồi trên trình duyệt.",
       "Convene History Data": "Dữ liệu Lịch sử Triệu hồi",
-      "Import Tutorial": "Hướng dẫn nhập",
+      "Import Tutorial": "Hướng Dẫn Nhập",
       "Go to Import Tutorial": "Đến Hướng dẫn nhập Dữ liệu",
       "description": "Xuất hoặc thay đổi URL Lịch sử Triệu hồi ở đây.",
       "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn",

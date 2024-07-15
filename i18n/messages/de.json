@@ -157,20 +157,20 @@
     }
   },
   "MenuList": {
-    "Tools": "Tools",
-    "Guides": "Guides",
-    "Config": "Config",
+    "Tools": "Werkzeuge",
+    "Guides": "Führer",
+    "Config": "Konfigurationen",
     "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
+    "Global Stats": "Globale Statistiken",
+    "Share History": "Teile deinen Verlauf",
+    "Sequences": "Sequenzen",
+    "Achievements": "Errungenschaften",
+    "Timeline": "Zeitleiste",
     "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Settings": "Einstellungen",
+    "Support Us": "Unterstütze uns",
+    "Sign In To Google": "Anmelden mit Google",
+    "Sign Out": "abmelden"
   },
   "Dashboard": {
     "title": "Dashboard",
@@ -188,39 +188,39 @@
     },
     "Tutorial": {
       "title": "Los geht's",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
+      "description": "Willkommen, Rover. Lass uns loslegen!",
+      "View Pull History": "Verlaufs Ansicht",
       "Sync Your Data": "Synchronisiere deine Daten",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "Your data will now sync automatically!": "Deine daten werden nun automatisch synchronisiert!"
     },
     "Changelogs": {
       "title": "Änderungshistorie",
-      "description": "View website announcements here."
+      "description": "Sehe hier Website Ankündigungen."
     },
     "Community": {
-      "title": "Community"
+      "title": "Gemeinschaft"
     }
   },
   "Achievements": {
-    "title": "Achievements",
+    "title": "Errungenschaften",
     "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
+        "import-success": "Erfolgreich Daten importiert.",
         "import-invalid": "Bitte importiere valide Daten.",
         "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "download-fail": "Download fehlgeschlagen.",
+        "download-start": "Dein Download wird gleich starten."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
+      "description": "Benutze die Filter, um fehlende Errungenschaften zu finden.",
       "Completed": "vollendet",
       "ImportDialog": {
         "title": "Datenimport",
-        "description": "Use your previously exported data and sync it with your browser."
+        "description": "Benutze deine vorherigen exportierten Daten und synchronisiere sie mit deinem Browser."
       },
       "Hidden": "Versteckt",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "Click to upload": "Drücke zum Upload",
+      "or drag and drop": "oder ziehe sie hierher",
       "Import": "Import",
       "Export as JSON": "Exportieren als JSON",
       "Need Tips?": "Brauchst du Tipps?"
@@ -229,47 +229,47 @@
   "Convene": {
     "title": "Convene Tracker",
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "Globale Statistiken"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "Convene Kategorien"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
+      "Recent": "Zuletzt",
       "and": "und",
       "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "no-filters": "Keine Filter ausgewählt.",
+      "no-records": "Keine Aufzeichnungen gefunden."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
+      "Pull History": "Pull Verlauf",
+      "Pull Num": "Pull Nr.",
       "Item": "Gegenstand",
       "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Date Received": "Datum",
+      "no-records": "Keine Aufzeichnungen gefunden."
     },
     "UserBannerStats": {
-      "Total": "Total",
+      "Total": "Insgesamt",
       "Astrites": "Astrites",
       "Pulls": "Pulls"
     },
     "UserBannerStatsLuckCards": {
       "Luck": "Glück",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "no-luck": "Dieser Banner hat keine Glücksstatistik.",
+      "no-records": "Keine Aufzeichnungen gefunden.",
+      "calibrating": "Kalibrieren...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Durchschnittlicher Pity",
+          "formula": "Was ist deine durchschnittlicher {qualityLevel}-sterne Pity?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Pull Verhältnis",
+          "formula": "Wie viel Prozent von deinen Pulls insgesamt waren {qualityLevel}-sterne?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
+          "title": "50/50 gewonnen",
           "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
@@ -279,10 +279,10 @@
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
+      "title": "Globale Statistiken",
+      "Switch Banner": "Banner ändern",
+      "Banner List": "Banner Liste",
+      "Pulls Per Day": "Pulls pro Tag",
       "Pulls By Pity": "Pulls bei Pity",
       "Pulls By Name": "Pulls bei Name",
       "Pulls": "Pulls"
@@ -291,9 +291,9 @@
       "title": "Share Card",
       "description": "Individualisiere und lade deinen Wuthering Waves Verlauf herunter und teile ihn mit anderen!",
       "Customize": "Individualisieren",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
+      "Edit Share Card": "Ändere deine Postkarte",
+      "edit-description": "Deine Postkarte ändert sich in Echtzeit während du Änderung da rann, vornimmst.",
+      "Select Banner": "Wähle Banner",
       "Background": "Hintergrund",
       "Foreground": "Vordergrund",
       "recommendation": "Wir empfehlen ein 1:1 Verhältnis für Bilder bei einer 2048x2048 Auflösung.",
@@ -314,17 +314,17 @@
     "iOS": "iOS",
     "Heading": {
       "title": "Wähle eine Methode",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "description": "Wenn die automatische Methode nicht für dich funktioniert, kannst du versuchen es manuell zu machen mithilfe von anderen Tutorials.\nWenn du immer noch Hilfe brauchst, kannst du unserem <link> Discord Server zu beitreten</link>.",
+      "description-android": "Wenn die erste Methode nicht für dich funktioniert, kannst du noch eine andere probieren, wenn du immer noch Hilfe brauchst, kann du unserem <link>Discord Server zu beitreten</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "Invalide Convene-Verlauf-URL.",
+      "import-success": "Erfolgreich Convene-Verlauf-URL importiert!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
+        "title": "Erstens, öffne Wuthering Waves und öffne im Spiel deinen Convene Verlauf",
+        "description": "Danach öffnest du Windows PowerShell und fügst das folgende Script ein.",
+        "History URL Script": "Verlauf URL Script",
+        "Click the copy button on the right": "Drücke auf den kopieren Knopf auf der rechten Seite",
         "note": "Merke: Das Script ändert nicht deine Dateien, es sucht nur die URL aus deinen Logs.\nDu kannst das Script <link> hier sehen </link>."
       },
       "2": {
@@ -494,7 +494,7 @@
       "download-starting": "Your download will start shortly.",
       "invalid-url": "Please input a valid Convene History URL.",
       "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
+      "delete-local-success": "Lokale Verlauf-Daten gelöscht.",
       "Convene History Data": "Ziehung-Verlauf Daten",
       "Import Tutorial": "Import Tutorial",
       "Go to Import Tutorial": "Gehe zum Import Tutorial",

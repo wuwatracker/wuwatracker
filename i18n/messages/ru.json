@@ -135,7 +135,7 @@
       "description": "Этот документ о политике конфиденциальности описывает типы личной информации, которые получает и собирает Wuwa Tracker, а также способы их использования. Wuwa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое."
     },
     "Sequences": {
-      "title": "Последовательности - Wuwa Tracker",
+      "title": "Коллекция - Wuwa Tracker",
       "description": "Подсчитывайте и демонстрируйте прогресс Последовательностей ваших Резонаторов и Оружия, а также просматривайте связанную с этим информацию. Вы можете показать их своим друзьям!"
     },
     "Settings": {
@@ -163,17 +163,17 @@
     "Convene Tracker": "История круток",
     "Global Stats": "Статистика",
     "Share History": "Поделиться",
-    "Sequences": "Последовательности",
+    "Sequences": "Коллекция",
     "Achievements": "Достижения",
-    "Timeline": "Календарь событий",
+    "Timeline": "Календарь",
     "Import": "Импорт данных",
     "Settings": "Настройки",
     "Support Us": "Поддержите нас",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Sign In To Google": "Войти в Google",
+    "Sign Out": "Выйти"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "Главная страница",
     "Greeting": {
       "AnimatedWords": {
         "pulls": "крутки",
@@ -261,7 +261,7 @@
       "calibrating": "Калибровка...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Гарант в ср.",
+          "title": "Средний гарант",
           "formula": "Каков ваш средний {qualityLevel}-звёздочный гарант?"
         },
         "PullRatio": {
@@ -285,7 +285,7 @@
       "Pulls Per Day": "Круток в день",
       "Pulls By Pity": "Гарант по круткам",
       "Pulls By Name": "Крутки по именам",
-      "Pulls": "Pulls"
+      "Pulls": "Круток"
     },
     "SharePageContent": {
       "title": "Поделиться",
@@ -485,7 +485,7 @@
     },
     "SignInButton": {
       "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
+      "Sign out": "Выйти",
       "Sign In to Google": "Войти в Google"
     },
     "SettingConveneHistoryUrl": {
@@ -514,10 +514,10 @@
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Хронология событий",
+    "title": "Календарь",
+    "heading": "Календарь событий",
     "description": "Просматривайте даты внутриигровых событий по своему часовому поясу, или используя один из <link>часовых поясов серверов игры</link>.",
-    "github-update-message": "Обновлено в {time} пользователем {author}.",
+    "github-update-message": "Обновлено {time} пользователем {author}.",
     "Edit this page on GitHub": "Edit this page on GitHub",
     "ResetTimers": {
       "title": "Таймеры ежедневного обновления серверов",

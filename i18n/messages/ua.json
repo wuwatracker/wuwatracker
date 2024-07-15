@@ -75,17 +75,17 @@
     "Verdant Summit": "Зелена вершина"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Особливий Резонатор",
-    "Featured Weapon": "Особлива зброя",
+    "Featured Resonator": "Лімітований Резонатор",
+    "Featured Weapon": "Лімітована зброя",
     "Permanent Resonator": "Постійні Резонатори",
     "Permanent Weapon": "Постійна зброя",
     "Beginner Convene": "Початкове Скликання",
-    "Beginner's Choice": "Початкове Скликання на вибір",
-    "Selector Ticket": "Початкове Скликання на вибір",
+    "Beginner's Choice": "Початкове на вибір",
+    "Selector Ticket": "Вибірковий білет",
     "Tidal Chorus": "Приливний хор",
     "Winter Brume Banner": "Зимовий прапор Бруму",
     "Utterance of Marvels": "Висловлювання чудес",
-    "Beginner Selector": "Початкове Скликання на вибір",
+    "Beginner Selector": "Початкове скликання на вибір",
     "Convene Giveback Event": "Абосолютні коливання",
     "Absolute Pulsation": "Абосолютні коливання",
     "Prevail the Lasting Night": "Перемогти тривалу Ніч",
@@ -195,7 +195,7 @@
     },
     "Changelogs": {
       "title": "Журнали змін",
-      "description": "Переглянути анонси сайту можна тут."
+      "description": "Переглянути новини сайту можна тут."
     },
     "Community": {
       "title": "Спільнота"
