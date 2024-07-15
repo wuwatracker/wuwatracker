@@ -445,30 +445,30 @@
       "import-success": "成功匯入喚取記錄 URL",
       "1": {
         "title": "依照我們的影片教學",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "description": "開啟鳴潮後，請依照 <link>yukio36 提供的教學影片</link>步驟進行",
+        "Video Tutorial": "影片教學",
+        "Android Airplane Mode Import Tutorial Video": "Android 裝置的飛航模式匯入教學影片",
+        "video-tutorial-desc": "按照 <highlight>yukio36</highlight> 在我們 <link>Discord Server</link> 上提供的 YouTube 教學步驟，可以在 Android 裝置上匯入你的資料，無需下載任何東西。",
+        "note": "提示：此方法不一定可以在所有裝置中正常運作，如果失敗請嘗試其他方法"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "在這裡貼上 URL",
+        "Your Convene History URL": "您的喚取記錄 URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "設定",
+    "Google Account": "Google 帳號",
+    "Browser Data": "瀏覽器資料",
+    "Report an Issue": "回報問題",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
+      "sign-out-success": "登出成功",
+      "login-to-sync": "您必須先登入後才可以進行同步",
+      "import-to-sync": "首先匯入您的資料以進行同步",
       "data-is-in-sync": "資料已與您的 Google 帳號同步",
       "is-synced": "資料已同步",
       "is-not-synced": "資料未同步",
@@ -521,7 +521,7 @@
     "Edit this page on GitHub": "使用 GitHub 編輯此頁",
     "ResetTimers": {
       "title": "伺服器每日重置計時器",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "description": "比對您的地區與鳴潮伺服器的時間以規劃您的下次冒險"
     }
   }
 }
