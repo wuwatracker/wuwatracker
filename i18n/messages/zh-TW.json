@@ -28,42 +28,42 @@
     "Broadblade of Voyager": "遠行者長刃．辟路",
     "Broadblade#41": "重破刃-41型",
     "Cadenza": "華彩樂段",
-    "Commando of Conviction": "Commando of Conviction",
-    "Comet Flare": "Comet Flare",
-    "Cosmic Ripples": "Cosmic Ripples",
-    "Dauntless Evernight": "Dauntless Evernight",
-    "Discord": "Discord",
-    "Emerald of Genesis": "Emerald of Genesis",
-    "Gauntlets of Night": "Gauntlets of Night",
-    "Gauntlets of Voyager": "Gauntlets of Voyager",
-    "Gauntlets#21D": "Gauntlets#21D",
-    "Guardian Broadblade": "Guardian Broadblade",
-    "Guardian Gauntlets": "Guardian Gauntlets",
-    "Guardian Pistols": "Guardian Pistols",
-    "Guardian Rectifier": "Guardian Rectifier",
-    "Guardian Sword": "Guardian Sword",
-    "Helios Cleaver": "Helios Cleaver",
-    "Hollow Mirage": "Hollow Mirage",
-    "Jinzhou Keeper": "Jinzhou Keeper",
-    "Lunar Cutter": "Lunar Cutter",
-    "Lumingloss": "Lumingloss",
-    "Lustrous Razor": "Lustrous Razor",
-    "Marcato": "Marcato",
-    "Novaburst": "Novaburst",
-    "Originite: Type I": "Originite: Type I",
-    "Originite: Type II": "Originite: Type II",
-    "Originite: Type III": "Originite: Type III",
-    "Originite: Type IV": "Originite: Type IV",
-    "Originite: Type V": "Originite: Type V",
-    "Overture": "Overture",
-    "Pistols of Night": "Pistols of Night",
-    "Pistols of Voyager": "Pistols of Voyager",
-    "Pistols#26": "Pistols#26",
-    "Rectifier of Night": "Rectifier of Night",
-    "Rectifier of Voyager": "Rectifier of Voyager",
-    "Rectifier#25": "Rectifier#25",
-    "Scale: Slasher": "Scale: Slasher",
-    "Static Mist": "Static Mist",
+    "Commando of Conviction": "不歸孤軍",
+    "Comet Flare": "異度",
+    "Cosmic Ripples": "漪瀾浮錄",
+    "Dauntless Evernight": "永夜長明",
+    "Discord": "異響空靈",
+    "Emerald of Genesis": "千古洑流",
+    "Gauntlets of Night": "暗夜臂鎧．夜芒",
+    "Gauntlets of Voyager": "遠行者臂鎧．破障",
+    "Gauntlets#21D": "鋼影拳-21丁型",
+    "Guardian Broadblade": "戍關長刃．定軍",
+    "Guardian Gauntlets": "戍關臂鎧．拔山",
+    "Guardian Pistols": "戍關配槍．平雲",
+    "Guardian Rectifier": "戍關音感儀．留光",
+    "Guardian Sword": "戍關迅刀．鎮海",
+    "Helios Cleaver": "東落",
+    "Hollow Mirage": "駭行",
+    "Jinzhou Keeper": "今州守望",
+    "Lunar Cutter": "西升",
+    "Lumingloss": "飛景",
+    "Lustrous Razor": "浩境粼光",
+    "Marcato": "呼嘯重音",
+    "Novaburst": "飛逝",
+    "Originite: Type I": "源能長刃．測壹",
+    "Originite: Type II": "源能迅刀．測貳",
+    "Originite: Type III": "源能配槍．測參",
+    "Originite: Type IV": "源能臂鎧．測肆",
+    "Originite: Type V": "源能音感儀．測五",
+    "Overture": "行進序曲",
+    "Pistols of Night": "暗夜配槍．暗星",
+    "Pistols of Voyager": "遠行者配槍．洞察",
+    "Pistols#26": "穿擊槍-26型",
+    "Rectifier of Night": "暗夜矩陣．暝光",
+    "Rectifier of Voyager": "遠行者矩陣．探幽",
+    "Rectifier#25": "鳴動儀-25型",
+    "Scale: Slasher": "行進序曲",
+    "Static Mist": "停駐之煙",
     "Stonard": "Stonard",
     "Stringmaster": "Stringmaster",
     "Sword of Night": "Sword of Night",
@@ -166,85 +166,85 @@
     "Sequences": "Sequences",
     "Achievements": "Achievements",
     "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Import": "匯入",
+    "Settings": "設定",
+    "Support Us": "協助我們",
+    "Sign In To Google": "使用Google帳號登入",
+    "Sign Out": "登出"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "控制台",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
-        "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "pulls": "喚取",
+        "pity": "保底",
+        "events": "活動",
+        "statistics": "分析",
+        "data": "資料",
+        "updates": "更新"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "Wuwa Tracker 協助分析",
+      "description": "鳴潮喚取數量計算，使用最即時的全球分析資訊\n我們的目標是提供一個可以與朋友分享的抽卡分析平台"
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "立即分析",
+      "description": "您好，漂泊者，讓我們開始吧",
+      "View Pull History": "檢視喚取記錄",
+      "Sync Your Data": "同步資料",
+      "Your data will now sync automatically!": "您的資料將會自動同步"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "更新記錄",
+      "description": "檢視網頁公告"
     },
     "Community": {
-      "title": "Community"
+      "title": "社群"
     }
   },
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "成就",
+    "description": "感謝 <link>StarDB 的 WuWa Achievements V1.1表格</link>提供初始資料",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "成功匯入資料",
+        "import-invalid": "請匯入有效資料",
+        "parse-fail": "轉譯 JSON 檔案失敗",
+        "download-fail": "下載失敗",
+        "download-start": "下載即將開始"
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "使用篩選器尋找缺少的成就",
+      "Completed": "完成",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "匯入資料",
+        "description": "使用先前匯出的資料並且同步"
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Hidden": "隱藏",
+      "Click to upload": "點擊上傳",
+      "or drag and drop": "或者拖拉",
+      "Import": "匯入",
+      "Export as JSON": "匯出 JSON 檔案",
+      "Need Tips?": "需要提示嗎?"
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "進度追蹤",
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "全球分析"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "喚取分類"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "近期",
+      "and": "與",
+      "Convenes": "喚取",
+      "no-filters": "缺少篩選條件",
+      "no-records": "查無資料"
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
+      "Pull History": "喚取記錄",
+      "Pull Num": "喚取數",
+      "Item": "獲得",
       "Pity": "Pity",
       "Date Received": "Date Received",
       "no-records": "No records found."
@@ -490,24 +490,24 @@
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "download-failed": "下載失敗",
+      "download-starting": "下載即將開始",
+      "invalid-url": "請輸入正確的喚取記錄URL",
+      "import-success": "成功匯入喚取記錄URL至本機",
+      "delete-local-success": "刪除本機資料",
+      "Convene History Data": "喚取記錄檔",
+      "Import Tutorial": "匯入教學",
+      "Go to Import Tutorial": "前往匯入教學",
+      "description": "匯出或者更新您的喚取記錄連結",
+      "Your Convene History URL": "您的喚取記錄連結",
+      "Download Your History": "下載您的歷史資料",
+      "Delete Browser Saved Data": "刪除瀏覽器儲存資料",
+      "Delete your local data": "刪除本機資料",
+      "Save": "儲存"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "隱私權",
+      "description": "管理 Wuwa Tracker 對於您資料的存取權限"
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Submit pull data for global statistics"
