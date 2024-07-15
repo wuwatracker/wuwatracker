@@ -13,7 +13,15 @@ export interface Event {
   isGlobal?: boolean;
   sourceName?: string; // the display name of the source URL
   reliability?: 'Leak' | 'Official';
+  group?: number; // events with the same group will overlap and merge if they are within 1 hour from each other's start & end dates, respectively
 }
+
+export const EVENT_GROUP = {
+  PIONEER_PODCAST: 0,
+  ILLUSIVE_REALM: 1,
+  TOWER_OF_ADVERSITY: 2,
+  DOUBLE_DROPS: 3,
+};
 
 /**
  * Edit the values here.
@@ -23,27 +31,6 @@ export interface Event {
 const rawEvents: { banners: Event[]; activities: Event[] } = {
   banners: [
     {
-      id: 10191,
-      name: 'When Thunder Pours - Yinlin Banner',
-      description:
-        'During the event, boosted drop rates for 5-star Resonator [Yinlin], 4-star Resonators [Taoqi], [Aalto], and [Yuanwu]!',
-      url: 'https://wutheringwaves.gg/when-thunder-pours-featured-resonator-convene-boosted-drop-rate-for-yinlin/',
-      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/XUvRpLaygBSPNnoM.jpg',
-      startDate: '2024-06-06 10:00',
-      endDate: '2024-06-26 11:59',
-      isGlobal: true,
-      reliability: 'Official',
-    },
-    {
-      id: 10192,
-      name: 'Absolute Pulsation - Yinlin Weapon Banner',
-      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/RhasUibVrDXaewvP.jpg',
-      startDate: '2024-06-06 10:00',
-      endDate: '2024-06-26 11:59',
-      isGlobal: true,
-      reliability: 'Official',
-    },
-    {
       name: 'Thawborn Renewal - Jinhsi Banner',
       img: 'https://snipboard.io/DUVFSa.jpg',
       startDate: '2024-06-28 12:00',
@@ -52,6 +39,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      group: 0,
     },
     {
       name: 'Absolute Pulsation - Jinhsi Weapon Banner',
@@ -62,6 +50,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      group: 1,
     },
     {
       name: 'Stellar Plummage - Changli Banner',
@@ -72,6 +61,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      group: 0,
     },
     {
       name: 'Absolute Pulsation - Changli Weapon Banner',
@@ -82,42 +72,10 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      group: 1,
     },
   ],
   activities: [
-    {
-      name: 'Intensive Training',
-      img: 'https://snipboard.io/hdE7M2.jpg',
-      color: '#88302d',
-      description: `Recently, Simulation Training Grounds are offering Resonator richer training rewards. Use Waveplates to claim more rewards from Simulation Challenges!`,
-      startDate: '2024-06-06 04:00',
-      endDate: '2024-06-13 03:59',
-      isGlobal: true,
-      url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/813',
-      reliability: 'Official',
-    },
-    {
-      name: 'Depths of Illusive Realm',
-      img: 'https://snipboard.io/ajiG86.jpg',
-      color: '#e4c190',
-      description: `A mysterious gate silently appeared in Whining Aix's Mire. The peculiar frequency lingering in the air seems to hint at some long-forgotten secrets, and the truth lies just beyond the gate that only you can open.`,
-      startDate: '2024-05-23 04:00',
-      endDate: '2024-06-27 03:59',
-      isGlobal: true,
-      url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/813',
-      reliability: 'Official',
-    },
-    {
-      name: 'Overdash Club',
-      img: 'https://snipboard.io/0m5y1O.jpg',
-      color: '#e4c190',
-      description: `During this event, 6 tracks will be open for Tactical Hologram: Overdash. You can select any of the available tracks to challenge. During the challenge, avoid traps within a limited time and head to the finish line as you collect Hologram Tokens along the track. Once you reach the finish line, the challenge score will be calculated based on the number of Hologram Tokens obtained. Higher scores grant better rewards!`,
-      startDate: '2024-05-30 04:00',
-      endDate: '2024-06-17 03:59',
-      isGlobal: true,
-      url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/813',
-      reliability: 'Official',
-    },
     {
       name: 'Pioneer Podcast',
       img: 'https://snipboard.io/dBPpt2.jpg',
@@ -128,6 +86,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       isGlobal: true,
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      group: EVENT_GROUP.PIONEER_PODCAST,
     },
     {
       name: '[Tales from Mt. Firmament] Area Exploration Event',
@@ -195,6 +154,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       endDate: '2024-08-05 03:59',
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      group: EVENT_GROUP.ILLUSIVE_REALM,
     },
     {
       name: 'Tactical Simulacra: Limited-time Battle Challenge',
@@ -217,6 +177,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       endDate: '2024-08-13 03:59',
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
+      group: EVENT_GROUP.DOUBLE_DROPS,
     },
     {
       name: '[Bountiful Crescendo] Leveling Material Double Drop Event',
@@ -228,38 +189,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       endDate: '2024-07-18 03:59',
       url: 'https://wutheringwaves.kurogames.com/en/main/news/detail/975',
       reliability: 'Official',
-    },
-    {
-      id: 10199,
-      name: '"Chord Cleansing" LT Echo Double Drop Event',
-      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/VLUKnFABIwENgpiX.jpg',
-      startDate: '2024-06-20 04:00',
-      endDate: '2024-06-27 03:59',
-      reliability: 'Official',
-    },
-    {
-      id: 10214,
-      name: 'Wuthering Exploration Limited-Time Event',
-      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/uMJRhEmCgPNElAxX.jpg',
-      startDate: '2024-06-13 10:00',
-      endDate: '2024-06-27 03:59',
-      reliability: 'Official',
-    },
-    {
-      id: 10194,
-      name: 'Alloy Smelt Limited Time Battle Event',
-      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/WSrKcdNwytNiSRAs.jpg',
-      startDate: '2024-06-06 10:00',
-      endDate: '2024-06-27 03:59',
-      reliability: 'Official',
-    },
-    {
-      id: 10201,
-      name: 'Second Coming of Solaris Limited Time Collection Event',
-      img: 'https://aki-gm-resources-back.aki-game.net/notice/image/jpGLPKjxPaIfhrbw.jpg',
-      startDate: '2024-06-13 04:00',
-      endDate: '2024-06-27 03:59',
-      reliability: 'Official',
+      group: EVENT_GROUP.DOUBLE_DROPS,
     },
     {
       name: 'Tower of Adversity: Hazard Zone',
@@ -268,6 +198,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       endDate: '2024-07-22 10:59',
       color: '#18235f',
       reliability: 'Official',
+      group: EVENT_GROUP.TOWER_OF_ADVERSITY,
     },
   ],
 };

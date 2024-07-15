@@ -57,7 +57,8 @@ We are looking for translators to help us support more languages. Please read th
 | es.json    | Spain           | Spanish             | es       |
 | fr.json    | France          | French              | fr       |
 | id.json    | Indonesia       | Indonesian          | id       |
-| in.json    | India           | Hindi               | hi       |
+| hi.json    | India           | Hindi               | hi       |
+| hu.json    | Hungary         | Hungarian           | hu       |
 | ja.json    | Japan           | Japanese            | ja       |
 | ko.json    | South Korea     | Korean              | ko       |
 | ms.json    | Malaysia        | Malay               | ms       |
