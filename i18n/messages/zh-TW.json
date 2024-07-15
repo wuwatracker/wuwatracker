@@ -64,24 +64,24 @@
     "Rectifier#25": "鳴動儀-25型",
     "Scale: Slasher": "行進序曲",
     "Static Mist": "停駐之煙",
-    "Stonard": "Stonard",
-    "Stringmaster": "Stringmaster",
-    "Sword of Night": "Sword of Night",
-    "Sword of Voyager": "Sword of Voyager",
-    "Sword#18": "Sword#18",
-    "Thunderbolt": "Thunderbolt",
-    "Undying Flame": "Undying Flame",
-    "Variation": "Variation",
-    "Verdant Summit": "Verdant Summit"
+    "Stonard": "金掌",
+    "Stringmaster": "掣傀之手",
+    "Sword of Night": "暗夜迅刀．黑閃",
+    "Sword of Voyager": "遠行者迅刀．旅跡",
+    "Sword#18": "瞬斬刀-18型",
+    "Thunderbolt": "奔雷",
+    "Undying Flame": "無眠烈火",
+    "Variation": "奇幻變奏",
+    "Verdant Summit": "蒼鱗千嶂"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
+    "Featured Resonator": "限定共鳴者",
+    "Featured Weapon": "限定武器",
+    "Permanent Resonator": "常駐共鳴者",
+    "Permanent Weapon": "常駐武器",
+    "Beginner Convene": "初始喚取",
+    "Beginner's Choice": "新手自選",
+    "Selector Ticket": "自選卷",
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
@@ -90,7 +90,7 @@
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "Thawborn Renewal": "寒盡覺春生"
   },
   "Common": {
     "Import History": "Import History"
@@ -177,7 +177,7 @@
     "Greeting": {
       "AnimatedWords": {
         "pulls": "喚取",
-        "pity": "保底",
+        "pity": "獲取",
         "events": "活動",
         "statistics": "分析",
         "data": "資料",
@@ -244,8 +244,8 @@
     "UserPullHistoryTable": {
       "Pull History": "喚取記錄",
       "Pull Num": "喚取數",
-      "Item": "獲得",
-      "Pity": "Pity",
+      "Item": "物件",
+      "Pity": "獲取",
       "Date Received": "Date Received",
       "no-records": "No records found."
     },
@@ -261,8 +261,8 @@
       "calibrating": "Calibrating...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "平均獲取數",
+          "formula": "{qualityLevel} 星獲取平均是多少?"
         },
         "PullRatio": {
           "title": "Pull Ratio",
@@ -283,7 +283,7 @@
       "Switch Banner": "Switch Banner",
       "Banner List": "Banner List",
       "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
+      "Pulls By Pity": "獲取抽數",
       "Pulls By Name": "Pulls By Name",
       "Pulls": "Pulls"
     },
@@ -297,15 +297,15 @@
       "Background": "Background",
       "Foreground": "Foreground",
       "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "Download": "下載"
     }
   },
   "Import": {
     "Import Tutorial": "Import Tutorial",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "Automatic": "自動",
+      "Manual": "手動"
     },
     "Android": {
       "title": "Android",
@@ -313,7 +313,7 @@
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
+      "title": "選擇方式",
       "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
       "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
     },
@@ -395,7 +395,7 @@
         "title": "Follow our Video Tutorial",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
         "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
+        "iOS Import Tutorial Video": "iOS 匯入教學影片",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
       },
       "2": {
@@ -469,27 +469,27 @@
       "sign-out-success": "Signed out successfully.",
       "login-to-sync": "You must login before being able to sync.",
       "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "data-is-in-sync": "資料已與您的 Google 帳號同步",
+      "is-synced": "資料已同步",
+      "is-not-synced": "資料未同步",
+      "Cloud Backup": "雲端備份",
+      "description": "使用您的 Google 帳號儲存資料並且可以在任何裝置取得。只要登入一次並點擊\"同步資料\"即可上傳或下載資料至您的裝置內。",
+      "Guest": "訪客",
+      "Sign In to Google": "使用 Google 登入",
+      "Log Out": "登出",
+      "Sync Data": "同步資料",
+      "Google Data": "Google 資料",
+      "Browser Data": "瀏覽器資料",
+      "browser-data-different": "您的本機資料與 Google 帳號儲存的資料不同",
+      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。\n您想要保留本機資料或者使用 Google 帳號中的資料取代現有本機資料?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "登出成功",
+      "Sign out": "登出",
+      "Sign In to Google": "使用 Google 登入"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
+      "require-url-before-downloading": "您需要使用正確的喚取記錄URL才可以下載",
       "download-failed": "下載失敗",
       "download-starting": "下載即將開始",
       "invalid-url": "請輸入正確的喚取記錄URL",
@@ -510,17 +510,17 @@
       "description": "管理 Wuwa Tracker 對於您資料的存取權限"
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "提交抽取資料給予全球分析"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "title": "時程",
+    "heading": "活動時程",
+    "description": "在您的時區或者<link>其他時區</link>檢視鳴潮活動",
+    "github-update-message": "在 {time} 被 {author} 更新",
+    "Edit this page on GitHub": "使用 GitHub 編輯此頁",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
+      "title": "伺服器每日重置計時器",
       "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
     }
   }
