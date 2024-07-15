@@ -367,7 +367,7 @@
         "title": "Sao chép thư mục cài đặt của bạn",
         "description": "Tìm thư mục chứa <code>Wuthering Waves.exe</code> và thư mục <code>Client</code>.",
         "Your installation directory": "Thư mục cài đặt của bạn",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "warning": "Cảnh báo: Nếu bạn có chỉnh sửa tệp <code>Engine.ini</code> để vô hiệu hóa logs, bạn sẽ phải kích hoạt lại nó trước khi mở lịch sử triệu hồi, hoặc là script sẽ không hoạt động."
       },
       "2": {
         "title": "Đầu tiên, khởi chạy Wuthering Waves và mở Convene History trong trò chơi",
