@@ -77,27 +77,27 @@
   "CardPoolNames": {
     "Featured Resonator": "Featured Resonator",
     "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
+    "Permanent Resonator": "常驻共鸣者",
+    "Permanent Weapon": "常驻武器",
+    "Beginner Convene": "新手唤取",
+    "Beginner's Choice": "新手自选",
     "Selector Ticket": "Selector Ticket",
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
+    "Utterance of Marvels": "浮声沉兵",
+    "Beginner Selector": "新手自选唤取",
     "Convene Giveback Event": "Absolute Pulsation",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "When Thunder Pours": "惊霆雨时节",
+    "Thawborn Renewal": "寒尽觉春生"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "导入历史"
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
+      "title": "鸣潮抽卡分析",
       "description": "Wuthering Waves的哀歌计数器，使用最新数据和全球统计信息等。在设备间同步数据，与朋友分享抽卡结果，并轻松跟踪您的账户！"
     },
     "Achievements": {
@@ -157,57 +157,57 @@
     }
   },
   "MenuList": {
-    "Tools": "Tools",
-    "Guides": "Guides",
+    "Tools": "工具",
+    "Guides": "指南",
     "Config": "设置",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
+    "Convene Tracker": "唤取记录分析",
+    "Global Stats": "全球统计数据",
+    "Share History": "分享历史",
     "Sequences": "Sequences",
     "Achievements": "成就",
     "Timeline": "Timeline",
     "Import": "导入",
     "Settings": "设置",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
+    "Support Us": "支持我们",
+    "Sign In To Google": "登录谷歌",
     "Sign Out": "登出"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "控制面板",
     "Greeting": {
       "AnimatedWords": {
         "pulls": "pulls",
         "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
+        "events": "活动",
+        "statistics": "统计数据",
+        "data": "数据",
         "updates": "更新"
       },
       "title": "Wuwa Tracker helps you track",
       "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
+      "title": "开始",
+      "description": "欢迎您，漂泊者。让我们开始吧？",
+      "View Pull History": "查看抽卡记录",
       "Sync Your Data": "同步数据",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "Your data will now sync automatically!": "你的数据将自动同步！"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "改动日志",
+      "description": "在这里查看网站公告。"
     },
     "Community": {
-      "title": "Community"
+      "title": "社区"
     }
   },
   "Achievements": {
-    "title": "Achievements",
+    "title": "成就",
     "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
+        "import-success": "成功导入数据。",
+        "import-invalid": "请导入有效数据。",
         "parse-fail": "Failed to parse JSON file.",
         "download-fail": "Failed to start download.",
         "download-start": "下载即将开始。"
@@ -219,7 +219,7 @@
         "description": "Use your previously exported data and sync it with your browser."
       },
       "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
+      "Click to upload": "点击上传",
       "or drag and drop": "or drag and drop",
       "Import": "导入",
       "Export as JSON": "Export as JSON",
@@ -235,10 +235,10 @@
       "Global Statistics": "Global Statistics"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "唤取类别"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
+      "Recent": "最近",
       "and": "和",
       "Convenes": "唤取",
       "no-filters": "No filters selected.",
@@ -249,12 +249,12 @@
       "Pull Num": "Pull No.",
       "Item": "道具",
       "Pity": "保底",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Date Received": "获取日期",
+      "no-records": "找不到记录"
     },
     "UserBannerStats": {
       "Total": "总计",
-      "Astrites": "Astrites",
+      "Astrites": "星声",
       "Pulls": "Pulls"
     },
     "UserBannerStatsLuckCards": {
@@ -264,8 +264,8 @@
       "calibrating": "Calibrating...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "平均抽数",
+          "formula": "你的平均 {qualityLevel} 星所需抽数是多少？"
         },
         "PullRatio": {
           "title": "Pull Ratio",
@@ -381,13 +381,13 @@
       },
       "3": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "4": {
         "title": "Press the \"Import History\" Button on this Website"
       },
       "Video Tutorial": "视频教程",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "PC Import Tutorial Video": "电脑端导入教程视频",
       "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
     },
     "IOSTutorial": {
@@ -419,7 +419,7 @@
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "3": {
         "title": " Press the \"Import History\" Button on this Website"
@@ -430,14 +430,14 @@
     },
     "Android2Tutorial": {
       "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "Use Termux To Get Convene History URL",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
         "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -445,7 +445,7 @@
     },
     "Android3Tutorial": {
       "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "Follow our Video Tutorial",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
@@ -499,17 +499,17 @@
       "import-success": "Successfully imported Convene History URL locally!",
       "delete-local-success": "删除本地历史数据。",
       "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
+      "Import Tutorial": "导入教程",
+      "Go to Import Tutorial": "查看导入教程",
       "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
+      "Your Convene History URL": "你的唤取历史链接",
       "Download Your History": "下载历史记录",
       "Delete Browser Saved Data": "Delete Browser Saved Data",
       "Delete your local data": "删除本地数据",
       "Save": "保存"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
+      "title": "隐私",
       "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
