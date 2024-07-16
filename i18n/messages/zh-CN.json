@@ -159,18 +159,18 @@
   "MenuList": {
     "Tools": "Tools",
     "Guides": "Guides",
-    "Config": "Config",
+    "Config": "设置",
     "Convene Tracker": "Convene Tracker",
     "Global Stats": "Global Stats",
     "Share History": "Share History",
     "Sequences": "Sequences",
-    "Achievements": "Achievements",
+    "Achievements": "成就",
     "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
+    "Import": "导入",
+    "Settings": "设置",
     "Support Us": "Support Us",
     "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Sign Out": "登出"
   },
   "Dashboard": {
     "title": "Dashboard",
@@ -181,7 +181,7 @@
         "events": "events",
         "statistics": "statistics",
         "data": "data",
-        "updates": "updates"
+        "updates": "更新"
       },
       "title": "Wuwa Tracker helps you track",
       "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
@@ -190,7 +190,7 @@
       "title": "Get Started",
       "description": "Welcome, Rover. Let's get you started, shall we?",
       "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
+      "Sync Your Data": "同步数据",
       "Your data will now sync automatically!": "Your data will now sync automatically!"
     },
     "Changelogs": {
@@ -210,12 +210,12 @@
         "import-invalid": "Please import valid data.",
         "parse-fail": "Failed to parse JSON file.",
         "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "download-start": "下载即将开始。"
       },
       "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "Completed": "已完成",
       "ImportDialog": {
-        "title": "Import Data",
+        "title": "导入数据",
         "description": "Use your previously exported data and sync it with your browser."
       },
       "Hidden": "Hidden",
@@ -229,7 +229,7 @@
   "Convene": {
     "title": "Convene Tracker",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "滚动查看更多"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Global Statistics"
@@ -239,13 +239,13 @@
     },
     "UserRecentConvenes": {
       "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
+      "and": "和",
+      "Convenes": "唤取",
       "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "no-records": "找不到记录"
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
+      "Pull History": "唤取记录",
       "Pull Num": "Pull No.",
       "Item": "道具",
       "Pity": "保底",
@@ -253,7 +253,7 @@
       "no-records": "No records found."
     },
     "UserBannerStats": {
-      "Total": "Total",
+      "Total": "总计",
       "Astrites": "Astrites",
       "Pulls": "Pulls"
     },
@@ -293,7 +293,7 @@
     "SharePageContent": {
       "title": "Share Card",
       "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
+      "Customize": "自定义",
       "Edit Share Card": "Edit Share Card",
       "edit-description": "Your card updates in real time as you make changes.",
       "Select Banner": "Select Banner",
