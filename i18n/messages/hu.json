@@ -228,6 +228,9 @@
   },
   "Convene": {
     "title": "Húzás követés",
+    "ConvenePageContent": {
+      "Scroll for More": "Scroll for More"
+    },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Globális statisztikák"
     },
