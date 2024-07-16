@@ -228,6 +228,9 @@
   },
   "Convene": {
     "title": "Pelacak Convene",
+    "ConvenePageContent": {
+      "Scroll for More": "Scroll for More"
+    },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Statistik Global"
     },
