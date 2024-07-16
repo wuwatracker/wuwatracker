@@ -228,6 +228,9 @@
   },
   "Convene": {
     "title": "Відстежування Скликань",
+    "ConvenePageContent": {
+      "Scroll for More": "Scroll for More"
+    },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальна статистика"
     },
