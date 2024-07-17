@@ -62,7 +62,7 @@
     "Rectifier of Night": "暗夜矩阵·暝光",
     "Rectifier of Voyager": "远行者矩阵·探幽",
     "Rectifier#25": "鸣动仪-25型",
-    "Scale: Slasher": "Scale: Slasher",
+    "Scale: Slasher": "行进序曲",
     "Static Mist": "停驻之烟",
     "Stonard": "金掌",
     "Stringmaster": "掣傀之手",
@@ -70,34 +70,34 @@
     "Sword of Voyager": "远行者迅刀·旅迹",
     "Sword#18": "瞬斩刀-18型",
     "Thunderbolt": "奔雷",
-    "Undying Flame": "Undying Flame",
+    "Undying Flame": "无眠烈火",
     "Variation": "奇幻变奏",
     "Verdant Summit": "苍鳞千嶂"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
-    "Tidal Chorus": "Tidal Chorus",
+    "Featured Resonator": "当期活动共鸣者",
+    "Featured Weapon": "当期活动武器",
+    "Permanent Resonator": "常驻共鸣者",
+    "Permanent Weapon": "常驻武器",
+    "Beginner Convene": "新手唤取",
+    "Beginner's Choice": "新手自选",
+    "Selector Ticket": "选择券",
+    "Tidal Chorus": "海上共潮生",
     "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Absolute Pulsation",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "Utterance of Marvels": "浮声沉兵",
+    "Beginner Selector": "新手自选唤取",
+    "Convene Giveback Event": "武器活动唤取",
+    "Absolute Pulsation": "武器活动唤取",
+    "Prevail the Lasting Night": "夜将寒色去",
+    "When Thunder Pours": "惊霆雨时节",
+    "Thawborn Renewal": "寒尽觉春生"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "导入历史"
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
+      "title": "鸣潮抽卡分析",
       "description": "Wuthering Waves的哀歌计数器，使用最新数据和全球统计信息等。在设备间同步数据，与朋友分享抽卡结果，并轻松跟踪您的账户！"
     },
     "Achievements": {
@@ -157,196 +157,199 @@
     }
   },
   "MenuList": {
-    "Tools": "Tools",
-    "Guides": "Guides",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Tools": "工具",
+    "Guides": "指南",
+    "Config": "设置",
+    "Convene Tracker": "唤取记录分析",
+    "Global Stats": "全球统计数据",
+    "Share History": "分享历史",
+    "Sequences": "序列",
+    "Achievements": "成就",
+    "Timeline": "行事历",
+    "Import": "导入",
+    "Settings": "设置",
+    "Support Us": "支持我们",
+    "Sign In To Google": "登录谷歌",
+    "Sign Out": "登出"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "控制面板",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
-        "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "pulls": "抽数",
+        "pity": "保底",
+        "events": "活动",
+        "statistics": "统计数据",
+        "data": "数据",
+        "updates": "更新"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "鸣潮抽卡追踪分析工具帮助您追踪",
+      "description": "根据全球统计及更多数据，使用最新数据为鸣潮提供的保底计数器。我们致力于提供一个最棒的工具来让您向朋友们展示您的鸣潮进度。"
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "开始",
+      "description": "欢迎您，漂泊者。让我们开始吧？",
+      "View Pull History": "查看抽卡记录",
+      "Sync Your Data": "同步数据",
+      "Your data will now sync automatically!": "你的数据将自动同步！"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "改动日志",
+      "description": "在这里查看网站公告。"
     },
     "Community": {
-      "title": "Community"
+      "title": "社区"
     }
   },
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "成就",
+    "description": "特别鸣谢<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>为我们提供初始数据。",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "成功导入数据。",
+        "import-invalid": "请导入有效数据。",
+        "parse-fail": "解析JSON文件失败。",
+        "download-fail": "开始下载失败。",
+        "download-start": "下载即将开始。"
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "使用过滤器来帮助您找到缺失的成就。",
+      "Completed": "已完成",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "导入数据",
+        "description": "使用您以前导出的数据并和浏览器进行同步。"
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "Hidden": "隐藏",
+      "Click to upload": "点击上传",
+      "or drag and drop": "或者使用拖放",
       "Import": "导入",
-      "Export as JSON": "Export as JSON",
+      "Export as JSON": "以JSON格式导出",
       "Need Tips?": "需要帮助？"
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "唤取追踪",
+    "ConvenePageContent": {
+      "Scroll for More": "滚动查看更多"
+    },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "全球统计数据"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "唤取类别"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "最近",
+      "and": "和",
+      "Convenes": "唤取",
+      "no-filters": "未选择过滤条件",
+      "no-records": "找不到记录"
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
+      "Pull History": "唤取记录",
+      "Pull Num": "抽卡次数",
       "Item": "道具",
       "Pity": "保底",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Date Received": "获取日期",
+      "no-records": "找不到记录"
     },
     "UserBannerStats": {
-      "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Total": "总计",
+      "Astrites": "星声",
+      "Pulls": "抽数"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "欧非程度",
+      "no-luck": "这个卡池没有欧非程度的统计数据。",
+      "no-records": "找不到记录",
+      "calibrating": "校准中",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "平均抽数",
+          "formula": "你的平均 {qualityLevel} 星所需抽数是多少？"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "抽取率",
+          "formula": "您的 {qualityLevel} 星抽取率是？"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "小保底不歪率",
+          "formula": "您的小保底不歪率是？"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "概率提升角色抽取率",
+          "formula": "4星概率提升角色抽取率"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "title": "全球统计数据",
+      "Switch Banner": "切换卡池",
+      "Banner List": "卡池列表",
+      "Pulls Per Day": "每日抽数",
+      "Pulls By Pity": "抽数统计按保底数",
+      "Pulls By Name": "抽数统计按名称",
+      "Pulls": "抽数"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
+      "title": "分享卡片",
+      "description": "自定义并下载你的鸣潮唤取历史记录来和他人分享。",
+      "Customize": "自定义",
+      "Edit Share Card": "编辑共享卡片",
+      "edit-description": "当你做出修改时，你的卡片会实时更新。",
+      "Select Banner": "选择卡池",
+      "Background": "背景",
+      "Foreground": "前景",
+      "recommendation": "对分辨率为2048x2048的图片，我们推荐使用1比1的纵横比。",
       "Download": "下载"
     }
   },
   "Import": {
     "Import Tutorial": "导入教程",
     "PC": {
-      "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "title": "电脑",
+      "Automatic": "自动",
+      "Manual": "手动"
     },
     "Android": {
       "title": "安卓",
-      "Airplane": "Airplane"
+      "Airplane": "飞行模式"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "选择一种方法",
+      "description": "如果自动的方法无法使用，请使用其他的教程来手动导入。如果您还需要帮助，请访问我们的<link>Discord服务器</link>。",
+      "description-android": "如果第一个方法无法使用，请尝试其他的方法。如果您还需要帮助，请访问我们的<link>Discord服务器</link>。"
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "无效的唤取历史链接.",
+      "import-success": "成功导入唤取历史链接",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "title": "首先，运行鸣潮并打开游戏中的唤取历史",
+        "description": "接着，打开Windows PowerShell，然后粘贴下面的脚本。",
+        "History URL Script": "历史链接脚本",
+        "Click the copy button on the right": "点击右方的拷贝按钮",
+        "note": "注意：本脚本不会修改您的文件，它只会从日志中提取链接。你可以<link>在此处查看脚本</link>。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "将链接粘贴至此处",
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "点击此网站上的“导入历史”按钮"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
+      "invalid-url": "无效的唤取历史链接.",
+      "import-success": "成功导入唤取历史链接",
+      "found-url": "我们找到了一个链接！点击导入历史按钮以继续。",
+      "not-found-url": "在日志文件中没有找到有效的链接。",
       "Click to upload": "点击上传",
-      "or drag and drop": "or drag and drop",
+      "or drag and drop": "或者使用拖放",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "首先，运行鸣潮并打开游戏中的唤取历史"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
+        "title": "进入您的安装目录",
         "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
       },
       "3": {
@@ -356,107 +359,107 @@
         "title": "Press the \"Import History\" Button on this Website"
       },
       "Video Tutorial": "视频教程",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "PC Import Tutorial Video": "电脑端导入教程视频",
+      "video-tutorial-desc": "参照 <highlight>cacaowithwater</highlight> 在我们的 <link>Discord 服务器</link> 上提供的一步一步的YouTube教程在电脑端导入你的数据。"
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "无效的游戏路径",
+      "invalid-url": "无效的唤取历史链接",
+      "import-success": "成功导入唤取历史链接",
       "1": {
-        "title": "Copy Your Installation Directory",
+        "title": "拷贝您的安装目录",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "Your installation directory": "您的安装目录",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
         "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
         "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
         "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
+        "Stuck? Click the “Need Help?” button": "卡住了？点击“需要帮助？”按钮",
         "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "将链接粘贴至此处",
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "4": {
         "title": "Press the \"Import History\" Button on this Website"
       },
       "Video Tutorial": "视频教程",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "PC Import Tutorial Video": "电脑端导入教程视频",
       "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "无效的JSON数据 - 请确认复制了分号",
+      "invalid-url": "无效的唤取历史链接",
+      "import-success": "成功导入唤取历史链接",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
+        "title": "参照我们的视频教程",
+        "description": "类似于从原神或者崩坏：星穹铁道中得到历史记录，根据<video>Chario的视频教程</video>来下载并使用<app>Stream - Network Debug Tool.</app>来得到你的链接。",
         "Video Tutorial": "视频教程",
         "iOS Import Tutorial Video": "iOS导入教程视频",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "video-tutorial-desc": "参照 <highlight>Chario</highlight> 在我们的 <link>Discord 服务器</link> 上提供的一步一步的YouTube教程在电脑端导入你的数据。"
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "将JSON粘贴至此处"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "点击此网站上的“导入历史”按钮"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "无效的唤取历史链接",
+      "import-success": "成功导入唤取历史链接",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "使用Ascent来获得唤取历史链接",
+        "description": "类似于从原神或者崩坏：星穹铁道中得到历史记录，根据<video>Mirai0009的视频教程</video>来下载并使用<app>Ascent v2.1.6</app>来得到你的链接。",
+        "note": "此方法仅适用于安卓系统11及以上版本。",
+        "troubleshooting": "如果无法正确运行，请查看<link>问题诊断板块</link>。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "将链接粘贴至此处",
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " 点击此网站上的“导入历史”按钮"
       },
       "Video Tutorial": "视频教程",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Android Ascent Import Tutorial Video": "安卓Ascent 导入教程视频",
+      "video-tutorial-desc": "首先，请仔细阅读<guide>这篇文字教程</guide>，然后参照这个<video>YouTube视频</video>在安卓端得到你的数据。特别鸣谢Mirai0009。"
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "无效的唤取历史链接",
+      "import-success": "成功导入唤取历史链接",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "使用 Termux 来获得唤取历史链接",
+        "description": "类似于从原神或者崩坏：星穹铁道中得到历史记录，根据<guide>eqdamini的教程</guide>来下载并使用<app>Termux</app>来得到你的链接。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "将链接粘贴至此处",
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "点击此网站上的“导入历史”按钮"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "无效的唤取历史链接",
+      "import-success": "成功导入唤取历史链接",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
+        "title": "参照我们的视频教程",
+        "description": "打开鸣潮应用后参照<link>yukio36的视频教程</link>。",
         "Video Tutorial": "视频教程",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "Android Airplane Mode Import Tutorial Video": "安卓飞行模式导入教程视频",
+        "video-tutorial-desc": "参照 <highlight>yukio36</highlight> 在我们的 <link>Discord 服务器</link> 上提供的一步一步的YouTube教程，无需下载任何应用，在安卓端导入你的数据。",
+        "note": "注意：此方法并非一定适用于所有设备，如果失败的话，请尝试其他方法。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "将链接粘贴至此处",
+        "Your Convene History URL": "你的唤取历史链接"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "点击此网站上的“导入历史”按钮"
       }
     }
   },
@@ -468,20 +471,20 @@
     "SettingCloudSync": {
       "sign-out-success": "登出成功。",
       "login-to-sync": "您必须先登录才能开启同步。",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
+      "import-to-sync": "首先请导入你的数据来开启同步！",
+      "data-is-in-sync": "本地数据与你的谷歌账户中的数据已同步。",
       "is-synced": "数据已同步",
       "is-not-synced": "数据未同步",
       "Cloud Backup": "云端储存",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
+      "description": "使用你的谷歌账户来储存数据，以便在任何设备上访问你的数据。登录之后，点击”同步数据“按钮来上传或下载数据到你的设备中。",
       "Guest": "游客",
       "Sign In to Google": "登录谷歌",
       "Log Out": "登出",
       "Sync Data": "同步数据",
       "Google Data": "谷歌数据",
       "Browser Data": "浏览器数据",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "browser-data-different": "你的本地数据和谷歌云端数据不同步。",
+      "browser-data-different-confirmation": "你的特征码为 {localId} 的本地数据与特征码为 ${googleId} 的谷歌账户中的数据冲突。你希望保留浏览器本地数据还是使用谷歌账户中的数据呢？"
     },
     "SignInButton": {
       "sign-out-success": "登出成功。",
@@ -489,39 +492,39 @@
       "Sign In to Google": "登录谷歌"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
+      "require-url-before-downloading": "在下载之前，你需要一个有效的唤取历史链接。",
       "download-failed": "开始下载失败。",
       "download-starting": "下载即将开始。",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
+      "invalid-url": "请输入一个有效的唤取历史链接。",
+      "import-success": "成功导入唤取历史链接！",
       "delete-local-success": "删除本地历史数据。",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
+      "Convene History Data": "唤取历史数据",
+      "Import Tutorial": "导入教程",
+      "Go to Import Tutorial": "查看导入教程",
+      "description": "在此处导出或者修改你的唤取历史链接。",
+      "Your Convene History URL": "你的唤取历史链接",
       "Download Your History": "下载历史记录",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
+      "Delete Browser Saved Data": "删除浏览器保存的数据",
       "Delete your local data": "删除本地数据",
       "Save": "保存"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "隐私",
+      "description": "管理鸣潮抽卡追踪分析工具的处理您的数据的权限。"
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "提交抽卡数据至全球统计数据中。"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
+    "title": "行事历",
+    "heading": "活动日程",
+    "description": "以你的本地时区或者其他<link>服务器时间</link>查看鸣潮的活动。",
+    "github-update-message": "由 {author} 编辑于 {time}。",
     "Edit this page on GitHub": "在GitHub上编辑此页",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "服务器每日刷新计时器",
+      "description": "比较你的本地时间和鸣潮游戏服务器时间来规划接下来的冒险。"
     }
   }
 }

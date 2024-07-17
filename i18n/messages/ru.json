@@ -228,6 +228,9 @@
   },
   "Convene": {
     "title": "История круток",
+    "ConvenePageContent": {
+      "Scroll for More": "Scroll for More"
+    },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальная статистика"
     },

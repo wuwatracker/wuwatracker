@@ -228,6 +228,9 @@
   },
   "Convene": {
     "title": "進度追蹤",
+    "ConvenePageContent": {
+      "Scroll for More": "Scroll for More"
+    },
     "ConveneCategoryGlobal": {
       "Global Statistics": "全球分析"
     },
