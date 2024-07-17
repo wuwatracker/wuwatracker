@@ -83,7 +83,7 @@
     "Beginner's Choice": "新手自选",
     "Selector Ticket": "选择券",
     "Tidal Chorus": "海上共潮生",
-    "Winter Brume Banner": "Winter Brume Banner",
+    "Winter Brume Banner": "冬湖烟波",
     "Utterance of Marvels": "浮声沉兵",
     "Beginner Selector": "新手自选唤取",
     "Convene Giveback Event": "武器活动唤取",
@@ -106,7 +106,7 @@
     },
     "Convene": {
       "Index": {
-        "title": "历史会集记录 - Wuwa Tracker",
+        "title": "历史唤取记录 - Wuwa Tracker",
         "description": "查看您在Wuthering Waves中的更新抽卡统计和最近的会集记录。使用适合截图的仪表板向朋友炫耀！Wuwa Tracker 是Wuthering Waves的哀歌计数器，使用最新数据和全球统计信息等。与朋友分享抽卡结果，并轻松跟踪您的账户！"
       },
       "Global": {
@@ -123,7 +123,7 @@
       "description": "使用Wuwa Tracker时发生错误。请将报告发送到我们的Discord服务器，以便我们尽快解决问题。"
     },
     "Import": {
-      "title": "导入会集历史 - Wuwa Tracker",
+      "title": "导入唤取历史 - Wuwa Tracker",
       "description": "按照我们的互动教程显示您的Wuthering Waves数据并查看您的统计信息。我们支持从PC、Android和iOS设备导入数据，采用自动方法。Wuwa Tracker 是Wuthering Waves的哀歌计数器，使用最新数据和全球统计信息等。与朋友分享抽卡结果，并轻松跟踪您的账户！"
     },
     "Not Found": {
@@ -147,7 +147,7 @@
       "description": "本条款和条件概述了Wuwa Tracker网站和服务的使用规则和规定。"
     },
     "Timeline": {
-      "title": "事件时间线 - Wuwa Tracker",
+      "title": "活动时间线 - Wuwa Tracker",
       "description": "使用您的本地时区或任何Wuthering Waves服务器时区，您可以查看每个横幅时间表、游戏内事件、逆境之塔和幻境深渊的期间 - 一切尽在一处。Wuwa Tracker 是Wuthering Waves的哀歌计数器，使用最新数据和全球统计信息等。与朋友分享抽卡结果，并轻松跟踪您的账户！"
     }
   },
@@ -350,13 +350,13 @@
       },
       "2": {
         "title": "进入您的安装目录",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "description": "右键点击鸣潮游戏启动器并选择 <code>打开文件位置</code>。你应该会看见 <code>launcher.exe</code> 以及很多 <code>.dll</code> 文件。"
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "在文件管理器中寻找 <code>debug.log</code> 然后上传到此处"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "点击此网站上的“导入历史”按钮"
       },
       "Video Tutorial": "视频教程",
       "PC Import Tutorial Video": "电脑端导入教程视频",
@@ -368,27 +368,27 @@
       "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "拷贝您的安装目录",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
+        "description": "找到包含 <code>Wuthering Waves.exe</code> 和 <code>Client</code> 的文件夹。",
         "Your installation directory": "您的安装目录",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
+        "title": "在电脑上运行鸣潮然后打开游戏中的唤取历史",
+        "description": "接着，打开Windows PowerShell，然后粘贴下面的脚本。",
+        "invalid-directory": "请先输入一个有效的安装目录！",
         "Stuck? Click the “Need Help?” button": "卡住了？点击“需要帮助？”按钮",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "note": "注意：本脚本不会修改您的文件，它只会从日志中提取链接。你可以<link>在此处</link>查看脚本。"
       },
       "3": {
         "title": "将链接粘贴至此处",
         "Your Convene History URL": "你的唤取历史链接"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "点击此网站上的“导入历史”按钮"
       },
       "Video Tutorial": "视频教程",
       "PC Import Tutorial Video": "电脑端导入教程视频",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "video-tutorial-desc": "参照这个一步一步的YouTube教程在电脑上导入您的数据。请加入我们的 <link>Discord服务器</link> 来寻求帮助！"
     },
     "IOSTutorial": {
       "invalid-json": "无效的JSON数据 - 请确认复制了分号",
