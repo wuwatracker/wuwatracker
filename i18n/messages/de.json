@@ -276,7 +276,7 @@
           "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
+          "title": "Verbesserte Raten gewonnen",
           "formula": "How often were your 4-star pulls rate-up?"
         }
       }
@@ -392,10 +392,10 @@
     },
     "IOSTutorial": {
       "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
+      "invalid-url": "Invalide Convene-Verlauf-URL",
       "import-success": "Successfully imported Convene History URL!",
       "1": {
-        "title": "Follow our Video Tutorial",
+        "title": "Folge unserem Video Tutorial",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
         "Video Tutorial": "Video Tutorial",
         "iOS Import Tutorial Video": "iOS Import Tutorial Video",
@@ -464,10 +464,10 @@
     }
   },
   "Settings": {
-    "title": "Settings",
+    "title": "Einstellungen",
     "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "Browser Data": "Browserdaten",
+    "Report an Issue": "Melde ein Problem",
     "SettingCloudSync": {
       "sign-out-success": "Signed out successfully.",
       "login-to-sync": "You must login before being able to sync.",
