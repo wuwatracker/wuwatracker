@@ -402,14 +402,14 @@
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Füge die JSON hier ein"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Drücke den \"Importiere Verlauf\" Knopf auf dieser Seite"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
+      "invalid-url": "Invalide Convene-Verlauf-URL",
       "import-success": "Successfully imported Convene History URL!",
       "1": {
         "title": "Use Ascent To Get Convene History URL",
@@ -418,7 +418,7 @@
         "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
+        "title": "Füge die URL hier ein",
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
@@ -430,14 +430,14 @@
     },
     "Android2Tutorial": {
       "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "import-success": "Erfolgreich die Convene-Verlauf-URL importiert!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
+        "title": "Benutze Termux, um deine Convene-Verlauf-URL zu bekommen",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Füge die URL hier ein",
+        "Your Convene History URL": "Deine Convene-Verlauf-URL"
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -447,7 +447,7 @@
       "invalid-url": "Invalid Convene History URL",
       "import-success": "Successfully imported Convene History URL!",
       "1": {
-        "title": "Follow our Video Tutorial",
+        "title": "Folge unserem Video Tutorial",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
         "Video Tutorial": "Video Tutorial",
         "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
@@ -455,11 +455,11 @@
         "note": "Note: This may not work for every device, so try the other methods if it fails."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Füge die URL hier ein",
+        "Your Convene History URL": "Deine Convene-Verlauf-UR"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Drücke den \"Importiere Verlauf\" Knopf"
       }
     }
   },
@@ -469,14 +469,14 @@
     "Browser Data": "Browserdaten",
     "Report an Issue": "Melde ein Problem",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
+      "sign-out-success": "Erfolgreich abgemeldet.",
+      "login-to-sync": "Du musst angemeldet sein bevor du Synchronisieren kannst.",
+      "import-to-sync": "Importiere zuerst deine Daten, um anzufangen, zu Synchronisieren!",
+      "data-is-in-sync": "Daten sind in Synchronisation mit deinem Google Account.",
+      "is-synced": "Daten sind Synchronisiert",
+      "is-not-synced": "Daten sind nicht Synchronisiert",
       "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
+      "description": "Speichere deine Daten mit deinem Google Account und greife auf diese mit jedem Gerät zu.\nSobald du angemeldet bist, kannst du einfach den \"Synchronisiere Daten\" Knopf um deine daten hochzuladen oder auf deinem Gerät herunterzuladen.",
       "Guest": "Gast",
       "Sign In to Google": "Anmelden mit Google",
       "Log Out": "abmelden",
@@ -488,7 +488,7 @@
     },
     "SignInButton": {
       "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
+      "Sign out": "Abmelden",
       "Sign In to Google": "Sign In to Google"
     },
     "SettingConveneHistoryUrl": {
