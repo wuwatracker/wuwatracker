@@ -264,7 +264,7 @@
     },
     "UserBannerStatsLuckCards": {
       "Luck": "Suerte",
-      "no-luck": "This banner doesn't have luck statistics.",
+      "no-luck": "Este banner no tiene estadísticas de suerte.",
       "no-records": "No se han encontrado registros.",
       "calibrating": "Calibrando...",
       "Percentiles": {
@@ -288,8 +288,8 @@
     },
     "GlobalStatsPageContent": {
       "title": "Estadísticas globales",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
+      "Switch Banner": "Cambiar banner",
+      "Banner List": "Lista de banners",
       "Pulls Per Day": "Tiradas por día",
       "Pulls By Pity": "Tiradas por pity",
       "Pulls By Name": "Tiradas por nombre",
@@ -301,7 +301,7 @@
       "Customize": "Personalizar",
       "Edit Share Card": "Editar carta para compartir",
       "edit-description": "Tu carta se actualiza en tiempo real a medida que vas haciendo cambios.",
-      "Select Banner": "Select Banner",
+      "Select Banner": "Elegir banner",
       "Background": "Fondo",
       "Foreground": "Primer plano",
       "recommendation": "Recomendamos un ratio de aspecto 1:1 para imágenes en resolución 2048x2048.",
@@ -401,24 +401,24 @@
       "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Sigue nuestro videotutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <video>este videotutorial de Chario</video> para descargar y usar <app>Stream - Network Debug Tool</app>.",
+        "Video Tutorial": "Videotutorial",
+        "iOS Import Tutorial Video": "Videotutorial para importar con iOS",
+        "video-tutorial-desc": "Sigue paso a paso el tutorial de YouTube de <highlight>Chario</highlight> de nuestro <link>servidor de Discord</link> para importar los datos en PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Pega el JSON aquí"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
+        "title": "Usa Ascent para conseguir la URL de tu historial",
+        "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <video>esta guía de Mirai0009</video> para descargar y usar <app>Ascent v2.1.6</app> para conseguir tu URL.",
         "note": "This method only supports Android versions 11 and above.",
         "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
       },
