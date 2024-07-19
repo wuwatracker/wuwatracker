@@ -287,53 +287,53 @@
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
+      "title": "Estadísticas globales",
       "Switch Banner": "Switch Banner",
       "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "Pulls Per Day": "Tiradas por día",
+      "Pulls By Pity": "Tiradas por pity",
+      "Pulls By Name": "Tiradas por nombre",
+      "Pulls": "Tiradas"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
+      "title": "Compartir carta",
+      "description": "¡Personaliza y descarga tu historial de invocación de Wuthering Waves para compartirlo con otros!",
+      "Customize": "Personalizar",
+      "Edit Share Card": "Editar carta para compartir",
+      "edit-description": "Tu carta se actualiza en tiempo real a medida que vas haciendo cambios.",
       "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "Background": "Fondo",
+      "Foreground": "Primer plano",
+      "recommendation": "Recomendamos un ratio de aspecto 1:1 para imágenes en resolución 2048x2048.",
+      "Download": "Descargar"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "Tutorial para importar",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
+      "Automatic": "Automático",
       "Manual": "Manual"
     },
     "Android": {
       "title": "Android",
-      "Airplane": "Airplane"
+      "Airplane": "Modo avión"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "Elige un método",
+      "description": "Si el método automático no te funciona, prueba a hacerlo manualmente usando el otro tutorial. Si aún necesitas ayuda, por favor visita nuestro <link>servidor de Discord</link>.",
+      "description-android": "Si el primer método no te funciona, por favor usa el otro. Si aún necesitas ayuda, por favor visita nuestro <link>servidor de Discord</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de historial de invocación inválida.",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "title": "Primero, ejecuta Wuthering Waves y abre tu historial de invocación en el juego",
+        "description": "Despues, abre Windows PowerShell, y entonces pega el siguiente script.",
+        "History URL Script": "Script de URL del historial",
+        "Click the copy button on the right": "Haz clic en el botón de copiar a la derecha",
+        "note": "Nota: El script no edita tus archivos, simplemente extrae la URL de tus registros. Puedes <link>ver el script aquí</link>."
       },
       "2": {
         "title": "Pega la URL aquí",
@@ -347,60 +347,60 @@
       "invalid-url": "URL del historial de invocación inválida.",
       "import-success": "¡URL del historial de invocación importada exitosamente!",
       "found-url": "¡Hemos encontrado una URL! Haz clic en el botón de importar historial para continuar.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "not-found-url": "Ninguna URL válida encontrada en los archivos de registros.",
+      "Click to upload": "Click para subir",
+      "or drag and drop": "o arrastra y suelta",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "Primero, ejecuta Wuthering Waves y abre tu historial de invocación en el juego"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "Ve a tu carpeta de instalación",
+        "description": "Clic derecho en tu lanzador de Wuthering Waves y selecciona <code>Abrir la ubicación del archivo</code>. Deberías de ver <code>launcher.exe</code> y un muchos archivos <code>.dll</code>."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "Busca <code>debug.log</code> en el Explorador de archivos y súbelo aquí"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "Videotutorial",
+      "PC Import Tutorial Video": "Videotutorial para importar con PC",
+      "video-tutorial-desc": "Sigue paso a paso el tutorial de YouTube de <highlight>cacaowithwater</highlight> de nuestro <link>servidor de Discord</link> para importar los datos en PC."
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "Dirección del juego inválida",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "Copia tu carpeta de instalación",
+        "description": "Busca la carpeta que contiene <code>Wuthering Waves.exe</code> y la carpeta <code>Client</code>.",
+        "Your installation directory": "Tu carpeta de instalación",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "Ejecuta Wuthering Waves y abre tu historial de invocación en el juego",
+        "description": "Despues, abre Windows PowerShell, y entonces pega el siguiente script.",
+        "invalid-directory": "¡Introduce una carpeta de instalación válida primero!",
+        "Stuck? Click the “Need Help?” button": "¿Atascado? Haz clic en el botón \"¿Necesitas ayuda?\"",
+        "note": "Nota: El script no edita tus archivos, simplemente extrae la URL de tus registros. Puedes <link>ver el script aquí</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Pega la URL aquí",
+        "Your Convene History URL": "Tu URL del historial de invocación"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "Video Tutorial": "Videotutorial",
+      "PC Import Tutorial Video": "Videotutorial para importar con PC",
+      "video-tutorial-desc": "Sigue paso a paso el tutorial de YouTube para importar tus datos en PC. ¡Por favor únete a nuestro <link>servidor de Discord</link> si tienes alguna duda!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "Datos JSON inválidos. Asegúrate de copiar los punto y coma",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Follow our Video Tutorial",
+        "title": "Sigue nuestro videotutorial",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
         "Video Tutorial": "Video Tutorial",
         "iOS Import Tutorial Video": "iOS Import Tutorial Video",
