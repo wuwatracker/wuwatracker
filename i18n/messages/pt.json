@@ -154,6 +154,11 @@
   "Layout": {
     "LocaleSwitcher": {
       "label": "Ajude a traduzir"
+    },
+    "Footer": {
+      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "Privacy Policy": "Privacy Policy",
+      "Terms & Conditions": "Terms & Conditions"
     }
   },
   "MenuList": {
