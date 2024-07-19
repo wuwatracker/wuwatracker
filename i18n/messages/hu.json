@@ -85,8 +85,8 @@
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Beginner Selector": "Kezdők választása húzás",
+    "Convene Giveback Event": "Húzás visszaadás esemény",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
@@ -156,9 +156,9 @@
       "label": "Segíts fordítani"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Privacy Policy",
-      "Terms & Conditions": "Terms & Conditions"
+      "disclaimer": "Nem állunk kapcsolatban a Wuthering Waves-szel, minden eszköz, játéktartalom és anyag a Kuro Games védjegye és szerzői joga.",
+      "Privacy Policy": "Adatvédelmi irányelvek",
+      "Terms & Conditions": "Szolgáltatási feltételek"
     }
   },
   "MenuList": {
