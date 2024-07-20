@@ -62,7 +62,6 @@
     "Rectifier of Night": "Rectifier of Night",
     "Rectifier of Voyager": "Rectifier of Voyager",
     "Rectifier#25": "Rectifier#25",
-    "Scale: Slasher": "Scale: Slasher",
     "Static Mist": "Постоянный туман",
     "Stonard": "Каменор",
     "Stringmaster": "Мастер струн",
@@ -90,7 +89,8 @@
     "Absolute Pulsation": "Абсолютное Колебание",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "Когда Гремит Гром",
-    "Thawborn Renewal": "Возрождение Оттепели"
+    "Thawborn Renewal": "Возрождение Оттепели",
+    "Vermillion's Ploy": "Vermillion's Ploy"
   },
   "Common": {
     "Import History": "Импортировать"
@@ -258,7 +258,7 @@
       "no-records": "Записей не найдено."
     },
     "UserBannerStats": {
-      "Total": "Всего круток",
+      "Total": "Всего",
       "Astrites": "Астрита",
       "Pulls": "Круток"
     },
