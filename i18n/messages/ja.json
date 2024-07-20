@@ -86,11 +86,11 @@
     "Utterance of Marvels": "万象新声",
     "Beginner Selector": "初心者応援セレクト集音",
     "Convene Giveback Event": "星5共鳴者セレクト特別感謝イベント",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
+    "Absolute Pulsation": "音を操る利器",
+    "Prevail the Lasting Night": "酷寒の果てる夜に",
+    "When Thunder Pours": "春を告げる雷雨",
     "Thawborn Renewal": "冬尽きて、春息吹く",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Vermillion's Ploy": "星々を弄ぶ焔羽"
   },
   "Common": {
     "Import History": "インポート"
@@ -164,29 +164,29 @@
   "MenuList": {
     "Tools": "ツール",
     "Guides": "ガイド",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Config": "設定",
+    "Convene Tracker": "集音履歴分析",
+    "Global Stats": "グローバル統計",
+    "Share History": "履歴共有",
+    "Sequences": "共鳴チェーン",
+    "Achievements": "実績",
+    "Timeline": "タイムライン",
+    "Import": "履歴インポート",
+    "Settings": "設定",
+    "Support Us": "寄付",
+    "Sign In To Google": "Googleでログイン",
+    "Sign Out": "ログアウト"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "ダッシュボード",
     "Greeting": {
       "AnimatedWords": {
         "pulls": "pulls",
-        "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "pity": "天井カウント",
+        "events": "イベント",
+        "statistics": "分析",
+        "data": "データ",
+        "updates": "更新"
       },
       "title": "Wuwa Tracker helps you track",
       "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
