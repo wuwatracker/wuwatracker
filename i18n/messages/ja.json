@@ -171,7 +171,7 @@
     "Sequences": "共鳴チェーン",
     "Achievements": "実績",
     "Timeline": "タイムライン",
-    "Import": "履歴インポート",
+    "Import": "インポート",
     "Settings": "設定",
     "Support Us": "寄付",
     "Sign In To Google": "Googleでログイン",
@@ -340,7 +340,7 @@
         "Your Convene History URL": "あなたの集音履歴URL"
       },
       "3": {
-        "title": "\"インポート\"ボタンをクリック"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       }
     },
     "PC2Tutorial": {
@@ -348,33 +348,33 @@
       "import-success": "集音履歴のインポートは成功しました！",
       "found-url": "URLを発見しました！続行するには\"履歴をインポート\"ボタンをクリックしてください",
       "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "Click to upload": "クリックしてアップロードする",
+      "or drag and drop": "あるいはファイルをドラッグしてここに置く",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "まず、鳴潮を起動し、ゲーム内の集音履歴を開いてください"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "ゲームのインストール先を開いてください",
+        "description": "ランチャーを右クリックして <code>ファイルの場所を開く</code> を選択してください。そして <code>launcher.exe</code> やたくさんの <code>.dll</code> ファイルが見えるはずです。"
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "エクスプローラーに <code>debug.log</code> を検索し、ここにアップロードしてください"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "チュートリアル動画",
+      "PC Import Tutorial Video": "PCインポートチュートリアル動画",
+      "video-tutorial-desc": "私たちの <link>Discord サーバー</link> に <highlight>cacaowithwater</highlight> さんが提供したこのチュートリアル動画を見て、一歩ずつデータをインポートしましょう。"
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "無効なゲームパス",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Copy Your Installation Directory",
+        "title": "ゲームのインストール先のパスをコピーしてください",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "Your installation directory": "インストール先",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
