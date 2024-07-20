@@ -223,7 +223,7 @@
         "title": "データをインポート",
         "description": "エクスポートしたデータを使って同期する"
       },
-      "Hidden": "Hidden",
+      "Hidden": "隠しアチーブメント",
       "Click to upload": "クリックしてアップロードする",
       "or drag and drop": "あるいはファイルをドラッグしてここに置く",
       "Import": "インポート",
@@ -243,51 +243,51 @@
       "Convene Categories": "Convene Categories"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "最近の",
+      "and": "と",
+      "Convenes": "集音",
+      "no-filters": "フィルターが選択されていません",
+      "no-records": "記録が見つかりません"
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
-      "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Pull History": "集音履歴",
+      "Pull Num": "集音回数",
+      "Item": "名前",
+      "Pity": "天井カウント",
+      "Date Received": "時間",
+      "no-records": "記録が見つかりません"
     },
     "UserBannerStats": {
-      "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Total": "合計",
+      "Astrites": "星声",
+      "Pulls": "集音回数"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
+      "Luck": "幸運値",
       "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
+      "no-records": "記録が見つかりません",
       "calibrating": "Calibrating...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "平均回数",
+          "formula": "平均的に、星 {qualityLevel} は何回で出ますか？"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "排出率",
+          "formula": "星 {qualityLevel} の排出率は？"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "すり抜けない",
+          "formula": "すり抜けない率"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "ピックアップ共鳴者の排出率",
+          "formula": "ピックアップ中の星4キャラの排出率"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
+      "title": "グローバル統計",
       "Switch Banner": "Switch Banner",
       "Banner List": "Banner List",
       "Pulls Per Day": "Pulls Per Day",
@@ -296,11 +296,11 @@
       "Pulls": "Pulls"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
+      "title": "共有",
+      "description": "カスタムしてあなたの集音履歴を共有しよう！",
+      "Customize": "カスタム",
+      "Edit Share Card": "カードを編集",
+      "edit-description": "カードを編集するたびにリアルタイムで更新されます",
       "Select Banner": "Select Banner",
       "Background": "Background",
       "Foreground": "Foreground",
