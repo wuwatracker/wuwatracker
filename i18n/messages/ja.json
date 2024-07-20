@@ -156,7 +156,7 @@
       "label": "翻訳の手助け"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "私たちは鳴潮とは関係がありません。すべてのリソース、ゲームコンテンツ、素材はKuro Gamesの商標および著作権です。",
       "Privacy Policy": "プライバシーポリシー",
       "Terms & Conditions": "利用規約"
     }
@@ -181,7 +181,7 @@
     "title": "ダッシュボード",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
+        "pulls": "集音",
         "pity": "天井カウント",
         "events": "イベント",
         "statistics": "分析",
@@ -192,52 +192,52 @@
       "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "始めよう",
+      "description": "ようこそ、漂泊者。では、始めましょうか？",
+      "View Pull History": "集音履歴を確認",
+      "Sync Your Data": "データを同期する",
+      "Your data will now sync automatically!": "今後データは自動で同期されます！"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "変更履歴",
+      "description": "こちらでウェブサイトのお知らせを確認できます。"
     },
     "Community": {
-      "title": "Community"
+      "title": "コミュニティ"
     }
   },
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "実績",
+    "description": "初期データは <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> を使用しております。",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "データが正常にインポートされました",
+        "import-invalid": "有効なデータをインポートしてください",
+        "parse-fail": "JSONファイルの解析に失敗しました",
+        "download-fail": "ダウンロードを開始することができませんでした",
+        "download-start": "ダウンロードがまもなく始まります"
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "フィルターを使用して、まだ達成していない実績を探しましょう",
+      "Completed": "達成",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "データをインポート",
+        "description": "エクスポートしたデータを使って同期する"
       },
       "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
+      "Click to upload": "クリックしてアップロードする",
+      "or drag and drop": "あるいはファイルをドラッグしてここに置く",
+      "Import": "インポート",
+      "Export as JSON": "JSON形式でエクスポート",
       "Need Tips?": "Need Tips?"
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "集音履歴分析",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "スクロールしてさらに表示"
     },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "グローバル統計"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Convene Categories"
