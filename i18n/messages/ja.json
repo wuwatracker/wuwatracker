@@ -364,7 +364,7 @@
         "title": "\"履歴をインポート\"ボタンをクリック"
       },
       "Video Tutorial": "チュートリアル動画",
-      "PC Import Tutorial Video": "PCインポートチュートリアル動画",
+      "PC Import Tutorial Video": "PCでのインポートチュートリアル動画",
       "video-tutorial-desc": "私たちの <link>Discord サーバー</link> に <highlight>cacaowithwater</highlight> さんが提供したこのチュートリアル動画を見て、一歩ずつデータをインポートしましょう。"
     },
     "PC3Tutorial": {
@@ -373,64 +373,64 @@
       "import-success": "集音履歴のインポートは成功しました！",
       "1": {
         "title": "ゲームのインストール先のパスをコピーしてください",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "インストール先",
+        "description": "<code>Wuthering Waves.exe</code> や <code>Client</code> が含まれているフォルダを探してください。",
+        "Your installation directory": "インストール先のパス",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
+        "title": "PCで鳴潮を起動し、ゲーム内の集音履歴を開いてください",
+        "description": "次に、「Windows PowerShell」を起動し、以下のコマンドを貼り付けてください",
+        "invalid-directory": "まずは有効なインストール先のパスを入力してください！",
         "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "note": "注意：このスクリプトはファイルを編集せず、ログからURLを取得するだけです。スクリプトの内容は <link>こちら</link> で確認できます。"
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "リンクをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "Video Tutorial": "チュートリアル動画",
+      "PC Import Tutorial Video": "PCインポートチュートリアル動画",
+      "video-tutorial-desc": "このチュートリアル動画を見て、一歩ずつデータをインポートしましょう。サポートが必要な場合は、ぜひ私たちの <link>Discord Server</link>. にご参加ください！"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "無効なJSONデータ - セミコロン (;) を確実にコピーしてください。",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "title": "チュートリアル動画に沿って操作を行ってください",
+        "description": "原神や崩壊：スターレイルからガチャ履歴を取得する方法と似ています。 <video>Charioさんのこの動画</video> を見て、 <app>Stream - Network Debug Tool</app> を使ってURLを取得します。",
+        "Video Tutorial": "チュートリアル動画",
+        "iOS Import Tutorial Video": "iOSでのインポートチュートリアル動画",
+        "video-tutorial-desc": "私たちの <link>Discord サーバー</link> に <highlight>Chario</highlight> さんが提供したこのチュートリアル動画を見て、一歩ずつデータをインポートしましょう。"
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "JSONをここに貼り付けてください"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Ascent を使って集音履歴URLを取得",
+        "description": "原神や崩壊：スターレイルからガチャ履歴を取得する方法と似ています。 <video>Mirai0009さんのこの動画</video> を見て、 <app>Ascent v2.1.6</app> を使ってURLを取得します。",
+        "note": "この方法はAndroidバージョン11以上のみ対応しています。",
+        "troubleshooting": "うまくいかない場合は、 </link>TROUBLESHOOTING</link> を参照してください。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "リンクをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       },
-      "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
+      "Video Tutorial": "チュートリアル動画",
+      "Android Ascent Import Tutorial Video": "Android Ascentでのインポートチュートリアル動画",
       "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
     },
     "Android2Tutorial": {
