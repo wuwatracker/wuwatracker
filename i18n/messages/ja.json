@@ -93,7 +93,7 @@
     "Vermillion's Ploy": "星々を弄ぶ焔羽"
   },
   "Common": {
-    "Import History": "インポート"
+    "Import History": "履歴をインポート"
   },
   "Metadata": {
     "Generic": {
@@ -309,44 +309,44 @@
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "インポートチュートリアル",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "Automatic": "自動",
+      "Manual": "手動"
     },
     "Android": {
       "title": "Android",
-      "Airplane": "Airplane"
+      "Airplane": "機内モード"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "インポート方法を選択",
+      "description": "自動方法がうまくいかない場合は、他のチュートリアルを参照して手動で試してください。\nそれでも解決しない場合は、私たちの <link>Discord Server</link>. にご参加ください。",
+      "description-android": "方法一がうまくいかない場合は、他のチュートリアルを参照して試してください。\nそれでも解決しない場合は、私たちの <link>Discord Server</link>. にご参加ください。"
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
+        "title": "まず、鳴潮を起動し、ゲーム内の集音履歴を開いてください",
+        "description": "次に、「Windows PowerShell」を起動し、以下のコマンドを貼り付けてください",
         "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "Click the copy button on the right": "右のコピーボタンをクリック",
+        "note": "注意：このスクリプトはファイルを編集せず、ログからURLを取得するだけです。スクリプトの内容は <link>こちら</link> で確認できます。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "リンクをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"インポート\"ボタンをクリック"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
+      "found-url": "URLを発見しました！続行するには\"履歴をインポート\"ボタンをクリックしてください",
       "not-found-url": "No valid URL found in the log file.",
       "Click to upload": "Click to upload",
       "or drag and drop": "or drag and drop",
