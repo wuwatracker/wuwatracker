@@ -63,15 +63,15 @@
     "Rectifier of Voyager": "Rectifier of Voyager",
     "Rectifier#25": "Rectifier#25",
     "Scale: Slasher": "Scale: Slasher",
-    "Static Mist": "Static Mist",
+    "Static Mist": "Постоянный туман",
     "Stonard": "Stonard",
-    "Stringmaster": "Stringmaster",
+    "Stringmaster": "Мастер струн",
     "Sword of Night": "Sword of Night",
     "Sword of Voyager": "Sword of Voyager",
     "Sword#18": "Sword#18",
-    "Thunderbolt": "Thunderbolt",
-    "Undying Flame": "Undying Flame",
-    "Variation": "Variation",
+    "Thunderbolt": "Громовая стрела",
+    "Undying Flame": "Неугасающее пламя",
+    "Variation": "Вариация",
     "Verdant Summit": "Verdant Summit"
   },
   "CardPoolNames": {
@@ -82,14 +82,14 @@
     "Beginner Convene": "Баннер новичка",
     "Beginner's Choice": "Выбор новичка",
     "Selector Ticket": "Билетный баннер",
-    "Tidal Chorus": "Tidal Chorus",
+    "Tidal Chorus": "Приливной хор",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
     "Beginner Selector": "Баннер новичка с выбором",
     "Convene Giveback Event": "Convene Giveback Event",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
+    "When Thunder Pours": "Когда Гремит Гром",
     "Thawborn Renewal": "Thawborn Renewal"
   },
   "Common": {
@@ -156,9 +156,9 @@
       "label": "Помощь в переводе"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Privacy Policy",
-      "Terms & Conditions": "Terms & Conditions"
+      "disclaimer": "Сайт не аффилирован с игрой Wuthering Waves, все ресурсы, игровой контент и материалы являются товарными знаками и принадлежат Kuro Games.",
+      "Privacy Policy": "Политика конфиденциальности",
+      "Terms & Conditions": "Условия использования сервиса"
     }
   },
   "MenuList": {
@@ -234,7 +234,7 @@
   "Convene": {
     "title": "История круток",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "Прокрутите чтобы увидеть больше"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальная статистика"
@@ -282,7 +282,7 @@
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "formula": "Как часто ваши 4-звёздочные крутки были гарантированными?"
         }
       }
     },
@@ -331,8 +331,8 @@
       "1": {
         "title": "Сначала запустите Wuthering Waves, а затем откройте историю круток в игре",
         "description": "После этого откройте Windows PowerShell и вставьте следующий сценарий.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
+        "History URL Script": "Скрипт URL истории",
+        "Click the copy button on the right": "Нажмите кнопку скопировать справа",
         "note": "Примечание: сценарий лишь извлекает ссылку на вашу историю круток из журналов игры. Вы можете просмотреть его <link>здесь</link>."
       },
       "2": {
@@ -364,7 +364,7 @@
         "title": "Нажмите кнопку \"Импортировать\" для завершения"
       },
       "Video Tutorial": "Видео-гайд",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "PC Import Tutorial Video": "Видео-гайд по импорту для ПК",
       "video-tutorial-desc": "Используйте это пошаговое руководство, сделанное <highlight>cacaowithwater</highlight> с нашего <link>Discord сервера</link>, чтобы импортировать ваши данные с ПК."
     },
     "PC3Tutorial": {
@@ -389,22 +389,22 @@
         "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Нажмите кнопку \"Импортировать\" для завершения"
       },
       "Video Tutorial": "Видео-гайд",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "PC Import Tutorial Video": "Видео-гайд по импорту для ПК",
+      "video-tutorial-desc": "Следуйте этому пошаговому видео-гайду, чтобы импортировать свои данные с ПК. Пожалуйста, присоединяйтесь к нашему <link>Discord серверу</link>, чтобы обратиться за любой помощью!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
+      "invalid-json": "Недопустимые JSON данные - не забудьте скопировать точки с запятой",
       "invalid-url": "Неверная ссылка на историю круток",
       "import-success": "Ссылка на историю круток импортирована!",
       "1": {
         "title": "Следуйте нашему видео-гайду",
         "description": "Так же, как и для Genshin Impact или Honkai Star Rail, вы можете использовать приложение <app>Stream - Network Debug Tool</app>, следуя <video>этому видео гайду, сделанному Chario</video>, чтобы получить ссылку на историю круток.",
         "Video Tutorial": "Видео-гайд",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "iOS Import Tutorial Video": "Видео-гайд по импорту для iOS",
+        "video-tutorial-desc": "Следуйте этому пошаговому руководству, сделанному <highlight>Chario</highlight> из нашего <link>Discord сервера</link>, чтобы импортировать ваши данные с ПК."
       },
       "2": {
         "title": "Вставьте сюда скопированное содержимое JSON"
@@ -427,11 +427,11 @@
         "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " Нажмите кнопку \"Импортировать\" для завершения"
       },
       "Video Tutorial": "Видео-гайд",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Android Ascent Import Tutorial Video": "Видео-гайд для импорта данных Ascent на Android",
+      "video-tutorial-desc": "Сперва, внимательно прочитайте <guide>этот текстовый гайд</guide>, затем следуйте этому <video>видео-гайду</video>, чтобы получить данные с Android. Благодарность Mirai0009 за предоставленную информацию."
     },
     "Android2Tutorial": {
       "invalid-url": "Неверная ссылка на историю круток",
@@ -455,8 +455,8 @@
         "title": "Следуйте нашему видео-гайду",
         "description": "Следуйте <link>этому видео-гайду, сделанному yukio36</link>, после того как запустите Wuthering Waves.",
         "Video Tutorial": "Видео-гайд",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
+        "Android Airplane Mode Import Tutorial Video": "Видео-гайд для импорта данных на Android с помощью Режима полёта",
+        "video-tutorial-desc": "Следуйте этому пошаговому видео-гайду, сделанному <highlight>yukio36</highlight> из нашего <link>Discord сервера</link>, чтобы импортировать ваши данные с Android без дополнительных установок.",
         "note": "Примечание: это может сработать не на каждом устройстве, в таком случае попробуйте другие способы."
       },
       "2": {
@@ -464,7 +464,7 @@
         "Your Convene History URL": "Ваша ссылка на историю круток"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Нажмите кнопку \"Импортировать\" для завершения"
       }
     }
   },
@@ -474,25 +474,25 @@
     "Browser Data": "Локальные данные",
     "Report an Issue": "Сообщить о проблеме",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
+      "sign-out-success": "Выход произведен успешно.",
+      "login-to-sync": "Вы должны быть авторизованы перед синхронизацией.",
+      "import-to-sync": "Импортируйте свои данные, чтобы начать синхронизацию!",
+      "data-is-in-sync": "Данные синхронизированы с вашим Google аккаунтом.",
+      "is-synced": "Данные синхронизированы",
+      "is-not-synced": "Данные НЕ синхронизированы",
       "Cloud Backup": "Облачное сохранение",
       "description": "Сохраняйте ваши данные и получайте доступ к ним с любого устройства, используя аккаунт Google. После входа в аккаунт, просто нажмите \"Синхронизировать\", чтобы отправить данные в облако или скачать их на устройство.",
       "Guest": "Гость",
       "Sign In to Google": "Войти в Google",
-      "Log Out": "Log Out",
+      "Log Out": "Выйти из системы",
       "Sync Data": "Синхронизировать",
-      "Google Data": "Google Data",
+      "Google Data": "Данные из Google",
       "Browser Data": "Данные браузера",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "browser-data-different": "Локально сохраненные в браузере данные отличаются от данных из вашего Google аккаунта.",
+      "browser-data-different-confirmation": "Локально сохраненные данные пользователя с ID ({localId}) конфликтуют с вашими данными пользователя Google аккаунта с ID (${googleId}). Вы бы хотели использовать локальные данные браузера или использовать сохраненные в Google аккаунте данные вместо них?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
+      "sign-out-success": "Выход произведен успешно.",
       "Sign out": "Выйти",
       "Sign In to Google": "Войти в Google"
     },
@@ -505,11 +505,11 @@
       "delete-local-success": "Локальная история круток удалена.",
       "Convene History Data": "Данные о истории круток",
       "Import Tutorial": "Руководство по импорту",
-      "Go to Import Tutorial": "Go to Import Tutorial",
+      "Go to Import Tutorial": "Перейти к руководству по импорту данных",
       "description": "Здесь вы можете скопировать или изменить ссылку на вашу историю круток.",
       "Your Convene History URL": "Ваша ссылка на историю круток",
       "Download Your History": "Скачать свои данные",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
+      "Delete Browser Saved Data": "Удалить сохраненные в браузере данные",
       "Delete your local data": "Удалить локальные данные",
       "Save": "Сохранить"
     },
@@ -529,7 +529,7 @@
     "Edit this page on GitHub": "Edit this page on GitHub",
     "ResetTimers": {
       "title": "Таймеры ежедневного обновления серверов",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "description": "Сравните свое местное время со временем игровых серверов Wuthering Waves, чтобы спланировать свое следующее приключение."
     }
   }
 }
