@@ -86,7 +86,7 @@
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
     "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Absolute Pulsation",
+    "Convene Giveback Event": "Convene Giveback Event",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
@@ -154,6 +154,11 @@
   "Layout": {
     "LocaleSwitcher": {
       "label": "Bantu Terjemahkan"
+    },
+    "Footer": {
+      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "Privacy Policy": "Privacy Policy",
+      "Terms & Conditions": "Terms & Conditions"
     }
   },
   "MenuList": {

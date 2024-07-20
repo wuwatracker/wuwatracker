@@ -86,7 +86,7 @@
     "Winter Brume Banner": "Bannière de la brume d'hiver",
     "Utterance of Marvels": "Une voix fraiche",
     "Beginner Selector": "Invocation au choix du débutant",
-    "Convene Giveback Event": "Pulsation tranchante",
+    "Convene Giveback Event": "Convier au choix",
     "Absolute Pulsation": "Pulsation tranchante",
     "Prevail the Lasting Night": "Une nuit blanche",
     "When Thunder Pours": "Sous la pluie effrayante",
@@ -154,6 +154,11 @@
   "Layout": {
     "LocaleSwitcher": {
       "label": "Aidez à traduire"
+    },
+    "Footer": {
+      "disclaimer": "Nous ne sommes pas affiliés à Wuthering Waves. Tous les contenus du jeu ainsi que les différents matériaux sont des marques déposées et des droits d'auteur de Kuro Games.",
+      "Privacy Policy": "Politique de confidentialité",
+      "Terms & Conditions": "Conditions d'utilisation"
     }
   },
   "MenuList": {
@@ -190,7 +195,7 @@
       "title": "Commençons",
       "description": "Bienvenue, Nomade. Commençons, d'accord ?",
       "View Pull History": "Voir l'historique",
-      "Sync Your Data": "Sync vos données",
+      "Sync Your Data": "Synchroniser vos données",
       "Your data will now sync automatically!": "Vos données se synchroniseront maintenant automatiquement !"
     },
     "Changelogs": {

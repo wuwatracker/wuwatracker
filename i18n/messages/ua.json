@@ -86,7 +86,7 @@
     "Winter Brume Banner": "Зимовий прапор Бруму",
     "Utterance of Marvels": "Висловлювання чудес",
     "Beginner Selector": "Початкове скликання на вибір",
-    "Convene Giveback Event": "Абосолютні коливання",
+    "Convene Giveback Event": "Convene Giveback Event",
     "Absolute Pulsation": "Абосолютні коливання",
     "Prevail the Lasting Night": "Перемогти тривалу Ніч",
     "When Thunder Pours": "Коли гримить грім",
@@ -154,6 +154,11 @@
   "Layout": {
     "LocaleSwitcher": {
       "label": "Допомога з перекладом"
+    },
+    "Footer": {
+      "disclaimer": "Ми не пов’язані з Wuthering Waves; усі активи, ігровий вміст і матеріали є товарними знаками та авторськими правами Kuro Games.",
+      "Privacy Policy": "Політика конфіденційності",
+      "Terms & Conditions": "Правила та умови"
     }
   },
   "MenuList": {

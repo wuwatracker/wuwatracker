@@ -32,7 +32,7 @@
     "Comet Flare": "Llamarada de Cometa",
     "Cosmic Ripples": "Ondas Cósmicas",
     "Dauntless Evernight": "Noche Intrépida",
-    "Discord": "Disonancia",
+    "Discord": "Discord",
     "Emerald of Genesis": "Esmeralda del Génesis",
     "Gauntlets of Night": "Brazales de la Noche",
     "Gauntlets of Voyager": "Brazales del Viajero",
@@ -50,50 +50,50 @@
     "Lustrous Razor": "Navaja Brillante",
     "Marcato": "Marcato",
     "Novaburst": "Novestallido",
-    "Originite: Type I": "Originite: Type I",
-    "Originite: Type II": "Originite: Type II",
-    "Originite: Type III": "Originite: Type III",
-    "Originite: Type IV": "Originite: Type IV",
-    "Originite: Type V": "Originite: Type V",
-    "Overture": "Overture",
-    "Pistols of Night": "Pistols of Night",
-    "Pistols of Voyager": "Pistols of Voyager",
-    "Pistols#26": "Pistols#26",
-    "Rectifier of Night": "Rectifier of Night",
-    "Rectifier of Voyager": "Rectifier of Voyager",
-    "Rectifier#25": "Rectifier#25",
+    "Originite: Type I": "Originite: Tipo I",
+    "Originite: Type II": "Originite: Tipo II",
+    "Originite: Type III": "Originite: Tipo II",
+    "Originite: Type IV": "Originite: Tipo IV",
+    "Originite: Type V": "Originite: Tipo V",
+    "Overture": "Obertura",
+    "Pistols of Night": "Pistolas de la noche",
+    "Pistols of Voyager": "Pistolas del viajero",
+    "Pistols#26": "Pistolas #26",
+    "Rectifier of Night": "Rectificador de la noche",
+    "Rectifier of Voyager": "Rectificador del viajero",
+    "Rectifier#25": "Rectificador #25",
     "Scale: Slasher": "Scale: Slasher",
-    "Static Mist": "Static Mist",
+    "Static Mist": "Niebla estática",
     "Stonard": "Stonard",
-    "Stringmaster": "Stringmaster",
-    "Sword of Night": "Sword of Night",
-    "Sword of Voyager": "Sword of Voyager",
-    "Sword#18": "Sword#18",
-    "Thunderbolt": "Thunderbolt",
-    "Undying Flame": "Undying Flame",
-    "Variation": "Variation",
-    "Verdant Summit": "Verdant Summit"
+    "Stringmaster": "Maestro de cuerdas",
+    "Sword of Night": "Espada de la noche",
+    "Sword of Voyager": "Espada del viajero",
+    "Sword#18": "Espada #18",
+    "Thunderbolt": "Rayo",
+    "Undying Flame": "Llama eterna",
+    "Variation": "Variación",
+    "Verdant Summit": "Cumbre verde"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Absolute Pulsation",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "Featured Resonator": "Resonador destacada",
+    "Featured Weapon": "Arma destacada",
+    "Permanent Resonator": "Resonador permanente",
+    "Permanent Weapon": "Arma permanente",
+    "Beginner Convene": "Invocación de novato",
+    "Beginner's Choice": "Selección de novato",
+    "Selector Ticket": "Boleto selector",
+    "Tidal Chorus": "Coro de Marea",
+    "Winter Brume Banner": "Invocación de Bruma Invernal",
+    "Utterance of Marvels": "Declaración de maravillas",
+    "Beginner Selector": "Invocación de elección de novato",
+    "Convene Giveback Event": "Evento de gratitud",
+    "Absolute Pulsation": "Pulsación Absoluta",
+    "Prevail the Lasting Night": "Prevalece la Noche Duradera",
+    "When Thunder Pours": "Cuando el Trueno Cae",
+    "Thawborn Renewal": "Deshielo en primavera"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "Importar historial"
   },
   "Metadata": {
     "Generic": {
@@ -154,377 +154,382 @@
   "Layout": {
     "LocaleSwitcher": {
       "label": "Ayuda a traducir"
+    },
+    "Footer": {
+      "disclaimer": "No estamos afiliados con Wuthering Waves, todos los activos, contenido del juego, y materiales son marcas registradas y con derechos de autor de Kuro Games.",
+      "Privacy Policy": "Política de privacidad",
+      "Terms & Conditions": "Términos y condiciones"
     }
   },
   "MenuList": {
-    "Tools": "Tools",
-    "Guides": "Guides",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Tools": "Herramientas",
+    "Guides": "Guías",
+    "Config": "Configuraciones",
+    "Convene Tracker": "Seguimiento de invocaciones",
+    "Global Stats": "Estadísticas globales",
+    "Share History": "Compartir historial",
+    "Sequences": "Secuencia",
+    "Achievements": "Logros",
+    "Timeline": "Cronograma",
+    "Import": "Importar",
+    "Settings": "Ajustes",
+    "Support Us": "Apoyanos",
+    "Sign In To Google": "Iniciar sesión con Google",
+    "Sign Out": "Cerrar sesión"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "Panel",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
+        "pulls": "tiradas",
         "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "events": "eventos",
+        "statistics": "estadísticas",
+        "data": "datos",
+        "updates": "actualizaciones"
       },
-      "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "title": "Wuwa Tracker te ayuda a seguir tus",
+      "description": "Un contador de pity para Wuthering Waves, usando los datos más recientes con las estadísticas globales y más. Nuestro objetivo es proporcionar las mejores herramientas para mostrar tu progreso en Wuthering Waves a tus amigos."
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "Empezar",
+      "description": "Bienvenido, Errante. Empecemos, ¿de acuerdo?",
+      "View Pull History": "Ver historial de invocaciones",
+      "Sync Your Data": "Sinc tus datos",
+      "Your data will now sync automatically!": "¡Ahora tus datos se sincronizarán automáticamente!"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "Registro de cambios",
+      "description": "Ve los anuncios de la pagina web aquí."
     },
     "Community": {
-      "title": "Community"
+      "title": "Comunidad"
     }
   },
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "Logros",
+    "description": "Créditos para <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> por los datos iniciales.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "Datos importados exitosamente.",
+        "import-invalid": "Por favor importa datos válidos.",
+        "parse-fail": "Error con el parse del archivo JSON.",
+        "download-fail": "Fallo al empezar la descarga.",
+        "download-start": "Tu descarga comenzará en breves."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "Usa los filtros para ayudarte a buscar los logros que te faltan.",
+      "Completed": "Completado",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "Importar datos",
+        "description": "Usa tus datos exportados previamente y sincronízalos con tu navegador."
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Hidden": "Oculto",
+      "Click to upload": "Clic para subir",
+      "or drag and drop": "o arrastra y suelta",
+      "Import": "Importar",
+      "Export as JSON": "Exportar como JSON",
+      "Need Tips?": "¿Necesitas consejos?"
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "Seguimiento de invocaciones",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "Baja para más"
     },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "Estadísticas globales"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "Categorías de invocación"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "Recientes",
+      "and": "y",
+      "Convenes": "Invocaciones",
+      "no-filters": "No se ha seleccionado ningún filtro.",
+      "no-records": "No se han encontrado registros."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
+      "Pull History": "Historial de invocación",
+      "Pull Num": "Invocación núm.",
+      "Item": "Objeto",
       "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Date Received": "Fecha",
+      "no-records": "No se han encontrado registros."
     },
     "UserBannerStats": {
       "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Astrites": "Astritas",
+      "Pulls": "Tiradas"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "Suerte",
+      "no-luck": "Este banner no tiene estadísticas de suerte.",
+      "no-records": "No se han encontrado registros.",
+      "calibrating": "Calibrando...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Promedio",
+          "formula": "¿Cuál es tu promedio para el {qualityLevel}-estrellas garantizado?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Porcentaje",
+          "formula": "¿Qué porcentaje de todas tus tiradas fueron {qualityLevel}-estrellas?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "50/50 ganados",
+          "formula": "¿Qué porcentaje de tus tiradas 50/50 has ganado?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Destacado",
+          "formula": "¿Qué tan seguidos fueron tus tiradas de 4-estrellas destacadas?"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "title": "Estadísticas globales",
+      "Switch Banner": "Cambiar banner",
+      "Banner List": "Lista de banners",
+      "Pulls Per Day": "Tiradas por día",
+      "Pulls By Pity": "Tiradas por pity",
+      "Pulls By Name": "Tiradas por nombre",
+      "Pulls": "Tiradas"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "title": "Compartir carta",
+      "description": "¡Personaliza y descarga tu historial de invocación de Wuthering Waves para compartirlo con otros!",
+      "Customize": "Personalizar",
+      "Edit Share Card": "Editar carta para compartir",
+      "edit-description": "Tu carta se actualiza en tiempo real a medida que vas haciendo cambios.",
+      "Select Banner": "Elegir banner",
+      "Background": "Fondo",
+      "Foreground": "Primer plano",
+      "recommendation": "Recomendamos un ratio de aspecto 1:1 para imágenes en resolución 2048x2048.",
+      "Download": "Descargar"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "Tutorial para importar",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
+      "Automatic": "Automático",
       "Manual": "Manual"
     },
     "Android": {
       "title": "Android",
-      "Airplane": "Airplane"
+      "Airplane": "Modo avión"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "Elige un método",
+      "description": "Si el método automático no te funciona, prueba a hacerlo manualmente usando el otro tutorial. Si aún necesitas ayuda, por favor visita nuestro <link>servidor de Discord</link>.",
+      "description-android": "Si el primer método no te funciona, por favor usa el otro. Si aún necesitas ayuda, por favor visita nuestro <link>servidor de Discord</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de historial de invocación inválida.",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "title": "Primero, ejecuta Wuthering Waves y abre tu historial de invocación en el juego",
+        "description": "Despues, abre Windows PowerShell, y entonces pega el siguiente script.",
+        "History URL Script": "Script de URL del historial",
+        "Click the copy button on the right": "Haz clic en el botón de copiar a la derecha",
+        "note": "Nota: El script no edita tus archivos, simplemente extrae la URL de tus registros. Puedes <link>ver el script aquí</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Pega la URL aquí",
+        "Your Convene History URL": "Tu URL del historial de invocación"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "invalid-url": "URL del historial de invocación inválida.",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
+      "found-url": "¡Hemos encontrado una URL! Haz clic en el botón de importar historial para continuar.",
+      "not-found-url": "Ninguna URL válida encontrada en los archivos de registros.",
+      "Click to upload": "Click para subir",
+      "or drag and drop": "o arrastra y suelta",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "Primero, ejecuta Wuthering Waves y abre tu historial de invocación en el juego"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "Ve a tu carpeta de instalación",
+        "description": "Clic derecho en tu lanzador de Wuthering Waves y selecciona <code>Abrir la ubicación del archivo</code>. Deberías de ver <code>launcher.exe</code> y un muchos archivos <code>.dll</code>."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "Busca <code>debug.log</code> en el Explorador de archivos y súbelo aquí"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "Videotutorial",
+      "PC Import Tutorial Video": "Videotutorial para importar con PC",
+      "video-tutorial-desc": "Sigue paso a paso el tutorial de YouTube de <highlight>cacaowithwater</highlight> de nuestro <link>servidor de Discord</link> para importar los datos en PC."
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "Dirección del juego inválida",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "Copia tu carpeta de instalación",
+        "description": "Busca la carpeta que contiene <code>Wuthering Waves.exe</code> y la carpeta <code>Client</code>.",
+        "Your installation directory": "Tu carpeta de instalación",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "Ejecuta Wuthering Waves y abre tu historial de invocación en el juego",
+        "description": "Despues, abre Windows PowerShell, y entonces pega el siguiente script.",
+        "invalid-directory": "¡Introduce una carpeta de instalación válida primero!",
+        "Stuck? Click the “Need Help?” button": "¿Atascado? Haz clic en el botón \"¿Necesitas ayuda?\"",
+        "note": "Nota: El script no edita tus archivos, simplemente extrae la URL de tus registros. Puedes <link>ver el script aquí</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Pega la URL aquí",
+        "Your Convene History URL": "Tu URL del historial de invocación"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "Video Tutorial": "Videotutorial",
+      "PC Import Tutorial Video": "Videotutorial para importar con PC",
+      "video-tutorial-desc": "Sigue paso a paso el tutorial de YouTube para importar tus datos en PC. ¡Por favor únete a nuestro <link>servidor de Discord</link> si tienes alguna duda!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "Datos JSON inválidos. Asegúrate de copiar los punto y coma",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "title": "Sigue nuestro videotutorial",
+        "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <video>este videotutorial de Chario</video> para descargar y usar <app>Stream - Network Debug Tool</app>.",
+        "Video Tutorial": "Videotutorial",
+        "iOS Import Tutorial Video": "Videotutorial para importar con iOS",
+        "video-tutorial-desc": "Sigue paso a paso el tutorial de YouTube de <highlight>Chario</highlight> de nuestro <link>servidor de Discord</link> para importar los datos en PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Pega el JSON aquí"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Usa Ascent para conseguir la URL de tu historial",
+        "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <video>esta guía de Mirai0009</video> para descargar y usar <app>Ascent v2.1.6</app> para conseguir tu URL.",
+        "note": "Este método solo es soportado por Android 11 o versiones más recientes.",
+        "troubleshooting": "Si no funciona correctamente, echa un vistazo a la <link>sección de solución de problemas</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Pega la URL aquí",
+        "Your Convene History URL": "Tu URL del historial de invocación"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " Pulsa el botón \"Importar historial\" en esta página web"
       },
-      "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Video Tutorial": "Videotutorial",
+      "Android Ascent Import Tutorial Video": "Videotutorial para importar con Android Ascent",
+      "video-tutorial-desc": "Primero, lee detenidamente <guide>esta guía escrita</guide> y luego sigue este <video>video de YouTube</video> para conseguir tus datos en Android.\nTodos los créditos van para Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Usa Termux para conseguir la URL de tu historial",
+        "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <guide>esta guía de eqdamini</guide> para descargar y usar <app>Termux</app> para conseguir tu URL."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Pega la URL aquí",
+        "Your Convene History URL": "Tu URL del historial de invocación"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de historial de invocación inválida",
+      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "title": "Sigue nuestro videotutorial",
+        "description": "Sigue <link>este videotutorial de yukio36</link> después de abrir la aplicación de Wuthering Waves.",
+        "Video Tutorial": "Videotutorial",
+        "Android Airplane Mode Import Tutorial Video": "Videotutorial para importar con el modo avión",
+        "video-tutorial-desc": "Sigue paso a paso el tutorial de YouTube de <highlight>yukio36</highlight> de nuestro <link>servidor de Discord</link> para importar los datos en Android sin descargar nada.",
+        "note": "Nota: Puede que no funcione en todos los dispositivos, así que usa los otros métodos si este falla."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Pega la URL aquí",
+        "Your Convene History URL": "Tu URL del historial de invocación"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pulsa el botón \"Importar historial\" en esta página web"
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "Ajustes",
+    "Google Account": "Cuenta Google",
+    "Browser Data": "Datos del navegador",
+    "Report an Issue": "Reportar un problema",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "sign-out-success": "Has cerrado sesión exitosamente.",
+      "login-to-sync": "Debes iniciar sesión antes de poder sincronizar.",
+      "import-to-sync": "¡Importa tus datos primero para empezar a sincronizar!",
+      "data-is-in-sync": "Los datos están sincronizados con tu cuenta de Google.",
+      "is-synced": "Los datos están sincronizados",
+      "is-not-synced": "Los datos NO están sincronizados",
+      "Cloud Backup": "Copia en la nube",
+      "description": "Guarda tus datos usando tu cuenta de Google y accede a tus datos desde cualquier dispositivo. Una vez iniciada sesión, solo haz clic en el botón \"Sinc datos\" para subir o descargar tus datos desde cualquier dispositivo.",
+      "Guest": "Invitado",
+      "Sign In to Google": "Iniciar sesión con Google",
+      "Log Out": "Cerrar sesión",
+      "Sync Data": "Sinc datos",
+      "Google Data": "Datos en Google",
+      "Browser Data": "Datos del navegador",
+      "browser-data-different": "Tus datos locales en el navegador son diferentes a los datos en tu cuenta Google.",
+      "browser-data-different-confirmation": "Tus datos locales con el ID del jugador ({localId}) no son iguales al ID del jugador (${googleId}) en tu cuenta de Google. ¿Te gustaría mantener los datos locales de tu navegador o en vez de eso quieres usar los datos de tu cuenta de Google?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "Has cerrado sesión exitosamente.",
+      "Sign out": "Cerrar sesión",
+      "Sign In to Google": "Iniciar sesión con Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "require-url-before-downloading": "Necesitas una URL del historial de invocación válida antes de descargar.",
+      "download-failed": "Fallo al empezar la descarga.",
+      "download-starting": "Tu descarga comenzará en breves.",
+      "invalid-url": "Por favor introduce una URL de historial de invocación válida.",
+      "import-success": "¡URL del historial de invocación importada exitosamente localmente!",
+      "delete-local-success": "Datos del historial local eliminados.",
+      "Convene History Data": "Datos del historial de invocación",
+      "Import Tutorial": "Tutorial para importar",
+      "Go to Import Tutorial": "Ve a tutorial para importar",
+      "description": "Exporta o cambia tu URL del historial de invocación aquí.",
+      "Your Convene History URL": "Tu URL del historial de invocación",
+      "Download Your History": "Descargar tu historial",
+      "Delete Browser Saved Data": "Borrar los datos guardados en el navegador",
+      "Delete your local data": "Borrar tus datos locales",
+      "Save": "Guardar"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "Privacidad",
+      "description": "Maneja los permisos de Wuwa Tracker cuando se trata de manejar tus datos."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "Añadir los datos de tus tiradas para las estadísticas globales"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "title": "Cronograma",
+    "heading": "Cronograma de evento",
+    "description": "Ve los eventos de Wuthering Waves en tu zona horaria local o en los <link>tiempos de servidores</link>.",
+    "github-update-message": "Actualizado el {time} por {author}.",
+    "Edit this page on GitHub": "Editar está página en GitHub",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "Tiempos de reinicio diario de servidores",
+      "description": "Compara tu tiempo local con el tiempo del servidor de Wuthering Waves para planear tu siguiente aventura."
     }
   }
 }
