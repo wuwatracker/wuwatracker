@@ -273,7 +273,7 @@
           "formula": "¿Cuál es tu promedio para el {qualityLevel}-estrellas garantizado?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
+          "title": "Porcentaje",
           "formula": "¿Qué porcentaje de todas tus tiradas fueron {qualityLevel}-estrellas?"
         },
         "RateUpWins": {
@@ -281,8 +281,8 @@
           "formula": "¿Qué porcentaje de tus tiradas 50/50 has ganado?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Destacado",
+          "formula": "¿Qué tan seguidos fueron tus tiradas de 4-estrellas destacadas?"
         }
       }
     },
