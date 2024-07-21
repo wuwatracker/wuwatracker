@@ -247,7 +247,7 @@
       "and": "と",
       "Convenes": "集音",
       "no-filters": "フィルターが選択されていません",
-      "no-records": "記録が見つかりません"
+      "no-records": "記録が見つかりませんでした。"
     },
     "UserPullHistoryTable": {
       "Pull History": "集音履歴",
@@ -255,17 +255,17 @@
       "Item": "名前",
       "Pity": "天井カウント",
       "Date Received": "時間",
-      "no-records": "記録が見つかりません"
+      "no-records": "記録が見つかりませんでした。"
     },
     "UserBannerStats": {
       "Total": "合計",
       "Astrites": "星声",
-      "Pulls": "集音回数"
+      "Pulls": "集音"
     },
     "UserBannerStatsLuckCards": {
       "Luck": "幸運値",
       "no-luck": "この集音には幸運値データがありません。",
-      "no-records": "記録が見つかりません",
+      "no-records": "記録が見つかりませんでした。",
       "calibrating": "Calibrating...",
       "Percentiles": {
         "AvgPity": {
@@ -292,7 +292,7 @@
       "Banner List": "Banner List",
       "Pulls Per Day": "日ごとの集音回数",
       "Pulls By Pity": "引けた回数",
-      "Pulls By Name": "集音合計名前ごとに",
+      "Pulls By Name": "集音合計（名前順）",
       "Pulls": "集音回数"
     },
     "SharePageContent": {
