@@ -85,12 +85,12 @@
     "Winter Brume Banner": "冬湖烟波",
     "Utterance of Marvels": "万象新声",
     "Beginner Selector": "新手自选唤取",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Convene Giveback Event": "感恩定向唤取",
     "Absolute Pulsation": "浮声沉兵",
     "Prevail the Lasting Night": "夜将寒色去",
     "When Thunder Pours": "惊霆雨时节",
     "Thawborn Renewal": "寒尽觉春生",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Vermillion's Ploy": "炽羽策阵星"
   },
   "Common": {
     "Import History": "导入历史记录"
@@ -156,9 +156,9 @@
       "label": "帮助翻译"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "我们与鸣潮无关联，所有资源、游戏内容、素材的商标和版权都归属库洛游戏。",
       "Privacy Policy": "隐私政策",
-      "Terms & Conditions": "Terms & Conditions"
+      "Terms & Conditions": "使用条款"
     }
   },
   "MenuList": {
