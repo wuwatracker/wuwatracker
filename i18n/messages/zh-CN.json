@@ -80,7 +80,7 @@
     "Permanent Weapon": "常驻武器",
     "Beginner Convene": "新手唤取",
     "Beginner's Choice": "新手自选",
-    "Selector Ticket": "选择券",
+    "Selector Ticket": "自选卷",
     "Tidal Chorus": "海上共潮生",
     "Winter Brume Banner": "冬湖烟波",
     "Utterance of Marvels": "万象新声",
@@ -97,7 +97,7 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "鸣潮抽卡分析",
+      "title": "Wuwa Tracker",
       "description": "Wuthering Waves的哀歌计数器，使用最新数据和全球统计信息等。在设备间同步数据，与朋友分享抽卡结果，并轻松跟踪您的账户！"
     },
     "Achievements": {
@@ -170,7 +170,7 @@
     "Share History": "分享历史记录",
     "Sequences": "序列",
     "Achievements": "成就",
-    "Timeline": "活动日程",
+    "Timeline": "时间线",
     "Import": "导入",
     "Settings": "设置",
     "Support Us": "支持我们",
@@ -188,7 +188,7 @@
         "data": "数据",
         "updates": "更新"
       },
-      "title": "鸣潮抽卡追踪分析工具帮助您追踪",
+      "title": "Wuwa Tracker 帮您记录",
       "description": "根据全球统计及更多数据，使用最新数据为鸣潮提供的保底计数器。我们致力于提供一个最棒的工具来让您向朋友们展示您的鸣潮进度。"
     },
     "Tutorial": {
@@ -515,15 +515,15 @@
     },
     "SettingGlobalStats": {
       "title": "隐私",
-      "description": "管理鸣潮抽卡追踪分析工具的处理您的数据的权限。"
+      "description": "管理 Wuwa Tracker 处理您数据的权限。"
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "提交抽卡数据至全球统计数据中。"
     }
   },
   "Timeline": {
-    "title": "行事历",
-    "heading": "活动日程",
+    "title": "时间线",
+    "heading": "活动时间线",
     "description": "以你的本地时区或者其他<link>服务器时间</link>查看鸣潮的活动。",
     "github-update-message": "由 {author} 编辑于 {time}。",
     "Edit this page on GitHub": "在GitHub上编辑此页",
