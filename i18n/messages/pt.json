@@ -365,57 +365,57 @@
       },
       "Video Tutorial": "Vídeo de Tutorial",
       "PC Import Tutorial Video": "Vídeo de Tutorial para Importar no PC",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>cacaowithwater</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no PC."
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "Caminho do Jogo Inválido",
+      "invalid-url": "URL de Histórico de Convocação Inválido",
+      "import-success": "URL de Histórico de Convocação importado com sucesso!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "Copie o Seu Diretório de Instalação",
+        "description": "Encontre a pasta que contem <code>Wuthering Waves.exe</code> e a pasta <code>Client</code>.",
+        "Your installation directory": "O seu diretório de instalação",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
+        "title": "Inicie Wuthering Wave no PC e Abra o Seu Histórico de Convocações no jogo",
+        "description": "Depois, abra Windows PowerShell e cole o seguinte script.",
+        "invalid-directory": "Insira um diretório de instalação válido primeiro!",
+        "Stuck? Click the “Need Help?” button": "Preso? Clique o botão \"Precisa de Ajuda?\"",
         "note": "Nota: O script não edita os seus ficheiros, simplesmente extrai o URL dos seus históricos. Pode ver o script <link>aqui</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "Cole o URL Aqui",
+        "Your Convene History URL": "O seu URL do Histórico de Convocações"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "Video Tutorial": "Vídeo de Tutorial",
+      "PC Import Tutorial Video": "Vídeo de Tutorial para Importar no PC",
+      "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube para importar os seus dados no PC. Por favor, entre no nosso <link>Servidor do Discord</link> para pedir ajuda!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "Dados JSON inválidos - tenha certeza de copiar os ponto e vírgula",
+      "invalid-url": "URL do Histórico de Convocações inválido",
+      "import-success": "URL de Histórico de Convocações importado com sucesso!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "title": "Siga o nosso Vídeo de Tutorial",
+        "description": "Parecido a conseguir o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este vídeo de tutorial por Chario</video> para transferir e usar a <app>Steam - Network Debug Tool</app>.",
+        "Video Tutorial": "Vídeo de Tutorial",
+        "iOS Import Tutorial Video": "Vídeo de Tutorial para Importar no iOS",
+        "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>Chario</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "Cole o JSON Aqui"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de Histórico de Convocações inválido",
+      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Use Ascent To Get Convene History URL",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
@@ -423,13 +423,13 @@
         "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
+        "title": "Cole o URL Aqui",
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
         "title": " Press the \"Import History\" Button on this Website"
       },
-      "Video Tutorial": "Video Tutorial",
+      "Video Tutorial": "Vídeo de Tutorial",
       "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
       "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
     },
@@ -441,7 +441,7 @@
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
-        "title": "Paste the URL Here",
+        "title": "Cole o URL Aqui",
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
@@ -454,13 +454,13 @@
       "1": {
         "title": "Follow our Video Tutorial",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
+        "Video Tutorial": "Vídeo de Tutorial",
         "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
         "note": "Note: This may not work for every device, so try the other methods if it fails."
       },
       "2": {
-        "title": "Paste the URL Here",
+        "title": "Cole o URL Aqui",
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
@@ -469,31 +469,31 @@
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "Configurações",
+    "Google Account": "Conta Google",
+    "Browser Data": "Dados do Navegador",
+    "Report an Issue": "Relatar um Problema",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
+      "sign-out-success": "Sessão terminada com sucesso.",
       "login-to-sync": "You must login before being able to sync.",
       "import-to-sync": "Import your data first to start syncing!",
       "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
+      "is-synced": "Os dados estão sincronizados",
+      "is-not-synced": "Os dados NÃO estão sincronizados",
+      "Cloud Backup": "Backup da Nuvem",
       "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
+      "Guest": "Convidado",
       "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
+      "Log Out": "Terminar sessão",
+      "Sync Data": "Sincronizar Dados",
+      "Google Data": "Dados do Google",
+      "Browser Data": "Dados do Navegador",
       "browser-data-different": "Your local browser data is different from your Google Account data.",
       "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
     },
     "SignInButton": {
       "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
+      "Sign out": "Sair",
       "Sign In to Google": "Sign In to Google"
     },
     "SettingConveneHistoryUrl": {
