@@ -170,7 +170,7 @@
     "Share History": "履歴共有",
     "Sequences": "共鳴チェーン",
     "Achievements": "実績",
-    "Timeline": "タイムライン",
+    "Timeline": "スケジュール",
     "Import": "インポート",
     "Settings": "設定",
     "Support Us": "寄付",
@@ -522,8 +522,8 @@
     }
   },
   "Timeline": {
-    "title": "タイムライン",
-    "heading": "イベントタイムライン",
+    "title": "スケジュール",
+    "heading": "イベントスケジュール",
     "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
     "github-update-message": "Updated on {time} by {author}.",
     "Edit this page on GitHub": "GitHubでこのページを編集する",
