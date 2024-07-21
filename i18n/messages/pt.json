@@ -234,85 +234,85 @@
   "Convene": {
     "title": "Rastreador de Convocações",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "Role para baixo para Mais"
     },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "Estatísticas Globais"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "Categorias de Convocação"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "Recente",
+      "and": "e",
+      "Convenes": "Convocações",
+      "no-filters": "Nenhum filtro selecionado.",
+      "no-records": "Nenhum registo encontrado."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
+      "Pull History": "Histórico de Tiros",
+      "Pull Num": "Tiro Nº.",
       "Item": "Item",
       "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Date Received": "Data de Receção",
+      "no-records": "Nenhum registo encontrado."
     },
     "UserBannerStats": {
       "Total": "Total",
       "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Pulls": "Tiros"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "Sorte",
+      "no-luck": "Este banner não tem estatísticas de sorte.",
+      "no-records": "Nenhum registo encontrado.",
+      "calibrating": "Calibrando...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Pity Médio",
+          "formula": "Qual é o teu pity {qualityLevel}-estrelas médio?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Proporção de Tiros",
+          "formula": "Que percentagem dos seus tiros totais foram {qualityLevel}-estrelas?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "Vitórias 50/50",
+          "formula": "Que percentagem de tiros 50/50 ganhou?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Vitórias de Destaque",
+          "formula": "Quão frequentes foram os teus tiros de 4-estrelas destacados?"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "title": "Estatísticas Globais",
+      "Switch Banner": "Trocar Banner",
+      "Banner List": "Lista de Banners",
+      "Pulls Per Day": "Tiros Por Dia",
+      "Pulls By Pity": "Tiros Por Pity",
+      "Pulls By Name": "Tiros Por Nome",
+      "Pulls": "Tiros"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
+      "title": "Cartão de Compartilhamento",
+      "description": "Customize e transfira o seu histórico de Convocações de Wuthering Waves para compartilhar com os outros!",
       "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "Edit Share Card": "Edite Cartão de Compartilhamento",
+      "edit-description": "O seu cartão atualiza em tempo real enquanto faz mudanças.",
+      "Select Banner": "Selecione Banner",
+      "Background": "Segundo plano",
+      "Foreground": "Primeiro plano",
+      "recommendation": "Recomendamos a razão de aspeto 1:1 para imagens com resolução 2048x2048.",
+      "Download": "Transferir"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "Tutorial de Importação",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
+      "Automatic": "Automático",
       "Manual": "Manual"
     },
     "Android": {
@@ -348,23 +348,23 @@
       "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "found-url": "Encontramos um URL! Clique o botão Importar Histórico para prosseguir.",
       "not-found-url": "Nenhum URL válido encontrado no ficheiro do histórico.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "Click to upload": "Clique para fazer upload",
+      "or drag and drop": "ou arraste e largue",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "Primeiro, inicie Wuthering Waves e Abra o Histórico de Convocação no jogo"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "Vá até o Seu Diretório de Instalação",
+        "description": "Clique com o botão direito do mouse no launcher de Wuthering Waves e selecione <code>Abrir localização do ficheiro</code>. Você deverá ver <code>launcher.exe</code> e muitos ficheiros <code>.dll</code>."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "Procure por <code>debug.log</code> no Explorador de Ficheiros e dê Upload dele Aqui"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pressione o Botão de \"Importar Histórico\" neste Website"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "Video Tutorial": "Vídeo de Tutorial",
+      "PC Import Tutorial Video": "Vídeo de Tutorial para Importar no PC",
       "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
     },
     "PC3Tutorial": {
@@ -437,7 +437,7 @@
       "invalid-url": "Invalid Convene History URL",
       "import-success": "Successfully imported Convene History URL!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
+        "title": "Use Termux Para Conseguir o URL do Histórico de Convocações",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
