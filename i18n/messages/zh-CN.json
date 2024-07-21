@@ -250,7 +250,7 @@
       "no-records": "找不到记录"
     },
     "UserPullHistoryTable": {
-      "Pull History": "唤取记录",
+      "Pull History": "抽卡记录",
       "Pull Num": "抽卡次数",
       "Item": "名称",
       "Pity": "保底",
@@ -311,17 +311,17 @@
   "Import": {
     "Import Tutorial": "导入教程",
     "PC": {
-      "title": "电脑",
+      "title": "PC",
       "Automatic": "自动",
       "Manual": "手动"
     },
     "Android": {
-      "title": "安卓",
+      "title": "Android",
       "Airplane": "飞行模式"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "选择一种方法",
+      "title": "选择导入方法",
       "description": "如果自动的方法无法使用，请使用其他的教程来手动导入。如果您还需要帮助，请访问我们的<link>Discord服务器</link>。",
       "description-android": "如果第一个方法无法使用，请尝试其他的方法。如果您还需要帮助，请访问我们的<link>Discord服务器</link>。"
     },
