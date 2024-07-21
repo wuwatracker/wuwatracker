@@ -361,7 +361,7 @@
         "title": "Procure por <code>debug.log</code> no Explorador de Ficheiros e dê Upload dele Aqui"
       },
       "4": {
-        "title": "Pressione o Botão de \"Importar Histórico\" neste Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
       },
       "Video Tutorial": "Vídeo de Tutorial",
       "PC Import Tutorial Video": "Vídeo de Tutorial para Importar no PC",
@@ -455,16 +455,16 @@
         "title": "Siga o nosso Vídeo de Tutorial",
         "description": "Siga <link>este vídeo de tutorial por yukio36</link> depois de abrir a aplicação Wuthering Waves.",
         "Video Tutorial": "Vídeo de Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
+        "Android Airplane Mode Import Tutorial Video": "Vídeo de Tutorial de Importação no Android pelo Modo Avião",
         "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>yukio36</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no Android sem transferir nada.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "note": "Nota: Isto pode não funcionar para todos os dispositivos, então tente outros métodos se este falhar."
       },
       "2": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "O seu URL do Histórico de Convocações"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
       }
     }
   },
@@ -475,50 +475,50 @@
     "Report an Issue": "Relatar um Problema",
     "SettingCloudSync": {
       "sign-out-success": "Sessão terminada com sucesso.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
+      "login-to-sync": "Precisa iniciar sessão antes de tentar sincronizar.",
+      "import-to-sync": "Importe os seus dados primeiro para começar sincronização!",
+      "data-is-in-sync": "Dados sincronizados com a sua Conta Google.",
       "is-synced": "Os dados estão sincronizados",
       "is-not-synced": "Os dados NÃO estão sincronizados",
       "Cloud Backup": "Backup da Nuvem",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
+      "description": "Guarde os seus dados usando a sua Conta Google e acesse os seus dados em qualquer dispositivo. Após iniciar sessão, apenas clique o botão \"Sincronizar Dados\" para fazer upload ou transferir os seus dados para o seu dispositivo.",
       "Guest": "Convidado",
       "Sign In to Google": "Iniciar sessão com o Google",
       "Log Out": "Terminar sessão",
       "Sync Data": "Sincronizar Dados",
       "Google Data": "Dados do Google",
       "Browser Data": "Dados do Navegador",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "browser-data-different": "Os dados no seu navegador local são diferentes dos da sua Conta Google.",
+      "browser-data-different-confirmation": "Os seus dados locais com o ID de jogador {localId} conflitem com os do ID de jogador da sua Conta Google ${googleId}. Gostaria de manter os dados locais do seu navegador ou prefere usar o da sua Conta Google?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
+      "sign-out-success": "Terminou sessão com sucesso.",
       "Sign out": "Sair",
       "Sign In to Google": "Iniciar sessão com o Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
+      "require-url-before-downloading": "Precisa de um URL do Histórico de Convocações válido antes de transferir.",
       "download-failed": "Falha ao iniciar transferência.",
       "download-starting": "A sua transferência vai começar brevemente.",
       "invalid-url": "Por favor, insira um URL do Histórico de Convocações válido.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
+      "import-success": "URL de Histórico de Convocação importado localmente com sucesso!",
+      "delete-local-success": "Apagar os dados do histórico local.",
+      "Convene History Data": "Dados do Histórico de Convocações",
       "Import Tutorial": "Tutorial de Importação",
       "Go to Import Tutorial": "Vá para o Tutorial de Importação",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
+      "description": "Exporte ou mude o seu URL do Histórico de Convocações aqui.",
+      "Your Convene History URL": "O seu URL do Histórico de Convocações",
       "Download Your History": "Transfira o Seu Histórico",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
+      "Delete Browser Saved Data": "Apagar os Dados Guardados do Navegador",
       "Delete your local data": "Apagar dados locais",
       "Save": "Guardar"
     },
     "SettingGlobalStats": {
       "title": "Privacidade",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "description": "Gerencie as permissões do Rastreador de Wuwa no que toca a lidar com os seus dados."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "Submeter dados de tiros para estatísticas globais"
     }
   },
   "Timeline": {
