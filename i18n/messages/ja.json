@@ -264,7 +264,7 @@
     },
     "UserBannerStatsLuckCards": {
       "Luck": "幸運値",
-      "no-luck": "This banner doesn't have luck statistics.",
+      "no-luck": "この集音には幸運値データがありません。",
       "no-records": "記録が見つかりません",
       "calibrating": "Calibrating...",
       "Percentiles": {
@@ -290,10 +290,10 @@
       "title": "グローバル統計",
       "Switch Banner": "Switch Banner",
       "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "Pulls Per Day": "日ごとの集音回数",
+      "Pulls By Pity": "引けた回数",
+      "Pulls By Name": "集音合計名前ごとに",
+      "Pulls": "集音回数"
     },
     "SharePageContent": {
       "title": "共有",
@@ -305,7 +305,7 @@
       "Background": "Background",
       "Foreground": "Foreground",
       "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "Download": "ダウンロード"
     }
   },
   "Import": {
@@ -475,24 +475,24 @@
     "Report an Issue": "問題を報告する",
     "SettingCloudSync": {
       "sign-out-success": "ログアウトが成功しました",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
+      "login-to-sync": "同期するためにはログインが必要です",
+      "import-to-sync": "同期を開始するにはデータをインポートしてください！",
+      "data-is-in-sync": "Google アカウントと同期しました",
+      "is-synced": "データの同期が成功しました",
+      "is-not-synced": "データは同期できませんでした",
+      "Cloud Backup": "クラウドバックアップ",
+      "description": "データを Google アカウントに保存することで、他のデバイスでも閲覧できます。ログイン後、\"データを同期\"ボタンをクリックするだけで、データをデバイスにアップロードまたはダウンロードできます。",
+      "Guest": "ゲスト",
+      "Sign In to Google": "Googleでログイン",
+      "Log Out": "ログアウト",
+      "Sync Data": "データを同期",
+      "Google Data": "Google データ",
+      "Browser Data": "ブラウザデータ",
+      "browser-data-different": "ローカルデータが Google アカウントのデータと異なります",
       "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
+      "sign-out-success": "ログアウトが成功しました",
       "Sign out": "ログアウト",
       "Sign In to Google": "Googleでログイン"
     },
@@ -507,23 +507,23 @@
       "Import Tutorial": "インポートチュートリアル",
       "Go to Import Tutorial": "インポートのチュートリアル",
       "description": "集音履歴はここでエクスポート及び変更できます。",
-      "Your Convene History URL": "Your Convene History URL",
+      "Your Convene History URL": "あなたの集音履歴URL",
       "Download Your History": "Download Your History",
       "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "Delete your local data": "ローカルデータを削除",
+      "Save": "保存"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "プライバシー",
+      "description": "Wuwa Trackerがあなたのデータを処理する権限を管理する"
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "グローバル統計用にガチャデータを提供する"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
+    "title": "タイムライン",
+    "heading": "イベントタイムライン",
     "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
     "github-update-message": "Updated on {time} by {author}.",
     "Edit this page on GitHub": "GitHubでこのページを編集する",
