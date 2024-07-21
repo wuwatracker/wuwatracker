@@ -62,7 +62,6 @@
     "Rectifier of Night": "暗夜の増幅器・冥光",
     "Rectifier of Voyager": "探索者増幅器・発見",
     "Rectifier#25": "鳴動儀＃25",
-    "Scale: Slasher": "Scale: Slasher",
     "Static Mist": "不変の湖煙",
     "Stonard": "黄金の拳",
     "Stringmaster": "糸繰りの奇術",
@@ -77,23 +76,24 @@
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
     "Featured Weapon": "ピックアップ武器",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Convene Giveback Event",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "Permanent Resonator": "共鳴者集音（恒常）",
+    "Permanent Weapon": "武器集音（恒常）",
+    "Beginner Convene": "初心者集音",
+    "Beginner's Choice": "初心者応援セレクト",
+    "Selector Ticket": "潮波の恩返しチケット",
+    "Tidal Chorus": "潮と漲るもの",
+    "Winter Brume Banner": "冬の湖の霧",
+    "Utterance of Marvels": "万象新声",
+    "Beginner Selector": "初心者応援セレクト集音",
+    "Convene Giveback Event": "星5共鳴者セレクト特別感謝イベント",
+    "Absolute Pulsation": "音を操る利器",
+    "Prevail the Lasting Night": "酷寒の果てる夜に",
+    "When Thunder Pours": "春を告げる雷雨",
+    "Thawborn Renewal": "冬尽きて、春息吹く",
+    "Vermillion's Ploy": "星々を弄ぶ焔羽"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "履歴をインポート"
   },
   "Metadata": {
     "Generic": {
@@ -156,377 +156,377 @@
       "label": "翻訳の手助け"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Privacy Policy",
-      "Terms & Conditions": "Terms & Conditions"
+      "disclaimer": "私たちは鳴潮とは関係がありません。すべてのリソース、ゲームコンテンツ、素材はKuro Gamesの商標および著作権です。",
+      "Privacy Policy": "プライバシーポリシー",
+      "Terms & Conditions": "利用規約"
     }
   },
   "MenuList": {
-    "Tools": "Tools",
-    "Guides": "Guides",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Tools": "ツール",
+    "Guides": "ガイド",
+    "Config": "設定",
+    "Convene Tracker": "集音履歴分析",
+    "Global Stats": "グローバル統計",
+    "Share History": "履歴共有",
+    "Sequences": "共鳴チェーン",
+    "Achievements": "実績",
+    "Timeline": "スケジュール",
+    "Import": "インポート",
+    "Settings": "設定",
+    "Support Us": "寄付",
+    "Sign In To Google": "Googleでログイン",
+    "Sign Out": "ログアウト"
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "ダッシュボード",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "pulls",
-        "pity": "pity",
-        "events": "events",
-        "statistics": "statistics",
-        "data": "data",
-        "updates": "updates"
+        "pulls": "集音",
+        "pity": "天井カウント",
+        "events": "イベント",
+        "statistics": "分析",
+        "data": "データ",
+        "updates": "更新"
       },
       "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "description": "最新データとグローバル統計を使用した鳴潮集音カウンターです。\nあなたの鳴潮での進捗を友人と共有するための最適なツールを提供することを目指しています。"
     },
     "Tutorial": {
-      "title": "Get Started",
-      "description": "Welcome, Rover. Let's get you started, shall we?",
-      "View Pull History": "View Pull History",
-      "Sync Your Data": "Sync Your Data",
-      "Your data will now sync automatically!": "Your data will now sync automatically!"
+      "title": "始めよう",
+      "description": "ようこそ、漂泊者。では、始めましょうか？",
+      "View Pull History": "集音履歴を確認",
+      "Sync Your Data": "データを同期する",
+      "Your data will now sync automatically!": "今後データは自動で同期されます！"
     },
     "Changelogs": {
-      "title": "Changelogs",
-      "description": "View website announcements here."
+      "title": "変更履歴",
+      "description": "こちらでウェブサイトのお知らせを確認できます。"
     },
     "Community": {
-      "title": "Community"
+      "title": "コミュニティ"
     }
   },
   "Achievements": {
-    "title": "Achievements",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "title": "実績",
+    "description": "初期データは <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> を使用しております。",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "データが正常にインポートされました",
+        "import-invalid": "有効なデータをインポートしてください",
+        "parse-fail": "JSONファイルの解析に失敗しました",
+        "download-fail": "ダウンロードを開始することができませんでした",
+        "download-start": "ダウンロードがまもなく始まります"
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "フィルターを使用して、まだ達成していない実績を探しましょう",
+      "Completed": "達成",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "データをインポート",
+        "description": "エクスポートしたデータを使って同期する"
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
+      "Hidden": "隠しアチーブメント",
+      "Click to upload": "クリックしてアップロードする",
+      "or drag and drop": "あるいはファイルをドラッグしてここに置く",
+      "Import": "インポート",
+      "Export as JSON": "JSON形式でエクスポート",
       "Need Tips?": "Need Tips?"
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "集音履歴分析",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "スクロールしてさらに表示"
     },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "グローバル統計"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Convene Categories"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "最近の",
+      "and": "と",
+      "Convenes": "集音",
+      "no-filters": "フィルターが選択されていません",
+      "no-records": "記録が見つかりません"
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
-      "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Pull History": "集音履歴",
+      "Pull Num": "集音回数",
+      "Item": "名前",
+      "Pity": "天井カウント",
+      "Date Received": "時間",
+      "no-records": "記録が見つかりません"
     },
     "UserBannerStats": {
-      "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Total": "合計",
+      "Astrites": "星声",
+      "Pulls": "集音回数"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
+      "Luck": "幸運値",
+      "no-luck": "この集音には幸運値データがありません。",
+      "no-records": "記録が見つかりません",
       "calibrating": "Calibrating...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "平均回数",
+          "formula": "平均的に、星 {qualityLevel} は何回で出ますか？"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "排出率",
+          "formula": "星 {qualityLevel} の排出率は？"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "すり抜けない",
+          "formula": "すり抜けない率"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "ピックアップ共鳴者の排出率",
+          "formula": "ピックアップ中の星4キャラの排出率"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
+      "title": "グローバル統計",
       "Switch Banner": "Switch Banner",
       "Banner List": "Banner List",
-      "Pulls Per Day": "Pulls Per Day",
-      "Pulls By Pity": "Pulls By Pity",
-      "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "Pulls Per Day": "日ごとの集音回数",
+      "Pulls By Pity": "引けた回数",
+      "Pulls By Name": "集音合計名前ごとに",
+      "Pulls": "集音回数"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
+      "title": "共有",
+      "description": "カスタムしてあなたの集音履歴を共有しよう！",
+      "Customize": "カスタム",
+      "Edit Share Card": "カードを編集",
+      "edit-description": "カードを編集するたびにリアルタイムで更新されます",
       "Select Banner": "Select Banner",
       "Background": "Background",
       "Foreground": "Foreground",
       "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "Download": "ダウンロード"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "インポートチュートリアル",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "Automatic": "自動",
+      "Manual": "手動"
     },
     "Android": {
       "title": "Android",
-      "Airplane": "Airplane"
+      "Airplane": "機内モード"
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "インポート方法を選択",
+      "description": "自動方法がうまくいかない場合は、他のチュートリアルを参照して手動で試してください。\nそれでも解決しない場合は、私たちの <link>Discord Server</link>. にご参加ください。",
+      "description-android": "方法一がうまくいかない場合は、他のチュートリアルを参照して試してください。\nそれでも解決しない場合は、私たちの <link>Discord Server</link>. にご参加ください。"
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
+        "title": "まず、鳴潮を起動し、ゲーム内の集音履歴を開いてください",
+        "description": "次に、「Windows PowerShell」を起動し、以下のコマンドを貼り付けてください",
         "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "Click the copy button on the right": "右のコピーボタンをクリック",
+        "note": "注意：このスクリプトはファイルを編集せず、ログからURLを取得するだけです。スクリプトの内容は <link>こちら</link> で確認できます。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URLをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
+      "found-url": "URLを発見しました！続行するには\"履歴をインポート\"ボタンをクリックしてください",
       "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "Click to upload": "クリックしてアップロードする",
+      "or drag and drop": "あるいはファイルをドラッグしてここに置く",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "まず、鳴潮を起動し、ゲーム内の集音履歴を開いてください"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "ゲームのインストール先を開いてください",
+        "description": "ランチャーを右クリックして <code>ファイルの場所を開く</code> を選択してください。そして <code>launcher.exe</code> やたくさんの <code>.dll</code> ファイルが見えるはずです。"
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "エクスプローラーに <code>debug.log</code> を検索し、ここにアップロードしてください"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "チュートリアル動画",
+      "PC Import Tutorial Video": "PCでのインポートチュートリアル動画",
+      "video-tutorial-desc": "私たちの <link>Discord サーバー</link> に <highlight>cacaowithwater</highlight> さんが提供したこのチュートリアル動画を見て、一歩ずつデータをインポートしましょう。"
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "無効なゲームパス",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "ゲームのインストール先のパスをコピーしてください",
+        "description": "<code>Wuthering Waves.exe</code> や <code>Client</code> が含まれているフォルダを探してください。",
+        "Your installation directory": "インストール先のパス",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
+        "title": "PCで鳴潮を起動し、ゲーム内の集音履歴を開いてください",
+        "description": "次に、「Windows PowerShell」を起動し、以下のコマンドを貼り付けてください",
+        "invalid-directory": "まずは有効なインストール先のパスを入力してください！",
         "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "note": "注意：このスクリプトはファイルを編集せず、ログからURLを取得するだけです。スクリプトの内容は <link>こちら</link> で確認できます。"
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URLをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "Video Tutorial": "チュートリアル動画",
+      "PC Import Tutorial Video": "PCインポートチュートリアル動画",
+      "video-tutorial-desc": "このチュートリアル動画を見て、一歩ずつデータをインポートしましょう。サポートが必要な場合は、ぜひ私たちの <link>Discord Server</link>. にご参加ください！"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "無効なJSONデータ - セミコロン (;) を確実にコピーしてください。",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "title": "チュートリアル動画に沿って操作を行ってください",
+        "description": "原神や崩壊：スターレイルからガチャ履歴を取得する方法と似ています。 <video>Charioさんのこの動画</video> を見て、 <app>Stream - Network Debug Tool</app> を使ってURLを取得します。",
+        "Video Tutorial": "チュートリアル動画",
+        "iOS Import Tutorial Video": "iOSでのインポートチュートリアル動画",
+        "video-tutorial-desc": "私たちの <link>Discord サーバー</link> に <highlight>Chario</highlight> さんが提供したこのチュートリアル動画を見て、一歩ずつデータをインポートしましょう。"
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "JSONをここに貼り付けてください"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Ascent を使って集音履歴URLを取得",
+        "description": "原神や崩壊：スターレイルからガチャ履歴を取得する方法と似ています。 <video>Mirai0009さんのこの動画</video> を見て、 <app>Ascent v2.1.6</app> を使ってURLを取得します。",
+        "note": "この方法はAndroidバージョン11以上のみ対応しています。",
+        "troubleshooting": "うまくいかない場合は、 </link>TROUBLESHOOTING</link> を参照してください。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URLをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       },
-      "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
+      "Video Tutorial": "チュートリアル動画",
+      "Android Ascent Import Tutorial Video": "Android Ascentでのインポートチュートリアル動画",
       "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "Termux を使って集音履歴URLを取得",
+        "description": "原神や崩壊：スターレイルからガチャ履歴を取得する方法と似ています。 <guide>eqdaminiさんのこの動画</guide> を見て、 <app>Termux</app> を使ってURLを取得します。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URLをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "無効な集音履歴URL",
+      "import-success": "集音履歴のインポートは成功しました！",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "title": "チュートリアル動画に沿って操作を行ってください",
+        "description": "鳴潮を起動して、<link>yukio36さんが提供したチュートリアル動画</link> を参照してください。",
+        "Video Tutorial": "チュートリアル動画",
+        "Android Airplane Mode Import Tutorial Video": "Android 機内モードでのインポートチュートリアル動画",
+        "video-tutorial-desc": "私たちの <link>Discord サーバー</link> に <highlight>yukio36</highlight> さんが提供したこのチュートリアル動画を見て、一歩ずつデータをインポートしましょう。他のアプリをインストールする必要がありません。",
+        "note": "注意：全てのデバイスに対応するわけではありません。うまくいかない場合は、他の方法をお試しください。"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URLをここに貼り付けてください",
+        "Your Convene History URL": "あなたの集音履歴URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "\"履歴をインポート\"ボタンをクリック"
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "設定",
+    "Google Account": "Google アカウント",
+    "Browser Data": "ブラウザデータ",
+    "Report an Issue": "問題を報告する",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
+      "sign-out-success": "ログアウトが成功しました",
+      "login-to-sync": "同期するためにはログインが必要です",
+      "import-to-sync": "同期を開始するにはデータをインポートしてください！",
+      "data-is-in-sync": "Google アカウントと同期しました",
+      "is-synced": "データの同期が成功しました",
+      "is-not-synced": "データは同期できませんでした",
+      "Cloud Backup": "クラウドバックアップ",
+      "description": "データを Google アカウントに保存することで、他のデバイスでも閲覧できます。ログイン後、\"データを同期\"ボタンをクリックするだけで、データをデバイスにアップロードまたはダウンロードできます。",
+      "Guest": "ゲスト",
+      "Sign In to Google": "Googleでログイン",
+      "Log Out": "ログアウト",
+      "Sync Data": "データを同期",
+      "Google Data": "Google データ",
+      "Browser Data": "ブラウザデータ",
+      "browser-data-different": "ローカルデータが Google アカウントのデータと異なります",
       "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "ログアウトが成功しました",
+      "Sign out": "ログアウト",
+      "Sign In to Google": "Googleでログイン"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
+      "require-url-before-downloading": "ダウンロードするには有効な集音履歴URLが必要です",
+      "download-failed": "ダウンロードを開始することができませんでした",
+      "download-starting": "ダウンロードがまもなく始まります",
+      "invalid-url": "有効な集音履歴URLを入力してください",
+      "import-success": "集音履歴のインポートは成功しました！",
+      "delete-local-success": "ローカル履歴データを削除",
+      "Convene History Data": "集音履歴データ",
+      "Import Tutorial": "インポートチュートリアル",
+      "Go to Import Tutorial": "インポートのチュートリアル",
+      "description": "集音履歴はここでエクスポート及び変更できます。",
+      "Your Convene History URL": "あなたの集音履歴URL",
       "Download Your History": "Download Your History",
       "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "Delete your local data": "ローカルデータを削除",
+      "Save": "保存"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "プライバシー",
+      "description": "Wuwa Trackerがあなたのデータを処理する権限を管理する"
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "グローバル統計用にガチャデータを提供する"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
+    "title": "スケジュール",
+    "heading": "イベントスケジュール",
     "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
     "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "Edit this page on GitHub": "GitHubでこのページを編集する",
     "ResetTimers": {
       "title": "Server Daily Reset Timers",
       "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."

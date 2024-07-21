@@ -1,7 +1,7 @@
 {
   "Items": {
     "Aalto": "Аалто",
-    "Baizhi": "Байчжи",
+    "Baizhi": "Байджи",
     "Calcharo": "Кальчаро",
     "Changli": "Чан Ли",
     "Chixia": "Чиксия",
@@ -18,8 +18,8 @@
     "Yangyang": "Янъян",
     "Yinlin": "Инь Линь",
     "Yuanwu": "Юаньву",
-    "Abyss Surges": "Всплески Бездны(Бездна)",
-    "Ages of Harvest": "Эпохи сбора урожая",
+    "Abyss Surges": "Всплески Бездны",
+    "Ages of Harvest": "Время жатвы",
     "Amity Accord": "Дружеское согласие",
     "Autumntrace": "Осенняя тропа",
     "Beguiling Melody": "Beguiling Melody",
@@ -62,7 +62,6 @@
     "Rectifier of Night": "Rectifier of Night",
     "Rectifier of Voyager": "Rectifier of Voyager",
     "Rectifier#25": "Rectifier#25",
-    "Scale: Slasher": "Scale: Slasher",
     "Static Mist": "Постоянный туман",
     "Stonard": "Каменор",
     "Stringmaster": "Мастер струн",
@@ -90,7 +89,8 @@
     "Absolute Pulsation": "Абсолютное Колебание",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "Когда Гремит Гром",
-    "Thawborn Renewal": "Возрождение Оттепели"
+    "Thawborn Renewal": "Возрождение Оттепели",
+    "Vermillion's Ploy": "Vermillion's Ploy"
   },
   "Common": {
     "Import History": "Импортировать"
@@ -258,9 +258,9 @@
       "no-records": "Записей не найдено."
     },
     "UserBannerStats": {
-      "Total": "Всего круток",
+      "Total": "Всего",
       "Astrites": "Астрита",
-      "Pulls": "Круток"
+      "Pulls": "круток"
     },
     "UserBannerStatsLuckCards": {
       "Luck": "Удача",

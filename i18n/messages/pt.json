@@ -36,7 +36,7 @@
     "Emerald of Genesis": "Emerald of Genesis",
     "Gauntlets of Night": "Gauntlets of Night",
     "Gauntlets of Voyager": "Gauntlets of Voyager",
-    "Gauntlets#21D": "Gauntlets#21D",
+    "Gauntlets#21D": "Manoplas#21D",
     "Guardian Broadblade": "Guardian Broadblade",
     "Guardian Gauntlets": "Guardian Gauntlets",
     "Guardian Pistols": "Guardian Pistols",
@@ -50,25 +50,24 @@
     "Lustrous Razor": "Lustrous Razor",
     "Marcato": "Marcato",
     "Novaburst": "Novaburst",
-    "Originite: Type I": "Originite: Type I",
-    "Originite: Type II": "Originite: Type II",
-    "Originite: Type III": "Originite: Type III",
-    "Originite: Type IV": "Originite: Type IV",
-    "Originite: Type V": "Originite: Type V",
+    "Originite: Type I": "Originite: Tipo I",
+    "Originite: Type II": "Orignite: Tipo II",
+    "Originite: Type III": "Originite: Tipo III",
+    "Originite: Type IV": "Originite: Tipo IV",
+    "Originite: Type V": "Originite: Tipo V",
     "Overture": "Overture",
     "Pistols of Night": "Pistols of Night",
     "Pistols of Voyager": "Pistols of Voyager",
-    "Pistols#26": "Pistols#26",
+    "Pistols#26": "Pistolas#26",
     "Rectifier of Night": "Rectifier of Night",
     "Rectifier of Voyager": "Rectifier of Voyager",
-    "Rectifier#25": "Rectifier#25",
-    "Scale: Slasher": "Scale: Slasher",
+    "Rectifier#25": "Retificador#25",
     "Static Mist": "Static Mist",
     "Stonard": "Stonard",
     "Stringmaster": "Stringmaster",
     "Sword of Night": "Sword of Night",
     "Sword of Voyager": "Sword of Voyager",
-    "Sword#18": "Sword#18",
+    "Sword#18": "Espada#18",
     "Thunderbolt": "Thunderbolt",
     "Undying Flame": "Undying Flame",
     "Variation": "Variation",
@@ -90,14 +89,15 @@
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
-    "Thawborn Renewal": "Thawborn Renewal"
+    "Thawborn Renewal": "Thawborn Renewal",
+    "Vermillion's Ploy": "Vermillion's Ploy"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "Importar Histórico"
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
+      "title": "Rastreador de Wuwa",
       "description": "Um contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Sincronize seus dados entre dispositivos, compartilhe seus pulls com seus amigos e acompanhe sua conta facilmente!"
     },
     "Achievements": {
@@ -156,24 +156,24 @@
       "label": "Ajude a traduzir"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Privacy Policy",
-      "Terms & Conditions": "Terms & Conditions"
+      "disclaimer": "Nós não somos afiliado com Wuthering Waves, todos os recursos, conteúdo de jogo e materiais são trademarks e copyrights de Kuro Games.",
+      "Privacy Policy": "Política de Privacidade",
+      "Terms & Conditions": "Termos & Condições"
     }
   },
   "MenuList": {
-    "Tools": "Tools",
-    "Guides": "Guides",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
+    "Tools": "Ferramentas",
+    "Guides": "Guias",
+    "Config": "Configurações",
+    "Convene Tracker": "Rastreador de Convocações",
+    "Global Stats": "Estatísticas Globais",
+    "Share History": "Partilhar Histórico",
+    "Sequences": "Sequências",
+    "Achievements": "Conquistas",
     "Timeline": "Timeline",
     "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
+    "Settings": "Configurações",
+    "Support Us": "Suporta-nos",
     "Sign In To Google": "Sign In To Google",
     "Sign Out": "Sign Out"
   },

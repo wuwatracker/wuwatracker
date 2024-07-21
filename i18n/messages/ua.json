@@ -44,7 +44,7 @@
     "Guardian Sword": "Вартового меч",
     "Helios Cleaver": "Геліос Клівер",
     "Hollow Mirage": "Порожнистий міраж",
-    "Jinzhou Keeper": "Хранитель Цзіньчжоу",
+    "Jinzhou Keeper": "Хранитель Дзіньджов",
     "Lunar Cutter": "Місячне лезо",
     "Lumingloss": "Втрата світла",
     "Lustrous Razor": "Блискуче Лезо",
@@ -62,7 +62,6 @@
     "Rectifier of Night": "Випрямляч Ночі",
     "Rectifier of Voyager": "Випрямляч Вояджера",
     "Rectifier#25": "Випрямляч#25",
-    "Scale: Slasher": "Масштаб: Слешер",
     "Static Mist": "Постійний тума",
     "Stonard": "Стонард",
     "Stringmaster": "Струнний майстер",
@@ -86,11 +85,12 @@
     "Winter Brume Banner": "Зимовий прапор Бруму",
     "Utterance of Marvels": "Висловлювання чудес",
     "Beginner Selector": "Початкове скликання на вибір",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Convene Giveback Event": "Скликання Відшкодування",
     "Absolute Pulsation": "Абосолютні коливання",
     "Prevail the Lasting Night": "Перемогти тривалу Ніч",
     "When Thunder Pours": "Коли гримить грім",
-    "Thawborn Renewal": "Відродження відлиги"
+    "Thawborn Renewal": "Відродження відлиги",
+    "Vermillion's Ploy": "Полум'яна хитрість"
   },
   "Common": {
     "Import History": "Імпорт історії"
