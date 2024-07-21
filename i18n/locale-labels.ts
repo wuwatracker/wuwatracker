@@ -13,7 +13,7 @@ export const localeLabels: CountryInformation[] = [
   { value: 'fr', label: 'Français', shortLabel: '🇫🇷' },
   { value: 'hu', label: 'Hungarian', shortLabel: '🇭🇺' },
   { value: 'id', label: 'Bahasa Indonesia', shortLabel: '🇮🇩' },
-  { value: 'ja', label: '日本語', shortLabel: '🇯🇵', isIncomplete: true },
+  { value: 'ja', label: '日本語', shortLabel: '🇯🇵' },
   { value: 'ko', label: '한국어', shortLabel: '🇰🇷', isIncomplete: true },
   { value: 'ms', label: 'Bahasa Melayu', shortLabel: '🇲🇾', isIncomplete: true },
   { value: 'ru', label: 'Русский', shortLabel: '🇷🇺' },
