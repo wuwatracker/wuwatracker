@@ -215,7 +215,7 @@
         "import-invalid": "Por favor importe dados válidos.",
         "parse-fail": "Falha ao analisar ficheiro JSON.",
         "download-fail": "Falha ao iniciar transferência.",
-        "download-start": "A sua transferência irá começar brevemente."
+        "download-start": "A sua transferência vai começar brevemente."
       },
       "description": "Use os filtros para ajudá-lo a encontrar as conquistas em falta.",
       "Completed": "Completo",
@@ -417,46 +417,46 @@
       "invalid-url": "URL de Histórico de Convocações inválido",
       "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "Use Ascent Para Obter o URL do Histórico de Convocações",
+        "description": "Parecido a conseguir o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este guia por Mirai0009</video> para transferir e usar o <app>Ascent v2.1.6</app>. para obter o seu URL.",
+        "note": "Este método apenas suporta Android versões 11 e acima.",
+        "troubleshooting": "Se não estiver funcionando corretamente, verifique a <link>secção de resolução de problemas</link>."
       },
       "2": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "O seu URL do Histórico de Convocações"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " Pressiona o Botão \"Importar Histórico\" neste Website"
       },
       "Video Tutorial": "Vídeo de Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Android Ascent Import Tutorial Video": "Vídeo de Tutorial de Importação pelo Ascent no Android",
+      "video-tutorial-desc": "Primeiro, leia cuidadosamente este <guide>guia escrito</guide> e depois siga este <video>vídeo do YouTube</video> para conseguir os seus dados no Android. Todos os créditos vão para Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de Histórico de Convocações inválido",
+      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Use Termux Para Conseguir o URL do Histórico de Convocações",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "description": "Parecido a conseguir o seu histórico em Genshin Impact ou Honkai Star Rail, siga <guide>este guia por eqdamini</guide> para transferir e usar a <app>Termux</app> para obter o seu URL."
       },
       "2": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "O seu URL do Histórico de Convocações"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "URL de Histórico de Convocações inválido",
+      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
+        "title": "Siga o nosso Vídeo de Tutorial",
+        "description": "Siga <link>este vídeo de tutorial por yukio36</link> depois de abrir a aplicação Wuthering Waves.",
         "Video Tutorial": "Vídeo de Tutorial",
         "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
+        "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>yukio36</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no Android sem transferir nada.",
         "note": "Note: This may not work for every device, so try the other methods if it fails."
       },
       "2": {
@@ -483,7 +483,7 @@
       "Cloud Backup": "Backup da Nuvem",
       "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
       "Guest": "Convidado",
-      "Sign In to Google": "Sign In to Google",
+      "Sign In to Google": "Iniciar sessão com o Google",
       "Log Out": "Terminar sessão",
       "Sync Data": "Sincronizar Dados",
       "Google Data": "Dados do Google",
@@ -494,27 +494,27 @@
     "SignInButton": {
       "sign-out-success": "Signed out successfully.",
       "Sign out": "Sair",
-      "Sign In to Google": "Sign In to Google"
+      "Sign In to Google": "Iniciar sessão com o Google"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
+      "download-failed": "Falha ao iniciar transferência.",
+      "download-starting": "A sua transferência vai começar brevemente.",
+      "invalid-url": "Por favor, insira um URL do Histórico de Convocações válido.",
       "import-success": "Successfully imported Convene History URL locally!",
       "delete-local-success": "Deleted local history data.",
       "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
+      "Import Tutorial": "Tutorial de Importação",
+      "Go to Import Tutorial": "Vá para o Tutorial de Importação",
       "description": "Export or change your Convene History URL here.",
       "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
+      "Download Your History": "Transfira o Seu Histórico",
       "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "Delete your local data": "Apagar dados locais",
+      "Save": "Guardar"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
+      "title": "Privacidade",
       "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
@@ -522,14 +522,14 @@
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "title": "Cronograma",
+    "heading": "Cronograma de Eventos",
+    "description": "Ver eventos de Wuthering Waves no seu fuso horário local ou em outros <link>Horário dos Servidores</link>.",
+    "github-update-message": "Atualizado em {time} por {author}.",
+    "Edit this page on GitHub": "Edite esta página no GitHub",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "Temporizadores de Reset Diário dos Servidores",
+      "description": "Compare o seu fuso horário local com o dos servidores de Wuthering Waves para planear a tua próxima aventura."
     }
   }
 }
