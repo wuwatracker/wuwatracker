@@ -302,9 +302,9 @@
       "Edit Share Card": "カードを編集",
       "edit-description": "カードを編集するたびにリアルタイムで更新されます",
       "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
+      "Background": "背景",
+      "Foreground": "前景",
+      "recommendation": "画像は2048x2048の解像度で1:1のアスペクト比を推奨します。",
       "Download": "ダウンロード"
     }
   },
