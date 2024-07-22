@@ -227,7 +227,7 @@
       "or drag and drop": "あるいはファイルをドラッグしてここに置く",
       "Import": "インポート",
       "Export as JSON": "JSON形式でエクスポート",
-      "Need Tips?": "Need Tips?"
+      "Need Tips?": "ヒントが必要ですか？"
     }
   },
   "Convene": {
@@ -330,7 +330,7 @@
       "1": {
         "title": "まず、鳴潮を起動し、ゲーム内の集音履歴を開いてください",
         "description": "次に、「Windows PowerShell」を起動し、以下のコマンドを貼り付けてください",
-        "History URL Script": "History URL Script",
+        "History URL Script": "履歴URLコンテンツ",
         "Click the copy button on the right": "右のコピーボタンをクリック",
         "note": "注意：このスクリプトはファイルを編集せず、ログからURLを取得するだけです。スクリプトの内容は <link>こちら</link> で確認できます。"
       },
@@ -346,7 +346,7 @@
       "invalid-url": "無効な集音履歴URL",
       "import-success": "集音履歴のインポートは成功しました！",
       "found-url": "URLを発見しました！続行するには\"履歴をインポート\"ボタンをクリックしてください",
-      "not-found-url": "No valid URL found in the log file.",
+      "not-found-url": "有効な集音履歴URLが見つかりませんでした",
       "Click to upload": "クリックしてアップロードする",
       "or drag and drop": "あるいはファイルをドラッグしてここに置く",
       "1": {
@@ -380,7 +380,7 @@
         "title": "PCで鳴潮を起動し、ゲーム内の集音履歴を開いてください",
         "description": "次に、「Windows PowerShell」を起動し、以下のコマンドを貼り付けてください",
         "invalid-directory": "まずは有効なインストール先のパスを入力してください！",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
+        "Stuck? Click the “Need Help?” button": "困ったことがありますか？”Need Help” ボタンを押してください",
         "note": "注意：このスクリプトはファイルを編集せず、ログからURLを取得するだけです。スクリプトの内容は <link>こちら</link> で確認できます。"
       },
       "3": {
@@ -430,7 +430,7 @@
       },
       "Video Tutorial": "チュートリアル動画",
       "Android Ascent Import Tutorial Video": "Android Ascentでのインポートチュートリアル動画",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "video-tutorial-desc": "しっかりとこの <guide>ガイド</guide> を読んでから、次の <video>YouTube チュートリアル</video>を見て、Androidにある履歴を取得します。全クレジットは Mirai0009さんにあります。"
     },
     "Android2Tutorial": {
       "invalid-url": "無効な集音履歴URL",
@@ -488,7 +488,7 @@
       "Google Data": "Google データ",
       "Browser Data": "ブラウザデータ",
       "browser-data-different": "ローカルデータが Google アカウントのデータと異なります",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "browser-data-different-confirmation": "プレーヤーID ({localId}) を持つローカルデータが、Google アカウントのプレーヤーID (${googleId}) と反しています。ブラウザのローカルデータを維持しますか、それともGoogleアカウントのデータを代わりに使用しますか?"
     },
     "SignInButton": {
       "sign-out-success": "ログアウトが成功しました",
@@ -523,12 +523,12 @@
   "Timeline": {
     "title": "スケジュール",
     "heading": "イベントスケジュール",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
+    "description": "鳴朝に行われているイベントを現地の標準時で見るか，他の <link>サーバー時間</link> に見ること",
+    "github-update-message": "最終更新日 {time} by {author}",
     "Edit this page on GitHub": "GitHubでこのページを編集する",
     "ResetTimers": {
       "title": "日付更新時間",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "description": "次の冒険に備えてサーバーの日付更新時間を比べよう。"
     }
   }
 }
