@@ -239,7 +239,7 @@
       "Global Statistics": "グローバル統計"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "集音イベントの分類"
     },
     "UserRecentConvenes": {
       "Recent": "最近の",
@@ -287,7 +287,7 @@
     },
     "GlobalStatsPageContent": {
       "title": "グローバル統計",
-      "Switch Banner": "Switch Banner",
+      "Switch Banner": "共鳴者集音イベントを選ぶ",
       "Banner List": "集音イベントのリスト",
       "Pulls Per Day": "日ごとの集音回数",
       "Pulls By Pity": "引けた回数",
