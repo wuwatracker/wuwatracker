@@ -187,7 +187,7 @@
         "data": "dados",
         "updates": "atualizações"
       },
-      "title": "O Rastreador de Wuwa ajuda a rastrear",
+      "title": "Wuwa Tracker ajuda a rastrear",
       "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer os melhores intrumentos para mostrar o seu progresso de Wuthering Waves para os seus amigos."
     },
     "Tutorial": {
@@ -514,7 +514,7 @@
     },
     "SettingGlobalStats": {
       "title": "Privacidade",
-      "description": "Gerencie as permissões do Rastreador de Wuwa no que toca a lidar com os seus dados."
+      "description": "Gerencie as permissões do Wuwa Tracker no que toca a lidar com os seus dados."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Submeter dados de tiros para estatísticas globais"
