@@ -166,7 +166,7 @@
     "Config": "Config",
     "Convene Tracker": "Contador de Convocações",
     "Global Stats": "Estatísticas Globais",
-    "Share History": "Partilhar Histórico",
+    "Share History": "Compartilhar Histórico",
     "Sequences": "Sequências",
     "Achievements": "Conquistas",
     "Timeline": "Cronograma",
@@ -177,7 +177,7 @@
     "Sign Out": "Terminar Sessão"
   },
   "Dashboard": {
-    "title": "Painel de Instrumentos",
+    "title": "Painel de Ferramentas",
     "Greeting": {
       "AnimatedWords": {
         "pulls": "tiros",
@@ -187,19 +187,19 @@
         "data": "dados",
         "updates": "atualizações"
       },
-      "title": "Wuwa Tracker ajuda a rastrear",
-      "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer os melhores intrumentos para mostrar o seu progresso de Wuthering Waves para os seus amigos."
+      "title": "Wuwa Tracker ajuda a acompanhar",
+      "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer os melhores instrumentos para mostrar o seu progresso em Wuthering Waves para os seus amigos."
     },
     "Tutorial": {
-      "title": "Começo",
+      "title": "Início",
       "description": "Olá, Rover. Vamos começar?",
       "View Pull History": "Ver Histórico de Tiros",
       "Sync Your Data": "Sincronizar Dados",
-      "Your data will now sync automatically!": "Os teus dados serão sincronizados automicamente agora!"
+      "Your data will now sync automatically!": "Os seus dados serão sincronizados atomicamente agora!"
     },
     "Changelogs": {
       "title": "Alterações",
-      "description": "Veja os anúncios do website aqui."
+      "description": "Veja anúncios do website aqui."
     },
     "Community": {
       "title": "Comunidade"
@@ -250,7 +250,7 @@
     },
     "UserPullHistoryTable": {
       "Pull History": "Histórico de Tiros",
-      "Pull Num": "Tiro Nº.",
+      "Pull Num": "Tiro nº.",
       "Item": "Item",
       "Pity": "Pity",
       "Date Received": "Data de Receção",
@@ -510,7 +510,7 @@
       "Download Your History": "Transfira o Seu Histórico",
       "Delete Browser Saved Data": "Apagar os Dados Guardados do Navegador",
       "Delete your local data": "Apagar dados locais",
-      "Save": "Guardar"
+      "Save": "Salvar"
     },
     "SettingGlobalStats": {
       "title": "Privacidade",
