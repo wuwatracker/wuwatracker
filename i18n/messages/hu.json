@@ -97,7 +97,6 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Szinkronizáld az adataidat az eszközeid között, oszd meg a húzásaidat barátaiddal, és könnyedén nyomon követheted a fiókodat!"
     },
     "Achievements": {
@@ -156,7 +155,7 @@
       "label": "Segíts fordítani"
     },
     "Footer": {
-      "disclaimer": "Nem állunk kapcsolatban a Wuthering Waves-szel, minden eszköz, játéktartalom és anyag a Kuro Games védjegye és szerzői joga.",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "Adatvédelmi irányelvek",
       "Terms & Conditions": "Szolgáltatási feltételek"
     }
