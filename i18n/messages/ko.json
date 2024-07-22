@@ -78,22 +78,22 @@
     "Featured Weapon": "무기 이벤트 튜닝",
     "Permanent Resonator": "캐릭터 레귤러 튜닝",
     "Permanent Weapon": "무기 레귤러 튜닝",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Convene Giveback Event",
-    "Absolute Pulsation": "Absolute Pulsation",
+    "Beginner Convene": "초보자 튜닝",
+    "Beginner's Choice": "초보자 자유 선택",
+    "Selector Ticket": "감사 타겟 튜닝",
+    "Tidal Chorus": "울리는 조수",
+    "Winter Brume Banner": "동연 배너",
+    "Utterance of Marvels": "새로운 소리",
+    "Beginner Selector": "초보자 자유 선택 튜닝",
+    "Convene Giveback Event": "5성 캐릭터 자유 선택 감사 이벤트",
+    "Absolute Pulsation": "무기의 울림",
     "Prevail the Lasting Night": "야밤의 청룡",
     "When Thunder Pours": "뇌우의 광란",
     "Thawborn Renewal": "눈 속에 트는 새싹",
     "Vermillion's Ploy": "별빛 속의 화염 깃털"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "기록 제출하기"
   },
   "Metadata": {
     "Generic": {
@@ -157,19 +157,19 @@
     "Footer": {
       "disclaimer": "우리는 Wuthering Waves와 연관이 없습니다. 모든 에셋, 게임의 콘텐츠와 소재의 트레이드마크와 저작권은 Kuro Games에 있습니다.",
       "Privacy Policy": "개인정보 보호정책",
-      "Terms & Conditions": "Terms & Conditions"
+      "Terms & Conditions": "이용 약관"
     }
   },
   "MenuList": {
     "Tools": "도구",
     "Guides": "가이드",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
+    "Config": "구성",
+    "Convene Tracker": "튜닝 트래커",
+    "Global Stats": "글로벌 통계",
+    "Share History": "기록 공유하기",
+    "Sequences": "시퀀스",
+    "Achievements": "업적",
+    "Timeline": "타임라인",
     "Import": "제출하기",
     "Settings": "설정",
     "Support Us": "지원하기",
@@ -181,17 +181,17 @@
     "Greeting": {
       "AnimatedWords": {
         "pulls": "pulls",
-        "pity": "천장",
+        "pity": "pity",
         "events": "events",
         "statistics": "statistics",
         "data": "data",
         "updates": "updates"
       },
       "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "description": "글로벌 통계 등이 포함된 최신 데이터를 사용한 명조: 워더링 웨이브 뽑기 스택 카운터. 당신의 게임 진행 상황을 친구들에게 보여줄 수 있는 최고의 도구를 제공하는 것을 목표로 합니다."
     },
     "Tutorial": {
-      "title": "Get Started",
+      "title": "시작하기.",
       "description": "어서오세요, 방랑자. 이제 시작하시겠어요?",
       "View Pull History": "뽑기 기록 보기",
       "Sync Your Data": "데이터 연동하기",
@@ -199,7 +199,7 @@
     },
     "Changelogs": {
       "title": "변경 로그",
-      "description": "여기서 웹사이트 공지를 보세요."
+      "description": "이곳에서 웹사이트 공지를 확인하세요."
     },
     "Community": {
       "title": "커뮤니티"
@@ -207,112 +207,112 @@
   },
   "Achievements": {
     "title": "업적",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "description": "<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>, 초기 데이터 제공에 감사드립니다.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "성공적으로 데이터를 제출했습니다.",
+        "import-invalid": "유효한 데이터를 제출해주세요.",
+        "parse-fail": "JSON 파일 분석에 실패했습니다.",
+        "download-fail": "다운로드에 실패했습니다.",
+        "download-start": "곧 다운로드가 시작됩니다."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "놓친 업적을 찾고 있다면 필터를 사용해 보세요.",
+      "Completed": "완료됨",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "데이터 제출하기",
+        "description": "이전에 내보낸 데이터를 사용하여 브라우저와 동기화하세요."
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Hidden": "히든",
+      "Click to upload": "클릭해서 업로드",
+      "or drag and drop": "또는 드래그하고 놓기",
+      "Import": "제출하기",
+      "Export as JSON": "JSON으로 추출하기",
+      "Need Tips?": "도움이 필요한가요?"
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "튜닝 트래커",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "스크롤해서 더보기"
     },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "글로벌 통계"
     },
     "ConveneCategoryNav": {
-      "Convene Categories": "Convene Categories"
+      "Convene Categories": "튜닝 카테고리"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "최근",
+      "and": "과",
+      "Convenes": "튜닝",
+      "no-filters": "필터가 선택되지 않았습니다.",
+      "no-records": "기록을 찾을 수 없습니다."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
-      "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Pull History": "뽑기 기록",
+      "Pull Num": "회차 No.",
+      "Item": "항목",
+      "Pity": "천장",
+      "Date Received": "시간",
+      "no-records": "기록을 찾을 수 없습니다."
     },
     "UserBannerStats": {
-      "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Total": "총",
+      "Astrites": "사용한 별의 소리",
+      "Pulls": "튜닝 수"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "행운",
+      "no-luck": "이 배너에는 행운 통계가 없습니다.",
+      "no-records": "기록을 찾을 수 없습니다.",
+      "calibrating": "보정 중...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "평균 천장",
+          "formula": "평균 {qualityLevel}-성 천장은 언제인가요?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "뽑기 비율",
+          "formula": "총 튜닝 횟수 중 몇 퍼센트가 {qualityLevel}-성 이었나요?"
         },
         "RateUpWins": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "반천장 성공률",
+          "formula": "반천장 성공률이 몇 퍼센트인가요?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "확률업 공명자 성공률",
+          "formula": "확률 업 4성이 얼마나 나왔나요?"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "Global Statistics",
-      "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
+      "title": "글로벌 통계",
+      "Switch Banner": "배너 변경하기",
+      "Banner List": "배너 리스트",
       "Pulls Per Day": "Pulls Per Day",
       "Pulls By Pity": "Pulls By Pity",
       "Pulls By Name": "Pulls By Name",
       "Pulls": "Pulls"
     },
     "SharePageContent": {
-      "title": "Share Card",
-      "description": "Customize and download your Wuthering Waves Convene history to share it with others!",
-      "Customize": "Customize",
-      "Edit Share Card": "Edit Share Card",
-      "edit-description": "Your card updates in real time as you make changes.",
-      "Select Banner": "Select Banner",
-      "Background": "Background",
-      "Foreground": "Foreground",
-      "recommendation": "We recommend 1:1 aspect ratio for images at 2048x2048 resolution.",
-      "Download": "Download"
+      "title": "카드 공유하기",
+      "description": "당신의 튜닝 기록을 커스텀하고 다운로드해서 다른 사람들과 공유해보세요!",
+      "Customize": "커스텀하기",
+      "Edit Share Card": "공유 카드 편집하기",
+      "edit-description": "변동이 생길 때 마다 카드가 실시간으로 업데이트 됩니다.",
+      "Select Banner": "배너 선택하기",
+      "Background": "뒷 배경",
+      "Foreground": "앞 배경",
+      "recommendation": "이미지는 2048x2048의 해상도로 1:1의 종횡비를 권장합니다.",
+      "Download": "다운로드"
     }
   },
   "Import": {
-    "Import Tutorial": "Import Tutorial",
+    "Import Tutorial": "제출 튜토리얼",
     "PC": {
       "title": "PC",
-      "Automatic": "Automatic",
-      "Manual": "Manual"
+      "Automatic": "자동",
+      "Manual": "수동"
     },
     "Android": {
       "title": "Android",
@@ -320,215 +320,215 @@
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
-      "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
+      "title": "방법을 선택하세요.",
+      "description": "만약 자동 제출 방법이 작동하지 않는다면, 다른 튜토리얼을 참고해서 수동 제출 방법을 시도해보세요. 여전히 도움이 필요하다면, <link>디스코드 서버</link>에 방문해주세요.",
+      "description-android": "만약 첫번째 방법이 작동하지 않는다면, 다른 방법을 시도해보세요. 여전히 도움이 필요하다면, <link>디스코드 서버</link>에 방문해주세요."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "History URL Script": "History URL Script",
-        "Click the copy button on the right": "Click the copy button on the right",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
+        "title": "먼저, 게임을 실행시킨 다음, 인게임 튜닝 기록을 여세요.",
+        "description": "그 다음, Windows PowerShell을 열고, 아래의 스크립트를 붙여넣으세요.",
+        "History URL Script": "기록 URL 스크립트",
+        "Click the copy button on the right": "오른쪽의 복사 버튼을 클릭하세요.",
+        "note": "참고: 이 스크립트는 파일을 조작하지 않으며, 간단히 로그에서 URL을 추출합니다. 스크립트는 <link>여기서 확인할 수 있습니다</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URL을 여기에 붙여넣으세요.",
+        "Your Convene History URL": "튜닝 기록 URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
+      "found-url": "URL을 찾았습니다! 기록 제출하기 버튼을 클릭해서 진행하세요.",
+      "not-found-url": "로그 파일에서 유효한 URL을 찾지 못했습니다.",
+      "Click to upload": "클릭해서 업로드하기",
+      "or drag and drop": "또는 드래그하고 놓기",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "먼저, 게임을 실행시킨 다음, 인게임 튜닝 기록을 여세요."
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "설치 경로를 찾으세요.",
+        "description": "게임 런처를 우클릭 한 다음 <code>파일 위치 열기</code>를 클릭하세요. <code>launcher.exe</code>와 수많은 <code>.dll</code> 파일들을 볼 수 있습니다."
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "파일탐색기에서 <code>debug.log</code>를 검색하고 여기에 업로드 해주세요."
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "비디오 튜토리얼",
+      "PC Import Tutorial Video": "PC 제출 튜토리얼 비디오",
+      "video-tutorial-desc": "우리 <link>디스코드 서버</link> 에 있는 <highlight>cacaowithwater</highlight> 님의 유튜브 튜토리얼에 따라 PC에서 데이터를 제출해보세요."
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-path": "유효하지 않은 게임 경로입니다.",
+      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "게임이 설치된 경로를 복사해주세요.",
+        "description": "<code>Wuthering Waves.exe</code>프로그램과 <code>Client</code>폴더가 있는 폴더를 찾아주세요.",
+        "Your installation directory": "게임의 설치 경로",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "게임을 실행시킨 다음, 인게임 튜닝 기록을 여세요.",
+        "description": "그 다음, Windows PowerShell을 열고, 아래의 스크립트를 붙여넣으세요.",
+        "invalid-directory": "먼저 유효한 설치 경로를 넣어주세요!",
+        "Stuck? Click the “Need Help?” button": "막히셨나요? \"도움이 필요한가요?\" 버튼을 클릭하세요.",
+        "note": "참고: 이 스크립트는 파일을 조작하지 않으며, 간단히 로그에서 URL을 추출합니다. 스크립트는 <link>여기서 확인할 수 있습니다</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URL을 여기에 붙여넣으세요.",
+        "Your Convene History URL": "튜닝 기록 URL"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
+      "Video Tutorial": "비디오 튜토리얼",
+      "PC Import Tutorial Video": "PC 제출 튜토리얼 비디오",
       "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-json": "유효하지 않은 JSON 데이터입니다 - 세미콜론도 복사해주세요.",
+      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
-        "title": "Follow our Video Tutorial",
+        "title": "비디오 튜토리얼을 따라해보세요.",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "Video Tutorial": "비디오 튜토리얼",
+        "iOS Import Tutorial Video": "iOS 제출 튜토리얼 비디오",
+        "video-tutorial-desc": "우리 <link>디스코드 서버</link> 에 있는 <highlight>Chario</highlight> 님의 유튜브 튜토리얼에 따라 PC에서 데이터를 제출해보세요."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "JSON 파일을 여기에 붙여넣으세요."
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
+        "title": "Ascent를 사용해 튜닝 기록 URL 얻기",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
+        "note": "이 방법은 Android 11, 그 이상의 버전에서만 지원합니다.",
         "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URL을 여기에 붙여넣으세요.",
+        "Your Convene History URL": "튜닝 기록 URL"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": " 이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       },
-      "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Video Tutorial": "비디오 튜토리얼",
+      "Android Ascent Import Tutorial Video": "Android Ascent 제출 튜토리얼 비디오",
+      "video-tutorial-desc": "먼저, <guide>이 가이드</guide>를 꼼꼼히 읽고, <video>유튜브 영상</video>을 따라 Android에서 데이터를 얻으세요. Mirai0009님께 감사드립니다."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
-        "title": "Use Termux To Get Convene History URL",
+        "title": "Termux를 사용해 튜닝 기록 URL 얻기",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "URL을 여기에 붙여넣으세요.",
+        "Your Convene History URL": "튜닝 기록 URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
+      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
-        "title": "Follow our Video Tutorial",
+        "title": "비디오 튜토리얼을 따라해보세요.",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
+        "Video Tutorial": "비디오 튜토리얼",
+        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode 제출 튜토리얼 비디오",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
         "note": "참고: 모든 기기에서 작동하는 것이 아니기에, 다른 방법들도 시도해보세요."
       },
       "2": {
         "title": "URL을 여기에 붙여넣으세요.",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "튜닝 기록 URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "설정",
+    "Google Account": "Google 계정",
+    "Browser Data": "브라우저 데이터",
+    "Report an Issue": "이슈 제보하기",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
-      "Sign In to Google": "Sign In to Google",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "sign-out-success": "성공적으로 로그아웃 하였습니다.",
+      "login-to-sync": "동기화 하기 위해서는 먼저 로그인 해야 합니다.",
+      "import-to-sync": "동기화 하기 위해 먼저 데이터를 제출해주세요!",
+      "data-is-in-sync": "데이터를 Google 계정과 동기화했습니다.",
+      "is-synced": "데이터 동기화됨",
+      "is-not-synced": "데이터 동기화 되지 않음",
+      "Cloud Backup": "클라우드 백업",
+      "description": "데이터를 Google 계정에 저장하여 다른 기기에서도 볼 수 있습니다. 로그인 후 \"데이터 동기화\" 버튼을 클릭하는 것만으로 데이터를 기기에 업로드하거나 다운로드할 수 있습니다.",
+      "Guest": "게스트",
+      "Sign In to Google": "Google로 로그인",
+      "Log Out": "로그아웃",
+      "Sync Data": "데이터 동기화",
+      "Google Data": "Google 데이터",
+      "Browser Data": "브라우저 데이터",
+      "browser-data-different": "로컬 브라우저 데이터가 Google 계정의 데이터와 다릅니다.",
+      "browser-data-different-confirmation": "플레이어 ID({localId}) 를 가진 로컬 데이터가 Google 계정의 플레이어 ID(${googleId}) 와 다릅니다. 브라우저의 로컬 데이터를 유지하시겠습니까, 아니면 구글 계정의 데이터를 대신 사용하시겠습니까?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "성공적으로 로그아웃 하였습니다.",
+      "Sign out": "로그아웃",
+      "Sign In to Google": "Google로 로그인"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "require-url-before-downloading": "다운로드 하기 전에 유효한 튜닝 기록 URL이 필요합니다.",
+      "download-failed": "다운로드에 실패했습니다.",
+      "download-starting": "곧 다운로드가 시작됩니다.",
+      "invalid-url": "유효한 튜닝 기록 URL을 넣어주세요.",
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
+      "delete-local-success": "로컬 기록 데이터 삭제",
+      "Convene History Data": "튜닝 기록 데이터",
+      "Import Tutorial": "제출 튜토리얼",
+      "Go to Import Tutorial": "제출 튜토리얼",
+      "description": "여기에서 튜닝 기록 URL을 추출하거나 변경할 수 있습니다.",
+      "Your Convene History URL": "튜닝 기록 URL",
+      "Download Your History": "뽑기 기록 다운로드",
+      "Delete Browser Saved Data": "브라우저 저장 데이터 삭제하기",
+      "Delete your local data": "로컬 데이터 삭제하기",
+      "Save": "저장"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "개인정보",
+      "description": "Wuwa Tracker가 당신의 데이터를 처리할 권한을 관리합니다."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Submit pull data for global statistics"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
+    "title": "타임라인",
+    "heading": "이벤트 타임라인",
     "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
-    "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "github-update-message": "최종 업데이트: {time} by {author}",
+    "Edit this page on GitHub": "GitHub에서 이 페이지를 편집하기",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "일일 서버 초기화 타이머",
+      "description": "다음 여정에 대비해 현지 시간과 일일 서버 초기화 시간을 비교하세요."
     }
   }
 }

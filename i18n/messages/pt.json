@@ -155,7 +155,7 @@
       "label": "Ajude a traduzir"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Não somos afiliados com Wuthering Waves. Todas as imagens, conteúdo de jogo e materias têm direitos de autor e trademarks de Kuro Games.",
       "Privacy Policy": "Política de Privacidade",
       "Terms & Conditions": "Termos & Condições"
     }
@@ -169,7 +169,7 @@
     "Share History": "Partilhar Histórico",
     "Sequences": "Sequências",
     "Achievements": "Conquistas",
-    "Timeline": "Linha de Eventos",
+    "Timeline": "Cronograma",
     "Import": "Importar",
     "Settings": "Configurações",
     "Support Us": "Suporta-nos",
@@ -207,7 +207,7 @@
   },
   "Achievements": {
     "title": "Conquistas",
-    "description": "Créditos para o <link>spreadsheet StarDB's WuWa Achivements V1.1</link> pelos dados iniciais.",
+    "description": "Créditos para a <link>planilha StarDB's WuWa Achivements V1.1</link> pelos dados iniciais.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Dados importados com sucesso.",
@@ -281,7 +281,7 @@
         },
         "RateUpWins4": {
           "title": "Vitórias de Destaque",
-          "formula": "Quão frequentes foram os teus tiros de 4-estrelas destacados?"
+          "formula": "Quão frequentes foram os seus tiros de 4-estrelas destacados?"
         }
       }
     },
@@ -297,7 +297,7 @@
     "SharePageContent": {
       "title": "Cartão de Compartilhamento",
       "description": "Customize e transfira o seu histórico de Convocações de Wuthering Waves para compartilhar com os outros!",
-      "Customize": "Customize",
+      "Customize": "Customizar",
       "Edit Share Card": "Edite Cartão de Compartilhamento",
       "edit-description": "O seu cartão atualiza em tempo real enquanto faz mudanças.",
       "Select Banner": "Selecione Banner",
@@ -523,12 +523,12 @@
   "Timeline": {
     "title": "Cronograma",
     "heading": "Cronograma de Eventos",
-    "description": "Ver eventos de Wuthering Waves no seu fuso horário local ou em outros <link>Horário dos Servidores</link>.",
+    "description": "Veja os eventos de Wuthering Waves no seu fuso horário local ou em outros <link>Horários dos Servidores</link>.",
     "github-update-message": "Atualizado em {time} por {author}.",
     "Edit this page on GitHub": "Edite esta página no GitHub",
     "ResetTimers": {
       "title": "Temporizadores de Reset Diário dos Servidores",
-      "description": "Compare o seu fuso horário local com o dos servidores de Wuthering Waves para planear a tua próxima aventura."
+      "description": "Compare o seu fuso horário local com o dos servidores de Wuthering Waves para planejar a sua próxima aventura."
     }
   }
 }
