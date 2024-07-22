@@ -97,7 +97,6 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
       "description": "最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。データをデバイス間で同期し、引き分け結果を友達と共有し、アカウントを簡単に追跡できます！"
     },
     "Achievements": {
@@ -156,7 +155,7 @@
       "label": "翻訳の手助け"
     },
     "Footer": {
-      "disclaimer": "私たちは鳴潮とは関係がありません。すべてのリソース、ゲームコンテンツ、素材はKuro Gamesの商標および著作権です。",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "プライバシーポリシー",
       "Terms & Conditions": "利用規約"
     }
@@ -188,7 +187,7 @@
         "data": "データ",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker helps you track",
+      "title": "Wuwa Tracker で集音履歴をチェック.",
       "description": "最新データとグローバル統計を使用した鳴潮集音カウンターです。\nあなたの鳴潮での進捗を友人と共有するための最適なツールを提供することを目指しています。"
     },
     "Tutorial": {
@@ -266,7 +265,7 @@
       "Luck": "幸運値",
       "no-luck": "この集音には幸運値データがありません。",
       "no-records": "記録が見つかりませんでした。",
-      "calibrating": "Calibrating...",
+      "calibrating": "調整中…",
       "Percentiles": {
         "AvgPity": {
           "title": "平均回数",
@@ -289,7 +288,7 @@
     "GlobalStatsPageContent": {
       "title": "グローバル統計",
       "Switch Banner": "Switch Banner",
-      "Banner List": "Banner List",
+      "Banner List": "集音イベントのリスト",
       "Pulls Per Day": "日ごとの集音回数",
       "Pulls By Pity": "引けた回数",
       "Pulls By Name": "集音合計（名前順）",
@@ -301,7 +300,7 @@
       "Customize": "カスタム",
       "Edit Share Card": "カードを編集",
       "edit-description": "カードを編集するたびにリアルタイムで更新されます",
-      "Select Banner": "Select Banner",
+      "Select Banner": "集音イベントを選ぶ",
       "Background": "背景",
       "Foreground": "前景",
       "recommendation": "画像は2048x2048の解像度で1:1のアスペクト比を推奨します。",
@@ -508,8 +507,8 @@
       "Go to Import Tutorial": "インポートのチュートリアル",
       "description": "集音履歴はここでエクスポート及び変更できます。",
       "Your Convene History URL": "あなたの集音履歴URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
+      "Download Your History": "集音履歴をダウンロード",
+      "Delete Browser Saved Data": "ブラウザーにある履歴を消除しますか？",
       "Delete your local data": "ローカルデータを削除",
       "Save": "保存"
     },
@@ -528,7 +527,7 @@
     "github-update-message": "Updated on {time} by {author}.",
     "Edit this page on GitHub": "GitHubでこのページを編集する",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
+      "title": "日付更新時間",
       "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
     }
   }
