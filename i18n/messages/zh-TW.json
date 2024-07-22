@@ -97,65 +97,65 @@
   },
   "Metadata": {
     "Generic": {
-      "description": "Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。在設備間同步數據，與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+      "description": "Wuthering Waves 的抽卡分析，使用最即時的全球統計資料。跨裝置同步您的資料並且輕鬆地與朋友分享抽卡成果!"
     },
     "Achievements": {
       "title": "成就 - Wuwa Tracker",
-      "description": "追踪您在 Wuthering Waves 中的成就，自由導入/導出數據至各設備！Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+      "description": "追蹤您在鳴潮中的成就，自由跨設備導入/導出數據！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
     },
     "Convene": {
       "Index": {
-        "title": "歷史會集記錄 - Wuwa Tracker",
-        "description": "查看您在 Wuthering Waves 中的更新抽卡統計和最近的會集記錄。使用適合截圖的儀表板向朋友炫耀！Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+        "title": "喚取記錄 - Wuwa Tracker",
+        "description": "查看您在鳴潮中的抽卡數據及最近的喚取記錄。使用方便截圖的頁面向朋友炫耀！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
       },
       "Global": {
         "title": "全球統計數據 - Wuwa Tracker",
-        "description": "查看 {currentBanner} 橫幅的全球抽卡統計數據，特色是 {currentFeaturedResonator}！使用適合截圖的儀表板向朋友炫耀！Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+        "description": "查看 {currentFeaturedResonator} 的卡池，{currentBanner} 的全球抽卡統計數據！使用方便截圖的頁面向朋友炫耀！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
       },
       "Share": {
         "title": "分享歷史記錄 - Wuwa Tracker",
-        "description": "創建一張包含您的抽卡歷史的會集記錄卡片，與朋友分享！Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+        "description": "創建一張包含您的抽卡歷史的喚取記錄卡片與朋友分享！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
       }
     },
     "Error": {
       "title": "發生錯誤",
-      "description": "使用 Wuwa Tracker 時發生錯誤。請將報告發送至我們的 Discord 伺服器，以便我們盡快解決問題。"
+      "description": "使用 Wuwa Tracker 時發生錯誤。請回報至我們的 Discord 伺服器，以便我們盡快解決問題。"
     },
     "Import": {
-      "title": "導入會集歷史 - Wuwa Tracker",
-      "description": "按照我們的互動教程顯示您的 Wuthering Waves 數據並查看您的統計信息。我們支持從 PC、Android 和 iOS 設備導入數據，使用自動方法。Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+      "title": "匯入喚取紀錄 - Wuwa Tracker",
+      "description": "按照我們的互動教程顯示您的鳴潮數據並查看您的統計信息。我們支持從 PC、Android 和 iOS 設備導入數據。Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據，與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
     },
     "Not Found": {
       "title": "未找到頁面",
-      "description": "在 Wuwa Tracker 上找不到此頁面。請返回主頁開始追踪您的 Wuthering Waves 會集歷史數據。"
+      "description": "在 Wuwa Tracker 上找不到此頁面。請返回主頁開始追蹤您的鳴潮喚取歷史紀錄。"
     },
     "Privacy Policy": {
       "title": "隱私政策 - Wuwa Tracker",
-      "description": "本隱私政策文件概述了 Wuwa Tracker 接收和收集的個人信息類型及其使用方式。Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。"
+      "description": "本隱私政策闡述了 Wuwa Tracker 接收和收集的個人信息類型及其使用方式。Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。"
     },
     "Sequences": {
-      "title": "序列 - Wuwa Tracker",
-      "description": "計算並展示您的重複共振器和武器，並查看與它們相關的信息。您可以向朋友展示它們！"
+      "title": "共鳴鏈 - Wuwa Tracker",
+      "description": "計算並展示您的共鳴者及武器，並查看它們相關的信息。您可以向朋友展示它們！"
     },
     "Settings": {
-      "title": "設置 - Wuwa Tracker",
-      "description": "通過 Google 登錄以同步您的數據。在一個地方管理您的 Wuthering Waves 抽卡數據。Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+      "title": "設定 - Wuwa Tracker",
+      "description": "通過 Google 登錄以同步您的數據。在一個地方管理您的 Wuthering Waves 抽卡數據。Wuwa Tracker 是鳴潮的喚取計算平台，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
     },
     "Terms & Conditions": {
-      "title": "條款和條件 - Wuwa Tracker",
-      "description": "本條款和條件概述了 Wuwa Tracker 網站和服務的使用規則和規定。"
+      "title": "服務條款 - Wuwa Tracker",
+      "description": "本服務條款闡述了 Wuwa Tracker 網站所提供的服務使用規則與規定。"
     },
     "Timeline": {
-      "title": "事件時間線 - Wuwa Tracker",
-      "description": "使用您的本地時區或任何 Wuthering Waves 伺服器時區，您可以查看每個橫幅時間表、遊戲內事件、逆境之塔和幻境深淵的期間 - 一切盡在一處。Wuwa Tracker 是 Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
+      "title": "活動時間軸 - Wuwa Tracker",
+      "description": "使用本地或任何鳴潮伺服器時區，您可以在此查看每個卡池、遊戲活動、逆境之塔和幻境深淵的時間軸。Wuwa Tracker 是鳴潮的喚取計算平台；使用最新數據和全球統計，與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
     }
   },
   "Layout": {
     "LocaleSwitcher": {
-      "label": "幫助翻譯"
+      "label": "協助翻譯"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "本網站內容、素材、及相關版權皆歸庫洛遊戲所有。本網站與鳴潮無任何關聯。",
       "Privacy Policy": "隱私權政策",
       "Terms & Conditions": "服務條款"
     }
@@ -371,96 +371,96 @@
       "invalid-url": "無效的喚取記錄連結",
       "import-success": "成功匯入喚取記錄連結",
       "1": {
-        "title": "複製遊戲安裝目錄",
-        "description": "找到包含 <code>Wuthering Waves.exe</code> 的資料夾與一個 <code>Client</code> 資料夾",
-        "Your installation directory": "遊戲安裝目錄",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "title": "複製遊戲安裝路徑",
+        "description": "找到包含 <code>Wuthering Waves.exe</code> 及 <code>Client</code> 資料夾",
+        "Your installation directory": "遊戲安裝路徑",
+        "warning": "警告：假設曾編輯過<code>Engine.ini</code>檔案關閉遊戲紀錄檔，腳本將無法取得歷史紀錄連結，請在開啟遊戲紀錄後重新嘗試。"
       },
       "2": {
         "title": "在電腦執行鳴潮並開啟遊戲內的喚取紀錄",
-        "description": "再來，開啟 Windows PowerShell，並貼上以下的語法",
-        "invalid-directory": "首先，輸入合法的遊戲安裝路徑",
+        "description": "再來，開啟 Windows PowerShell，並貼上以下的指令",
+        "invalid-directory": "首先，輸入遊戲安裝路徑",
         "Stuck? Click the “Need Help?” button": "卡關了嗎? 點選 \"需要幫助?\" 按鈕",
-        "note": "提示：語法不會修改您的任何檔案，它僅會從紀錄中擷取 URL 連結。您可以在<link>這裡</link>查看語法。"
+        "note": "提示：指令不會修改您的任何檔案，它僅會從紀錄中擷取遊戲連結。您可以在<link>這裡</link>查看腳本。"
       },
       "3": {
-        "title": "在這裡貼上 URL",
-        "Your Convene History URL": "您的喚取記錄 URL"
+        "title": "在這裡貼上連結",
+        "Your Convene History URL": "您的喚取記錄連結"
       },
       "4": {
         "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
       },
       "Video Tutorial": "影片教學",
       "PC Import Tutorial Video": "PC 匯入教學影片",
-      "video-tutorial-desc": "依照這個手把手的 YouTube 教學在 PC 上匯入資料。請加入我們的 <link>Discord Server</link> 尋求任何協助!"
+      "video-tutorial-desc": "依照這個手把手的 YouTube 教學在 PC 上匯入資料。請加入我們的 <link>Discord 伺服器</link> 尋求任何協助!"
     },
     "IOSTutorial": {
-      "invalid-json": "不合法的 JSON 資料，請確認有複製到所有符號",
-      "invalid-url": "無效的喚取記錄 URL",
-      "import-success": "成功匯入喚取記錄 URL",
+      "invalid-json": "錯誤的 JSON 資料，請確認有複製到所有符號",
+      "invalid-url": "無效的喚取記錄連結",
+      "import-success": "成功匯入喚取記錄連結",
       "1": {
-        "title": "依照我們的影片教學",
-        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Chario 提供的教學影片</video> 下載並使用<app>Stream - Network Debug Tool</app> 來取得您的 URL",
-        "Video Tutorial": "影片教學",
+        "title": "觀看教學影片",
+        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Chario 提供的教學影片</video> 下載並使用<app>Stream - Network Debug Tool</app> 來取得您的連結",
+        "Video Tutorial": "教學影片",
         "iOS Import Tutorial Video": "iOS 匯入教學影片",
-        "video-tutorial-desc": "依照 <highlight>Chario</highlight> 在我們的 <link>Discord Server</link> 提供的 YouTube 教學步驟，在PC匯入資料"
+        "video-tutorial-desc": "依照 <highlight>Chario</highlight> 在我們的 <link>Discord 伺服器</link> 提供的 YouTube 步驟教學在PC匯入資料。"
       },
       "2": {
-        "title": "在這裡貼上 JSON"
+        "title": "在這裡貼上 JSON 資料"
       },
       "3": {
         "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "無效的喚取記錄 URL",
-      "import-success": "成功匯入喚取記錄 URL",
+      "invalid-url": "無效的喚取記錄連結",
+      "import-success": "成功匯入喚取記錄連結",
       "1": {
-        "title": "使用 Ascent 取得喚取記錄 URL",
-        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Mirai0009 提供的教學影片</video> 下載並使用 <app>Ascent v2.1.6</app> 來取得您的 URL",
+        "title": "使用 Ascent 取得喚取記錄連結",
+        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Mirai0009 提供的教學影片</video> 下載並使用 <app>Ascent v2.1.6</app> 來取得您的連結",
         "note": "此方法僅支援 Android 11 版本以上的裝置",
         "troubleshooting": "如果它不能正常運作，請查看<link>故障排除</link>部分。"
       },
       "2": {
-        "title": "在這裡貼上 URL",
-        "Your Convene History URL": "您的喚取記錄 URL"
+        "title": "在這裡貼上連結",
+        "Your Convene History URL": "您的喚取記錄連結"
       },
       "3": {
         "title": " 請在網頁點選\"匯入歷史紀錄\"按鈕"
       },
-      "Video Tutorial": "影片教學",
+      "Video Tutorial": "教學影片",
       "Android Ascent Import Tutorial Video": "Android Ascent 的匯入教學影片",
-      "video-tutorial-desc": "首先，仔細閱讀<guide>文字指南</guide>，然後按照這個<video>YouTube影片</video>來在 Android 設備上獲取你的資料。感謝 Mirai0009 的所有貢獻"
+      "video-tutorial-desc": "首先，仔細閱讀<guide>文字指南</guide>，然後按照這個<video>YouTube影片</video>來在 Android 設備上獲取你的資料。資料內容來自於Mirai0009。"
     },
     "Android2Tutorial": {
-      "invalid-url": "您的喚取記錄連結",
-      "import-success": "成功匯入喚取記錄URL",
+      "invalid-url": "無效的喚取記錄連結",
+      "import-success": "成功匯入喚取記錄連結",
       "1": {
-        "title": "使用 Termux 取得喚取記錄 URL",
-        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <guide>eqdamini 的導引</guide> 使用 <app>Termux</app> 來取得您的 URL"
+        "title": "使用 Termux 取得喚取記錄連結",
+        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <guide>eqdamini 的使用說明</guide> 使用 <app>Termux</app> 來取得您的連結。"
       },
       "2": {
-        "title": "在這裡貼上 URL",
-        "Your Convene History URL": "您的喚取記錄 URL"
+        "title": "在這裡貼上連結",
+        "Your Convene History URL": "您的喚取記錄連結"
       },
       "3": {
         "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "無效的喚取記錄 URL",
-      "import-success": "成功匯入喚取記錄 URL",
+      "invalid-url": "無效的喚取記錄連結",
+      "import-success": "成功匯入喚取記錄連結",
       "1": {
-        "title": "依照我們的影片教學",
-        "description": "開啟鳴潮後，請依照 <link>yukio36 提供的教學影片</link>步驟進行",
-        "Video Tutorial": "影片教學",
-        "Android Airplane Mode Import Tutorial Video": "Android 裝置的飛航模式匯入教學影片",
-        "video-tutorial-desc": "按照 <highlight>yukio36</highlight> 在我們 <link>Discord Server</link> 上提供的 YouTube 教學步驟，可以在 Android 裝置上匯入你的資料，無需下載任何東西。",
-        "note": "提示：此方法不一定可以在所有裝置中正常運作，如果失敗請嘗試其他方法"
+        "title": "依照我們的教學影片",
+        "description": "開啟鳴潮後，請依照 <link>yukio36 提供的教學影片</link> 進行。",
+        "Video Tutorial": "教學影片",
+        "Android Airplane Mode Import Tutorial Video": "Android 飛航模式匯入教學影片",
+        "video-tutorial-desc": "按照 <highlight>yukio36</highlight> 在我們 <link>Discord 伺服器</link> 上提供的 YouTube 步驟教學，可以在 Android 裝置上匯入你的資料，無需下載任何東西。",
+        "note": "提示：此方法不適用於所有裝置，如果失敗請嘗試其他方法。"
       },
       "2": {
-        "title": "在這裡貼上 URL",
-        "Your Convene History URL": "您的喚取記錄 URL"
+        "title": "在這裡貼上連結",
+        "Your Convene History URL": "您的喚取記錄連結"
       },
       "3": {
         "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
@@ -473,8 +473,8 @@
     "Browser Data": "瀏覽器資料",
     "Report an Issue": "回報問題",
     "SettingCloudSync": {
-      "sign-out-success": "登出成功",
-      "login-to-sync": "您必須先登入後才可以進行同步",
+      "sign-out-success": "成功登出。",
+      "login-to-sync": "您必須先登入後才可以進行同步。",
       "import-to-sync": "首先匯入您的資料以進行同步",
       "data-is-in-sync": "資料已與您的 Google 帳號同步",
       "is-synced": "資料已同步",
@@ -487,19 +487,19 @@
       "Sync Data": "同步資料",
       "Google Data": "Google 資料",
       "Browser Data": "瀏覽器資料",
-      "browser-data-different": "您的本機資料與 Google 帳號儲存的資料不同",
-      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。\n您想要保留本機資料或者使用 Google 帳號中的資料取代現有本機資料?"
+      "browser-data-different": "您的本機資料與 Google 帳號儲存的資料不同。",
+      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。請問您要保留本機資料還是使用 Google 帳號中的資料取代現有本機資料?"
     },
     "SignInButton": {
-      "sign-out-success": "登出成功",
+      "sign-out-success": "成功登出。",
       "Sign out": "登出",
       "Sign In to Google": "使用 Google 登入"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "您需要使用正確的喚取記錄URL才可以下載",
-      "download-failed": "下載失敗",
-      "download-starting": "下載即將開始",
-      "invalid-url": "請輸入正確的喚取記錄URL",
+      "require-url-before-downloading": "您需要使用正確的喚取記錄連結才可以下載資料。",
+      "download-failed": "下載失敗。",
+      "download-starting": "下載即將開始。",
+      "invalid-url": "請輸入正確的喚取記錄連結。",
       "import-success": "成功匯入喚取記錄URL至本機",
       "delete-local-success": "刪除本機資料",
       "Convene History Data": "喚取記錄檔",
@@ -517,7 +517,7 @@
       "description": "管理 Wuwa Tracker 對於您資料的存取權限"
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "提交抽取資料給予全球分析"
+      "Submit pull data for global statistics": "提交喚取資料至全球數據"
     }
   },
   "Timeline": {
@@ -525,10 +525,10 @@
     "heading": "活動時程",
     "description": "在您的時區或者<link>其他時區</link>檢視鳴潮活動",
     "github-update-message": "在 {time} 被 {author} 更新",
-    "Edit this page on GitHub": "使用 GitHub 編輯此頁",
+    "Edit this page on GitHub": "在 GitHub 編輯此頁",
     "ResetTimers": {
       "title": "伺服器每日重置計時器",
-      "description": "比對您的地區與鳴潮伺服器的時間以規劃您的下次冒險"
+      "description": "比對您的時區與鳴潮伺服器的時間以規劃您的下次冒險"
     }
   }
 }
