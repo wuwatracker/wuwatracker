@@ -97,11 +97,11 @@
   },
   "Metadata": {
     "Generic": {
-      "description": "Wuthering Waves 的抽卡分析，使用最即時的全球統計資料。跨裝置同步您的資料並且輕鬆地與朋友分享抽卡成果!"
+      "description": "鳴潮的喚取計算平台，使用全球統計的最新數據。提供跨平台資料同步，輕鬆與朋友分享抽卡成果!"
     },
     "Achievements": {
       "title": "成就 - Wuwa Tracker",
-      "description": "追蹤您在鳴潮中的成就，自由跨設備導入/導出數據！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+      "description": "追蹤您在鳴潮中的成就，自由跨裝置導入/導出數據！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
     },
     "Convene": {
       "Index": {
@@ -135,7 +135,7 @@
     },
     "Sequences": {
       "title": "共鳴鏈 - Wuwa Tracker",
-      "description": "計算並展示您的共鳴者及武器，並查看它們相關的信息。您可以向朋友展示它們！"
+      "description": "計算並展示您的共鳴鏈及武器協振，並查看它們相關的信息，向朋友展示！"
     },
     "Settings": {
       "title": "設定 - Wuwa Tracker",
@@ -165,9 +165,9 @@
     "Guides": "導覽",
     "Config": "配置",
     "Convene Tracker": "喚取追蹤",
-    "Global Stats": "全球分析",
+    "Global Stats": "全球數據",
     "Share History": "分享紀錄",
-    "Sequences": "排序",
+    "Sequences": "共鳴鏈",
     "Achievements": "成就",
     "Timeline": "時程",
     "Import": "匯入",
@@ -207,7 +207,7 @@
   },
   "Achievements": {
     "title": "成就",
-    "description": "初始資料來源參考<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>",
+    "description": "資料來源參考<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "成功匯入資料。",
@@ -250,9 +250,9 @@
     },
     "UserPullHistoryTable": {
       "Pull History": "喚取記錄",
-      "Pull Num": "喚取數",
+      "Pull Num": "喚取序",
       "Item": "物件",
-      "Pity": "獲取",
+      "Pity": "保底",
       "Date Received": "取得日期",
       "no-records": "查無資料"
     },
@@ -263,25 +263,25 @@
     },
     "UserBannerStatsLuckCards": {
       "Luck": "運氣",
-      "no-luck": "此卡池缺少運氣數據。",
+      "no-luck": "卡池缺少運氣數據。",
       "no-records": "查無紀錄。",
       "calibrating": "調整中...",
       "Percentiles": {
         "AvgPity": {
-          "title": "平均獲取數",
-          "formula": "{qualityLevel} 星獲取平均是多少?"
+          "title": "平均保底",
+          "formula": "你的 {qualityLevel} 星平均保底是多少？"
         },
         "PullRatio": {
           "title": "抽取機率",
-          "formula": "在全部的抽數中有多少機率是 {qualityLevel} 星"
+          "formula": "你全部抽取次數中 {qualityLevel} 星的抽取機率是？"
         },
         "RateUpWins": {
           "title": "不歪機率",
-          "formula": "多少機率不歪"
+          "formula": "你小保底喚取沒有歪的機率是多少?"
         },
         "RateUpWins4": {
           "title": "加倍角色機率",
-          "formula": "您獲得加倍4星角色的機率是"
+          "formula": "你4星角色抽中加倍角色的機率是多少?"
         }
       }
     },
@@ -292,7 +292,7 @@
       "Pulls Per Day": "平均每日喚取",
       "Pulls By Pity": "獲取抽數",
       "Pulls By Name": "角色喚取排名",
-      "Pulls": "喚取"
+      "Pulls": "喚取數量"
     },
     "SharePageContent": {
       "title": "分享卡片",
@@ -321,15 +321,15 @@
     "iOS": "iOS",
     "Heading": {
       "title": "選擇方式",
-      "description": "如果自動方法無法使用，請依照教學使用手動方法。如果仍然有問題，請造訪我們的 <link>Discord 伺服器</link>",
-      "description-android": "如果第一個方法無法使用，請嘗試其他方法。如果仍然有問題，請造訪我們的 <link>Discord 伺服器</link>"
+      "description": "如果自動方法無法使用，請依照教學使用手動方法。如果仍然有問題，請造訪我們的 <link>Discord 伺服器</link>。",
+      "description-android": "如果第一個方法無法使用，請嘗試其他方法。如果仍然有問題，請造訪我們的 <link>Discord 伺服器</link>。"
     },
     "PC1Tutorial": {
       "invalid-url": "無效的喚取記錄連結。",
       "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "首先，執行鳴潮並開啟遊戲內的喚取紀錄",
-        "description": "再來，開啟 Windows PowerShell，貼上以下的語法。",
+        "description": "再來，開啟 Windows PowerShell，貼上以下的指令。",
         "History URL Script": "歷史紀錄連結腳本",
         "Click the copy button on the right": "點擊右邊的複製按鈕",
         "note": "提示：腳本不會修改您的任何檔案，它僅會從紀錄中擷取超連結。您可以在<link>這裡</link>查看腳本。"
