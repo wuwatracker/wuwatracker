@@ -6,7 +6,7 @@ type CountryInformation = {
 };
 
 export const localeLabels: CountryInformation[] = [
-  { value: 'pt', label: 'Português', shortLabel: '🇵🇹', isIncomplete: true },
+  { value: 'pt', label: 'Português', shortLabel: '🇵🇹' },
   { value: 'de', label: 'Deutsch', shortLabel: '🇩🇪' },
   { value: 'en', label: 'English', shortLabel: '🇺🇸' },
   { value: 'es', label: 'Español', shortLabel: '🇪🇸' },
