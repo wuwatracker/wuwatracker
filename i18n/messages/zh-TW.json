@@ -32,7 +32,7 @@
     "Comet Flare": "異度",
     "Cosmic Ripples": "漪瀾浮錄",
     "Dauntless Evernight": "永夜長明",
-    "Discord": "異響空靈",
+    "Discord": "Discord",
     "Emerald of Genesis": "千古洑流",
     "Gauntlets of Night": "暗夜臂鎧．夜芒",
     "Gauntlets of Voyager": "遠行者臂鎧．破障",
@@ -85,19 +85,18 @@
     "Winter Brume Banner": "冬煙",
     "Utterance of Marvels": "嚶鳴初相召",
     "Beginner Selector": "新手自選喚取",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Convene Giveback Event": "自選5星角色感恩答謝活動",
     "Absolute Pulsation": "浮聲沉兵",
     "Prevail the Lasting Night": "夜將寒色去",
     "When Thunder Pours": "驚霆雨時節",
     "Thawborn Renewal": "寒盡覺春生",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Vermillion's Ploy": "熾羽策陣星"
   },
   "Common": {
     "Import History": "匯入歷史紀錄"
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
       "description": "Wuthering Waves 的哀歌計數器，使用最新數據和全球統計等。在設備間同步數據，與朋友分享抽卡結果，輕鬆追踪您的帳戶！"
     },
     "Achievements": {
@@ -156,9 +155,9 @@
       "label": "幫助翻譯"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Privacy Policy",
-      "Terms & Conditions": "Terms & Conditions"
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "Privacy Policy": "隱私權政策",
+      "Terms & Conditions": "服務條款"
     }
   },
   "MenuList": {
@@ -182,13 +181,13 @@
     "Greeting": {
       "AnimatedWords": {
         "pulls": "喚取",
-        "pity": "獲取",
+        "pity": "保底",
         "events": "活動",
-        "statistics": "分析",
+        "statistics": "數據",
         "data": "資料",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker 協助分析",
+      "title": "Wuwa Tracker 協助追蹤",
       "description": "鳴潮喚取數量計算，使用最即時的全球分析資訊\n我們的目標是提供一個可以與朋友分享的抽卡分析平台"
     },
     "Tutorial": {
@@ -234,7 +233,7 @@
   "Convene": {
     "title": "進度追蹤",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "瀏覽更多"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "全球分析"
