@@ -78,22 +78,22 @@
     "Featured Weapon": "무기 이벤트 튜닝",
     "Permanent Resonator": "캐릭터 레귤러 튜닝",
     "Permanent Weapon": "무기 레귤러 튜닝",
-    "Beginner Convene": "Beginner Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Convene Giveback Event",
-    "Absolute Pulsation": "Absolute Pulsation",
+    "Beginner Convene": "초보자 튜닝",
+    "Beginner's Choice": "초보자 자유 선택",
+    "Selector Ticket": "감사 타겟 튜닝",
+    "Tidal Chorus": "울리는 조수",
+    "Winter Brume Banner": "동연 배너",
+    "Utterance of Marvels": "새로운 소리",
+    "Beginner Selector": "초보자 자유 선택 튜닝",
+    "Convene Giveback Event": "5성 캐릭터 자유 선택 감사 이벤트",
+    "Absolute Pulsation": "무기의 울림",
     "Prevail the Lasting Night": "야밤의 청룡",
     "When Thunder Pours": "뇌우의 광란",
     "Thawborn Renewal": "눈 속에 트는 새싹",
     "Vermillion's Ploy": "별빛 속의 화염 깃털"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "기록 제출하기"
   },
   "Metadata": {
     "Generic": {
@@ -157,19 +157,19 @@
     "Footer": {
       "disclaimer": "우리는 Wuthering Waves와 연관이 없습니다. 모든 에셋, 게임의 콘텐츠와 소재의 트레이드마크와 저작권은 Kuro Games에 있습니다.",
       "Privacy Policy": "개인정보 보호정책",
-      "Terms & Conditions": "Terms & Conditions"
+      "Terms & Conditions": "이용 약관"
     }
   },
   "MenuList": {
     "Tools": "도구",
     "Guides": "가이드",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
-    "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
+    "Config": "구성",
+    "Convene Tracker": "튜닝 트래커",
+    "Global Stats": "글로벌 통계",
+    "Share History": "기록 공유하기",
+    "Sequences": "시퀀스",
+    "Achievements": "업적",
+    "Timeline": "타임라인",
     "Import": "제출하기",
     "Settings": "설정",
     "Support Us": "지원하기",
@@ -181,17 +181,17 @@
     "Greeting": {
       "AnimatedWords": {
         "pulls": "pulls",
-        "pity": "천장",
+        "pity": "pity",
         "events": "events",
         "statistics": "statistics",
         "data": "data",
         "updates": "updates"
       },
       "title": "Wuwa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "description": "글로벌 통계 등이 포함된 최신 데이터를 사용한 명조: 워더링 웨이브 뽑기 스택 카운터. 당신의 게임 진행 상황을 친구들에게 보여줄 수 있는 최고의 도구를 제공하는 것을 목표로 합니다."
     },
     "Tutorial": {
-      "title": "Get Started",
+      "title": "시작하기.",
       "description": "어서오세요, 방랑자. 이제 시작하시겠어요?",
       "View Pull History": "뽑기 기록 보기",
       "Sync Your Data": "데이터 연동하기",
@@ -199,7 +199,7 @@
     },
     "Changelogs": {
       "title": "변경 로그",
-      "description": "여기서 웹사이트 공지를 보세요."
+      "description": "이곳에서 웹사이트 공지를 확인하세요."
     },
     "Community": {
       "title": "커뮤니티"
@@ -207,73 +207,73 @@
   },
   "Achievements": {
     "title": "업적",
-    "description": "Credits to <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> for the initial data.",
+    "description": "<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>, 초기 데이터 제공에 감사드립니다.",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "Successfully imported data.",
-        "import-invalid": "Please import valid data.",
-        "parse-fail": "Failed to parse JSON file.",
-        "download-fail": "Failed to start download.",
-        "download-start": "Your download will start shortly."
+        "import-success": "성공적으로 데이터를 제출했습니다.",
+        "import-invalid": "유효한 데이터를 제출해주세요.",
+        "parse-fail": "JSON 파일 분석에 실패했습니다.",
+        "download-fail": "다운로드에 실패했습니다.",
+        "download-start": "곧 다운로드가 시작됩니다."
       },
-      "description": "Use the filters to help you find what achievements you're missing.",
-      "Completed": "Completed",
+      "description": "놓친 업적을 찾고 있다면 필터를 사용해 보세요.",
+      "Completed": "완료됨",
       "ImportDialog": {
-        "title": "Import Data",
-        "description": "Use your previously exported data and sync it with your browser."
+        "title": "데이터 제출하기",
+        "description": "이전에 내보낸 데이터를 사용하여 브라우저와 동기화하세요."
       },
-      "Hidden": "Hidden",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
-      "Import": "Import",
-      "Export as JSON": "Export as JSON",
-      "Need Tips?": "Need Tips?"
+      "Hidden": "히든",
+      "Click to upload": "클릭해서 업로드",
+      "or drag and drop": "또는 드래그하고 놓기",
+      "Import": "제출하기",
+      "Export as JSON": "JSON으로 추출하기",
+      "Need Tips?": "도움이 필요한가요?"
     }
   },
   "Convene": {
-    "title": "Convene Tracker",
+    "title": "튜닝 트래커",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "스크롤해서 더보기"
     },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "Global Statistics"
+      "Global Statistics": "글로벌 통계"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Convene Categories"
     },
     "UserRecentConvenes": {
-      "Recent": "Recent",
-      "and": "and",
-      "Convenes": "Convenes",
-      "no-filters": "No filters selected.",
-      "no-records": "No records found."
+      "Recent": "최근",
+      "and": "과",
+      "Convenes": "튜닝",
+      "no-filters": "필터가 선택되지 않았습니다.",
+      "no-records": "기록을 찾을 수 없습니다."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Pull History",
-      "Pull Num": "Pull No.",
-      "Item": "Item",
-      "Pity": "Pity",
-      "Date Received": "Date Received",
-      "no-records": "No records found."
+      "Pull History": "뽑기 기록",
+      "Pull Num": "회차 No.",
+      "Item": "항목",
+      "Pity": "천장",
+      "Date Received": "시간",
+      "no-records": "기록을 찾을 수 없습니다."
     },
     "UserBannerStats": {
-      "Total": "Total",
-      "Astrites": "Astrites",
-      "Pulls": "Pulls"
+      "Total": "총",
+      "Astrites": "사용한 별의 소리",
+      "Pulls": "튜닝 수"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "This banner doesn't have luck statistics.",
-      "no-records": "No records found.",
-      "calibrating": "Calibrating...",
+      "Luck": "행운",
+      "no-luck": "이 배너에는 행운 통계가 없습니다.",
+      "no-records": "기록을 찾을 수 없습니다.",
+      "calibrating": "보정 중...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
+          "title": "평균 천장",
           "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "뽑기 비율",
+          "formula": "총 튜닝 횟수 중 몇 퍼센트가 {qualityLevel}-성 이었나요?"
         },
         "RateUpWins": {
           "title": "50/50 Wins",
@@ -329,13 +329,13 @@
       "import-success": "Successfully imported Convene History URL!",
       "1": {
         "title": "First, launch Wuthering Waves and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
+        "description": "그 다음, Windows PowerShell을 열고, 아래의 스크립트를 붙여넣으세요.",
         "History URL Script": "History URL Script",
         "Click the copy button on the right": "Click the copy button on the right",
         "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can <link>view the script here</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
+        "title": "URL을 여기에 붙여넣으세요.",
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
@@ -378,13 +378,13 @@
       },
       "2": {
         "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
+        "description": "그 다음, Windows PowerShell을 열고, 아래의 스크립트를 붙여넣으세요.",
         "invalid-directory": "Input a valid installation directory first!",
         "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
         "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
+        "title": "URL을 여기에 붙여넣으세요.",
         "Your Convene History URL": "Your Convene History URL"
       },
       "4": {
@@ -406,7 +406,7 @@
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "JSON 파일을 여기에 붙여넣으세요."
       },
       "3": {
         "title": "Press the \"Import History\" Button on this Website"
@@ -422,7 +422,7 @@
         "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
+        "title": "URL을 여기에 붙여넣으세요.",
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
@@ -440,7 +440,7 @@
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
       },
       "2": {
-        "title": "Paste the URL Here",
+        "title": "URL을 여기에 붙여넣으세요.",
         "Your Convene History URL": "Your Convene History URL"
       },
       "3": {
