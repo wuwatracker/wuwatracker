@@ -155,7 +155,7 @@
       "label": "帮助翻译"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "本网站与鸣潮无关联，所有资源、游戏内容、素材的商标和版权都归属库洛游戏。",
       "Privacy Policy": "隐私政策",
       "Terms & Conditions": "使用条款"
     }
@@ -164,10 +164,10 @@
     "Tools": "工具",
     "Guides": "指南",
     "Config": "配置",
-    "Convene Tracker": "唤取记录分析",
-    "Global Stats": "全球统计数据",
-    "Share History": "分享历史记录",
-    "Sequences": "序列",
+    "Convene Tracker": "唤取记录",
+    "Global Stats": "全球统计",
+    "Share History": "分享历史",
+    "Sequences": "共鸣链",
     "Achievements": "成就",
     "Timeline": "时间线",
     "Import": "导入",
