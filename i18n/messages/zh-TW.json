@@ -188,11 +188,11 @@
         "updates": "更新"
       },
       "title": "Wuwa Tracker 協助追蹤",
-      "description": "鳴潮喚取數量計算，使用最即時的全球分析資訊\n我們的目標是提供一個可以與朋友分享的抽卡分析平台"
+      "description": "結合即時全區域抽卡數據的鳴潮喚取計算平台，提供一個可以與朋友分享遊戲進度的展示工具。"
     },
     "Tutorial": {
       "title": "立即分析",
-      "description": "您好，漂泊者，讓我們開始吧",
+      "description": "您好，漂泊者，讓我們開始吧！",
       "View Pull History": "檢視喚取記錄",
       "Sync Your Data": "同步資料",
       "Your data will now sync automatically!": "您的資料將會自動同步"
@@ -207,20 +207,20 @@
   },
   "Achievements": {
     "title": "成就",
-    "description": "感謝 <link>StarDB 的 WuWa Achievements V1.1表格</link>提供初始資料",
+    "description": "初始資料來源參考<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>",
     "AchievementsPageContent": {
       "toast": {
-        "import-success": "成功匯入資料",
-        "import-invalid": "請匯入有效資料",
-        "parse-fail": "轉譯 JSON 檔案失敗",
-        "download-fail": "下載失敗",
-        "download-start": "下載即將開始"
+        "import-success": "成功匯入資料。",
+        "import-invalid": "請匯入有效資料。",
+        "parse-fail": "轉譯 JSON 檔案失敗。",
+        "download-fail": "下載失敗。",
+        "download-start": "下載即將開始。"
       },
-      "description": "使用篩選器尋找缺少的成就",
+      "description": "使用篩選器尋找缺少的成就。",
       "Completed": "完成",
       "ImportDialog": {
         "title": "匯入資料",
-        "description": "使用先前匯出的資料並且同步"
+        "description": "使用先前匯出的資料並且同步至瀏覽器。"
       },
       "Hidden": "隱藏",
       "Click to upload": "點擊上傳",
@@ -233,10 +233,10 @@
   "Convene": {
     "title": "進度追蹤",
     "ConvenePageContent": {
-      "Scroll for More": "瀏覽更多"
+      "Scroll for More": "下拉瀏覽更多"
     },
     "ConveneCategoryGlobal": {
-      "Global Statistics": "全球分析"
+      "Global Statistics": "全球數據"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "喚取分類"
@@ -257,14 +257,14 @@
       "no-records": "查無資料"
     },
     "UserBannerStats": {
-      "Total": "總和",
+      "Total": "全部",
       "Astrites": "星聲",
-      "Pulls": "喚取"
+      "Pulls": "喚取數量"
     },
     "UserBannerStatsLuckCards": {
-      "Luck": "幸運",
-      "no-luck": "此版面沒有運氣分析",
-      "no-records": "查無紀錄",
+      "Luck": "運氣",
+      "no-luck": "此卡池缺少運氣數據。",
+      "no-records": "查無紀錄。",
       "calibrating": "調整中...",
       "Percentiles": {
         "AvgPity": {
@@ -272,7 +272,7 @@
           "formula": "{qualityLevel} 星獲取平均是多少?"
         },
         "PullRatio": {
-          "title": "抽取率",
+          "title": "抽取機率",
           "formula": "在全部的抽數中有多少機率是 {qualityLevel} 星"
         },
         "RateUpWins": {
@@ -280,18 +280,18 @@
           "formula": "多少機率不歪"
         },
         "RateUpWins4": {
-          "title": "取得UP角色",
-          "formula": "您有多少機率可以取得UP的4星角色"
+          "title": "加倍角色機率",
+          "formula": "您獲得加倍4星角色的機率是"
         }
       }
     },
     "GlobalStatsPageContent": {
-      "title": "全球分析",
-      "Switch Banner": "切換橫幅",
-      "Banner List": "橫幅清單",
+      "title": "全球數據",
+      "Switch Banner": "切換卡池",
+      "Banner List": "卡池列表",
       "Pulls Per Day": "平均每日喚取",
       "Pulls By Pity": "獲取抽數",
-      "Pulls By Name": "喚取排序依據名稱",
+      "Pulls By Name": "角色喚取排名",
       "Pulls": "喚取"
     },
     "SharePageContent": {
@@ -315,38 +315,38 @@
       "Manual": "手動"
     },
     "Android": {
-      "title": "Android",
+      "title": "安卓",
       "Airplane": "飛航模式"
     },
     "iOS": "iOS",
     "Heading": {
       "title": "選擇方式",
-      "description": "如果自動方法無法使用，請依照教學使用手動方法。\n如果仍然有問題，請造訪我們的 <link>Discord Server</link>",
-      "description-android": "如果第一個方法無法使用，請使用其他方法。\n如果仍然有問題，請造訪我們的 <link>Discord Server</link>"
+      "description": "如果自動方法無法使用，請依照教學使用手動方法。如果仍然有問題，請造訪我們的 <link>Discord 伺服器</link>",
+      "description-android": "如果第一個方法無法使用，請嘗試其他方法。如果仍然有問題，請造訪我們的 <link>Discord 伺服器</link>"
     },
     "PC1Tutorial": {
-      "invalid-url": "無效的喚取記錄 URL",
-      "import-success": "成功匯入喚取記錄URL",
+      "invalid-url": "無效的喚取記錄連結。",
+      "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "首先，執行鳴潮並開啟遊戲內的喚取紀錄",
-        "description": "再來，開啟 Windows PowerShell，貼上以下的語法",
-        "History URL Script": "取得歷史URL語法",
+        "description": "再來，開啟 Windows PowerShell，貼上以下的語法。",
+        "History URL Script": "歷史紀錄連結腳本",
         "Click the copy button on the right": "點擊右邊的複製按鈕",
-        "note": "提示：語法不會修改您的任何檔案，它僅會從紀錄中擷取 URL 連結。您可以在<link>這裡</link>查看語法。"
+        "note": "提示：腳本不會修改您的任何檔案，它僅會從紀錄中擷取超連結。您可以在<link>這裡</link>查看腳本。"
       },
       "2": {
-        "title": "在這裡貼上 URL",
-        "Your Convene History URL": "您的喚取記錄 URL"
+        "title": "在這裡貼上連結",
+        "Your Convene History URL": "您的喚取記錄連結"
       },
       "3": {
         "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "無效的喚取記錄 URL",
-      "import-success": "成功匯入喚取記錄URL",
-      "found-url": "我們找到了URL! 點擊\"匯入歷史紀錄\"按鈕繼續",
-      "not-found-url": "在紀錄檔中沒有找到有效的URL",
+      "invalid-url": "無效的喚取記錄連結。",
+      "import-success": "成功匯入喚取記錄連結",
+      "found-url": "我們找到了您的連結！點擊\"匯入歷史紀錄\"按鈕繼續。",
+      "not-found-url": "在紀錄檔中沒有找到有效的連結。",
       "Click to upload": "點擊上傳",
       "or drag and drop": "或者拖拉上傳",
       "1": {
@@ -364,12 +364,12 @@
       },
       "Video Tutorial": "影片教學",
       "PC Import Tutorial Video": "PC 匯入教學影片",
-      "video-tutorial-desc": "依照 <highlight>cacaowithwater</highlight> 在我們的 <link>Discord Server</link> 提供的 YouTube 教學步驟，在PC匯入資料"
+      "video-tutorial-desc": "依照 <highlight>cacaowithwater</highlight> 在我們的 <link>Discord伺服器</link> 提供的 YouTube 步驟教學在PC匯入資料。"
     },
     "PC3Tutorial": {
       "invalid-path": "無效的遊戲路徑",
-      "invalid-url": "無效的喚取記錄 URL",
-      "import-success": "成功匯入喚取記錄 URL",
+      "invalid-url": "無效的喚取記錄連結",
+      "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "複製遊戲安裝目錄",
         "description": "找到包含 <code>Wuthering Waves.exe</code> 的資料夾與一個 <code>Client</code> 資料夾",
