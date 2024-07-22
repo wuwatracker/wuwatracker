@@ -85,12 +85,12 @@
     "Winter Brume Banner": "Sương Giá Đông",
     "Utterance of Marvels": "Kỳ Quan Vọng",
     "Beginner Selector": "Tự chọn của Tân Thủ",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Convene Giveback Event": "Sự kiện Lựa chọn Nhân vật 5 Sao",
     "Absolute Pulsation": "Xung Động Tuyệt Đối",
     "Prevail the Lasting Night": "Hừng Đông Sau Đêm",
     "When Thunder Pours": "Điện Thiểm Lôi Minh",
     "Thawborn Renewal": "Noãn Khởi Tề Uy",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Vermillion's Ploy": "Châu Sa Chi Thú"
   },
   "Common": {
     "Import History": "Nhập Lịch sử Triệu hồi"
@@ -155,9 +155,9 @@
       "label": "Hỗ trợ dịch"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Privacy Policy",
-      "Terms & Conditions": "Terms & Conditions"
+      "disclaimer": "Nền tảng của chúng tôi không liên kết với Wuthering Waves. Tất cả thương hiệu và bản dữ liệu, nội dung và tài nguyên của trò chơi đều thuộc về Nhá Phát Hành Kuro Games.",
+      "Privacy Policy": "Chính sách Quyền riêng tư",
+      "Terms & Conditions": "Điều khoản Dịch vụ"
     }
   },
   "MenuList": {
@@ -233,7 +233,7 @@
   "Convene": {
     "title": "Theo dõi Triệu hồi",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "Cuộn để biết thêm chi tiết"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Thống kê toàn cầu"
