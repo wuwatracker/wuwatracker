@@ -97,7 +97,6 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
       "description": "Wuthering Waves的哀歌计数器，使用最新数据和全球统计信息等。在设备间同步数据，与朋友分享抽卡结果，并轻松跟踪您的账户！"
     },
     "Achievements": {
@@ -156,7 +155,7 @@
       "label": "帮助翻译"
     },
     "Footer": {
-      "disclaimer": "我们与鸣潮无关联，所有资源、游戏内容、素材的商标和版权都归属库洛游戏。",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "隐私政策",
       "Terms & Conditions": "使用条款"
     }
