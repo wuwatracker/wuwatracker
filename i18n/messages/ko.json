@@ -97,7 +97,6 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa 트래커",
       "description": "최신 데이터와 전 세계 통계를 활용한 유더링 웨이브의 피티 카운터입니다. 모든 기기간 데이터 동기화 및 친구들과 추첨 결과를 공유하고 계정을 쉽게 추적할 수 있습니다!"
     },
     "Achievements": {
@@ -156,7 +155,7 @@
       "label": "번역 도움말"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "Privacy Policy",
       "Terms & Conditions": "Terms & Conditions"
     }
