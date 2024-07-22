@@ -155,7 +155,7 @@
       "label": "Помощь в переводе"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Сайт не аффилирован с игрой Wuthering Waves, все ресурсы, игровой контент и материалы являются товарными знаками и принадлежат Kuro Games.",
       "Privacy Policy": "Политика конфиденциальности",
       "Terms & Conditions": "Условия использования сервиса"
     }
@@ -296,7 +296,7 @@
     },
     "SharePageContent": {
       "title": "Поделиться",
-      "description": "Настройте по своему желанию, а затем скачайте историю своих круток в виде карточки для возможности поделиться с друзьями!",
+      "description": "Настройте на свой вкус карточку с историей своих круток и делитесь ею с друзьями!",
       "Customize": "Настроить",
       "Edit Share Card": "Настройка карточки",
       "edit-description": "При внесении изменений карточка будет меняться у вас на экране.",
