@@ -97,7 +97,6 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
       "description": "เคาน์เตอร์ความเสียใจสำหรับ Wuthering Waves โดยใช้ข้อมูลล่าสุดพร้อมสถิติทั่วโลกและอื่น ๆ ซิงโครไนซ์ข้อมูลของคุณในอุปกรณ์ทุกเครื่องและแชร์ผลลัพธ์กับเพื่อน ๆ และติดตามบัญชีของคุณได้โดยง่าย!"
     },
     "Achievements": {
@@ -156,7 +155,7 @@
       "label": "ช่วยแปล"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves, all assets, game content, and materials are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "Privacy Policy",
       "Terms & Conditions": "Terms & Conditions"
     }
