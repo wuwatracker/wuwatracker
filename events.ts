@@ -192,8 +192,8 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     {
       name: 'Tower of Adversity: Hazard Zone',
       img: 'https://snipboard.io/NnA3YO.jpg',
-      startDate: '2024-07-08 11:00',
-      endDate: '2024-07-22 10:59',
+      startDate: '2024-07-22 11:00',
+      endDate: '2024-08-05 10:59',
       color: '#18235f',
       reliability: 'Official',
       group: EVENT_GROUP.TOWER_OF_ADVERSITY,
