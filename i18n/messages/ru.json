@@ -97,7 +97,6 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "WuWa Tracker",
       "description": "Счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Синхронизируйте свои данные между устройствами, делитесь своими достижениями с друзьями и легко следите за прогрессом своего аккаунта!"
     },
     "Achievements": {
@@ -156,7 +155,7 @@
       "label": "Помощь в переводе"
     },
     "Footer": {
-      "disclaimer": "Сайт не аффилирован с игрой Wuthering Waves, все ресурсы, игровой контент и материалы являются товарными знаками и принадлежат Kuro Games.",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "Политика конфиденциальности",
       "Terms & Conditions": "Условия использования сервиса"
     }
