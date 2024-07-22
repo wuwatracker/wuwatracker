@@ -454,75 +454,75 @@
         "title": "비디오 튜토리얼을 따라해보세요.",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
         "Video Tutorial": "비디오 튜토리얼",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
+        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode 제출 튜토리얼 비디오",
         "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
         "note": "참고: 모든 기기에서 작동하는 것이 아니기에, 다른 방법들도 시도해보세요."
       },
       "2": {
         "title": "URL을 여기에 붙여넣으세요.",
-        "Your Convene History URL": "Your Convene History URL"
+        "Your Convene History URL": "튜닝 기록 URL"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "이 웹사이트의 \"기록 제출하기\" 버튼을 눌러주세요."
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "설정",
+    "Google Account": "Google 계정",
+    "Browser Data": "브라우저 데이터",
+    "Report an Issue": "이슈 제보하기",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
+      "sign-out-success": "성공적으로 로그아웃 하였습니다.",
+      "login-to-sync": "동기화 하기 위해서는 먼저 로그인 해야 합니다.",
+      "import-to-sync": "동기화 하기 위해 먼저 데이터를 제출해주세요!",
       "data-is-in-sync": "데이터를 Google 계정과 동기화했습니다.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
-      "Guest": "Guest",
+      "is-synced": "데이터 동기화됨",
+      "is-not-synced": "데이터 동기화 되지 않음",
+      "Cloud Backup": "클라우드 백업",
+      "description": "데이터를 Google 계정에 저장하여 다른 기기에서도 볼 수 있습니다. 로그인 후 \"데이터 동기화\" 버튼을 클릭하는 것만으로 데이터를 기기에 업로드하거나 다운로드할 수 있습니다.",
+      "Guest": "게스트",
       "Sign In to Google": "Google로 로그인",
-      "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
+      "Log Out": "로그아웃",
+      "Sync Data": "데이터 동기화",
       "Google Data": "Google 데이터",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "Browser Data": "브라우저 데이터",
+      "browser-data-different": "로컬 브라우저 데이터가 Google 계정의 데이터와 다릅니다.",
+      "browser-data-different-confirmation": "플레이어 ID({localId}) 를 가진 로컬 데이터가 Google 계정의 플레이어 ID(${googleId}) 와 다릅니다. 브라우저의 로컬 데이터를 유지하시겠습니까, 아니면 구글 계정의 데이터를 대신 사용하시겠습니까?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
+      "sign-out-success": "성공적으로 로그아웃 하였습니다.",
+      "Sign out": "로그아웃",
       "Sign In to Google": "Google로 로그인"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
+      "require-url-before-downloading": "다운로드 하기 전에 유효한 튜닝 기록 URL이 필요합니다.",
+      "download-failed": "다운로드에 실패했습니다.",
+      "download-starting": "곧 다운로드가 시작됩니다.",
       "invalid-url": "유효한 튜닝 기록 URL을 넣어주세요.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
+      "delete-local-success": "로컬 기록 데이터 삭제",
+      "Convene History Data": "튜닝 기록 데이터",
+      "Import Tutorial": "제출 튜토리얼",
+      "Go to Import Tutorial": "제출 튜토리얼",
+      "description": "여기에서 튜닝 기록 URL을 추출하거나 변경할 수 있습니다.",
+      "Your Convene History URL": "튜닝 기록 URL",
+      "Download Your History": "뽑기 기록 다운로드",
+      "Delete Browser Saved Data": "브라우저 저장 데이터 삭제하기",
+      "Delete your local data": "로컬 데이터 삭제하기",
+      "Save": "저장"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage Wuwa Tracker's permissions when it comes to handling your data."
+      "title": "개인정보",
+      "description": "Wuwa Tracker가 당신의 데이터를 처리할 권한을 관리합니다."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Submit pull data for global statistics"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
+    "title": "타임라인",
+    "heading": "이벤트 타임라인",
     "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
     "github-update-message": "최종 업데이트: {time} by {author}",
     "Edit this page on GitHub": "GitHub에서 이 페이지를 편집하기",
