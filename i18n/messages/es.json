@@ -97,7 +97,6 @@
   },
   "Metadata": {
     "Generic": {
-      "title": "Wuwa Tracker",
       "description": "Un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Sincroniza tus datos entre dispositivos, comparte tus invocaciones con tus amigos y sigue tu cuenta fácilmente!"
     },
     "Achievements": {
@@ -156,7 +155,7 @@
       "label": "Ayuda a traducir"
     },
     "Footer": {
-      "disclaimer": "No estamos afiliados con Wuthering Waves, todos los activos, contenido del juego, y materiales son marcas registradas y con derechos de autor de Kuro Games.",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "Política de privacidad",
       "Terms & Conditions": "Términos y condiciones"
     }
