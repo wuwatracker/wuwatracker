@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "제출 튜토리얼",
     "PC": {
       "title": "PC",
@@ -505,7 +506,7 @@
       "Convene History Data": "튜닝 기록 데이터",
       "Import Tutorial": "제출 튜토리얼",
       "Go to Import Tutorial": "제출 튜토리얼",
-      "description": "여기에서 튜닝 기록 URL을 추출하거나 변경할 수 있습니다.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "튜닝 기록 URL",
       "Download Your History": "뽑기 기록 다운로드",
       "Delete Browser Saved Data": "브라우저 저장 데이터 삭제하기",
