@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "匯入教學",
     "PC": {
       "title": "PC",
@@ -505,7 +506,7 @@
       "Convene History Data": "喚取記錄資料",
       "Import Tutorial": "匯入教學",
       "Go to Import Tutorial": "前往匯入教學",
-      "description": "匯出或者更新您的喚取記錄連結",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "您的喚取記錄連結",
       "Download Your History": "下載您的歷史資料",
       "Delete Browser Saved Data": "刪除瀏覽器儲存資料",
