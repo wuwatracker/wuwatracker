@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "インポートチュートリアル",
     "PC": {
       "title": "PC",
@@ -505,7 +506,7 @@
       "Convene History Data": "集音履歴データ",
       "Import Tutorial": "インポートチュートリアル",
       "Go to Import Tutorial": "インポートのチュートリアル",
-      "description": "集音履歴はここでエクスポート及び変更できます。",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "あなたの集音履歴URL",
       "Download Your History": "集音履歴をダウンロード",
       "Delete Browser Saved Data": "ブラウザーにある履歴を消除しますか？",
