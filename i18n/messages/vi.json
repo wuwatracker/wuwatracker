@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "Hướng Dẫn Nhập",
     "PC": {
       "title": "PC",
@@ -505,7 +506,7 @@
       "Convene History Data": "Dữ liệu Lịch sử Triệu hồi",
       "Import Tutorial": "Hướng Dẫn Nhập",
       "Go to Import Tutorial": "Đến Hướng dẫn nhập Dữ liệu",
-      "description": "Xuất hoặc thay đổi URL Lịch sử Triệu hồi ở đây.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "URL Lịch sử Triệu hồi của Bạn",
       "Download Your History": "Tải Lịch sử Triệu hồi",
       "Delete Browser Saved Data": "Xóa dữ liệu trình duyệt đã lưu",
