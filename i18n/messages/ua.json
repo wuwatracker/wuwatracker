@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "Довідник по імпорту",
     "PC": {
       "title": "ПК",
@@ -505,7 +506,7 @@
       "Convene History Data": "Дані історії Скликань",
       "Import Tutorial": "Довідник по імпорту",
       "Go to Import Tutorial": "Перейти до Довідника по імпорту",
-      "description": "Вивантажте або змініть URL-адресу власної історії скликань тут.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "Ваша URL-адреса історії скликань",
       "Download Your History": "Завантажити вашу історію",
       "Delete Browser Saved Data": "Видалити збережені дані браузера",
