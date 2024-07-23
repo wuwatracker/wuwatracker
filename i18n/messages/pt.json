@@ -36,7 +36,7 @@
     "Emerald of Genesis": "Emerald of Genesis",
     "Gauntlets of Night": "Gauntlets of Night",
     "Gauntlets of Voyager": "Gauntlets of Voyager",
-    "Gauntlets#21D": "Manoplas#21D",
+    "Gauntlets#21D": "Gauntlets#21D",
     "Guardian Broadblade": "Guardian Broadblade",
     "Guardian Gauntlets": "Guardian Gauntlets",
     "Guardian Pistols": "Guardian Pistols",
@@ -58,16 +58,16 @@
     "Overture": "Overture",
     "Pistols of Night": "Pistols of Night",
     "Pistols of Voyager": "Pistols of Voyager",
-    "Pistols#26": "Pistolas#26",
+    "Pistols#26": "Pistols#26",
     "Rectifier of Night": "Rectifier of Night",
     "Rectifier of Voyager": "Rectifier of Voyager",
-    "Rectifier#25": "Retificador#25",
+    "Rectifier#25": "Rectifier#25",
     "Static Mist": "Static Mist",
     "Stonard": "Stonard",
     "Stringmaster": "Stringmaster",
     "Sword of Night": "Sword of Night",
     "Sword of Voyager": "Sword of Voyager",
-    "Sword#18": "Espada#18",
+    "Sword#18": "Sword#18",
     "Thunderbolt": "Thunderbolt",
     "Undying Flame": "Undying Flame",
     "Variation": "Variation",
@@ -97,41 +97,41 @@
   },
   "Metadata": {
     "Generic": {
-      "description": "Um contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Sincronize seus dados entre dispositivos, compartilhe seus pulls com seus amigos e acompanhe sua conta facilmente!"
+      "description": "Um contador de pity para Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Sincronize seus dados entre dispositivos, compartilhe seus tiros com os seus amigos e acompanhe sua conta facilmente!"
     },
     "Achievements": {
       "title": "Conquistas - Wuwa Tracker",
-      "description": "Acompanhe suas conquistas no Wuthering Waves e importe e exporte seus dados entre dispositivos livremente! Wuwa Tracker é um contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Compartilhe seus pulls com seus amigos e acompanhe sua conta!"
+      "description": "Acompanhe suas conquistas de Wuthering Waves e importe & exporte os seus dados livremente entre dispositivos! Wuwa Tracker é um contador de pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
     },
     "Convene": {
       "Index": {
         "title": "Histórico de Convocações - Wuwa Tracker",
-        "description": "Veja suas estatísticas de pull no Wuthering Waves atualizadas e convocações recentes. Use painéis prontos para capturas de tela para se gabar com seus amigos! Wuwa Tracker contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Compartilhe seus pulls com seus amigos e acompanhe sua conta!"
+        "description": "Veja suas estatísticas atualizadas de tiros de Wuthering Waves e convocações recentes. Use painéis prontos para screenshots para se gabar para os seus amigos! Wuwa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
       },
       "Global": {
         "title": "Estatísticas Globais - Wuwa Tracker",
-        "description": "Veja estatísticas globais de pulls para o banner {currentBanner}, apresentando {currentFeaturedResonator}! Use painéis prontos para capturas de tela para se gabar com seus amigos! Wuwa Tracker contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Compartilhe seus pulls com seus amigos e acompanhe sua conta!"
+        "description": "Veja estatísticas globais de tiros para o banner {currentBanner}, destacando {currentFeaturedResonator}! Use painéis prontos para screenshots para se gabar para os seus amigos! Wuwa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
       },
       "Share": {
         "title": "Compartilhar Histórico - Wuwa Tracker",
-        "description": "Crie um cartão de histórico de convocações com seu histórico de pulls para compartilhar com seus amigos! Wuwa Tracker contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Compartilhe seus pulls com seus amigos e acompanhe sua conta!"
+        "description": "Crie um cartão do histórico de Convocações com seu histórico de tiros para compartilhar com seus amigos! Wuwa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
       }
     },
     "Error": {
       "title": "Ocorreu um Erro",
-      "description": "Ocorreu um erro ao usar o Wuwa Tracker. Por favor, envie um relatório para o nosso servidor no Discord para que possamos resolver prontamente."
+      "description": "Ocorreu um erro ao usar o Wuwa Tracker. Por favor, reporte-o no nosso servidor do Discord para podermos resolvê-lo prontamente."
     },
     "Import": {
       "title": "Importar Histórico de Convocações - Wuwa Tracker",
-      "description": "Siga nosso tutorial interativo para exibir seus dados do Wuthering Waves e ver suas estatísticas. Suportamos importações de dispositivos PC, Android e iOS com métodos automáticos. Wuwa Tracker contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Compartilhe seus pulls com seus amigos e acompanhe sua conta!"
+      "description": "Siga o nosso tutorial interativo para exibir os seus dados de Wuthering Waves e ver suas estatísticas. Suportamos importações de dispositivos PC, Android e iOS com métodos automáticos. Wuwa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
     },
     "Not Found": {
       "title": "Não Encontrado",
-      "description": "Esta página não foi encontrada no Wuwa Tracker. Por favor, volte para a página principal para começar a acompanhar seu Histórico de Convocações no Wuthering Waves."
+      "description": "Esta página não foi encontrada no Wuwa Tracker. Por favor, volte à página principal para começar a acompanhar o seu Histórico de Convocações de Wuthering Waves."
     },
     "Privacy Policy": {
       "title": "Política de Privacidade - Wuwa Tracker",
-      "description": "Este documento de política de privacidade descreve os tipos de informações pessoais que são recebidas e coletadas pelo Wuwa Tracker e como elas são usadas. Wuwa Tracker é um contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais."
+      "description": "Este documento de política de privacidade descreve os tipos de informações pessoais recebidas e coletadas pelo Wuwa Tracker e como elas são usadas. Wuwa Tracker é um contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais."
     },
     "Sequences": {
       "title": "Sequências - Wuwa Tracker",
@@ -139,7 +139,7 @@
     },
     "Settings": {
       "title": "Configurações - Wuwa Tracker",
-      "description": "Sincronize seus dados pelo Google fazendo login. Gerencie seus dados de pulls do Wuthering Waves tudo em um só lugar. Wuwa Tracker contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Compartilhe seus pulls com seus amigos e acompanhe sua conta!"
+      "description": "Sincronize seus dados pelo Google se registando. Gerencie os seus dados de tiros em Wuthering Waves tudo em um só lugar. Wuwa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
     },
     "Terms & Conditions": {
       "title": "Termos e Condições - Wuwa Tracker",
@@ -147,7 +147,7 @@
     },
     "Timeline": {
       "title": "Cronograma de Eventos - Wuwa Tracker",
-      "description": "Usando seu fuso horário local ou qualquer fuso horário do servidor Wuthering Waves, você pode ver a programação de todos os banners, eventos no jogo, períodos da Torre da Adversidade e Profundezas do Reino Ilusório - tudo em um só lugar. Wuwa Tracker contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais. Compartilhe seus pulls com seus amigos e acompanhe sua conta!"
+      "description": "Usando o seu fuso horário local ou qualquer fuso horário do servidor de Wuthering Waves, pode ver o cronograma de todos os banners, eventos no jogo, períodos da Tower of Advesity & Depths of Illusive Realm - tudo em um só lugar. Wuwa Tracker conta o pity de Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
     }
   },
   "Layout": {
@@ -188,18 +188,18 @@
         "updates": "atualizações"
       },
       "title": "Wuwa Tracker ajuda a acompanhar",
-      "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer os melhores instrumentos para mostrar o seu progresso em Wuthering Waves para os seus amigos."
+      "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer as melhores ferramentas para mostrar o seu progresso em Wuthering Waves para os seus amigos."
     },
     "Tutorial": {
       "title": "Início",
       "description": "Olá, Rover. Vamos começar?",
       "View Pull History": "Ver Histórico de Tiros",
       "Sync Your Data": "Sincronizar Dados",
-      "Your data will now sync automatically!": "Os seus dados serão sincronizados atomicamente agora!"
+      "Your data will now sync automatically!": "Seus dados serão automaticamente sincronizados agora!"
     },
     "Changelogs": {
       "title": "Alterações",
-      "description": "Veja anúncios do website aqui."
+      "description": "Veja anúncios do site aqui."
     },
     "Community": {
       "title": "Comunidade"
@@ -213,8 +213,8 @@
         "import-success": "Dados importados com sucesso.",
         "import-invalid": "Por favor importe dados válidos.",
         "parse-fail": "Falha ao analisar ficheiro JSON.",
-        "download-fail": "Falha ao iniciar transferência.",
-        "download-start": "A sua transferência vai começar brevemente."
+        "download-fail": "Falha ao iniciar download.",
+        "download-start": "Seu download irá começar brevemente."
       },
       "description": "Use os filtros para ajudá-lo a encontrar as conquistas em falta.",
       "Completed": "Completo",
@@ -233,7 +233,7 @@
   "Convene": {
     "title": "Contador de Convocações",
     "ConvenePageContent": {
-      "Scroll for More": "Deslize para baixo para Mais"
+      "Scroll for More": "Deslize para Mais"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Estatísticas Globais"
@@ -246,7 +246,7 @@
       "and": "e",
       "Convenes": "Convocações",
       "no-filters": "Nenhum filtro selecionado.",
-      "no-records": "Nenhum registo encontrado."
+      "no-records": "Nenhum registro encontrado."
     },
     "UserPullHistoryTable": {
       "Pull History": "Histórico de Tiros",
@@ -254,7 +254,7 @@
       "Item": "Item",
       "Pity": "Pity",
       "Date Received": "Data de Receção",
-      "no-records": "Nenhum registo encontrado."
+      "no-records": "Nenhum registro encontrado."
     },
     "UserBannerStats": {
       "Total": "Total",
@@ -264,7 +264,7 @@
     "UserBannerStatsLuckCards": {
       "Luck": "Sorte",
       "no-luck": "Este banner não tem estatísticas de sorte.",
-      "no-records": "Nenhum registo encontrado.",
+      "no-records": "Nenhum registro encontrado.",
       "calibrating": "Calibrando...",
       "Percentiles": {
         "AvgPity": {
@@ -272,7 +272,7 @@
           "formula": "Qual é o teu pity {qualityLevel}-estrelas médio?"
         },
         "PullRatio": {
-          "title": "Proporção de Tiros",
+          "title": "Relação de Tiros",
           "formula": "Que percentagem dos seus tiros totais foram {qualityLevel}-estrelas?"
         },
         "RateUpWins": {
@@ -280,7 +280,7 @@
           "formula": "Que percentagem de tiros 50/50 ganhou?"
         },
         "RateUpWins4": {
-          "title": "Vitórias de Destaque",
+          "title": "Vitórias de Destaques",
           "formula": "Quão frequentes foram os seus tiros de 4-estrelas destacados?"
         }
       }
@@ -296,15 +296,15 @@
     },
     "SharePageContent": {
       "title": "Cartão de Compartilhamento",
-      "description": "Customize e transfira o seu histórico de Convocações de Wuthering Waves para compartilhar com os outros!",
+      "description": "Customize e baixe o seu histórico de Convocações de Wuthering Waves para compartilhar com os outros!",
       "Customize": "Customizar",
       "Edit Share Card": "Edite Cartão de Compartilhamento",
       "edit-description": "O seu cartão atualiza em tempo real enquanto faz mudanças.",
-      "Select Banner": "Selecione Banner",
-      "Background": "Segundo plano",
+      "Select Banner": "Selecionar Banner",
+      "Background": "Plano de fundo",
       "Foreground": "Primeiro plano",
       "recommendation": "Recomendamos a razão de aspeto 1:1 para imagens com resolução 2048x2048.",
-      "Download": "Transferir"
+      "Download": "Baixar"
     }
   },
   "Import": {
@@ -336,10 +336,10 @@
       },
       "2": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "O seu URL do Histórico de Convocações"
+        "Your Convene History URL": "Seu URL do Histórico de Convocações"
       },
       "3": {
-        "title": "Pressione o botão \"Importar Histórico\" neste Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Site"
       }
     },
     "PC2Tutorial": {
@@ -360,10 +360,10 @@
         "title": "Procure por <code>debug.log</code> no Explorador de Ficheiros e faça Upload dele Aqui"
       },
       "4": {
-        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Site"
       },
-      "Video Tutorial": "Vídeo de Tutorial",
-      "PC Import Tutorial Video": "Vídeo de Tutorial para Importar no PC",
+      "Video Tutorial": "Tutorial",
+      "PC Import Tutorial Video": "Tutorial de Importação no PC",
       "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>cacaowithwater</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no PC."
     },
     "PC3Tutorial": {
@@ -380,7 +380,7 @@
         "title": "Inicie Wuthering Wave no PC e Abra o Seu Histórico de Convocações no jogo",
         "description": "Depois, abra Windows PowerShell e cole o seguinte script.",
         "invalid-directory": "Insira um diretório de instalação válido primeiro!",
-        "Stuck? Click the “Need Help?” button": "Preso? Clique o botão \"Precisa de Ajuda?\"",
+        "Stuck? Click the “Need Help?” button": "Preso? Clique no botão \"Precisa de Ajuda?\"",
         "note": "Nota: O script não edita os seus ficheiros, simplesmente extrai o URL dos seus históricos. Pode ver o script <link>aqui</link>."
       },
       "3": {
@@ -388,10 +388,10 @@
         "Your Convene History URL": "O seu URL do Histórico de Convocações"
       },
       "4": {
-        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Site"
       },
-      "Video Tutorial": "Vídeo de Tutorial",
-      "PC Import Tutorial Video": "Vídeo de Tutorial para Importar no PC",
+      "Video Tutorial": "Tutorial",
+      "PC Import Tutorial Video": "Tutorial de Importação no PC",
       "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube para importar os seus dados no PC. Por favor, entre no nosso <link>Servidor do Discord</link> para pedir ajuda!"
     },
     "IOSTutorial": {
@@ -399,17 +399,17 @@
       "invalid-url": "URL do Histórico de Convocações inválido",
       "import-success": "URL de Histórico de Convocações importado com sucesso!",
       "1": {
-        "title": "Siga o nosso Vídeo de Tutorial",
-        "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este vídeo de tutorial por Chario</video> para transferir e usar a <app>Steam - Network Debug Tool</app>.",
-        "Video Tutorial": "Vídeo de Tutorial",
-        "iOS Import Tutorial Video": "Vídeo de Tutorial para Importar no iOS",
+        "title": "Siga o nosso Tutorial",
+        "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este tutorial por Chario</video> para baixar e usar <app>Steam - Network Debug Tool</app>.",
+        "Video Tutorial": "Tutorial",
+        "iOS Import Tutorial Video": "Tutorial de Importação no iOS",
         "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>Chario</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no PC."
       },
       "2": {
         "title": "Cole o JSON Aqui"
       },
       "3": {
-        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Site"
       }
     },
     "Android1Tutorial": {
@@ -417,45 +417,45 @@
       "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Use Ascent Para Obter o URL do Histórico de Convocações",
-        "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este guia por Mirai0009</video> para transferir e usar o <app>Ascent v2.1.6</app>. para obter o seu URL.",
+        "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este guia por Mirai0009</video> para baixar e usar o <app>Ascent v2.1.6</app> para obter o seu URL.",
         "note": "Este método apenas suporta Android versões 11 e acima.",
         "troubleshooting": "Se não estiver funcionando corretamente, verifique a <link>secção de resolução de problemas</link>."
       },
       "2": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "O seu URL do Histórico de Convocações"
+        "Your Convene History URL": "Seu URL do Histórico de Convocações"
       },
       "3": {
-        "title": " Pressiona o Botão \"Importar Histórico\" neste Website"
+        "title": " Pressione o Botão \"Importar Histórico\" neste Site"
       },
-      "Video Tutorial": "Vídeo de Tutorial",
-      "Android Ascent Import Tutorial Video": "Vídeo de Tutorial de Importação pelo Ascent no Android",
-      "video-tutorial-desc": "Primeiro, leia cuidadosamente este <guide>guia escrito</guide> e depois siga este <video>vídeo do YouTube</video> para conseguir os seus dados no Android. Todos os créditos vão para Mirai0009."
+      "Video Tutorial": "Tutorial",
+      "Android Ascent Import Tutorial Video": "Tutorial de Importação no Android através do Ascent",
+      "video-tutorial-desc": "Primeiro, leia cuidadosamente este <guide>guia</guide> e depois siga este <video>vídeo do YouTube</video> para conseguir os seus dados no Android. Todos os créditos vão para Mirai0009."
     },
     "Android2Tutorial": {
       "invalid-url": "URL de Histórico de Convocações inválido",
       "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Use Termux Para Conseguir o URL do Histórico de Convocações",
-        "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <guide>este guia por eqdamini</guide> para transferir e usar o <app>Termux</app> para obter o seu URL."
+        "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <guide>este guia por eqdamini</guide> para baixar e usar o <app>Termux</app> para obter o seu URL."
       },
       "2": {
         "title": "Cole o URL Aqui",
         "Your Convene History URL": "O seu URL do Histórico de Convocações"
       },
       "3": {
-        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Site"
       }
     },
     "Android3Tutorial": {
       "invalid-url": "URL de Histórico de Convocações inválido",
       "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
-        "title": "Siga o nosso Vídeo de Tutorial",
-        "description": "Siga <link>este vídeo de tutorial por yukio36</link> depois de abrir a aplicação Wuthering Waves.",
-        "Video Tutorial": "Vídeo de Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Vídeo de Tutorial de Importação no Android pelo Modo Avião",
-        "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>yukio36</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no Android sem transferir nada.",
+        "title": "Siga o nosso Tutorial",
+        "description": "Siga <link>este tutorial por yukio36</link> depois de iniciar Wuthering Waves.",
+        "Video Tutorial": "Tutorial",
+        "Android Airplane Mode Import Tutorial Video": "Tutorial de Importação no Android através do Modo Avião",
+        "video-tutorial-desc": "Siga este tutorial paço-a-paço do YouTube feito por <highlight>yukio36</highlight> do nosso <link>Servidor do Discord</link> para importar os seus dados no Android sem baixar nada.",
         "note": "Nota: Isto pode não funcionar para todos os dispositivos, então tente outros métodos se este falhar."
       },
       "2": {
@@ -463,7 +463,7 @@
         "Your Convene History URL": "O seu URL do Histórico de Convocações"
       },
       "3": {
-        "title": "Pressione o Botão \"Importar Histórico\" neste Website"
+        "title": "Pressione o Botão \"Importar Histórico\" neste Site"
       }
     }
   },
@@ -480,7 +480,7 @@
       "is-synced": "Os dados estão sincronizados",
       "is-not-synced": "Os dados NÃO estão sincronizados",
       "Cloud Backup": "Backup da Nuvem",
-      "description": "Guarde os seus dados usando a sua Conta Google e acesse-os em qualquer dispositivo. Após iniciar sessão, apenas clique no botão \"Sincronizar Dados\" para fazer upload ou transferir os seus dados para o seu dispositivo.",
+      "description": "Guarde os seus dados usando a sua Conta Google e acesse-os em qualquer dispositivo. Após iniciar sessão, apenas clique no botão \"Sincronizar Dados\" para fazer upload ou download dos seus dados para o seu dispositivo.",
       "Guest": "Convidado",
       "Sign In to Google": "Iniciar sessão com o Google",
       "Log Out": "Terminar sessão",
@@ -496,9 +496,9 @@
       "Sign In to Google": "Iniciar sessão com o Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "Precisa de um URL do Histórico de Convocações válido antes de transferir.",
-      "download-failed": "Falha ao iniciar transferência.",
-      "download-starting": "A sua transferência vai começar brevemente.",
+      "require-url-before-downloading": "Precisa de um URL do Histórico de Convocações válido antes de baixar.",
+      "download-failed": "Falha ao iniciar download.",
+      "download-starting": "Seu download vai começar brevemente.",
       "invalid-url": "Por favor, insira um URL do Histórico de Convocações válido.",
       "import-success": "URL de Histórico de Convocação importado localmente com sucesso!",
       "delete-local-success": "Apagar os dados do histórico local.",
@@ -507,7 +507,7 @@
       "Go to Import Tutorial": "Vá para o Tutorial de Importação",
       "description": "Exporte ou mude o seu URL do Histórico de Convocações aqui.",
       "Your Convene History URL": "O seu URL do Histórico de Convocações",
-      "Download Your History": "Transfira o Seu Histórico",
+      "Download Your History": "Baixe o Seu Histórico",
       "Delete Browser Saved Data": "Apagar os Dados Guardados do Navegador",
       "Delete your local data": "Apagar dados locais",
       "Save": "Salvar"
