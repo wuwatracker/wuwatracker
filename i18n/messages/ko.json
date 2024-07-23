@@ -517,7 +517,7 @@
       "description": "Wuwa Tracker가 당신의 데이터를 처리할 권한을 관리합니다."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "글로벌 통계용으로 튜닝 데이터를 제공"
     }
   },
   "Timeline": {

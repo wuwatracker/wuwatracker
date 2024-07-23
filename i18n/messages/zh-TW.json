@@ -21,11 +21,11 @@
     "Abyss Surges": "擎淵怒濤",
     "Ages of Harvest": "時和歲稔",
     "Amity Accord": "袍澤之固",
-    "Autumntrace": "清音",
+    "Autumntrace": "紋秋",
     "Beguiling Melody": "鈞天正音",
     "Blazing Brilliance": "赫奕流明",
     "Broadblade of Night": "暗夜長刃．玄明",
-    "Broadblade of Voyager": "遠行者長刃．辟路",
+    "Broadblade of Voyager": "遠行者長刃．闢路",
     "Broadblade#41": "重破刃-41型",
     "Cadenza": "華彩樂段",
     "Commando of Conviction": "不歸孤軍",
@@ -39,7 +39,7 @@
     "Gauntlets#21D": "鋼影拳-21丁型",
     "Guardian Broadblade": "戍關長刃．定軍",
     "Guardian Gauntlets": "戍關臂鎧．拔山",
-    "Guardian Pistols": "戍關配槍．平雲",
+    "Guardian Pistols": "戍關佩槍．平雲",
     "Guardian Rectifier": "戍關音感儀．留光",
     "Guardian Sword": "戍關迅刀．鎮海",
     "Helios Cleaver": "東落",
@@ -169,10 +169,10 @@
     "Share History": "分享紀錄",
     "Sequences": "共鳴鏈",
     "Achievements": "成就",
-    "Timeline": "時程",
+    "Timeline": "活動時程",
     "Import": "匯入",
     "Settings": "設定",
-    "Support Us": "協助我們",
+    "Support Us": "支持我們",
     "Sign In To Google": "使用Google帳號登入",
     "Sign Out": "登出"
   },
@@ -187,7 +187,7 @@
         "data": "資料",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker 協助追蹤",
+      "title": "Wuwa Tracker 幫你追蹤",
       "description": "結合即時全區域抽卡數據的鳴潮喚取計算平台，提供一個可以與朋友分享遊戲進度的展示工具。"
     },
     "Tutorial": {
@@ -198,7 +198,7 @@
       "Your data will now sync automatically!": "您的資料將會自動同步"
     },
     "Changelogs": {
-      "title": "更新記錄",
+      "title": "版本更新",
       "description": "檢視網頁公告"
     },
     "Community": {
@@ -231,7 +231,7 @@
     }
   },
   "Convene": {
-    "title": "進度追蹤",
+    "title": "喚取數據追蹤",
     "ConvenePageContent": {
       "Scroll for More": "下拉瀏覽更多"
     },
@@ -245,8 +245,8 @@
       "Recent": "近期",
       "and": "與",
       "Convenes": "喚取",
-      "no-filters": "缺少篩選條件",
-      "no-records": "查無資料"
+      "no-filters": "缺少篩選條件。",
+      "no-records": "查無紀錄。"
     },
     "UserPullHistoryTable": {
       "Pull History": "喚取記錄",
@@ -332,7 +332,7 @@
         "description": "再來，開啟 Windows PowerShell，貼上以下的指令。",
         "History URL Script": "歷史紀錄連結腳本",
         "Click the copy button on the right": "點擊右邊的複製按鈕",
-        "note": "提示：腳本不會修改您的任何檔案，它僅會從紀錄中擷取超連結。您可以在<link>這裡</link>查看腳本。"
+        "note": "提示：腳本不會修改您的任何檔案，只會從紀錄中擷取紀錄連結。您可以在<link>這裡</link>查看腳本。"
       },
       "2": {
         "title": "在這裡貼上連結",
@@ -345,7 +345,7 @@
     "PC2Tutorial": {
       "invalid-url": "無效的喚取記錄連結。",
       "import-success": "成功匯入喚取記錄連結",
-      "found-url": "我們找到了您的連結！點擊\"匯入歷史紀錄\"按鈕繼續。",
+      "found-url": "我們找到了您的紀錄連結！點擊\"匯入歷史紀錄\"按鈕繼續。",
       "not-found-url": "在紀錄檔中沒有找到有效的連結。",
       "Click to upload": "點擊上傳",
       "or drag and drop": "或者拖拉上傳",
@@ -357,7 +357,7 @@
         "description": "右鍵點擊你的遊戲執行檔並選擇 <code>開啟檔案位置</code>。\n你將會看到 <code>launcher.exe</code> 以及很多的 <code>.dll</code> 檔案。"
       },
       "3": {
-        "title": "在檔案總管搜尋 <code>debug.log</code> 並且在此上傳"
+        "title": "在資料匣內找到 <code>debug.log</code> 並上傳"
       },
       "4": {
         "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
@@ -368,31 +368,31 @@
     },
     "PC3Tutorial": {
       "invalid-path": "無效的遊戲路徑",
-      "invalid-url": "無效的喚取記錄連結",
-      "import-success": "成功匯入喚取記錄連結",
+      "invalid-url": "無效的記錄連結",
+      "import-success": "成功匯入記錄連結",
       "1": {
         "title": "複製遊戲安裝路徑",
         "description": "找到包含 <code>Wuthering Waves.exe</code> 及 <code>Client</code> 資料夾",
-        "Your installation directory": "遊戲安裝路徑",
+        "Your installation directory": "你的遊戲安裝路徑",
         "warning": "警告：假設曾編輯過<code>Engine.ini</code>檔案關閉遊戲紀錄檔，腳本將無法取得歷史紀錄連結，請在開啟遊戲紀錄後重新嘗試。"
       },
       "2": {
         "title": "在電腦執行鳴潮並開啟遊戲內的喚取紀錄",
-        "description": "再來，開啟 Windows PowerShell，並貼上以下的指令",
+        "description": "接下來，開啟 Windows PowerShell，並貼上以下的指令",
         "invalid-directory": "首先，輸入遊戲安裝路徑",
         "Stuck? Click the “Need Help?” button": "卡關了嗎? 點選 \"需要幫助?\" 按鈕",
-        "note": "提示：指令不會修改您的任何檔案，它僅會從紀錄中擷取遊戲連結。您可以在<link>這裡</link>查看腳本。"
+        "note": "提示：腳本不會修改您的任何檔案，只會從紀錄中擷取紀錄連結。您可以在<link>這裡</link>查看腳本。"
       },
       "3": {
         "title": "在這裡貼上連結",
-        "Your Convene History URL": "您的喚取記錄連結"
+        "Your Convene History URL": "您的記錄連結"
       },
       "4": {
         "title": "請在網頁點選\"匯入歷史紀錄\"按鈕"
       },
-      "Video Tutorial": "影片教學",
+      "Video Tutorial": "教學影片",
       "PC Import Tutorial Video": "PC 匯入教學影片",
-      "video-tutorial-desc": "依照這個手把手的 YouTube 教學在 PC 上匯入資料。請加入我們的 <link>Discord 伺服器</link> 尋求任何協助!"
+      "video-tutorial-desc": "依照這個手把手的 YouTube 教學在 PC 上匯入資料。請加入我們的 <link>Discord 伺服器</link> 尋求任何協助！"
     },
     "IOSTutorial": {
       "invalid-json": "錯誤的 JSON 資料，請確認有複製到所有符號",
@@ -400,7 +400,7 @@
       "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "觀看教學影片",
-        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Chario 提供的教學影片</video> 下載並使用<app>Stream - Network Debug Tool</app> 來取得您的連結",
+        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Chario 提供的教學影片</video> 下載並使用<app>Stream - Network Debug Tool</app> 來取得您的連結。",
         "Video Tutorial": "教學影片",
         "iOS Import Tutorial Video": "iOS 匯入教學影片",
         "video-tutorial-desc": "依照 <highlight>Chario</highlight> 在我們的 <link>Discord 伺服器</link> 提供的 YouTube 步驟教學在PC匯入資料。"
@@ -488,7 +488,7 @@
       "Google Data": "Google 資料",
       "Browser Data": "瀏覽器資料",
       "browser-data-different": "您的本機資料與 Google 帳號儲存的資料不同。",
-      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。請問您要保留本機資料還是使用 Google 帳號中的資料取代現有本機資料?"
+      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。請問您要保留本機資料還是使用 Google 帳號中的資料取代現有本機資料？"
     },
     "SignInButton": {
       "sign-out-success": "成功登出。",
@@ -496,13 +496,13 @@
       "Sign In to Google": "使用 Google 登入"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "您需要使用正確的喚取記錄連結才可以下載資料。",
+      "require-url-before-downloading": "您需要使用正確的記錄連結才能下載資料。",
       "download-failed": "下載失敗。",
       "download-starting": "下載即將開始。",
       "invalid-url": "請輸入正確的喚取記錄連結。",
-      "import-success": "成功匯入喚取記錄URL至本機",
-      "delete-local-success": "刪除本機資料",
-      "Convene History Data": "喚取記錄檔",
+      "import-success": "成功匯入歷史紀錄連結至本機！",
+      "delete-local-success": "刪除本機資料。",
+      "Convene History Data": "喚取記錄資料",
       "Import Tutorial": "匯入教學",
       "Go to Import Tutorial": "前往匯入教學",
       "description": "匯出或者更新您的喚取記錄連結",
