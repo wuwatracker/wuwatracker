@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "Import Tutorial",
     "PC": {
       "title": "PC",
@@ -505,7 +506,7 @@
       "Convene History Data": "Ziehung-Verlauf Daten",
       "Import Tutorial": "Import Tutorial",
       "Go to Import Tutorial": "Gehe zum Import Tutorial",
-      "description": "Exportiere oder ändere deine verlauf URL hier.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "Deine verlauf URL",
       "Download Your History": "Lade deinen Verlauf herunter",
       "Delete Browser Saved Data": "Lösche deine gespeicherten Browser-Daten",
