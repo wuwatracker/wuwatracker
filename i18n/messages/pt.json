@@ -74,18 +74,18 @@
     "Verdant Summit": "Verdant Summit"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Resonator em Destaque",
-    "Featured Weapon": "Arma em Destaque",
-    "Permanent Resonator": "Resonator Permanente",
-    "Permanent Weapon": "Arma Permanente",
-    "Beginner Convene": "Convocação Inicial",
-    "Beginner's Choice": "Escolha Inicial",
-    "Selector Ticket": "Bilhete de Selecionador",
+    "Featured Resonator": "Featured Resonator",
+    "Featured Weapon": "Featured Resonator",
+    "Permanent Resonator": "Permanent Resonator",
+    "Permanent Weapon": "Permanent Weapon",
+    "Beginner Convene": "Beginner Convene",
+    "Beginner's Choice": "Beginner's Choice",
+    "Selector Ticket": "Selector Ticket",
     "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Banner Winter Brume",
+    "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Convocação da Escolha Inicial",
-    "Convene Giveback Event": "Evento de Devolva de Convocação",
+    "Beginner Selector": "Beginner's Choice Convene",
+    "Convene Giveback Event": "Convene Giveback Event",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
@@ -101,7 +101,7 @@
     },
     "Achievements": {
       "title": "Conquistas - Wuwa Tracker",
-      "description": "Acompanhe suas conquistas de Wuthering Waves e importe & exporte os seus dados livremente entre dispositivos! Wuwa Tracker é um contador de pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
+      "description": "Acompanhe suas conquistas de Wuthering Waves e importe & exporte os seus dados livremente entre dispositivos! Wuwa Tracker é um contador de pity para Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
     },
     "Convene": {
       "Index": {
@@ -164,16 +164,16 @@
     "Tools": "Ferramentas",
     "Guides": "Guias",
     "Config": "Config",
-    "Convene Tracker": "Contador de Convocações",
+    "Convene Tracker": "Contador",
     "Global Stats": "Estatísticas Globais",
-    "Share History": "Compartilhar Histórico",
+    "Share History": "Compartilhar",
     "Sequences": "Sequências",
     "Achievements": "Conquistas",
     "Timeline": "Cronograma",
     "Import": "Importar",
     "Settings": "Configurações",
     "Support Us": "Suporte-nos",
-    "Sign In To Google": "Iniciar Sessão com o Google",
+    "Sign In To Google": "Iniciar Sessão no Google",
     "Sign Out": "Terminar Sessão"
   },
   "Dashboard": {
@@ -207,16 +207,16 @@
   },
   "Achievements": {
     "title": "Conquistas",
-    "description": "Créditos para a <link>planilha StarDB's WuWa Achivements V1.1</link> pelos dados iniciais.",
+    "description": "Créditos para a planilha <link>StarDB's WuWa Achivements V1.1</link> pelos dados iniciais.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Dados importados com sucesso.",
         "import-invalid": "Por favor importe dados válidos.",
         "parse-fail": "Falha ao analisar ficheiro JSON.",
         "download-fail": "Falha ao iniciar download.",
-        "download-start": "Seu download irá começar brevemente."
+        "download-start": "Seu download vai começar brevemente."
       },
-      "description": "Use os filtros para ajudá-lo a encontrar as conquistas em falta.",
+      "description": "Use os filtros para ajudá-lo a encontrar conquistas faltando.",
       "Completed": "Completo",
       "ImportDialog": {
         "title": "Importar Dados",
@@ -233,7 +233,7 @@
   "Convene": {
     "title": "Contador de Convocações",
     "ConvenePageContent": {
-      "Scroll for More": "Deslize para Mais"
+      "Scroll for More": "Role para baixo para Mais"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Estatísticas Globais"
@@ -298,7 +298,7 @@
       "title": "Cartão de Compartilhamento",
       "description": "Customize e baixe o seu histórico de Convocações de Wuthering Waves para compartilhar com os outros!",
       "Customize": "Customizar",
-      "Edit Share Card": "Edite Cartão de Compartilhamento",
+      "Edit Share Card": "Editar Cartão de Compartilhamento",
       "edit-description": "O seu cartão atualiza em tempo real enquanto faz mudanças.",
       "Select Banner": "Selecionar Banner",
       "Background": "Plano de fundo",
@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "Tutorial de Importação",
     "PC": {
       "title": "PC",
@@ -345,7 +346,7 @@
     "PC2Tutorial": {
       "invalid-url": "URL do Histórico de Convocações inválido.",
       "import-success": "URL do Histórico de Convocações importado com sucesso!",
-      "found-url": "Encontramos um URL! Clique o botão Importar Histórico para prosseguir.",
+      "found-url": "Encontramos um URL! Clique no botão \"Importar Histórico\" para cotinuar.",
       "not-found-url": "Nenhum URL válido encontrado no ficheiro do histórico.",
       "Click to upload": "Clique para fazer upload",
       "or drag and drop": "ou arraste e largue",
@@ -374,7 +375,7 @@
         "title": "Copie o Seu Diretório de Instalação",
         "description": "Encontre a pasta que contem <code>Wuthering Waves.exe</code> e a pasta <code>Client</code>.",
         "Your installation directory": "O seu diretório de instalação",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "warning": "Aviso: Se editou o seu ficheiro <code>Engine.ini</code> para desabilitar os históricos, terá que reativá-los antes de abrir o seu histórico de Convocações, caso contrário o script não irá funcionar."
       },
       "2": {
         "title": "Inicie Wuthering Wave no PC e Abra o Seu Histórico de Convocações no jogo",
@@ -385,7 +386,7 @@
       },
       "3": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "O seu URL do Histórico de Convocações"
+        "Your Convene History URL": "Seu URL do Histórico de Convocações"
       },
       "4": {
         "title": "Pressione o Botão \"Importar Histórico\" neste Site"
@@ -441,7 +442,7 @@
       },
       "2": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "O seu URL do Histórico de Convocações"
+        "Your Convene History URL": "Seu URL do Histórico de Convocações"
       },
       "3": {
         "title": "Pressione o Botão \"Importar Histórico\" neste Site"
@@ -460,7 +461,7 @@
       },
       "2": {
         "title": "Cole o URL Aqui",
-        "Your Convene History URL": "O seu URL do Histórico de Convocações"
+        "Your Convene History URL": "Seu URL do Histórico de Convocações"
       },
       "3": {
         "title": "Pressione o Botão \"Importar Histórico\" neste Site"
@@ -471,18 +472,18 @@
     "title": "Configurações",
     "Google Account": "Conta Google",
     "Browser Data": "Dados do Navegador",
-    "Report an Issue": "Relate Problemas",
+    "Report an Issue": "Reporte Problemas",
     "SettingCloudSync": {
       "sign-out-success": "Sessão terminada com sucesso.",
       "login-to-sync": "Precisa iniciar sessão antes de tentar sincronizar.",
-      "import-to-sync": "Importe os seus dados primeiro para começar sincronização!",
+      "import-to-sync": "Importe seus dados primeiro para começar a sincronização!",
       "data-is-in-sync": "Dados sincronizados com a sua Conta Google.",
       "is-synced": "Os dados estão sincronizados",
       "is-not-synced": "Os dados NÃO estão sincronizados",
       "Cloud Backup": "Backup da Nuvem",
       "description": "Guarde os seus dados usando a sua Conta Google e acesse-os em qualquer dispositivo. Após iniciar sessão, apenas clique no botão \"Sincronizar Dados\" para fazer upload ou download dos seus dados para o seu dispositivo.",
       "Guest": "Convidado",
-      "Sign In to Google": "Iniciar sessão com o Google",
+      "Sign In to Google": "Iniciar Sessão no Google",
       "Log Out": "Terminar sessão",
       "Sync Data": "Sincronizar Dados",
       "Google Data": "Dados do Google",
@@ -492,8 +493,8 @@
     },
     "SignInButton": {
       "sign-out-success": "Terminou sessão com sucesso.",
-      "Sign out": "Sair",
-      "Sign In to Google": "Iniciar sessão com o Google"
+      "Sign out": "Terminar sessão",
+      "Sign In to Google": "Iniciar Sessão no Google"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Precisa de um URL do Histórico de Convocações válido antes de baixar.",
@@ -501,13 +502,13 @@
       "download-starting": "Seu download vai começar brevemente.",
       "invalid-url": "Por favor, insira um URL do Histórico de Convocações válido.",
       "import-success": "URL de Histórico de Convocação importado localmente com sucesso!",
-      "delete-local-success": "Apagar os dados do histórico local.",
+      "delete-local-success": "Dados locais do histórico apagados.",
       "Convene History Data": "Dados do Histórico de Convocações",
       "Import Tutorial": "Tutorial de Importação",
-      "Go to Import Tutorial": "Vá para o Tutorial de Importação",
-      "description": "Exporte ou mude o seu URL do Histórico de Convocações aqui.",
-      "Your Convene History URL": "O seu URL do Histórico de Convocações",
-      "Download Your History": "Baixe o Seu Histórico",
+      "Go to Import Tutorial": "Ir para o Tutorial de Importação",
+      "description": "Edite seu Histórico de Convocações e exporte como JSON.",
+      "Your Convene History URL": "Seu URL do Histórico de Convocações",
+      "Download Your History": "Baixar Histórico",
       "Delete Browser Saved Data": "Apagar os Dados Guardados do Navegador",
       "Delete your local data": "Apagar dados locais",
       "Save": "Salvar"
