@@ -400,7 +400,7 @@
       "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "觀看教學影片",
-        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Chario 提供的教學影片</video> 下載並使用<app>Stream - Network Debug Tool</app> 來取得您的連結",
+        "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Chario 提供的教學影片</video> 下載並使用<app>Stream - Network Debug Tool</app> 來取得您的連結。",
         "Video Tutorial": "教學影片",
         "iOS Import Tutorial Video": "iOS 匯入教學影片",
         "video-tutorial-desc": "依照 <highlight>Chario</highlight> 在我們的 <link>Discord 伺服器</link> 提供的 YouTube 步驟教學在PC匯入資料。"
@@ -488,7 +488,7 @@
       "Google Data": "Google 資料",
       "Browser Data": "瀏覽器資料",
       "browser-data-different": "您的本機資料與 Google 帳號儲存的資料不同。",
-      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。請問您要保留本機資料還是使用 Google 帳號中的資料取代現有本機資料?"
+      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。請問您要保留本機資料還是使用 Google 帳號中的資料取代現有本機資料？"
     },
     "SignInButton": {
       "sign-out-success": "成功登出。",
@@ -496,13 +496,13 @@
       "Sign In to Google": "使用 Google 登入"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "您需要使用正確的喚取記錄連結才可以下載資料。",
+      "require-url-before-downloading": "您需要使用正確的記錄連結才能下載資料。",
       "download-failed": "下載失敗。",
       "download-starting": "下載即將開始。",
       "invalid-url": "請輸入正確的喚取記錄連結。",
-      "import-success": "成功匯入喚取記錄URL至本機",
-      "delete-local-success": "刪除本機資料",
-      "Convene History Data": "喚取記錄檔",
+      "import-success": "成功匯入歷史紀錄連結至本機！",
+      "delete-local-success": "刪除本機資料。",
+      "Convene History Data": "喚取記錄資料",
       "Import Tutorial": "匯入教學",
       "Go to Import Tutorial": "前往匯入教學",
       "description": "匯出或者更新您的喚取記錄連結",
