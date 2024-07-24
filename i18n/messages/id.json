@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "Panduan Import",
     "PC": {
       "title": "PC",
@@ -505,7 +506,7 @@
       "Convene History Data": "Data Riwayat Convene",
       "Import Tutorial": "Impor Tutorial",
       "Go to Import Tutorial": "Buka Tutorial Impor",
-      "description": "Ekspor atau ubah Alamat Riwayat Convene Anda di sini.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "Alamat Riwayat Convene Anda",
       "Download Your History": "Unduh Riwayat Anda",
       "Delete Browser Saved Data": "Hapus Data Browser yang Tersimpan",

@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "Importálás bemutató",
     "PC": {
       "title": "Számítógép",
@@ -505,7 +506,7 @@
       "Convene History Data": "Húzási történet adatok",
       "Import Tutorial": "Importálás bemutató",
       "Go to Import Tutorial": "Menj a Importálás bemutatóhoz",
-      "description": "Exportáld vagy változtasd meg a húzási előzmény URL-címét itt.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "Húzási előzmény URL-címe",
       "Download Your History": "Előzményeid letöltése",
       "Delete Browser Saved Data": "Böngésző mentett adatainak törlése",

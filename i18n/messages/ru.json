@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Импорт",
     "Import Tutorial": "Руководство по импорту",
     "PC": {
       "title": "ПК",
@@ -502,10 +503,10 @@
       "invalid-url": "Пожалуйста, предоставьте правильную ссылку на историю круток.",
       "import-success": "Ссылка на историю круток импортирована на устройство!",
       "delete-local-success": "Локальная история круток удалена.",
-      "Convene History Data": "Данные о истории круток",
+      "Convene History Data": "Данные об истории круток",
       "Import Tutorial": "Руководство по импорту",
       "Go to Import Tutorial": "Перейти к руководству по импорту данных",
-      "description": "Здесь вы можете сменить или записать ссылку на историю круток на текущее устройство, а так же скачать саму историю круток в виде JSON файла.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "Ваша ссылка на историю круток",
       "Download Your History": "Скачать свои данные",
       "Delete Browser Saved Data": "Удалить сохраненные в браузере данные",

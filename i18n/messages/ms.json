@@ -308,6 +308,7 @@
     }
   },
   "Import": {
+    "title": "Import",
     "Import Tutorial": "Import Tutorial",
     "PC": {
       "title": "PC",
@@ -505,7 +506,7 @@
       "Convene History Data": "Convene History Data",
       "Import Tutorial": "Import Tutorial",
       "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Export or change your Convene History URL here.",
+      "description": "Edit your Convene History URL and export it as JSON.",
       "Your Convene History URL": "Your Convene History URL",
       "Download Your History": "Download Your History",
       "Delete Browser Saved Data": "Delete Browser Saved Data",
