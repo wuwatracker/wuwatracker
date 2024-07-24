@@ -74,7 +74,7 @@
     "Verdant Summit": "Cumbre verde"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Resonador destacada",
+    "Featured Resonator": "Resonador destacado",
     "Featured Weapon": "Arma destacada",
     "Permanent Resonator": "Resonador permanente",
     "Permanent Weapon": "Arma permanente",
@@ -90,14 +90,14 @@
     "Prevail the Lasting Night": "Prevalece la Noche Duradera",
     "When Thunder Pours": "Cuando el Trueno Cae",
     "Thawborn Renewal": "Deshielo en primavera",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Vermillion's Ploy": "La estratagema de bermellón"
   },
   "Common": {
     "Import History": "Importar historial"
   },
   "Metadata": {
     "Generic": {
-      "description": "Un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Sincroniza tus datos entre dispositivos, comparte tus invocaciones con tus amigos y sigue tu cuenta fácilmente!"
+      "description": "Un contador de pity para Wuthering Waves. Utilizando los datos más actualizados con estadísticas globales, y más. ¡Sincroniza tus datos entre dispositivos, comparte tus invocaciones con tus amigos, y sigue tu cuenta fácilmente!"
     },
     "Achievements": {
       "title": "Logros - Wuwa Tracker",
@@ -106,40 +106,40 @@
     "Convene": {
       "Index": {
         "title": "Historial de Invocaciones - Wuwa Tracker",
-        "description": "¡Ve tus estadísticas de invocaciones actualizadas y tus últimas invocaciones en Wuthering Waves! Utiliza paneles listos para capturas de pantalla para presumir ante tus amigos. Wuwa Tracker es un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
+        "description": "¡Mira tus estadísticas y tus últimas invocaciones actualizadas en Wuthering Waves! Utiliza paneles listos para capturas de pantalla para presumir ante tus amigos. Wuwa Tracker es un contador de pity para Wuthering Waves, utiliza los datos más actualizados con estadísticas globales, y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
       },
       "Global": {
         "title": "Estadísticas Globales - Wuwa Tracker",
-        "description": "¡Ve estadísticas globales de invocaciones para el banner {currentBanner}, con {currentFeaturedResonator}! Utiliza paneles listos para capturas de pantalla para presumir ante tus amigos. Wuwa Tracker es un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
+        "description": "¡Mira estadísticas globales de invocaciones para el banner {currentBanner}, con {currentFeaturedResonator}! Utiliza paneles listos para capturas de pantalla y presume ante tus amigos. Wuwa Tracker es un contador de pity para Wuthering Waves, utiliza los datos más actualizados con estadísticas globales, y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
       },
       "Share": {
         "title": "Compartir Historial - Wuwa Tracker",
-        "description": "¡Crea una tarjeta de historial de invocaciones con tu historial de invocaciones para compartir con tus amigos! Wuwa Tracker es un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
+        "description": "¡Crea una tarjeta con tu historial de invocaciones para compartir con tus amigos! Wuwa Tracker es un contador de pity para Wuthering Waves que utiliza los datos más actualizados con estadísticas globales, y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
       }
     },
     "Error": {
-      "title": "Ocurrió un Error",
+      "title": "Ocurrió un error",
       "description": "Ocurrió un error al usar Wuwa Tracker. Por favor, envía un informe a nuestro servidor de Discord para que podamos solucionarlo rápidamente."
     },
     "Import": {
       "title": "Importar Historial de Invocaciones - Wuwa Tracker",
-      "description": "Sigue nuestro tutorial interactivo para mostrar tus datos de Wuthering Waves y ver tus estadísticas. Soportamos importaciones desde dispositivos PC, Android y iOS con métodos automáticos. Wuwa Tracker es un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
+      "description": "Sigue nuestro tutorial interactivo para mostrar tus datos de Wuthering Waves y ver tus estadísticas. Soportamos importaciones desde dispositivos PC, Android y iOS con métodos automáticos. Wuwa Tracker es un contador de pity para Wuthering Waves que utiliza los datos más actualizados con estadísticas globales, y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
     },
     "Not Found": {
       "title": "No Encontrado",
-      "description": "Esta página no se encuentra en Wuwa Tracker. Por favor, vuelve a la página principal para comenzar a seguir tu Historial de Invocaciones en Wuthering Waves."
+      "description": "Esta página no se encuentra en Wuwa Tracker. Por favor, vuelve a la página principal para seguir tu Historial de Invocaciones en Wuthering Waves."
     },
     "Privacy Policy": {
-      "title": "Política de Privacidad - Wuwa Tracker",
-      "description": "Este documento de política de privacidad describe los tipos de información personal que son recibidos y recopilados por Wuwa Tracker y cómo son utilizados. Wuwa Tracker es un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más."
+      "title": "Políticas de Privacidad - Wuwa Tracker",
+      "description": "Este documento de políticas de privacidad describe los tipos de información personal que son recibidos y recopilados por Wuwa Tracker y cómo son utilizados. Wuwa Tracker es un contador de pity para Wuthering Waves que utiliza los datos más actualizados con estadísticas globales, y más."
     },
     "Sequences": {
       "title": "Secuencias - Wuwa Tracker",
-      "description": "Cuenta y muestra tus Resonadores y Armas duplicados y ve información relacionada con ellos. ¡Puedes mostrarlos a tus amigos!"
+      "description": "Cuenta y muestra tus Resonadores y Armas duplicadas, además, mira información relacionada con ellos. ¡Puedes mostrarlos a tus amigos!"
     },
     "Settings": {
       "title": "Configuraciones - Wuwa Tracker",
-      "description": "Sincroniza tus datos a través de Google iniciando sesión. Gestiona tus datos de invocaciones de Wuthering Waves todo en un solo lugar. Wuwa Tracker es un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
+      "description": "Sincroniza tus datos a través de Google iniciando sesión. Gestiona tus datos de invocaciones de Wuthering Waves todo en un solo lugar. Wuwa Tracker es un contador de pity para Wuthering Waves que utiliza los datos más actualizados con estadísticas globales, y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
     },
     "Terms & Conditions": {
       "title": "Términos y Condiciones - Wuwa Tracker",
@@ -155,8 +155,8 @@
       "label": "Ayuda a traducir"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Política de privacidad",
+      "disclaimer": "No estamos afiliados con Wuthering Waves. Todos los elementos, contenido del juego, y materiales, son marca comercial y con derechos de autor registrados por Kuro Games.",
+      "Privacy Policy": "Políticas de privacidad",
       "Terms & Conditions": "Términos y condiciones"
     }
   },
@@ -164,17 +164,17 @@
     "Tools": "Herramientas",
     "Guides": "Guías",
     "Config": "Configuraciones",
-    "Convene Tracker": "Seguimiento de invocaciones",
-    "Global Stats": "Estadísticas globales",
+    "Convene Tracker": "Mis tiradas",
+    "Global Stats": "Datos Globales",
     "Share History": "Compartir historial",
-    "Sequences": "Secuencia",
+    "Sequences": "Secuencias",
     "Achievements": "Logros",
     "Timeline": "Cronograma",
     "Import": "Importar",
     "Settings": "Ajustes",
-    "Support Us": "Apoyanos",
+    "Support Us": "Apóyanos",
     "Sign In To Google": "Iniciar sesión con Google",
-    "Sign Out": "Cerrar sesión"
+    "Sign Out": "Cerrar Sesión"
   },
   "Dashboard": {
     "title": "Panel",
@@ -188,18 +188,18 @@
         "updates": "actualizaciones"
       },
       "title": "Wuwa Tracker te ayuda a seguir tus",
-      "description": "Un contador de pity para Wuthering Waves, usando los datos más recientes con las estadísticas globales y más. Nuestro objetivo es proporcionar las mejores herramientas para mostrar tu progreso en Wuthering Waves a tus amigos."
+      "description": "Un contador de pity para Wuthering Waves, usando los datos más recientes con las estadísticas globales, y más. Nuestro objetivo es proporcionar las mejores herramientas para mostrar tu progreso en Wuthering Waves a tus amigos."
     },
     "Tutorial": {
-      "title": "Empezar",
-      "description": "Bienvenido, Errante. Empecemos, ¿de acuerdo?",
+      "title": "Empecemos",
+      "description": "Bienvenido, Errante. ¿Te parece si empezamos?",
       "View Pull History": "Ver historial de invocaciones",
-      "Sync Your Data": "Sinc tus datos",
+      "Sync Your Data": "Sincroniza tus datos",
       "Your data will now sync automatically!": "¡Ahora tus datos se sincronizarán automáticamente!"
     },
     "Changelogs": {
       "title": "Registro de cambios",
-      "description": "Ve los anuncios de la pagina web aquí."
+      "description": "Mira los anuncios de la página web aquí."
     },
     "Community": {
       "title": "Comunidad"
@@ -212,18 +212,18 @@
       "toast": {
         "import-success": "Datos importados exitosamente.",
         "import-invalid": "Por favor importa datos válidos.",
-        "parse-fail": "Error con el parse del archivo JSON.",
-        "download-fail": "Fallo al empezar la descarga.",
-        "download-start": "Tu descarga comenzará en breves."
+        "parse-fail": "Error al analizar el archivo JSON.",
+        "download-fail": "Error al comenzar la descarga.",
+        "download-start": "Tu descarga comenzará en breve."
       },
-      "description": "Usa los filtros para ayudarte a buscar los logros que te faltan.",
+      "description": "Para encontrar los logros que te faltan, usa los filtros.",
       "Completed": "Completado",
       "ImportDialog": {
         "title": "Importar datos",
-        "description": "Usa tus datos exportados previamente y sincronízalos con tu navegador."
+        "description": "Usa tus datos exportados previamente para sincronizarlos con tu navegador."
       },
       "Hidden": "Oculto",
-      "Click to upload": "Clic para subir",
+      "Click to upload": "Clic para subir archivo",
       "or drag and drop": "o arrastra y suelta",
       "Import": "Importar",
       "Export as JSON": "Exportar como JSON",
@@ -250,11 +250,11 @@
     },
     "UserPullHistoryTable": {
       "Pull History": "Historial de invocación",
-      "Pull Num": "Invocación núm.",
-      "Item": "Objeto",
+      "Pull Num": "Núm.",
+      "Item": "Ítem",
       "Pity": "Pity",
       "Date Received": "Fecha",
-      "no-records": "No se han encontrado registros."
+      "no-records": "No se encontraron registros."
     },
     "UserBannerStats": {
       "Total": "Total",
@@ -264,11 +264,11 @@
     "UserBannerStatsLuckCards": {
       "Luck": "Suerte",
       "no-luck": "Este banner no tiene estadísticas de suerte.",
-      "no-records": "No se han encontrado registros.",
+      "no-records": "No se encontraron registros.",
       "calibrating": "Calibrando...",
       "Percentiles": {
         "AvgPity": {
-          "title": "Promedio",
+          "title": "Pity Promedio",
           "formula": "¿Cuál es tu promedio para el {qualityLevel}-estrellas garantizado?"
         },
         "PullRatio": {
@@ -308,7 +308,7 @@
     }
   },
   "Import": {
-    "title": "Import",
+    "title": "Importar",
     "Import Tutorial": "Tutorial para importar",
     "PC": {
       "title": "PC",
@@ -481,15 +481,15 @@
       "is-synced": "Los datos están sincronizados",
       "is-not-synced": "Los datos NO están sincronizados",
       "Cloud Backup": "Copia en la nube",
-      "description": "Guarda tus datos usando tu cuenta de Google y accede a tus datos desde cualquier dispositivo. Una vez iniciada sesión, solo haz clic en el botón \"Sinc datos\" para subir o descargar tus datos desde cualquier dispositivo.",
+      "description": "Guarda tus datos usando tu cuenta de Google y accede a tus datos desde cualquier dispositivo. Una vez iniciada sesión, solo haz clic en el botón \"Sincroniza tus datos\" para subir o descargar tus datos desde cualquier dispositivo.",
       "Guest": "Invitado",
       "Sign In to Google": "Iniciar sesión con Google",
       "Log Out": "Cerrar sesión",
-      "Sync Data": "Sinc datos",
-      "Google Data": "Datos en Google",
+      "Sync Data": "Sincroniza tus datos",
+      "Google Data": "Datos de Google",
       "Browser Data": "Datos del navegador",
       "browser-data-different": "Tus datos locales en el navegador son diferentes a los datos en tu cuenta Google.",
-      "browser-data-different-confirmation": "Tus datos locales con el ID del jugador ({localId}) no son iguales al ID del jugador (${googleId}) en tu cuenta de Google. ¿Te gustaría mantener los datos locales de tu navegador o en vez de eso quieres usar los datos de tu cuenta de Google?"
+      "browser-data-different-confirmation": "Tus datos locales con el ID del jugador ({localId}) no son iguales al ID del jugador (${googleId}) en tu cuenta de Google. ¿Te gustaría mantener los datos locales de tu navegador, o en vez de eso, prefieres usar los datos de tu cuenta de Google?"
     },
     "SignInButton": {
       "sign-out-success": "Has cerrado sesión exitosamente.",
@@ -497,16 +497,16 @@
       "Sign In to Google": "Iniciar sesión con Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "Necesitas una URL del historial de invocación válida antes de descargar.",
-      "download-failed": "Fallo al empezar la descarga.",
-      "download-starting": "Tu descarga comenzará en breves.",
-      "invalid-url": "Por favor introduce una URL de historial de invocación válida.",
-      "import-success": "¡URL del historial de invocación importada exitosamente localmente!",
+      "require-url-before-downloading": "Necesitas una URL de historial de invocación válida antes de descargar.",
+      "download-failed": "Error al comenzar la descarga.",
+      "download-starting": "Tu descarga comenzará en breve.",
+      "invalid-url": "Por favor, introduce una URL de historial de invocación válida.",
+      "import-success": "¡URL del historial de invocación importada exitosamente a nivel local!",
       "delete-local-success": "Datos del historial local eliminados.",
       "Convene History Data": "Datos del historial de invocación",
       "Import Tutorial": "Tutorial para importar",
       "Go to Import Tutorial": "Ve a tutorial para importar",
-      "description": "Edit your Convene History URL and export it as JSON.",
+      "description": "Edita la URL del historial de invocaciones y expórtalo como JSON.",
       "Your Convene History URL": "Tu URL del historial de invocación",
       "Download Your History": "Descargar tu historial",
       "Delete Browser Saved Data": "Borrar los datos guardados en el navegador",
@@ -515,16 +515,16 @@
     },
     "SettingGlobalStats": {
       "title": "Privacidad",
-      "description": "Maneja los permisos de Wuwa Tracker cuando se trata de manejar tus datos."
+      "description": "Configura los permisos de Wuwa Tracker para usar tus datos en la aplicación."
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Añadir los datos de tus tiradas para las estadísticas globales"
+      "Submit pull data for global statistics": "Añadir los datos de tus tiradas a las estadísticas globales"
     }
   },
   "Timeline": {
     "title": "Cronograma",
-    "heading": "Cronograma de evento",
-    "description": "Ve los eventos de Wuthering Waves en tu zona horaria local o en los <link>tiempos de servidores</link>.",
+    "heading": "Cronograma de eventos",
+    "description": "Mira los eventos de Wuthering Waves en tu zona horaria local o en los <link>tiempos de servidores</link>.",
     "github-update-message": "Actualizado el {time} por {author}.",
     "Edit this page on GitHub": "Editar está página en GitHub",
     "ResetTimers": {
