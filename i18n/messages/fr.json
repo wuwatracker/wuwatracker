@@ -418,7 +418,7 @@
       "import-success": "Importation réussie !",
       "1": {
         "title": "Utilisez Ascent pour obtenir votre URL d'historique d'invocations",
-        "description": "Comme pour obtenir votre historique d'invocations pour Genshin Impact ou Honkai Star Rail, suivez <video>ce tutoriel vidéo de Chario</video> pour télécharger et utiliser <app>Ascent v2.1.6</app> pour obtenir votre URL.",
+        "description": "Comme pour obtenir votre historique d'invocations pour Genshin Impact ou Honkai Star Rail, suivez <video>ce tutoriel vidéo de Chario</video> pour télécharger et utiliser <app>Ascent v2.1.6</app> et obtenir votre URL.",
         "note": "Cette méthode supporte seulement les versions d'Android 11 ou ultérieures.",
         "troubleshooting": "Si vous rencontrez un problème, consultez <link>la section de dépannage</link>."
       },
@@ -438,7 +438,7 @@
       "import-success": "Importation réussie !",
       "1": {
         "title": "Utilisez Termux pour obtenir votre URL d'historique d'invocations",
-        "description": "Comme pour obtenir votre historique d'invocations pour Genshin Impact ou Honkai Star Rail, suivez <guide>ce tutoriel vidéo de eqdamini</guide> pour télécharger et utiliser <app>Ascent v2.</app> pour obtenir votre URL."
+        "description": "Comme pour obtenir votre historique d'invocations pour Genshin Impact ou Honkai Star Rail, suivez <guide>ce tutoriel vidéo de eqdamini</guide> pour télécharger et utiliser <app>Termux</app> et obtenir votre URL."
       },
       "2": {
         "title": "Collez l'URL ici",
