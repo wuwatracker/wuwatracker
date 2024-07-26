@@ -276,8 +276,8 @@
           "formula": "星 {qualityLevel} の排出率は？"
         },
         "RateUpWins": {
-          "title": "すり抜けない",
-          "formula": "すり抜けない率"
+          "title": "命中率",
+          "formula": "すり抜けありの状態でピックアップ共鳴者の命中率"
         },
         "RateUpWins4": {
           "title": "ピックアップ共鳴者の排出率",
