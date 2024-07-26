@@ -280,7 +280,7 @@
           "formula": "你小保底喚取沒有歪的機率是多少?"
         },
         "RateUpWins4": {
-          "title": "加倍角色機率",
+          "title": "UP角色機率",
           "formula": "你4星角色抽中加倍角色的機率是多少?"
         }
       }
@@ -308,7 +308,7 @@
     }
   },
   "Import": {
-    "title": "Import",
+    "title": "匯入遊戲資訊",
     "Import Tutorial": "匯入教學",
     "PC": {
       "title": "PC",
@@ -506,7 +506,7 @@
       "Convene History Data": "喚取記錄資料",
       "Import Tutorial": "匯入教學",
       "Go to Import Tutorial": "前往匯入教學",
-      "description": "Edit your Convene History URL and export it as JSON.",
+      "description": "編輯紀錄連結或是匯出 JSON 檔案。",
       "Your Convene History URL": "您的喚取記錄連結",
       "Download Your History": "下載您的歷史資料",
       "Delete Browser Saved Data": "刪除瀏覽器儲存資料",
