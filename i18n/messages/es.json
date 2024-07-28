@@ -276,7 +276,7 @@
           "formula": "¿Qué porcentaje de todas tus tiradas fueron {qualityLevel}-estrellas?"
         },
         "RateUpWins": {
-          "title": "50/50 ganados",
+          "title": "50/50 Ganados",
           "formula": "¿Qué porcentaje de tus tiradas 50/50 has ganado?"
         },
         "RateUpWins4": {
