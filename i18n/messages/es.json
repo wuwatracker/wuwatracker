@@ -295,15 +295,15 @@
       "Pulls": "Tiradas"
     },
     "SharePageContent": {
-      "title": "Compartir carta",
+      "title": "Compartir tarjeta",
       "description": "¡Personaliza y descarga tu historial de invocación de Wuthering Waves para compartirlo con otros!",
       "Customize": "Personalizar",
-      "Edit Share Card": "Editar carta para compartir",
-      "edit-description": "Tu carta se actualiza en tiempo real a medida que vas haciendo cambios.",
+      "Edit Share Card": "Editar tarjeta para compartir",
+      "edit-description": "Tu tarjeta se actualiza en tiempo real a medida que vas haciendo cambios.",
       "Select Banner": "Elegir banner",
       "Background": "Fondo",
       "Foreground": "Primer plano",
-      "recommendation": "Recomendamos un ratio de aspecto 1:1 para imágenes en resolución 2048x2048.",
+      "recommendation": "Recomendamos una relación de aspecto 1:1 para imágenes en resolución 2048x2048.",
       "Download": "Descargar"
     }
   },
@@ -419,7 +419,7 @@
       "1": {
         "title": "Usa Ascent para conseguir la URL de tu historial",
         "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <video>esta guía de Mirai0009</video> para descargar y usar <app>Ascent v2.1.6</app> para conseguir tu URL.",
-        "note": "Este método solo es soportado por Android 11 o versiones más recientes.",
+        "note": "Este método solo es compatible con las versiones de Android 11 y superiores.",
         "troubleshooting": "Si no funciona correctamente, echa un vistazo a la <link>sección de solución de problemas</link>."
       },
       "2": {
@@ -431,14 +431,14 @@
       },
       "Video Tutorial": "Videotutorial",
       "Android Ascent Import Tutorial Video": "Videotutorial para importar con Android Ascent",
-      "video-tutorial-desc": "Primero, lee detenidamente <guide>esta guía escrita</guide> y luego sigue este <video>video de YouTube</video> para conseguir tus datos en Android.\nTodos los créditos van para Mirai0009."
+      "video-tutorial-desc": "Primero, lee detenidamente <guide>esta guía escrita</guide>, y luego, sigue este <video>video de YouTube</video> para conseguir tus datos en Android.\nTodos los créditos van para Mirai0009."
     },
     "Android2Tutorial": {
       "invalid-url": "URL de historial de invocación inválida",
       "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Usa Termux para conseguir la URL de tu historial",
-        "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <guide>esta guía de eqdamini</guide> para descargar y usar <app>Termux</app> para conseguir tu URL."
+        "description": "Similar a como obtienes tu historial en Genshin Impact o Honkai Star Rail, sigue <guide>esta guía de eqdamini</guide> para descargar la app de <app>Termux</app>, con la que conseguirás tu URL."
       },
       "2": {
         "title": "Pega la URL aquí",
