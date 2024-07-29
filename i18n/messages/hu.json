@@ -100,54 +100,54 @@
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Szinkronizáld az adataidat az eszközeid között, oszd meg a húzásaidat barátaiddal, és könnyedén nyomon követheted a fiókodat!"
     },
     "Achievements": {
-      "title": "Teljesítmények - Wuwa Tracker",
-      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importálhatod és exportálhatod az adataidat az összes eszközödre! A Wuwa Tracker a Wuthering Waves kívánság számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
+      "title": "Teljesítmények - WuWa Tracker",
+      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importálhatod és exportálhatod az adataidat az összes eszközödre! A WuWa Tracker a Wuthering Waves kívánság számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
     },
     "Convene": {
       "Index": {
-        "title": "Húzási történet - Wuwa Tracker",
-        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "title": "Húzási történet - WuWa Tracker",
+        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       },
       "Global": {
-        "title": "Globális statisztikák - Wuwa Tracker",
-        "description": "Nézd meg a {currentBanner} banner globális húzási statisztikáit, amelyben a {currentFeaturedResonator} szerepel! Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess barátaidnak! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a számládat!"
+        "title": "Globális statisztikák - WuWa Tracker",
+        "description": "Nézd meg a {currentBanner} banner globális húzási statisztikáit, amelyben a {currentFeaturedResonator} szerepel! Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess barátaidnak! WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a számládat!"
       },
       "Share": {
-        "title": "Történet megosztása - Wuwa Tracker",
-        "description": "Készíts egy húzási előzménykártyát, hogy megoszthasd barátaiddal! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "title": "Történet megosztása - WuWa Tracker",
+        "description": "Készíts egy húzási előzménykártyát, hogy megoszthasd barátaiddal! WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       }
     },
     "Error": {
       "title": "Hiba történt",
-      "description": "Hiba történt a Wuwa Tracker használata közben. Kérlek, küldj egy jelentést a Discord szerverünkre, hogy azonnal tudjunk intézkedni."
+      "description": "Hiba történt a WuWa Tracker használata közben. Kérlek, küldj egy jelentést a Discord szerverünkre, hogy azonnal tudjunk intézkedni."
     },
     "Import": {
-      "title": "Húzási előzmény importálás - Wuwa Tracker",
-      "description": "Kövesd interaktív útmutatónkat a Wuthering Waves-adatok megjelenítéséhez és a statisztikák megtekintéséhez. Támogatjuk az automatikus módszerekkel történő importálást PC-ről, Android- és iOS-eszközökről. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásodat barátaiddal és kövesd a fiókodat!"
+      "title": "Húzási előzmény importálás - WuWa Tracker",
+      "description": "Kövesd interaktív útmutatónkat a Wuthering Waves-adatok megjelenítéséhez és a statisztikák megtekintéséhez. Támogatjuk az automatikus módszerekkel történő importálást PC-ről, Android- és iOS-eszközökről. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásodat barátaiddal és kövesd a fiókodat!"
     },
     "Not Found": {
       "title": "Nem található",
-      "description": "Ez az oldal nem található a Wuwa Tracker oldalon. Kérlek, térj vissza a főoldalra, hogy elkezdhesd nyomon követni a Wuthering Waves húzási előzményedet."
+      "description": "Ez az oldal nem található a WuWa Tracker oldalon. Kérlek, térj vissza a főoldalra, hogy elkezdhesd nyomon követni a Wuthering Waves húzási előzményedet."
     },
     "Privacy Policy": {
-      "title": "Adatvédelmi irányelvek - Wuwa Tracker",
-      "description": "Ez az adatvédelmi irányelvek dokumentum ismerteti a Wuwa Tracker által kapott és gyűjtött személyes adatok típusait és azok felhasználási módját. A Wuwa követő egy pity számláló a Wuthering Waves számára, amely a naprakész adatokat használja globális statisztikákkal és egyebekkel."
+      "title": "Adatvédelmi irányelvek - WuWa Tracker",
+      "description": "Ez az adatvédelmi irányelvek dokumentum ismerteti a WuWa Tracker által kapott és gyűjtött személyes adatok típusait és azok felhasználási módját. A Wuwa követő egy pity számláló a Wuthering Waves számára, amely a naprakész adatokat használja globális statisztikákkal és egyebekkel."
     },
     "Sequences": {
-      "title": "Sorozatok - Wuwa Tracker",
+      "title": "Sorozatok - WuWa Tracker",
       "description": "Számold- és mutasd meg a karaktereid és fegyvereid. Nézd meg a velük kapcsolatos információkat. Megmutathatod ezeket a barátaidnak!"
     },
     "Settings": {
-      "title": "Beállítások - Wuwa Tracker",
-      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Oszd meg húzásaidat barátaiddal és kövesd nyomon a fiókodat!"
+      "title": "Beállítások - WuWa Tracker",
+      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Oszd meg húzásaidat barátaiddal és kövesd nyomon a fiókodat!"
     },
     "Terms & Conditions": {
-      "title": "Szerződési feltételek - Wuwa Tracker",
-      "description": "Ezek a feltételek a Wuwa Tracker weboldalának és szolgáltatásainak használatára vonatkozó szabályokat és előírásokat tartalmazzák."
+      "title": "Szerződési feltételek - WuWa Tracker",
+      "description": "Ezek a feltételek a WuWa Tracker weboldalának és szolgáltatásainak használatára vonatkozó szabályokat és előírásokat tartalmazzák."
     },
     "Timeline": {
-      "title": "Esemény idővonal - Wuwa Tracker",
-      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+      "title": "Esemény idővonal - WuWa Tracker",
+      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
     }
   },
   "Layout": {
@@ -187,7 +187,7 @@
         "data": "adat",
         "updates": "frissítések"
       },
-      "title": "Wuwa Tracker segít követni",
+      "title": "WuWa Tracker segít követni",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet."
     },
     "Tutorial": {
@@ -308,7 +308,7 @@
     }
   },
   "Import": {
-    "title": "Import",
+    "title": "Importálás",
     "Import Tutorial": "Importálás bemutató",
     "PC": {
       "title": "Számítógép",
@@ -506,7 +506,7 @@
       "Convene History Data": "Húzási történet adatok",
       "Import Tutorial": "Importálás bemutató",
       "Go to Import Tutorial": "Menj a Importálás bemutatóhoz",
-      "description": "Edit your Convene History URL and export it as JSON.",
+      "description": "Szerkeszd meg a húzási előzményeid URL-címét, és exportáld JSON-ként.",
       "Your Convene History URL": "Húzási előzmény URL-címe",
       "Download Your History": "Előzményeid letöltése",
       "Delete Browser Saved Data": "Böngésző mentett adatainak törlése",
@@ -515,7 +515,7 @@
     },
     "SettingGlobalStats": {
       "title": "Adatvédelem",
-      "description": "Kezeld a Wuwa Tracker jogosultságait, amikor az adataidat kezeli."
+      "description": "Kezeld a WuWa Tracker jogosultságait, amikor az adataidat kezeli."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Adatok beküldése a globális statisztikákhoz"
