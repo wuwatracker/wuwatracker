@@ -515,7 +515,7 @@
     },
     "SettingGlobalStats": {
       "title": "Privacidade",
-      "description": "Gerencie as permissões do Wuwa Tracker no que toca a lidar com os seus dados."
+      "description": "Gerencie as permissões do WuWa Tracker no que toca a lidar com os seus dados."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Submeter dados de tiros para estatísticas globais"
