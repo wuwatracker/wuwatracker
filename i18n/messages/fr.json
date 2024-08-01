@@ -529,7 +529,7 @@
     "Edit this page on GitHub": "Modifiez cette page sur GitHub",
     "ResetTimers": {
       "title": "Minuteur de réinitialisation quotidienne des serveurs",
-      "description": "Comparez votre heure locale à celle des serveurs de jeu de Wuthering Waves pour planifier votre prochaine aventure."
+      "description": "Comparez votre fuseau horaire à ceux des serveurs de Wuthering Waves pour planifier votre prochaine aventure."
     }
   }
 }
