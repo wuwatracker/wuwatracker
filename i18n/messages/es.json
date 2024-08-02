@@ -246,46 +246,48 @@
       "Convene Categories": "Categorías de invocación"
     },
     "UserRecentConvenes": {
-      "Recent": "Recientes",
-      "and": "y",
-      "Convenes": "Invocaciones",
+      "Recent Convenes": "Recent Convenes",
       "no-filters": "No se ha seleccionado ningún filtro.",
-      "no-records": "No se han encontrado registros."
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "Historial de invocación",
       "Pull Num": "Núm.",
       "Item": "Ítem",
       "Pity": "Pity",
-      "Date Received": "Fecha",
-      "no-records": "No se encontraron registros."
+      "Date Received": "Fecha"
     },
     "UserBannerStats": {
       "Total": "Total",
       "Astrites": "Astritas",
       "Pulls": "Tiradas"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "Suerte",
-      "no-luck": "Este banner no tiene estadísticas de suerte.",
-      "no-records": "No se encontraron registros.",
-      "calibrating": "Calibrando...",
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "Pity Promedio",
-          "formula": "¿Cuál es tu promedio para el {qualityLevel}-estrellas garantizado?"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "Porcentaje",
-          "formula": "¿Qué porcentaje de todas tus tiradas fueron {qualityLevel}-estrellas?"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "50/50 Ganados",
-          "formula": "¿Qué porcentaje de tus tiradas 50/50 has ganado?"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "Destacado",
-          "formula": "¿Qué tan seguidos fueron tus tiradas de 4-estrellas destacadas?"
+          "title": "Rate-up Wins",
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
