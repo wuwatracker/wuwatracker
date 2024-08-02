@@ -84,8 +84,8 @@
     "Tidal Chorus": "潮と漲るもの",
     "Winter Brume Banner": "冬の湖の霧",
     "Utterance of Marvels": "万象新声",
-    "Beginner Selector": "初心者応援セレクト集音",
-    "Convene Giveback Event": "星5共鳴者セレクト特別感謝イベント",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "音を操る利器",
     "Prevail the Lasting Night": "酷寒の果てる夜に",
     "When Thunder Pours": "春を告げる雷雨",
@@ -187,7 +187,7 @@
         "data": "データ",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker で集音履歴をチェック.",
+      "title": "WuWa Tracker helps you track",
       "description": "最新データとグローバル統計を使用した鳴潮集音カウンターです。\nあなたの鳴潮での進捗を友人と共有するための最適なツールを提供することを目指しています。"
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "集音履歴分析",
     "ConvenePageContent": {
-      "Scroll for More": "スクロールしてさらに表示"
+      "Scroll for More": "スクロールしてさらに表示",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "グローバル統計"
