@@ -78,17 +78,18 @@
     "Featured Weapon": "活动武器",
     "Permanent Resonator": "常驻角色",
     "Permanent Weapon": "常驻武器",
-    "Beginner Convene": "新手唤取",
+    "Beginner": "Beginner",
     "Beginner's Choice": "新手自选",
     "Selector Ticket": "自选卷",
     "Tidal Chorus": "海上共潮生",
-    "Winter Brume Banner": "冬湖烟波",
+    "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "万象新声",
     "Beginner's Choice Convene": "Beginner's Choice Convene",
     "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "浮声沉兵",
     "Prevail the Lasting Night": "夜将寒色去",
     "When Thunder Pours": "惊霆雨时节",
+    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "寒尽觉春生",
     "Vermillion's Ploy": "炽羽策阵星"
   },
@@ -263,6 +264,11 @@
       "Astrites": "星声",
       "Pulls": "抽数"
     },
+    "BannerSwitcher": {
+      "All Banners": "All Banners",
+      "no-banners": "No banners found.",
+      "search": "Search banner..."
+    },
     "WidgetLuck": {
       "title": "{num}✦ Luck Rating",
       "no-luck": "this banner has no luck stats",
@@ -298,7 +304,8 @@
       "Pulls Per Day": "每日抽数",
       "Pulls By Pity": "抽数统计按保底数",
       "Pulls By Name": "抽数统计按名称",
-      "Pulls": "抽数"
+      "Pulls": "抽数",
+      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
     },
     "SharePageContent": {
       "title": "分享卡片",
