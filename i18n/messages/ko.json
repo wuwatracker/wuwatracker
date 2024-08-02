@@ -246,46 +246,48 @@
       "Convene Categories": "튜닝 카테고리"
     },
     "UserRecentConvenes": {
-      "Recent": "최근",
-      "and": "과",
-      "Convenes": "튜닝",
+      "Recent Convenes": "Recent Convenes",
       "no-filters": "필터가 선택되지 않았습니다.",
-      "no-records": "기록을 찾을 수 없습니다."
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "뽑기 기록",
       "Pull Num": "회차 No.",
       "Item": "항목",
       "Pity": "천장",
-      "Date Received": "시간",
-      "no-records": "기록을 찾을 수 없습니다."
+      "Date Received": "시간"
     },
     "UserBannerStats": {
       "Total": "총",
       "Astrites": "사용한 별의 소리",
       "Pulls": "튜닝 수"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "행운",
-      "no-luck": "이 배너에는 행운 통계가 없습니다.",
-      "no-records": "기록을 찾을 수 없습니다.",
-      "calibrating": "보정 중...",
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "평균 천장",
-          "formula": "평균 {qualityLevel}성 천장은 언제인가요?"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "뽑기 비율",
-          "formula": "총 튜닝 횟수 중 몇 퍼센트가 {qualityLevel}성 이었나요?"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "반천장 성공률",
-          "formula": "반천장 성공률이 몇 퍼센트인가요?"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "확률업 공명자 성공률",
-          "formula": "확률 업 4성이 얼마나 나왔나요?"
+          "title": "Rate-up Wins",
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
