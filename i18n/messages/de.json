@@ -84,8 +84,8 @@
     "Tidal Chorus": "Gezeitenchor",
     "Winter Brume Banner": "Winternebel-Banner",
     "Utterance of Marvels": "Äußerung von Wundern",
-    "Beginner Selector": "Anfänger-Auswahl-Zusammenrufen",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "Wenn der Donner strömt",
@@ -187,7 +187,7 @@
         "data": "Daten",
         "updates": "Updates"
       },
-      "title": "WuWa Tracker hilft dir deine Pulls zu verfolgen",
+      "title": "WuWa Tracker helps you track",
       "description": "Ein Pity Zähler für Wuthering Waves das die neusten Daten mit nutzt mit globalen Statistiken und mehr.\nWir zielen darauf ab die besten Werkzeuge bereitzustellen, um deinen Wuthering Waves Fortschritt deinen Freunden zu zeigen."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "Convene Tracker",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "Scroll for More",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Globale Statistiken"
