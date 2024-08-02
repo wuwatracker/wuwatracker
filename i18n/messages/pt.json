@@ -100,54 +100,54 @@
       "description": "Um contador de pity para Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Sincronize seus dados entre dispositivos, compartilhe seus tiros com os seus amigos e acompanhe sua conta facilmente!"
     },
     "Achievements": {
-      "title": "Conquistas - WuWa Tracker",
-      "description": "Acompanhe suas conquistas de Wuthering Waves e importe & exporte os seus dados livremente entre dispositivos! WuWa Tracker é um contador de pity para Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
+      "title": "Achievements - WuWa Tracker",
+      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Convene": {
       "Index": {
-        "title": "Histórico de Convocações - WuWa Tracker",
-        "description": "Veja suas estatísticas atualizadas de tiros de Wuthering Waves e convocações recentes. Use painéis prontos para screenshots para se gabar para os seus amigos! WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
+        "title": "Convene History - WuWa Tracker",
+        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
-        "title": "Estatísticas Globais - WuWa Tracker",
-        "description": "Veja estatísticas globais de tiros para o banner {currentBanner}, destacando {currentFeaturedResonator}! Use painéis prontos para screenshots para se gabar para os seus amigos! WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
+        "title": "Global Statistics - WuWa Tracker",
+        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "Compartilhar Histórico - WuWa Tracker",
-        "description": "Crie um cartão do histórico de Convocações com seu histórico de tiros para compartilhar com seus amigos! WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
+        "title": "Share History - WuWa Tracker",
+        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Error": {
       "title": "Ocorreu um Erro",
-      "description": "Ocorreu um erro ao usar o WuWa Tracker. Por favor, reporte-o no nosso servidor do Discord para podermos resolvê-lo prontamente."
+      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
-      "title": "Importar Histórico de Convocações - WuWa Tracker",
-      "description": "Siga o nosso tutorial interativo para exibir os seus dados de Wuthering Waves e ver suas estatísticas. Suportamos importações de dispositivos PC, Android e iOS com métodos automáticos. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
+      "title": "Import Convene History - WuWa Tracker",
+      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
       "title": "Não Encontrado",
-      "description": "Esta página não foi encontrada no WuWa Tracker. Por favor, volte à página principal para começar a acompanhar o seu Histórico de Convocações de Wuthering Waves."
+      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "Política de Privacidade - WuWa Tracker",
-      "description": "Este documento de política de privacidade descreve os tipos de informações pessoais recebidas e coletadas pelo Wuwa Tracker e como elas são usadas. WuWa Tracker é um contador de pity para Wuthering Waves, usando os dados mais atualizados com estatísticas globais e mais."
+      "title": "Privacy Policy - WuWa Tracker",
+      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
     },
     "Sequences": {
-      "title": "Sequências - WuWa Tracker",
+      "title": "Sequences - WuWa Tracker",
       "description": "Conte e exiba seus Resonators e Armas duplicados e veja informações relacionadas a eles. Você pode exibi-los para seus amigos!"
     },
     "Settings": {
-      "title": "Configurações - WuWa Tracker",
-      "description": "Sincronize seus dados pelo Google se registando. Gerencie os seus dados de tiros em Wuthering Waves tudo em um só lugar. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com seus amigos e acompanhe sua conta!"
+      "title": "Settings - WuWa Tracker",
+      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Terms & Conditions": {
-      "title": "Termos e Condições - WuWa Tracker",
-      "description": "Estes termos e condições descrevem as regras e regulamentos para o uso do site e serviços do WuWa Tracker."
+      "title": "Terms & Conditions - WuWa Tracker",
+      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
     },
     "Timeline": {
-      "title": "Cronograma de Eventos - WuWa Tracker",
-      "description": "Usando o seu fuso horário local ou qualquer fuso horário do servidor de Wuthering Waves, pode ver o cronograma de todos os banners, eventos no jogo, períodos da Tower of Advesity & Depths of Illusive Realm - tudo em um só lugar. WuWa Tracker conta o pity de Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
+      "title": "Event Timeline - WuWa Tracker",
+      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     }
   },
   "Layout": {
@@ -519,7 +519,7 @@
     },
     "SettingGlobalStats": {
       "title": "Privacidade",
-      "description": "Gerencie as permissões do WuWa Tracker no que toca a lidar com os seus dados."
+      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Submeter dados de tiros para estatísticas globais"
