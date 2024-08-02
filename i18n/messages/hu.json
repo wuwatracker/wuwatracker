@@ -84,8 +84,8 @@
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Kezdők választása húzás",
-    "Convene Giveback Event": "Húzás visszaadás esemény",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
@@ -187,7 +187,7 @@
         "data": "adat",
         "updates": "frissítések"
       },
-      "title": "WuWa Tracker segít követni",
+      "title": "WuWa Tracker helps you track",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "Húzás követés",
     "ConvenePageContent": {
-      "Scroll for More": "Görgess tovább"
+      "Scroll for More": "Görgess tovább",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Globális statisztikák"
