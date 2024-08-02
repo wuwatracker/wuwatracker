@@ -100,54 +100,54 @@
       "description": "最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。データをデバイス間で同期し、引き分け結果を友達と共有し、アカウントを簡単に追跡できます！"
     },
     "Achievements": {
-      "title": "成果 - Wuwa Tracker",
-      "description": "ウーザリングウェーブスの成果を追跡し、データを自由にインポート＆エクスポート！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "Achievements - WuWa Tracker",
+      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Convene": {
       "Index": {
-        "title": "集会履歴 - Wuwa Tracker",
-        "description": "最新のウーザリングウェーブスの引き分け統計と最近の集会を表示。友達に自慢するためのスクリーンショット対応ダッシュボードを使用！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+        "title": "Convene History - WuWa Tracker",
+        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
-        "title": "グローバル統計 - Wuwa Tracker",
-        "description": "{currentBanner}バナー、{currentFeaturedResonator}をフィーチャーしたグローバル引き分け統計を表示！友達に自慢するためのスクリーンショット対応ダッシュボードを使用！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+        "title": "Global Statistics - WuWa Tracker",
+        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "履歴共有 - Wuwa Tracker",
-        "description": "引き分け履歴カードを作成し、友達と共有！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+        "title": "Share History - WuWa Tracker",
+        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Error": {
       "title": "エラーが発生しました - Wuwa Tracker",
-      "description": "Wuwaトラッカーの使用中にエラーが発生しました。迅速に対処するために、当社のDiscordサーバーにレポートを送信してください。"
+      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
-      "title": "集会履歴のインポート - Wuwa Tracker",
-      "description": "ウーザリングウェーブスのデータを表示し、統計を表示する対話型チュートリアルに従ってください。PC、Android、iOSデバイスからの自動メソッドによるインポートをサポートします。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "Import Convene History - WuWa Tracker",
+      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
       "title": "ページが見つかりません - Wuwa Tracker",
-      "description": "このページはWuwaトラッカーで見つかりませんでした。ウーザリングウェーブスの集会履歴データの追跡を開始するには、メインページに戻ってください。"
+      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "プライバシーポリシー - Wuwa Tracker",
-      "description": "このプライバシーポリシードキュメントでは、Wuwaトラッカーが受信し、収集する個人情報のタイプとその使用方法について説明しています。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。"
+      "title": "Privacy Policy - WuWa Tracker",
+      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
     },
     "Sequences": {
-      "title": "シーケンス - Wuwa Tracker",
+      "title": "Sequences - WuWa Tracker",
       "description": "重複するレゾネーターや武器を数えてショーケースに展示し、それに関連する情報を見ることができます。友達に自慢しましょう！"
     },
     "Settings": {
-      "title": "設定 - Wuwa Tracker",
-      "description": "Googleでサインインしてデータを同期します。Wuthering Wavesの引き分けデータをすべて1か所で管理します。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "Settings - WuWa Tracker",
+      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Terms & Conditions": {
-      "title": "利用規約 - Wuwa Tracker",
-      "description": "これらの利用規約は、Wuwaトラッカーのウェブサイトとサービスの使用に関するルールと規制を明確にします。"
+      "title": "Terms & Conditions - WuWa Tracker",
+      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
     },
     "Timeline": {
-      "title": "イベントタイムライン - Wuwa Tracker",
-      "description": "ローカルタイムゾーンまたは任意のウーザリングウェーブスサーバータイムゾーンを使用して、すべてのバナースケジュール、ゲームイベント、Adversity Tower＆Depths of Illusive Realmの期間を1か所で表示できます。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "Event Timeline - WuWa Tracker",
+      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     }
   },
   "Layout": {
@@ -519,7 +519,7 @@
     },
     "SettingGlobalStats": {
       "title": "プライバシー",
-      "description": "Wuwa Trackerがあなたのデータを処理する権限を管理する"
+      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "グローバル統計用にガチャデータを提供する"
