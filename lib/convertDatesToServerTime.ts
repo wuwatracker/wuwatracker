@@ -1,6 +1,6 @@
-import dayjs from 'dayjs';
-import utc from 'dayjs/plugin/utc';
-import timezone from 'dayjs/plugin/timezone';
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+import timezone from "dayjs/plugin/timezone";
 dayjs.extend(utc);
 dayjs.extend(timezone);
 
@@ -14,7 +14,7 @@ dayjs.extend(timezone);
  */
 export const toGameServerTime = (
   dateString: string,
-  targetUtcOffset: number
+  targetUtcOffset: number,
 ) => {
   return dayjs(dateString).utcOffset(targetUtcOffset, true).format();
 };
@@ -23,9 +23,9 @@ export const toGameServerTime = (
  * Used for mapping array objects with `startDate` and `endDate` properties to game server time.
  */
 export const convertDatesToServerTime = <
-  T extends { startDate: string; endDate: string }[]
+  T extends { startDate: string; endDate: string }[],
 >(
-  items: T
+  items: T,
 ): T => {
   const SERVER_TIME_UTC_OFFSET = 8; // UTC+8
 

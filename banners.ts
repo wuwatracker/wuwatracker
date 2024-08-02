@@ -117,15 +117,15 @@ export type CardPoolType = 1 | 2 | 3 | 4 | 5 | 6 | 7;
 export const VALID_CARD_POOL_TYPES: CardPoolType[] = [1, 2, 3, 4, 5, 6, 7];
 
 export function isValidCardPoolType(
-  cardPoolType: number
+  cardPoolType: number,
 ): cardPoolType is CardPoolType {
   return VALID_CARD_POOL_TYPES.includes(cardPoolType as CardPoolType);
 }
 
 export function getBannerDataByCardPoolType(
-  cardPoolType: CardPoolType
+  cardPoolType: CardPoolType,
 ): BannerMetadata {
   return bannerMetadata.find(
-    (banner) => banner.cardPoolType === cardPoolType
+    (banner) => banner.cardPoolType === cardPoolType,
   ) as BannerMetadata;
 }

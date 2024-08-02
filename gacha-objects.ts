@@ -1,8 +1,8 @@
 import {
   fiveStarResonatorMetadata,
   fourStarResonatorMetadata,
-} from './resonators';
-import { fiveStarWeaponMetadata, fourStarWeaponMetadata } from './weapons';
+} from "./resonators";
+import { fiveStarWeaponMetadata, fourStarWeaponMetadata } from "./weapons";
 
 export const fiveStarObjects = {
   ...fiveStarResonatorMetadata,
