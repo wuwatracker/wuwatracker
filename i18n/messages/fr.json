@@ -79,13 +79,13 @@
     "Permanent Resonator": "Résonateurs permanents",
     "Permanent Weapon": "Armes permanentes",
     "Beginner": "Beginner",
-    "Beginner Convene": "Beginner Convene",
+    "Beginner Convene": "Bannière du débutant",
     "Beginner's Choice": "Choix du débutant",
     "Selector Ticket": "Ticket sélecteur",
     "Tidal Chorus": "Chorale des vagues",
     "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "Une voix fraiche",
-    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Beginner's Choice Convene": "Invocation au choix du débutant",
     "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Pulsation tranchante",
     "Prevail the Lasting Night": "Une nuit blanche",
@@ -102,8 +102,8 @@
       "description": "Un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Synchronisez vos données sur plusieurs appareils, partagez vos invocations avec vos amis et suivez facilement votre compte !"
     },
     "Achievements": {
-      "title": "Achievements - WuWa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Trophées - WuWa Tracker",
+      "description": "Suivez vos trophées dans Wuthering Waves, importez et exportez vos données librement sur différents appareils ! WuWa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
     },
     "Convene": {
       "Index": {
