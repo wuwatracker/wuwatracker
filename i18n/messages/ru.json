@@ -246,46 +246,48 @@
       "Convene Categories": "Категории круток"
     },
     "UserRecentConvenes": {
-      "Recent": "Последние",
-      "and": "и",
-      "Convenes": "крутки",
+      "Recent Convenes": "Recent Convenes",
       "no-filters": "Фильтры не выбраны.",
-      "no-records": "Записей не найдено."
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "История круток",
       "Pull Num": "Крутка №.",
       "Item": "Получено",
       "Pity": "Гарант",
-      "Date Received": "Дата и время получения",
-      "no-records": "Записей не найдено."
+      "Date Received": "Дата и время получения"
     },
     "UserBannerStats": {
       "Total": "Всего",
       "Astrites": "Астрита",
       "Pulls": "круток"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "Удача",
-      "no-luck": "У этого баннера нет показателей удачи.",
-      "no-records": "Записей не найдено.",
-      "calibrating": "Калибровка...",
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "Средний гарант",
-          "formula": "Каков ваш средний {qualityLevel}-звёздочный гарант?"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "Частота удачи",
-          "formula": "Каков процент {qualityLevel}-звёздочных круток от общего числа?"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "Побед в 50/50",
-          "formula": "Каков ваш процент выигрыша в 50/50?"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
-          "formula": "Как часто ваши 4-звёздочные крутки были гарантированными?"
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
