@@ -79,6 +79,7 @@
     "Permanent Resonator": "Résonateurs permanents",
     "Permanent Weapon": "Armes permanentes",
     "Beginner": "Beginner",
+    "Beginner Convene": "Beginner Convene",
     "Beginner's Choice": "Choix du débutant",
     "Selector Ticket": "Ticket sélecteur",
     "Tidal Chorus": "Chorale des vagues",
@@ -114,8 +115,8 @@
         "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "Share History - WuWa Tracker",
-        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Partager l'Historique - WuWa Tracker",
+        "description": "Créez une carte avec votre historique d'invocations pour la partager avec vos amis ! WuWa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
       }
     },
     "Error": {
