@@ -78,17 +78,18 @@
     "Featured Weapon": "Vũ Khí Giới Hạn",
     "Permanent Resonator": "Nhân Vật Tiêu Chuẩn",
     "Permanent Weapon": "Vũ Khí Tiêu Chuẩn",
-    "Beginner Convene": "Banner Tân thủ",
+    "Beginner": "Beginner",
     "Beginner's Choice": "Chọn lựa của Tân Thủ",
     "Selector Ticket": "Vé Chọn",
     "Tidal Chorus": "Khúc Triều Đồng",
-    "Winter Brume Banner": "Sương Giá Đông",
+    "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "Kỳ Quan Vọng",
     "Beginner's Choice Convene": "Beginner's Choice Convene",
     "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Xung Động Tuyệt Đối",
     "Prevail the Lasting Night": "Hừng Đông Sau Đêm",
     "When Thunder Pours": "Điện Thiểm Lôi Minh",
+    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Noãn Khởi Tề Uy",
     "Vermillion's Ploy": "Châu Sa Tinh Nghịch"
   },
@@ -263,6 +264,11 @@
       "Astrites": "Astrites",
       "Pulls": "Đã quay được"
     },
+    "BannerSwitcher": {
+      "All Banners": "All Banners",
+      "no-banners": "No banners found.",
+      "search": "Search banner..."
+    },
     "WidgetLuck": {
       "title": "{num}✦ Luck Rating",
       "no-luck": "this banner has no luck stats",
@@ -298,7 +304,8 @@
       "Pulls Per Day": "Lượt Quay Theo Ngày",
       "Pulls By Pity": "Lượt Quay Theo Pity",
       "Pulls By Name": "Đã Quay Ra Theo Tên",
-      "Pulls": "Đã Quay Ra"
+      "Pulls": "Đã Quay Ra",
+      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
     },
     "SharePageContent": {
       "title": "Chia sẻ",
