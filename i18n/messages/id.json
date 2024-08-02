@@ -84,8 +84,8 @@
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
@@ -187,7 +187,7 @@
         "data": "data",
         "updates": "pembaruan"
       },
-      "title": "Wuwa Tracker membantu anda melacak",
+      "title": "WuWa Tracker helps you track",
       "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "Pelacak Convene",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "Scroll for More",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Statistik Global"
