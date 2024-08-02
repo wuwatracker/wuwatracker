@@ -246,46 +246,48 @@
       "Convene Categories": "集音イベントの分類"
     },
     "UserRecentConvenes": {
-      "Recent": "最近の",
-      "and": "と",
-      "Convenes": "集音",
+      "Recent Convenes": "Recent Convenes",
       "no-filters": "フィルターが選択されていません",
-      "no-records": "記録が見つかりませんでした。"
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "集音履歴",
       "Pull Num": "集音回数",
       "Item": "名前",
       "Pity": "天井カウント",
-      "Date Received": "時間",
-      "no-records": "記録が見つかりませんでした。"
+      "Date Received": "時間"
     },
     "UserBannerStats": {
       "Total": "合計",
       "Astrites": "星声",
       "Pulls": "集音"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "幸運値",
-      "no-luck": "この集音には幸運値データがありません。",
-      "no-records": "記録が見つかりませんでした。",
-      "calibrating": "調整中…",
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "平均回数",
-          "formula": "平均的に、星 {qualityLevel} は何回で出ますか？"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "排出率",
-          "formula": "星 {qualityLevel} の排出率は？"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "命中率",
-          "formula": "すり抜けありの状態でピックアップ共鳴者の命中率"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "ピックアップ共鳴者の排出率",
-          "formula": "ピックアップ中の星4キャラの排出率"
+          "title": "Rate-up Wins",
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
