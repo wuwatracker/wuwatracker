@@ -84,8 +84,8 @@
     "Tidal Chorus": "海上共潮生",
     "Winter Brume Banner": "冬煙",
     "Utterance of Marvels": "嚶鳴初相召",
-    "Beginner Selector": "新手自選喚取",
-    "Convene Giveback Event": "自選5星角色感恩答謝活動",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "浮聲沉兵",
     "Prevail the Lasting Night": "夜將寒色去",
     "When Thunder Pours": "驚霆雨時節",
@@ -187,7 +187,7 @@
         "data": "資料",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker 幫你追蹤",
+      "title": "WuWa Tracker helps you track",
       "description": "結合即時全區域抽卡數據的鳴潮喚取計算平台，提供一個可以與朋友分享遊戲進度的展示工具。"
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "喚取數據追蹤",
     "ConvenePageContent": {
-      "Scroll for More": "下拉瀏覽更多"
+      "Scroll for More": "下拉瀏覽更多",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "全球數據"
