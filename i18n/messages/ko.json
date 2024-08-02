@@ -78,17 +78,18 @@
     "Featured Weapon": "무기 이벤트 튜닝",
     "Permanent Resonator": "캐릭터 레귤러 튜닝",
     "Permanent Weapon": "무기 레귤러 튜닝",
-    "Beginner Convene": "초보자 튜닝",
+    "Beginner": "Beginner",
     "Beginner's Choice": "초보자 자유 선택",
     "Selector Ticket": "감사 타겟 튜닝",
     "Tidal Chorus": "울리는 조수",
-    "Winter Brume Banner": "동연 배너",
+    "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "새로운 소리",
     "Beginner's Choice Convene": "Beginner's Choice Convene",
     "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "무기의 울림",
     "Prevail the Lasting Night": "야밤의 청룡",
     "When Thunder Pours": "뇌우의 광란",
+    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "눈 속에 트는 새싹",
     "Vermillion's Ploy": "별빛 속의 화염 깃털"
   },
@@ -263,6 +264,11 @@
       "Astrites": "사용한 별의 소리",
       "Pulls": "튜닝 수"
     },
+    "BannerSwitcher": {
+      "All Banners": "All Banners",
+      "no-banners": "No banners found.",
+      "search": "Search banner..."
+    },
     "WidgetLuck": {
       "title": "{num}✦ Luck Rating",
       "no-luck": "this banner has no luck stats",
@@ -298,7 +304,8 @@
       "Pulls Per Day": "Pulls Per Day",
       "Pulls By Pity": "Pulls By Pity",
       "Pulls By Name": "Pulls By Name",
-      "Pulls": "Pulls"
+      "Pulls": "Pulls",
+      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
     },
     "SharePageContent": {
       "title": "카드 공유하기",
