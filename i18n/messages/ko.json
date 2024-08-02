@@ -84,8 +84,8 @@
     "Tidal Chorus": "울리는 조수",
     "Winter Brume Banner": "동연 배너",
     "Utterance of Marvels": "새로운 소리",
-    "Beginner Selector": "초보자 자유 선택 튜닝",
-    "Convene Giveback Event": "5성 캐릭터 자유 선택 감사 이벤트",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "무기의 울림",
     "Prevail the Lasting Night": "야밤의 청룡",
     "When Thunder Pours": "뇌우의 광란",
@@ -187,7 +187,7 @@
         "data": "data",
         "updates": "updates"
       },
-      "title": "Wuwa Tracker helps you track",
+      "title": "WuWa Tracker helps you track",
       "description": "글로벌 통계 등이 포함된 최신 데이터를 사용한 명조: 워더링 웨이브 천장 카운터. 당신의 게임 진행 상황을 친구들에게 보여줄 수 있는 최고의 도구를 제공하는 것을 목표로 합니다."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "튜닝 트래커",
     "ConvenePageContent": {
-      "Scroll for More": "스크롤해서 더보기"
+      "Scroll for More": "스크롤해서 더보기",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "글로벌 통계"
