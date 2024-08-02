@@ -246,46 +246,48 @@
       "Convene Categories": "唤取类别"
     },
     "UserRecentConvenes": {
-      "Recent": "最近",
-      "and": "和",
-      "Convenes": "唤取",
+      "Recent Convenes": "Recent Convenes",
       "no-filters": "未选择过滤条件",
-      "no-records": "找不到记录"
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "抽卡记录",
       "Pull Num": "抽卡次数",
       "Item": "名称",
       "Pity": "保底",
-      "Date Received": "获取日期",
-      "no-records": "找不到记录"
+      "Date Received": "获取日期"
     },
     "UserBannerStats": {
       "Total": "总计",
       "Astrites": "星声",
       "Pulls": "抽数"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "欧非程度",
-      "no-luck": "这个卡池没有欧非程度的统计数据。",
-      "no-records": "找不到记录",
-      "calibrating": "校准中",
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "平均抽数",
-          "formula": "你的平均 {qualityLevel} 星所需抽数是多少？"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "抽取率",
-          "formula": "您的 {qualityLevel} 星抽取率是？"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "小保底不歪率",
-          "formula": "您的小保底不歪率是？"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "概率提升角色抽取率",
-          "formula": "4星概率提升角色抽取率"
+          "title": "Rate-up Wins",
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
