@@ -84,8 +84,8 @@
     "Tidal Chorus": "Приливной хор",
     "Winter Brume Banner": "Winter Brume Banner",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Баннер новичка с выбором",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Абсолютное Колебание",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "Когда Гремит Гром",
@@ -187,7 +187,7 @@
         "data": "данные",
         "updates": "обновления"
       },
-      "title": "Wuwa Tracker поможет вам отслеживать",
+      "title": "WuWa Tracker helps you track",
       "description": "Счётчик круток для Wuthering Waves, предоставляющий актуальную информацию, с глобальной статистикой и другими полезными функциями. Мы стремимся предоставить лучшие инструменты для того, чтобы вы могли следить за прогрессом своего аккаунта и делиться им с друзьями."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "История круток",
     "ConvenePageContent": {
-      "Scroll for More": "Прокрутите чтобы увидеть больше"
+      "Scroll for More": "Прокрутите чтобы увидеть больше",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальная статистика"
