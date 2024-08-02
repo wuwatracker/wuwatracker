@@ -84,8 +84,8 @@
     "Tidal Chorus": "海上共潮生",
     "Winter Brume Banner": "冬湖烟波",
     "Utterance of Marvels": "万象新声",
-    "Beginner Selector": "新手自选唤取",
-    "Convene Giveback Event": "感恩定向唤取",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "浮声沉兵",
     "Prevail the Lasting Night": "夜将寒色去",
     "When Thunder Pours": "惊霆雨时节",
@@ -187,7 +187,7 @@
         "data": "数据",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker 帮您记录",
+      "title": "WuWa Tracker helps you track",
       "description": "根据全球统计及更多数据，使用最新数据为鸣潮提供的保底计数器。我们致力于提供一个最棒的工具来让您向朋友们展示您的鸣潮进度。"
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "唤取追踪",
     "ConvenePageContent": {
-      "Scroll for More": "滚动查看更多"
+      "Scroll for More": "滚动查看更多",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "全球统计数据"
