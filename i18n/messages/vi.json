@@ -84,8 +84,8 @@
     "Tidal Chorus": "Khúc Triều Đồng",
     "Winter Brume Banner": "Sương Giá Đông",
     "Utterance of Marvels": "Kỳ Quan Vọng",
-    "Beginner Selector": "Tự chọn của Tân Thủ",
-    "Convene Giveback Event": "Sự kiện Lựa chọn Nhân vật 5 Sao",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Xung Động Tuyệt Đối",
     "Prevail the Lasting Night": "Hừng Đông Sau Đêm",
     "When Thunder Pours": "Điện Thiểm Lôi Minh",
@@ -187,7 +187,7 @@
         "data": "dữ liệu",
         "updates": "cập nhật"
       },
-      "title": "Wuwa Tracker giúp Bạn theo dõi",
+      "title": "WuWa Tracker helps you track",
       "description": "Một bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu cập nhật với số liệu thống kê toàn cầu và hơn thế nữa. Chúng tôi mong muốn cung cấp những công cụ tốt nhất để giới thiệu tiến trình Wuthering Waves của bạn với bạn bè."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "Theo dõi Triệu hồi",
     "ConvenePageContent": {
-      "Scroll for More": "Cuộn để biết thêm chi tiết"
+      "Scroll for More": "Cuộn để biết thêm chi tiết",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Thống kê toàn cầu"
