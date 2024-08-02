@@ -100,54 +100,54 @@
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Szinkronizáld az adataidat az eszközeid között, oszd meg a húzásaidat barátaiddal, és könnyedén nyomon követheted a fiókodat!"
     },
     "Achievements": {
-      "title": "Teljesítmények - WuWa Tracker",
-      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importálhatod és exportálhatod az adataidat az összes eszközödre! A WuWa Tracker a Wuthering Waves kívánság számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
+      "title": "Achievements - WuWa Tracker",
+      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Convene": {
       "Index": {
-        "title": "Húzási történet - WuWa Tracker",
-        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "title": "Convene History - WuWa Tracker",
+        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
-        "title": "Globális statisztikák - WuWa Tracker",
-        "description": "Nézd meg a {currentBanner} banner globális húzási statisztikáit, amelyben a {currentFeaturedResonator} szerepel! Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess barátaidnak! WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a számládat!"
+        "title": "Global Statistics - WuWa Tracker",
+        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "Történet megosztása - WuWa Tracker",
-        "description": "Készíts egy húzási előzménykártyát, hogy megoszthasd barátaiddal! WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "title": "Share History - WuWa Tracker",
+        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Error": {
       "title": "Hiba történt",
-      "description": "Hiba történt a WuWa Tracker használata közben. Kérlek, küldj egy jelentést a Discord szerverünkre, hogy azonnal tudjunk intézkedni."
+      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
-      "title": "Húzási előzmény importálás - WuWa Tracker",
-      "description": "Kövesd interaktív útmutatónkat a Wuthering Waves-adatok megjelenítéséhez és a statisztikák megtekintéséhez. Támogatjuk az automatikus módszerekkel történő importálást PC-ről, Android- és iOS-eszközökről. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásodat barátaiddal és kövesd a fiókodat!"
+      "title": "Import Convene History - WuWa Tracker",
+      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
       "title": "Nem található",
-      "description": "Ez az oldal nem található a WuWa Tracker oldalon. Kérlek, térj vissza a főoldalra, hogy elkezdhesd nyomon követni a Wuthering Waves húzási előzményedet."
+      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "Adatvédelmi irányelvek - WuWa Tracker",
-      "description": "Ez az adatvédelmi irányelvek dokumentum ismerteti a WuWa Tracker által kapott és gyűjtött személyes adatok típusait és azok felhasználási módját. A Wuwa követő egy pity számláló a Wuthering Waves számára, amely a naprakész adatokat használja globális statisztikákkal és egyebekkel."
+      "title": "Privacy Policy - WuWa Tracker",
+      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
     },
     "Sequences": {
-      "title": "Sorozatok - WuWa Tracker",
+      "title": "Sequences - WuWa Tracker",
       "description": "Számold- és mutasd meg a karaktereid és fegyvereid. Nézd meg a velük kapcsolatos információkat. Megmutathatod ezeket a barátaidnak!"
     },
     "Settings": {
-      "title": "Beállítások - WuWa Tracker",
-      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Oszd meg húzásaidat barátaiddal és kövesd nyomon a fiókodat!"
+      "title": "Settings - WuWa Tracker",
+      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Terms & Conditions": {
-      "title": "Szerződési feltételek - WuWa Tracker",
-      "description": "Ezek a feltételek a WuWa Tracker weboldalának és szolgáltatásainak használatára vonatkozó szabályokat és előírásokat tartalmazzák."
+      "title": "Terms & Conditions - WuWa Tracker",
+      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
     },
     "Timeline": {
-      "title": "Esemény idővonal - WuWa Tracker",
-      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+      "title": "Event Timeline - WuWa Tracker",
+      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     }
   },
   "Layout": {
@@ -519,7 +519,7 @@
     },
     "SettingGlobalStats": {
       "title": "Adatvédelem",
-      "description": "Kezeld a WuWa Tracker jogosultságait, amikor az adataidat kezeli."
+      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Adatok beküldése a globális statisztikákhoz"
