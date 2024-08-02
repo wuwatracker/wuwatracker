@@ -84,8 +84,8 @@
     "Tidal Chorus": "Приливний хор",
     "Winter Brume Banner": "Зимовий прапор Бруму",
     "Utterance of Marvels": "Висловлювання чудес",
-    "Beginner Selector": "Початкове скликання на вибір",
-    "Convene Giveback Event": "Скликання Відшкодування",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Абосолютні коливання",
     "Prevail the Lasting Night": "Перемогти тривалу Ніч",
     "When Thunder Pours": "Коли гримить грім",
@@ -187,7 +187,7 @@
         "data": "дані",
         "updates": "оновлення"
       },
-      "title": "Wuwa Tracker допомагає відстежувати",
+      "title": "WuWa Tracker helps you track",
       "description": "Лічильник гранту для Wuthering Waves, використовує дані з глобальною статистикою та багато іншого. Ми прагнемо надати найкращі інструменти, щоб похизуватися вашим прогресом з вашими друзям."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "Відстежування Скликань",
     "ConvenePageContent": {
-      "Scroll for More": "Прокрутіть, щоб побачити більше"
+      "Scroll for More": "Прокрутіть, щоб побачити більше",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальна статистика"
