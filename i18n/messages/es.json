@@ -78,17 +78,18 @@
     "Featured Weapon": "Arma destacada",
     "Permanent Resonator": "Resonador permanente",
     "Permanent Weapon": "Arma permanente",
-    "Beginner Convene": "Invocación de novato",
+    "Beginner": "Beginner",
     "Beginner's Choice": "Selección de novato",
     "Selector Ticket": "Boleto selector",
     "Tidal Chorus": "Coro de Marea",
-    "Winter Brume Banner": "Invocación de Bruma Invernal",
+    "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "Declaración de maravillas",
     "Beginner's Choice Convene": "Beginner's Choice Convene",
     "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Pulsación Absoluta",
     "Prevail the Lasting Night": "Prevalece la Noche Duradera",
     "When Thunder Pours": "Cuando el Trueno Cae",
+    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Deshielo en primavera",
     "Vermillion's Ploy": "La estratagema de bermellón"
   },
@@ -263,6 +264,11 @@
       "Astrites": "Astritas",
       "Pulls": "Tiradas"
     },
+    "BannerSwitcher": {
+      "All Banners": "All Banners",
+      "no-banners": "No banners found.",
+      "search": "Search banner..."
+    },
     "WidgetLuck": {
       "title": "{num}✦ Luck Rating",
       "no-luck": "this banner has no luck stats",
@@ -298,7 +304,8 @@
       "Pulls Per Day": "Tiradas por día",
       "Pulls By Pity": "Tiradas por pity",
       "Pulls By Name": "Tiradas por nombre",
-      "Pulls": "Tiradas"
+      "Pulls": "Tiradas",
+      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
     },
     "SharePageContent": {
       "title": "Compartir tarjeta",
