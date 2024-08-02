@@ -84,8 +84,8 @@
     "Tidal Chorus": "Coro de Marea",
     "Winter Brume Banner": "Invocación de Bruma Invernal",
     "Utterance of Marvels": "Declaración de maravillas",
-    "Beginner Selector": "Invocación de elección de novato",
-    "Convene Giveback Event": "Evento de gratitud",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Pulsación Absoluta",
     "Prevail the Lasting Night": "Prevalece la Noche Duradera",
     "When Thunder Pours": "Cuando el Trueno Cae",
@@ -187,7 +187,7 @@
         "data": "datos",
         "updates": "actualizaciones"
       },
-      "title": "Wuwa Tracker te ayuda a seguir tus",
+      "title": "WuWa Tracker helps you track",
       "description": "Un contador de pity para Wuthering Waves, usando los datos más recientes con las estadísticas globales, y más. Nuestro objetivo es proporcionar las mejores herramientas para mostrar tu progreso en Wuthering Waves a tus amigos."
     },
     "Tutorial": {
@@ -233,7 +233,11 @@
   "Convene": {
     "title": "Seguimiento de invocaciones",
     "ConvenePageContent": {
-      "Scroll for More": "Baja para más"
+      "Scroll for More": "Baja para más",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Estadísticas globales"
