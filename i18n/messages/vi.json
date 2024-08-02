@@ -246,46 +246,48 @@
       "Convene Categories": "Mục Triệu Hồi"
     },
     "UserRecentConvenes": {
-      "Recent": " ",
-      "and": "và",
-      "Convenes": "Đã Triệu Hồi",
+      "Recent Convenes": "Recent Convenes",
       "no-filters": "Không có bộ lọc nào được chọn.",
-      "no-records": "Không có dữ liệu được tìm thấy."
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "Lịch sử Triệu hồi",
       "Pull Num": "Lượt quay thứ",
       "Item": "Vật phẩm",
       "Pity": "Pity",
-      "Date Received": "Thời gian ghi nhận",
-      "no-records": "Không có dữ liệu được tìm thấy."
+      "Date Received": "Thời gian ghi nhận"
     },
     "UserBannerStats": {
       "Total": "Tổng lượt",
       "Astrites": "Astrites",
       "Pulls": "Đã quay được"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "Luck",
-      "no-luck": "Banner này không có số liệu thống kê may mắn.",
-      "no-records": "Không có dữ liệu được tìm thấy.",
-      "calibrating": "Đang điều chỉnh...",
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "Pity Trung Bình",
-          "formula": "Pity {qualityLevel}-sao trung bình của bạn là bao nhiêu?"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "Tỉ Lệ Lượt Quay",
-          "formula": "Bao nhiêu % lượt quay của bạn là {qualityLevel}-sao?"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "Tỉ lệ Trúng 50/50",
-          "formula": "Bao nhiêu % nhân vật 5-sao của Bạn không bị lệch?"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "% Trúng Rate-up",
-          "formula": "Bạn có hay roll được nhân vật được tăng tỉ lệ không?"
+          "title": "Rate-up Wins",
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
