@@ -95,7 +95,7 @@
     "Vermillion's Ploy": "Phénix flamboyant"
   },
   "Common": {
-    "Import History": "Importer"
+    "Import History": "Importer votre historique"
   },
   "Metadata": {
     "Generic": {
@@ -195,7 +195,7 @@
     "Tutorial": {
       "title": "Commençons",
       "description": "Bienvenue, Nomade. Commençons, d'accord ?",
-      "View Pull History": "Voir l'historique",
+      "View Pull History": "Voir votre historique",
       "Sync Your Data": "Synchroniser vos données",
       "Your data will now sync automatically!": "Vos données se synchroniseront maintenant automatiquement !"
     },
