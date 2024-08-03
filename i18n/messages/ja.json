@@ -78,19 +78,19 @@
     "Featured Weapon": "ピックアップ武器",
     "Permanent Resonator": "共鳴者集音（恒常）",
     "Permanent Weapon": "武器集音（恒常）",
-    "Beginner": "Beginner",
-    "Beginner Convene": "Beginner Convene",
+    "Beginner": "万象新声",
+    "Beginner Convene": "初心者集音",
     "Beginner's Choice": "初心者応援セレクト",
     "Selector Ticket": "潮波の恩返しチケット",
     "Tidal Chorus": "潮と漲るもの",
-    "Winter Brume": "Winter Brume",
+    "Winter Brume": "冬の湖の霧",
     "Utterance of Marvels": "万象新声",
-    "Beginner's Choice Convene": "Beginner's Choice Convene",
-    "Giveback Event Convene": "Giveback Event Convene",
+    "Beginner's Choice Convene": "初心者応援セレクト集音",
+    "Giveback Event Convene": "潮波の恩返しチケット",
     "Absolute Pulsation": "音を操る利器",
     "Prevail the Lasting Night": "酷寒の果てる夜に",
     "When Thunder Pours": "春を告げる雷雨",
-    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
+    "When Thunder Pours (Early)": "春を告げる雷雨（早期）",
     "Thawborn Renewal": "冬尽きて、春息吹く",
     "Vermillion's Ploy": "星々を弄ぶ焔羽"
   },
@@ -236,10 +236,10 @@
     "title": "集音履歴分析",
     "ConvenePageContent": {
       "Scroll for More": "スクロールしてさらに表示",
-      "Detailed View": "Detailed View",
+      "Detailed View": "詳細",
       "Import History": "履歴をインポート",
       "Global Statistics": "グローバル統計",
-      "Overview": "Overview"
+      "Overview": "概要"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "グローバル統計"
@@ -249,8 +249,8 @@
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",
-      "no-filters": "no filters selected",
-      "no-records": "no records to show",
+      "no-filters": "フィルターが選択されていません",
+      "no-records": "表示できる記録がありません",
       "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
@@ -268,10 +268,10 @@
     "BannerSwitcher": {
       "All Banners": "All Banners",
       "no-banners": "No banners found.",
-      "search": "Search banner..."
+      "search": "ガチャバナーを検索..."
     },
     "WidgetLuck": {
-      "title": "{num}✦ Luck Rating",
+      "title": "{num}✦ 幸運値",
       "no-luck": "this banner has no luck stats",
       "top": "上位 {percentile}%",
       "bottom": "下位 {percentile}%",
@@ -281,16 +281,16 @@
       "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "平均回数",
+          "formula": "平均的に、星 {qualityLevel} は何回で出ますか？"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "排出率",
+          "formula": "星 {qualityLevel} の排出率は？"
         },
         "RateUpWins5": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "命中率",
+          "formula": "すり抜けありの状態でピックアップ共鳴者の命中率"
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
