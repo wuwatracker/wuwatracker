@@ -249,7 +249,7 @@
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",
-      "no-filters": "필터가 선택되지 않았습니다.",
+      "no-filters": "no filters selected",
       "no-records": "no records to show",
       "note-max": "This summary only shows up to {num} recent pulls."
     },
