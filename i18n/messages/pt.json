@@ -90,7 +90,7 @@
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
-    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
+    "When Thunder Pours (Early)": "When Thunder Pours (Antecipado)",
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy"
   },
@@ -125,11 +125,11 @@
     },
     "Import": {
       "title": "Importar Histórico de Convocações - WuWa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "Siga o nosso tutorial interativo para ver os seus dados e estatísticas de Wuthering Waves. Suportamos importações de dispositivos PC, Android e iOS com métodos automáticos. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe a sua conta!"
     },
     "Not Found": {
       "title": "Não Encontrado",
-      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "description": "Esta página não foi encontrada no WuWa Tracker. Por favor, retorne à página inicial para começar acompanhando os seus dados do Histórico de Convocações de Wuthering Waves."
     },
     "Privacy Policy": {
       "title": "Política de Privacidade - WuWa Tracker",
@@ -141,7 +141,7 @@
     },
     "Settings": {
       "title": "Configurações - WuWa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "Sincronize os seus dados pelo Google iniciando sessão. Gerencie os dados dos seus tiros de Wuthering Waves tudo num só lugar. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
     },
     "Terms & Conditions": {
       "title": "Termos & Condições - WuWa Tracker",
