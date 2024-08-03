@@ -236,16 +236,23 @@
     "title": "튜닝 트래커",
     "ConvenePageContent": {
       "Scroll for More": "스크롤해서 더보기",
+      "Switch View": "Switch View",
       "Detailed View": "Detailed View",
       "Import History": "Import History",
+      "Pull History": "Pull History",
       "Global Statistics": "Global Statistics",
-      "Overview": "Overview"
+      "Overview": "Overview",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "글로벌 통계"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "튜닝 카테고리"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",
