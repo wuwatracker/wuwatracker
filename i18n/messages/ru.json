@@ -249,7 +249,7 @@
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",
-      "no-filters": "Фильтры не выбраны.",
+      "no-filters": "no filters selected",
       "no-records": "no records to show",
       "note-max": "This summary only shows up to {num} recent pulls."
     },
