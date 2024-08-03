@@ -236,16 +236,23 @@
     "title": "集音履歴分析",
     "ConvenePageContent": {
       "Scroll for More": "スクロールしてさらに表示",
+      "Switch View": "Switch View",
       "Detailed View": "詳細",
       "Import History": "履歴をインポート",
+      "Pull History": "Pull History",
       "Global Statistics": "グローバル統計",
-      "Overview": "概要"
+      "Overview": "概要",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "グローバル統計"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "集音イベントの分類"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "最近の集音",
