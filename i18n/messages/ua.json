@@ -236,16 +236,23 @@
     "title": "Відстежування Скликань",
     "ConvenePageContent": {
       "Scroll for More": "Прокрутіть, щоб побачити більше",
+      "Switch View": "Switch View",
       "Detailed View": "Detailed View",
       "Import History": "Import History",
+      "Pull History": "Pull History",
       "Global Statistics": "Global Statistics",
-      "Overview": "Overview"
+      "Overview": "Overview",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальна статистика"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Категорія Скликань"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",
