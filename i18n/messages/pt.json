@@ -71,7 +71,7 @@
     "Thunderbolt": "Raio do Trovão",
     "Undying Flame": "Chama Imortal",
     "Variation": "Variação",
-    "Verdant Summit": "Verdant Summit"
+    "Verdant Summit": "Cume Verdejante"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonator em Destaque",
@@ -82,17 +82,17 @@
     "Beginner Convene": "Convocação Inicial",
     "Beginner's Choice": "Escolha Inicial",
     "Selector Ticket": "Cupão de Selecionador",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume": "Winter Brume",
-    "Utterance of Marvels": "Utterance of Marvels",
+    "Tidal Chorus": "Coro da Maré",
+    "Winter Brume": "Bruma de Inverno",
+    "Utterance of Marvels": "Declaração de Maravilhas",
     "Beginner's Choice Convene": "Convocação da Escolha do Iniciante",
     "Giveback Event Convene": "Convocação do Evento de Retorno",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
-    "When Thunder Pours (Early)": "When Thunder Pours (Antecipado)",
-    "Thawborn Renewal": "Thawborn Renewal",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Absolute Pulsation": "Pulsação Absoluta",
+    "Prevail the Lasting Night": "Prevalece a Longa Noite",
+    "When Thunder Pours": "Quando Trovões Chovem",
+    "When Thunder Pours (Early)": "Quando Trovões Chovem (Antecipado)",
+    "Thawborn Renewal": "Degelo Primaveril",
+    "Vermillion's Ploy": "Estratagema Rubro"
   },
   "Common": {
     "Import History": "Importar Histórico"
@@ -116,7 +116,7 @@
       },
       "Share": {
         "title": "Histórico de Compartilhamento - WuWa Tracker",
-        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Crie um cartão do histórico de Convocação com seu histórico de tiros para compartilhar com seus amigos! WuWa Tracker conta o pity de Wuthering Wave, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
       }
     },
     "Error": {
@@ -236,14 +236,14 @@
     "title": "Contador de Convocações",
     "ConvenePageContent": {
       "Scroll for More": "Role para baixo para Mais",
-      "Switch View": "Switch View",
+      "Switch View": "Mudar Visão",
       "Detailed View": "Visão Detalhada",
       "Import History": "Importar Histórico",
-      "Pull History": "Pull History",
+      "Pull History": "Histórico de Tiros",
       "Global Statistics": "Estatísticas Globais",
       "Overview": "Visão geral",
-      "Recent": "Recent",
-      "Table": "Table"
+      "Recent": "Recente",
+      "Table": "Tabela"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Estatísticas Globais"
@@ -252,13 +252,13 @@
       "Convene Categories": "Categorias de Convocação"
     },
     "ConveneCategoryPity": {
-      "pity-counter": "{num}✦ Pity"
+      "pity-counter": "Pity {num}✦"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Convocações Recentes",
       "no-filters": "nenhum filtro selecionado",
-      "no-records": "nenhum registro para apresentar",
-      "note-max": "Este resumo apenas apresenta até os tiros {num} recentes."
+      "no-records": "nenhum registro a apresentar",
+      "note-max": "Este resumo apenas apresenta até {num} tiros recentes."
     },
     "UserPullHistoryTable": {
       "Pull History": "Histórico de Tiros",
