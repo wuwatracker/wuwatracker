@@ -78,17 +78,19 @@
     "Featured Weapon": "Kiemelt fegyver",
     "Permanent Resonator": "Állandó karakter",
     "Permanent Weapon": "Állandó fegyver",
-    "Beginner Convene": "Kezdők húzása",
+    "Beginner": "Beginner",
+    "Beginner Convene": "Beginner Convene",
     "Beginner's Choice": "Kezdők választása",
     "Selector Ticket": "Válogató jegy",
     "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
+    "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Kezdők választása húzás",
-    "Convene Giveback Event": "Húzás visszaadás esemény",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
+    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy"
   },
@@ -100,54 +102,54 @@
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Szinkronizáld az adataidat az eszközeid között, oszd meg a húzásaidat barátaiddal, és könnyedén nyomon követheted a fiókodat!"
     },
     "Achievements": {
-      "title": "Teljesítmények - Wuwa Tracker",
-      "description": "Kövesd nyomon a Wuthering Waves eredményeidet, és szabadon importálhatod és exportálhatod az adataidat az összes eszközödre! A Wuwa Tracker a Wuthering Waves kívánság számlálója, amely a naprakész adatokat használja globális statisztikákkal és még sok mással. Oszd meg a húzásaidat barátaiddal és kövesd a fiókodat!"
+      "title": "Achievements - WuWa Tracker",
+      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Convene": {
       "Index": {
-        "title": "Húzási történet - Wuwa Tracker",
-        "description": "Nézd meg a frissített Wuthering Waves húzási statisztikáidat és a legutóbbi húzásaidat. Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess a barátaidnak! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "title": "Convene History - WuWa Tracker",
+        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
-        "title": "Globális statisztikák - Wuwa Tracker",
-        "description": "Nézd meg a {currentBanner} banner globális húzási statisztikáit, amelyben a {currentFeaturedResonator} szerepel! Használd a képernyőfotókkal ellátott irányítópultot, hogy eldicsekedhess barátaidnak! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a számládat!"
+        "title": "Global Statistics - WuWa Tracker",
+        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "Történet megosztása - Wuwa Tracker",
-        "description": "Készíts egy húzási előzménykártyát, hogy megoszthasd barátaiddal! Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "title": "Share History - WuWa Tracker",
+        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Error": {
       "title": "Hiba történt",
-      "description": "Hiba történt a Wuwa Tracker használata közben. Kérlek, küldj egy jelentést a Discord szerverünkre, hogy azonnal tudjunk intézkedni."
+      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
-      "title": "Húzási előzmény importálás - Wuwa Tracker",
-      "description": "Kövesd interaktív útmutatónkat a Wuthering Waves-adatok megjelenítéséhez és a statisztikák megtekintéséhez. Támogatjuk az automatikus módszerekkel történő importálást PC-ről, Android- és iOS-eszközökről. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásodat barátaiddal és kövesd a fiókodat!"
+      "title": "Import Convene History - WuWa Tracker",
+      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
       "title": "Nem található",
-      "description": "Ez az oldal nem található a Wuwa Tracker oldalon. Kérlek, térj vissza a főoldalra, hogy elkezdhesd nyomon követni a Wuthering Waves húzási előzményedet."
+      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "Adatvédelmi irányelvek - Wuwa Tracker",
-      "description": "Ez az adatvédelmi irányelvek dokumentum ismerteti a Wuwa Tracker által kapott és gyűjtött személyes adatok típusait és azok felhasználási módját. A Wuwa követő egy pity számláló a Wuthering Waves számára, amely a naprakész adatokat használja globális statisztikákkal és egyebekkel."
+      "title": "Privacy Policy - WuWa Tracker",
+      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
     },
     "Sequences": {
-      "title": "Sorozatok - Wuwa Tracker",
+      "title": "Sequences - WuWa Tracker",
       "description": "Számold- és mutasd meg a karaktereid és fegyvereid. Nézd meg a velük kapcsolatos információkat. Megmutathatod ezeket a barátaidnak!"
     },
     "Settings": {
-      "title": "Beállítások - Wuwa Tracker",
-      "description": "Szinkronizáld az adataidat a Google-on keresztül a bejelentkezéssel. Kezeld a Wuthering Waves húzási adataidat egy helyen. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és így tovább. Oszd meg húzásaidat barátaiddal és kövesd nyomon a fiókodat!"
+      "title": "Settings - WuWa Tracker",
+      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Terms & Conditions": {
-      "title": "Szerződési feltételek - Wuwa Tracker",
-      "description": "Ezek a feltételek a Wuwa Tracker weboldalának és szolgáltatásainak használatára vonatkozó szabályokat és előírásokat tartalmazzák."
+      "title": "Terms & Conditions - WuWa Tracker",
+      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
     },
     "Timeline": {
-      "title": "Esemény idővonal - Wuwa Tracker",
-      "description": "A helyi időzónádat vagy bármelyik Wuthering Waves szerver időzónáját használva egy helyen megtekinthetsz minden banner-programot, játékbeli eseményt, a Tower of Adversity és a Depths of Illusive Realm időszakát. Wuwa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+      "title": "Event Timeline - WuWa Tracker",
+      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     }
   },
   "Layout": {
@@ -187,7 +189,7 @@
         "data": "adat",
         "updates": "frissítések"
       },
-      "title": "Wuwa Tracker segít követni",
+      "title": "WuWa Tracker helps you track",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet."
     },
     "Tutorial": {
@@ -233,7 +235,11 @@
   "Convene": {
     "title": "Húzás követés",
     "ConvenePageContent": {
-      "Scroll for More": "Görgess tovább"
+      "Scroll for More": "Görgess tovább",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Globális statisztikák"
@@ -242,46 +248,53 @@
       "Convene Categories": "Húzási kategóriák"
     },
     "UserRecentConvenes": {
-      "Recent": "Legújabb",
-      "and": "és",
-      "Convenes": "Húzások",
-      "no-filters": "Nincs szűrő kiválasztva.",
-      "no-records": "Nem található feljegyzés."
+      "Recent Convenes": "Recent Convenes",
+      "no-filters": "no filters selected",
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "Húzás előzmények",
       "Pull Num": "Húzási szám.",
       "Item": "Tárgy",
       "Pity": "Kívánság",
-      "Date Received": "Megkapás dátuma",
-      "no-records": "Nem található feljegyzés."
+      "Date Received": "Megkapás dátuma"
     },
     "UserBannerStats": {
       "Total": "Összes",
       "Astrites": "Asztritok",
       "Pulls": "húzások"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "szerencse",
-      "no-luck": "Ez a banner nem rendelkezik szerencse statisztikával.",
-      "no-records": "Nem található feljegyzés.",
-      "calibrating": "Kalibrálás...",
+    "BannerSwitcher": {
+      "All Banners": "All Banners",
+      "no-banners": "No banners found.",
+      "search": "Search banner..."
+    },
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "Átlagos kívánság",
-          "formula": "Mennyi az átlagos {qualityLevel}-csillagos kívánságod?"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "Húzási arány",
-          "formula": "Az összes húzásod hány százaléka volt {qualityLevel}-csillagos?"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "50/50 nyerések",
-          "formula": "Az 50/50-es húzások hány százalékát nyerted meg?"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "Felhúzási nyerések",
-          "formula": "Milyen gyakran voltak 4 csillagos húzások?"
+          "title": "Rate-up Wins",
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
@@ -292,7 +305,8 @@
       "Pulls Per Day": "Húzások naponként",
       "Pulls By Pity": "Húzások kívánság szerint",
       "Pulls By Name": "Húzások név szerint",
-      "Pulls": "Húzások"
+      "Pulls": "Húzások",
+      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
     },
     "SharePageContent": {
       "title": "Kártya megosztása",
@@ -308,7 +322,7 @@
     }
   },
   "Import": {
-    "title": "Import",
+    "title": "Importálás",
     "Import Tutorial": "Importálás bemutató",
     "PC": {
       "title": "Számítógép",
@@ -506,7 +520,7 @@
       "Convene History Data": "Húzási történet adatok",
       "Import Tutorial": "Importálás bemutató",
       "Go to Import Tutorial": "Menj a Importálás bemutatóhoz",
-      "description": "Edit your Convene History URL and export it as JSON.",
+      "description": "Szerkeszd meg a húzási előzményeid URL-címét, és exportáld JSON-ként.",
       "Your Convene History URL": "Húzási előzmény URL-címe",
       "Download Your History": "Előzményeid letöltése",
       "Delete Browser Saved Data": "Böngésző mentett adatainak törlése",
@@ -515,7 +529,7 @@
     },
     "SettingGlobalStats": {
       "title": "Adatvédelem",
-      "description": "Kezeld a Wuwa Tracker jogosultságait, amikor az adataidat kezeli."
+      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Adatok beküldése a globális statisztikákhoz"
