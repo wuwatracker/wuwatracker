@@ -236,16 +236,23 @@
     "title": "喚取數據追蹤",
     "ConvenePageContent": {
       "Scroll for More": "下拉瀏覽更多",
+      "Switch View": "Switch View",
       "Detailed View": "Detailed View",
       "Import History": "Import History",
+      "Pull History": "Pull History",
       "Global Statistics": "Global Statistics",
-      "Overview": "Overview"
+      "Overview": "Overview",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "全球數據"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "喚取分類"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",
