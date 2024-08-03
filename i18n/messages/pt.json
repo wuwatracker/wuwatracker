@@ -121,10 +121,10 @@
     },
     "Error": {
       "title": "Ocorreu um Erro",
-      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "description": "Um error ocorreu enquanto usava WuWa Tracker. Por favor, envie um relatório no nosso servidor do Discord para podermos resolvê-lo prontamente."
     },
     "Import": {
-      "title": "Import Convene History - WuWa Tracker",
+      "title": "Importar Histórico de Convocações - WuWa Tracker",
       "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
@@ -132,8 +132,8 @@
       "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - WuWa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "Política de Privacidade - WuWa Tracker",
+      "description": "Este documento de política de privacidade descreve os tipos de informações pessoais recebidas e coletadas por WuWa Tracker e como são usadas. WuWa Tracker é um contador de pity para Wuthering Waves, usando dados atualizados com estatísticas globais e mais."
     },
     "Sequences": {
       "title": "Sequências - WuWa Tracker",
@@ -145,10 +145,10 @@
     },
     "Terms & Conditions": {
       "title": "Termos & Condições - WuWa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
+      "description": "Estes termos e condições descrevem as regras e regulações para o uso do site e serviços WuWa Tracker."
     },
     "Timeline": {
-      "title": "Event Timeline - WuWa Tracker",
+      "title": "Cronograma de Eventos - WuWa Tracker",
       "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     }
   },
@@ -189,7 +189,7 @@
         "data": "dados",
         "updates": "atualizações"
       },
-      "title": "WuWa Tracker helps you track",
+      "title": "WuWa Tracker ajuda a acompanhar",
       "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer as melhores ferramentas para mostrar o seu progresso em Wuthering Waves para os seus amigos."
     },
     "Tutorial": {
@@ -239,7 +239,7 @@
       "Detailed View": "Visão Detalhada",
       "Import History": "Importar Histórico",
       "Global Statistics": "Estatísticas Globais",
-      "Overview": "Overview"
+      "Overview": "Visão geral"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Estatísticas Globais"
@@ -250,8 +250,8 @@
     "UserRecentConvenes": {
       "Recent Convenes": "Convocações Recentes",
       "no-filters": "nenhum filtro selecionado",
-      "no-records": "no records to show",
-      "note-max": "This summary only shows up to {num} recent pulls."
+      "no-records": "nenhum registro para apresentar",
+      "note-max": "Este resumo apenas apresenta até os tiros {num} recentes."
     },
     "UserPullHistoryTable": {
       "Pull History": "Histórico de Tiros",
@@ -266,35 +266,35 @@
       "Pulls": "Tiros"
     },
     "BannerSwitcher": {
-      "All Banners": "All Banners",
-      "no-banners": "No banners found.",
-      "search": "Search banner..."
+      "All Banners": "Todos os Banners",
+      "no-banners": "Nenhum banner encontrado.",
+      "search": "Procurar banner..."
     },
     "WidgetLuck": {
-      "title": "{num}✦ Luck Rating",
-      "no-luck": "this banner has no luck stats",
+      "title": "Avaliação de Sorte {num}✦",
+      "no-luck": "este banner não tem estatísticas de sorte",
       "top": "Top {percentile}%",
-      "bottom": "Bottom {percentile}%",
-      "luckier": "Luckier than {percentile}% of players",
-      "unluckier": "Unluckier than {percentile}% of players",
-      "Pull more to unlock": "Pull more to unlock",
-      "You need more pulls to view statistics": "You need more pulls to view statistics",
+      "bottom": "Fundo {percentile}%",
+      "luckier": "Mais sortudo que {percentile}% dos jogadores",
+      "unluckier": "Mais azarado que {percentile}% dos jogadores",
+      "Pull more to unlock": "Puxe mais para desbloquear",
+      "You need more pulls to view statistics": "Precisa de mais tiros para ver as estatísticas",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Pity Médio",
+          "formula": "Qual é o seu pity {qualityLevel}-estrelas médio?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Proporção de Tiros",
+          "formula": "Que percentagem dos seus tiros totais foram {qualityLevel}-estrelas?"
         },
         "RateUpWins5": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "50/50 Ganhos",
+          "formula": "Que percentagem dos tiros 50/50 ganhou?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Vitórias de Destaques",
+          "formula": "Quão frequentes foram os seus tiros de 4-estrelas destacados?"
         }
       }
     },
@@ -306,7 +306,7 @@
       "Pulls By Pity": "Tiros Por Pity",
       "Pulls By Name": "Tiros Por Nome",
       "Pulls": "Tiros",
-      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
+      "Showing total pulls at each pull number": "Apresentando tiros totais em cada número de tiro"
     },
     "SharePageContent": {
       "title": "Cartão de Compartilhamento",
@@ -529,7 +529,7 @@
     },
     "SettingGlobalStats": {
       "title": "Privacidade",
-      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
+      "description": "Gerencie as permissões de WuWa Tracker em relação ao tratamento dos seus dados."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Submeter dados de tiros para estatísticas globais"
