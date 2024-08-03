@@ -78,17 +78,19 @@
     "Featured Weapon": "ピックアップ武器",
     "Permanent Resonator": "共鳴者集音（恒常）",
     "Permanent Weapon": "武器集音（恒常）",
+    "Beginner": "万象新声",
     "Beginner Convene": "初心者集音",
     "Beginner's Choice": "初心者応援セレクト",
     "Selector Ticket": "潮波の恩返しチケット",
     "Tidal Chorus": "潮と漲るもの",
-    "Winter Brume Banner": "冬の湖の霧",
+    "Winter Brume": "冬の湖の霧",
     "Utterance of Marvels": "万象新声",
-    "Beginner Selector": "初心者応援セレクト集音",
-    "Convene Giveback Event": "星5共鳴者セレクト特別感謝イベント",
+    "Beginner's Choice Convene": "初心者応援セレクト集音",
+    "Giveback Event Convene": "潮波の恩返しチケット",
     "Absolute Pulsation": "音を操る利器",
     "Prevail the Lasting Night": "酷寒の果てる夜に",
     "When Thunder Pours": "春を告げる雷雨",
+    "When Thunder Pours (Early)": "春を告げる雷雨（早期）",
     "Thawborn Renewal": "冬尽きて、春息吹く",
     "Vermillion's Ploy": "星々を弄ぶ焔羽"
   },
@@ -100,54 +102,54 @@
       "description": "最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。データをデバイス間で同期し、引き分け結果を友達と共有し、アカウントを簡単に追跡できます！"
     },
     "Achievements": {
-      "title": "成果 - Wuwa Tracker",
-      "description": "ウーザリングウェーブスの成果を追跡し、データを自由にインポート＆エクスポート！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "実績 - Wuwa Tracker",
+      "description": "鳴潮での実績を追跡し、複数のデバイス間で自由にインポート＆エクスポート！最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     },
     "Convene": {
       "Index": {
-        "title": "集会履歴 - Wuwa Tracker",
-        "description": "最新のウーザリングウェーブスの引き分け統計と最近の集会を表示。友達に自慢するためのスクリーンショット対応ダッシュボードを使用！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+        "title": "集音履歴 - Wuwa Tracker",
+        "description": "更新された鳴潮のガチャ統計と最近の集音を確認しましょう。スクリーンショットに適したダッシュボードを使って友達に自慢しましょう！最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
       },
       "Global": {
-        "title": "グローバル統計 - Wuwa Tracker",
-        "description": "{currentBanner}バナー、{currentFeaturedResonator}をフィーチャーしたグローバル引き分け統計を表示！友達に自慢するためのスクリーンショット対応ダッシュボードを使用！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+        "title": "グローバル統計 - WuWa Tracker",
+        "description": "世界の {currentBanner} キャラクターガチャと {currentFeaturedResonator} 武器ガチャの統計情報を確認しましょう！スクリーンショットに適したダッシュボードを使って友達に自慢しましょう！最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
       },
       "Share": {
-        "title": "履歴共有 - Wuwa Tracker",
-        "description": "引き分け履歴カードを作成し、友達と共有！最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+        "title": "履歴共有 - WuWa Tracker",
+        "description": "最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
       }
     },
     "Error": {
       "title": "エラーが発生しました - Wuwa Tracker",
-      "description": "Wuwaトラッカーの使用中にエラーが発生しました。迅速に対処するために、当社のDiscordサーバーにレポートを送信してください。"
+      "description": "WuWa Tracker の使用中にエラーが発生しました。速やかに対応できるよう、私たちの Discord サーバーにレポートをお送りください。"
     },
     "Import": {
-      "title": "集会履歴のインポート - Wuwa Tracker",
-      "description": "ウーザリングウェーブスのデータを表示し、統計を表示する対話型チュートリアルに従ってください。PC、Android、iOSデバイスからの自動メソッドによるインポートをサポートします。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "集音履歴のインポート - Wuwa Tracker",
+      "description": "操作しやすいチュートリアルに従って、鳴潮での統計情報を確認しましょう。PC、Android、iOS、どちらもサポートしています。最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     },
     "Not Found": {
       "title": "ページが見つかりません - Wuwa Tracker",
-      "description": "このページはWuwaトラッカーで見つかりませんでした。ウーザリングウェーブスの集会履歴データの追跡を開始するには、メインページに戻ってください。"
+      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "プライバシーポリシー - Wuwa Tracker",
-      "description": "このプライバシーポリシードキュメントでは、Wuwaトラッカーが受信し、収集する個人情報のタイプとその使用方法について説明しています。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。"
+      "title": "プライバシーポリシー - WuWa Tracker",
+      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
     },
     "Sequences": {
-      "title": "シーケンス - Wuwa Tracker",
+      "title": "共鳴チェーン - WuWa Tracker",
       "description": "重複するレゾネーターや武器を数えてショーケースに展示し、それに関連する情報を見ることができます。友達に自慢しましょう！"
     },
     "Settings": {
-      "title": "設定 - Wuwa Tracker",
-      "description": "Googleでサインインしてデータを同期します。Wuthering Wavesの引き分けデータをすべて1か所で管理します。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "設定 - WuWa Tracker",
+      "description": "Googleアカウントでサインインしてデータを同期し、ガチャ履歴を管理しましょう。最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     },
     "Terms & Conditions": {
-      "title": "利用規約 - Wuwa Tracker",
-      "description": "これらの利用規約は、Wuwaトラッカーのウェブサイトとサービスの使用に関するルールと規制を明確にします。"
+      "title": "利用規約 - WuWa Tracker",
+      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
     },
     "Timeline": {
-      "title": "イベントタイムライン - Wuwa Tracker",
-      "description": "ローカルタイムゾーンまたは任意のウーザリングウェーブスサーバータイムゾーンを使用して、すべてのバナースケジュール、ゲームイベント、Adversity Tower＆Depths of Illusive Realmの期間を1か所で表示できます。最新のデータとグローバル統計を使用したウーザリングウェーブスのピティカウンター。引き分け結果を友達と共有し、アカウントを追跡します！"
+      "title": "イベントスケージュール - WuWa Tracker",
+      "description": "現地、或いは各サーバーのタイムゾーンを使用して、すべてのガチャ、イベント、逆境深塔＆深層空想秘境の期間を一つの場所で確認できます。最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     }
   },
   "Layout": {
@@ -187,7 +189,7 @@
         "data": "データ",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker で集音履歴をチェック.",
+      "title": "WuWa Tracker はさまざまな情報を追跡できますー",
       "description": "最新データとグローバル統計を使用した鳴潮集音カウンターです。\nあなたの鳴潮での進捗を友人と共有するための最適なツールを提供することを目指しています。"
     },
     "Tutorial": {
@@ -233,7 +235,11 @@
   "Convene": {
     "title": "集音履歴分析",
     "ConvenePageContent": {
-      "Scroll for More": "スクロールしてさらに表示"
+      "Scroll for More": "スクロールしてさらに表示",
+      "Detailed View": "詳細",
+      "Import History": "履歴をインポート",
+      "Global Statistics": "グローバル統計",
+      "Overview": "概要"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "グローバル統計"
@@ -242,30 +248,37 @@
       "Convene Categories": "集音イベントの分類"
     },
     "UserRecentConvenes": {
-      "Recent": "最近の",
-      "and": "と",
-      "Convenes": "集音",
+      "Recent Convenes": "最近の集音",
       "no-filters": "フィルターが選択されていません",
-      "no-records": "記録が見つかりませんでした。"
+      "no-records": "表示できる記録がありません",
+      "note-max": "ここの一覧は最近の {num} 件を表示します"
     },
     "UserPullHistoryTable": {
       "Pull History": "集音履歴",
       "Pull Num": "集音回数",
       "Item": "名前",
       "Pity": "天井カウント",
-      "Date Received": "時間",
-      "no-records": "記録が見つかりませんでした。"
+      "Date Received": "時間"
     },
     "UserBannerStats": {
       "Total": "合計",
       "Astrites": "星声",
       "Pulls": "集音"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "幸運値",
-      "no-luck": "この集音には幸運値データがありません。",
-      "no-records": "記録が見つかりませんでした。",
-      "calibrating": "調整中…",
+    "BannerSwitcher": {
+      "All Banners": "All Banners",
+      "no-banners": "バナーは見つかりません",
+      "search": "バナーを検索..."
+    },
+    "WidgetLuck": {
+      "title": "{num}✦ 幸運値",
+      "no-luck": "このバナーは幸運値データがありません",
+      "top": "上位 {percentile}%",
+      "bottom": "下位 {percentile}%",
+      "luckier": "幸運値は {percentile}% のユーザーより高い",
+      "unluckier": "幸運値は {percentile}% のユーザーより低い",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
           "title": "平均回数",
@@ -275,13 +288,13 @@
           "title": "排出率",
           "formula": "星 {qualityLevel} の排出率は？"
         },
-        "RateUpWins": {
+        "RateUpWins5": {
           "title": "命中率",
           "formula": "すり抜けありの状態でピックアップ共鳴者の命中率"
         },
         "RateUpWins4": {
-          "title": "ピックアップ共鳴者の排出率",
-          "formula": "ピックアップ中の星4キャラの排出率"
+          "title": "ピックアップの排出率",
+          "formula": "ピックアップ中の星4の排出率"
         }
       }
     },
@@ -292,7 +305,8 @@
       "Pulls Per Day": "日ごとの集音回数",
       "Pulls By Pity": "引けた回数",
       "Pulls By Name": "集音合計（名前順）",
-      "Pulls": "集音回数"
+      "Pulls": "集音回数",
+      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
     },
     "SharePageContent": {
       "title": "共有",
@@ -515,7 +529,7 @@
     },
     "SettingGlobalStats": {
       "title": "プライバシー",
-      "description": "Wuwa Trackerがあなたのデータを処理する権限を管理する"
+      "description": "WuWa Trackerがあなたのデータを処理する権限を管理します"
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "グローバル統計用にガチャデータを提供する"

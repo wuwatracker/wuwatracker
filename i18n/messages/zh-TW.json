@@ -78,17 +78,19 @@
     "Featured Weapon": "限定武器",
     "Permanent Resonator": "常駐共鳴者",
     "Permanent Weapon": "常駐武器",
-    "Beginner Convene": "初始喚取",
+    "Beginner": "Beginner",
+    "Beginner Convene": "Beginner Convene",
     "Beginner's Choice": "新手自選",
     "Selector Ticket": "自選卷",
     "Tidal Chorus": "海上共潮生",
-    "Winter Brume Banner": "冬煙",
+    "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "嚶鳴初相召",
-    "Beginner Selector": "新手自選喚取",
-    "Convene Giveback Event": "自選5星角色感恩答謝活動",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "浮聲沉兵",
     "Prevail the Lasting Night": "夜將寒色去",
     "When Thunder Pours": "驚霆雨時節",
+    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "寒盡覺春生",
     "Vermillion's Ploy": "熾羽策陣星"
   },
@@ -100,54 +102,54 @@
       "description": "鳴潮的喚取計算平台，使用全球統計的最新數據。提供跨平台資料同步，輕鬆與朋友分享抽卡成果!"
     },
     "Achievements": {
-      "title": "成就 - Wuwa Tracker",
-      "description": "追蹤您在鳴潮中的成就，自由跨裝置導入/導出數據！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+      "title": "Achievements - WuWa Tracker",
+      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Convene": {
       "Index": {
-        "title": "喚取記錄 - Wuwa Tracker",
-        "description": "查看您在鳴潮中的抽卡數據及最近的喚取記錄。使用方便截圖的頁面向朋友炫耀！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+        "title": "Convene History - WuWa Tracker",
+        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
-        "title": "全球統計數據 - Wuwa Tracker",
-        "description": "查看 {currentFeaturedResonator} 的卡池，{currentBanner} 的全球抽卡統計數據！使用方便截圖的頁面向朋友炫耀！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+        "title": "Global Statistics - WuWa Tracker",
+        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "分享歷史記錄 - Wuwa Tracker",
-        "description": "創建一張包含您的抽卡歷史的喚取記錄卡片與朋友分享！Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+        "title": "Share History - WuWa Tracker",
+        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Error": {
       "title": "發生錯誤",
-      "description": "使用 Wuwa Tracker 時發生錯誤。請回報至我們的 Discord 伺服器，以便我們盡快解決問題。"
+      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
-      "title": "匯入喚取紀錄 - Wuwa Tracker",
-      "description": "按照我們的互動教程顯示您的鳴潮數據並查看您的統計信息。我們支持從 PC、Android 和 iOS 設備導入數據。Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據，與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+      "title": "Import Convene History - WuWa Tracker",
+      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
       "title": "未找到頁面",
-      "description": "在 Wuwa Tracker 上找不到此頁面。請返回主頁開始追蹤您的鳴潮喚取歷史紀錄。"
+      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "隱私政策 - Wuwa Tracker",
-      "description": "本隱私政策闡述了 Wuwa Tracker 接收和收集的個人信息類型及其使用方式。Wuwa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。"
+      "title": "Privacy Policy - WuWa Tracker",
+      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
     },
     "Sequences": {
-      "title": "共鳴鏈 - Wuwa Tracker",
+      "title": "Sequences - WuWa Tracker",
       "description": "計算並展示您的共鳴鏈及武器協振，並查看它們相關的信息，向朋友展示！"
     },
     "Settings": {
-      "title": "設定 - Wuwa Tracker",
-      "description": "通過 Google 登錄以同步您的數據。在一個地方管理您的 Wuthering Waves 抽卡數據。Wuwa Tracker 是鳴潮的喚取計算平台，使用最新數據和全球統計等。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+      "title": "Settings - WuWa Tracker",
+      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Terms & Conditions": {
-      "title": "服務條款 - Wuwa Tracker",
-      "description": "本服務條款闡述了 Wuwa Tracker 網站所提供的服務使用規則與規定。"
+      "title": "Terms & Conditions - WuWa Tracker",
+      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
     },
     "Timeline": {
-      "title": "活動時間軸 - Wuwa Tracker",
-      "description": "使用本地或任何鳴潮伺服器時區，您可以在此查看每個卡池、遊戲活動、逆境之塔和幻境深淵的時間軸。Wuwa Tracker 是鳴潮的喚取計算平台；使用最新數據和全球統計，與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+      "title": "Event Timeline - WuWa Tracker",
+      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     }
   },
   "Layout": {
@@ -187,7 +189,7 @@
         "data": "資料",
         "updates": "更新"
       },
-      "title": "Wuwa Tracker 幫你追蹤",
+      "title": "WuWa Tracker helps you track",
       "description": "結合即時全區域抽卡數據的鳴潮喚取計算平台，提供一個可以與朋友分享遊戲進度的展示工具。"
     },
     "Tutorial": {
@@ -233,7 +235,11 @@
   "Convene": {
     "title": "喚取數據追蹤",
     "ConvenePageContent": {
-      "Scroll for More": "下拉瀏覽更多"
+      "Scroll for More": "下拉瀏覽更多",
+      "Detailed View": "Detailed View",
+      "Import History": "Import History",
+      "Global Statistics": "Global Statistics",
+      "Overview": "Overview"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "全球數據"
@@ -242,46 +248,53 @@
       "Convene Categories": "喚取分類"
     },
     "UserRecentConvenes": {
-      "Recent": "近期",
-      "and": "與",
-      "Convenes": "喚取",
-      "no-filters": "缺少篩選條件。",
-      "no-records": "查無紀錄。"
+      "Recent Convenes": "Recent Convenes",
+      "no-filters": "no filters selected",
+      "no-records": "no records to show",
+      "note-max": "This summary only shows up to {num} recent pulls."
     },
     "UserPullHistoryTable": {
       "Pull History": "喚取記錄",
       "Pull Num": "喚取序",
       "Item": "物件",
       "Pity": "保底",
-      "Date Received": "取得日期",
-      "no-records": "查無資料"
+      "Date Received": "取得日期"
     },
     "UserBannerStats": {
       "Total": "全部",
       "Astrites": "星聲",
       "Pulls": "喚取數量"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "運氣",
-      "no-luck": "卡池缺少運氣數據。",
-      "no-records": "查無紀錄。",
-      "calibrating": "調整中...",
+    "BannerSwitcher": {
+      "All Banners": "All Banners",
+      "no-banners": "No banners found.",
+      "search": "Search banner..."
+    },
+    "WidgetLuck": {
+      "title": "{num}✦ Luck Rating",
+      "no-luck": "this banner has no luck stats",
+      "top": "Top {percentile}%",
+      "bottom": "Bottom {percentile}%",
+      "luckier": "Luckier than {percentile}% of players",
+      "unluckier": "Unluckier than {percentile}% of players",
+      "Pull more to unlock": "Pull more to unlock",
+      "You need more pulls to view statistics": "You need more pulls to view statistics",
       "Percentiles": {
         "AvgPity": {
-          "title": "平均保底",
-          "formula": "你的 {qualityLevel} 星平均保底是多少？"
+          "title": "Average Pity",
+          "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "抽取機率",
-          "formula": "你全部抽取次數中 {qualityLevel} 星的抽取機率是？"
+          "title": "Pull Ratio",
+          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
-        "RateUpWins": {
-          "title": "不歪機率",
-          "formula": "你小保底喚取沒有歪的機率是多少?"
+        "RateUpWins5": {
+          "title": "50/50 Wins",
+          "formula": "What percentage of 50/50 pulls did you win?"
         },
         "RateUpWins4": {
-          "title": "UP角色機率",
-          "formula": "你4星角色抽中加倍角色的機率是多少?"
+          "title": "Rate-up Wins",
+          "formula": "How often were your 4-star pulls rate-up?"
         }
       }
     },
@@ -292,7 +305,8 @@
       "Pulls Per Day": "平均每日喚取",
       "Pulls By Pity": "獲取抽數",
       "Pulls By Name": "角色喚取排名",
-      "Pulls": "喚取數量"
+      "Pulls": "喚取數量",
+      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
     },
     "SharePageContent": {
       "title": "分享卡片",
@@ -515,7 +529,7 @@
     },
     "SettingGlobalStats": {
       "title": "隱私權",
-      "description": "管理 Wuwa Tracker 對於您資料的存取權限"
+      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "提交喚取資料至全球數據"

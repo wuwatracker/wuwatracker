@@ -78,17 +78,19 @@
     "Featured Weapon": "Featured Weapon",
     "Permanent Resonator": "Permanent Resonator",
     "Permanent Weapon": "Permanent Weapon",
+    "Beginner": "Beginner",
     "Beginner Convene": "Beginner Convene",
     "Beginner's Choice": "Beginner's Choice",
     "Selector Ticket": "Selector Ticket",
     "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume Banner": "Winter Brume Banner",
+    "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner Selector": "Beginner's Choice Convene",
-    "Convene Giveback Event": "Convene Giveback Event",
+    "Beginner's Choice Convene": "Beginner's Choice Convene",
+    "Giveback Event Convene": "Giveback Event Convene",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
+    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy"
   },
@@ -101,7 +103,7 @@
     },
     "Achievements": {
       "title": "Prestasi - Wuwa Tracker",
-      "description": "Lacak prestasi Gelombang Wuthering Anda dan impor & ekspor data Anda dengan bebas di semua perangkat! Pelacak Wuwa - Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak akun Anda!"
+      "description": "Lacak prestasi Wuthering Waves Anda dan impor & ekspor data Anda dengan bebas di semua perangkat! Wuwa Tracker - Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil gacha Anda dengan teman dan lacak akun Anda!"
     },
     "Convene": {
       "Index": {
@@ -134,20 +136,20 @@
       "description": "Dokumen kebijakan privasi ini menjelaskan jenis informasi pribadi yang diterima dan dikumpulkan oleh Wuwa Tracker serta bagaimana penggunaannya. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi."
     },
     "Sequences": {
-      "title": "Urutan - Wuwa Tracker",
+      "title": "Sequences - WuWa Tracker",
       "description": "Hitung dan tampilkan duplikat Resonator dan Senjata Anda serta lihat informasi terkait. Anda bisa memamerkannya kepada teman-teman!"
     },
     "Settings": {
       "title": "Pengaturan - Wuwa Tracker",
-      "description": "Sinkronkan data Anda melalui Google dengan masuk. Kelola data tarikan Wuthering Waves Anda di satu tempat. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+      "description": "Sinkronkan data Anda melalui Google dengan login. Kelola data tarikan Wuthering Waves Anda di satu tempat. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
     },
     "Terms & Conditions": {
       "title": "Syarat & Ketentuan - Wuwa Tracker",
       "description": "Syarat dan ketentuan ini menguraikan aturan dan regulasi untuk penggunaan situs web dan layanan Wuwa Tracker."
     },
     "Timeline": {
-      "title": "Garis Waktu Acara - Wuwa Tracker",
-      "description": "Dengan zona waktu lokal atau zona waktu server Gelombang Wuthering mana pun, Anda dapat melihat jadwal setiap spanduk, acara dalam permainan, periode Menara Adversitas dan Kedalaman Dunia Ilusi - semua dalam satu tempat. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
+      "title": "Garis Waktu Event - Wuwa Tracker",
+      "description": "Dengan zona waktu lokal atau zona waktu server Wuthering Waves mana pun, Anda dapat melihat jadwal setiap banner, event dalam permainan, periode Tower of Adversity & Depths of Illusive Realm - semua dalam satu tempat. Wuwa Tracker adalah penghitung pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Bagikan hasil tarikan Anda dengan teman dan lacak akun Anda!"
     }
   },
   "Layout": {
@@ -155,26 +157,26 @@
       "label": "Bantu Terjemahkan"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All assets, game content, and materials are trademarks and copyrights of Kuro Games.",
-      "Privacy Policy": "Privacy Policy",
-      "Terms & Conditions": "Terms & Conditions"
+      "disclaimer": "Kami tidak berafiliasi dengan Wuthering Waves. Semua aset, konten game, dan materi adalah merek dagang dan hak cipta Kuro Games.",
+      "Privacy Policy": "Kebijakan Privasi",
+      "Terms & Conditions": "Syarat & Ketentuan"
     }
   },
   "MenuList": {
-    "Tools": "Tools",
-    "Guides": "Guides",
-    "Config": "Config",
-    "Convene Tracker": "Convene Tracker",
-    "Global Stats": "Global Stats",
-    "Share History": "Share History",
+    "Tools": "Peralatan",
+    "Guides": "Panduan",
+    "Config": "Konfigurasi",
+    "Convene Tracker": "Pelacak Convene",
+    "Global Stats": "Statistik Global",
+    "Share History": "Bagikan Riwayat",
     "Sequences": "Sequences",
-    "Achievements": "Achievements",
-    "Timeline": "Timeline",
-    "Import": "Import",
-    "Settings": "Settings",
-    "Support Us": "Support Us",
-    "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Achievements": "Prestasi",
+    "Timeline": "Linimasa",
+    "Import": "Impor",
+    "Settings": "Pengaturan",
+    "Support Us": "Dukung Kami",
+    "Sign In To Google": "Masuk ke Google",
+    "Sign Out": "Keluar"
   },
   "Dashboard": {
     "title": "Menu",
@@ -233,7 +235,11 @@
   "Convene": {
     "title": "Pelacak Convene",
     "ConvenePageContent": {
-      "Scroll for More": "Scroll for More"
+      "Scroll for More": "Gulir untuk Selengkapnya",
+      "Detailed View": "Tampilan Detail",
+      "Import History": "Impor Riwayat",
+      "Global Statistics": "Statistik Global",
+      "Overview": "Ringkasan"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Statistik Global"
@@ -242,40 +248,47 @@
       "Convene Categories": "Kategori Convene"
     },
     "UserRecentConvenes": {
-      "Recent": "Terbaru",
-      "and": "dan",
-      "Convenes": "Convenes",
-      "no-filters": "Tidak ada filter yang dipilih.",
-      "no-records": "Tidak ada catatan yang ditemukan."
+      "Recent Convenes": "Convenes Terkini",
+      "no-filters": "tidak ada filter yang dipilih",
+      "no-records": "tidak ada catatan untuk ditampilkan",
+      "note-max": "Ringkasan ini hanya menampilkan hingga {num} gacha terkini."
     },
     "UserPullHistoryTable": {
       "Pull History": "Riwayat Gacha",
       "Pull Num": "Gacha No.",
       "Item": "Item",
       "Pity": "Pity",
-      "Date Received": "Tanggal Diterima",
-      "no-records": "Tidak ada catatan yang ditemukan."
+      "Date Received": "Tanggal Diterima"
     },
     "UserBannerStats": {
       "Total": "Total",
       "Astrites": "Astrites",
       "Pulls": "Banyak Gacha"
     },
-    "UserBannerStatsLuckCards": {
-      "Luck": "Keberuntungan",
-      "no-luck": "Banner ini tidak ada statistik keberuntungan.",
-      "no-records": "Tidak ada catatan yang ditemukan.",
-      "calibrating": "Mengkalibrasi...",
+    "BannerSwitcher": {
+      "All Banners": "Semua Banner",
+      "no-banners": "Tidak ada banner yang ditemukan.",
+      "search": "Pilih Banner..."
+    },
+    "WidgetLuck": {
+      "title": "{num}✦ Peringkat Keberuntungan",
+      "no-luck": "banner ini tidak memiliki statistik keberuntungan",
+      "top": "{percentile}% Teratas",
+      "bottom": "{percentile}% Terbawah",
+      "luckier": "Lebih beruntung dari {percentile}% pemain",
+      "unluckier": "Lebih tidak beruntung dibandingkan {percentile}% pemain",
+      "Pull more to unlock": "Gacha lebih banyak untuk membuka",
+      "You need more pulls to view statistics": "Anda memerlukan lebih banyak gacha untuk melihat statistik",
       "Percentiles": {
         "AvgPity": {
-          "title": "Pity Rata-Rata",
+          "title": "Rata-rata Pity",
           "formula": "Berapa Pity rata-rata {qualityLevel}-star Anda?"
         },
         "PullRatio": {
           "title": "Rasio Gacha",
           "formula": "Berapa persentase total gacha {qualityLevel}-stars Anda?"
         },
-        "RateUpWins": {
+        "RateUpWins5": {
           "title": "Kemenangan 50/50",
           "formula": "Berapa persen dari 50/50 gacha yang Anda menangkan?"
         },
@@ -292,7 +305,8 @@
       "Pulls Per Day": "Gacha Per Hari",
       "Pulls By Pity": "Gacha Per Pity",
       "Pulls By Name": "Gacha Per Karakter",
-      "Pulls": "Gacha"
+      "Pulls": "Gacha",
+      "Showing total pulls at each pull number": "Menampilkan total gacha pada setiap nomor gacha-an"
     },
     "SharePageContent": {
       "title": "Bagikan Kartu",
@@ -308,7 +322,7 @@
     }
   },
   "Import": {
-    "title": "Import",
+    "title": "Impor",
     "Import Tutorial": "Panduan Import",
     "PC": {
       "title": "PC",
@@ -506,7 +520,7 @@
       "Convene History Data": "Data Riwayat Convene",
       "Import Tutorial": "Impor Tutorial",
       "Go to Import Tutorial": "Buka Tutorial Impor",
-      "description": "Edit your Convene History URL and export it as JSON.",
+      "description": "Edit URL Riwayat Convene Anda dan ekspor sebagai JSON.",
       "Your Convene History URL": "Alamat Riwayat Convene Anda",
       "Download Your History": "Unduh Riwayat Anda",
       "Delete Browser Saved Data": "Hapus Data Browser yang Tersimpan",
