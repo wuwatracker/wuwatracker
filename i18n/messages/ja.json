@@ -108,11 +108,11 @@
     "Convene": {
       "Index": {
         "title": "集音履歴 - Wuwa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "更新された鳴潮のガチャ統計と最近の集音を確認しましょう。スクリーンショットに適したダッシュボードを使って友達に自慢しましょう！最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
       },
       "Global": {
         "title": "グローバル統計 - WuWa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "世界の {currentBanner} キャラクターガチャと {currentFeaturedResonator} 武器ガチャの統計情報を確認しましょう！スクリーンショットに適したダッシュボードを使って友達に自慢しましょう！最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
       },
       "Share": {
         "title": "履歴共有 - WuWa Tracker",
@@ -121,7 +121,7 @@
     },
     "Error": {
       "title": "エラーが発生しました - Wuwa Tracker",
-      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "description": "WuWa Tracker の使用中にエラーが発生しました。速やかに対応できるよう、私たちの Discord サーバーにレポートをお送りください。"
     },
     "Import": {
       "title": "集音履歴のインポート - Wuwa Tracker",
@@ -141,7 +141,7 @@
     },
     "Settings": {
       "title": "設定 - WuWa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "Googleアカウントでサインインしてデータを同期し、ガチャ履歴を管理しましょう。最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     },
     "Terms & Conditions": {
       "title": "利用規約 - WuWa Tracker",
@@ -149,7 +149,7 @@
     },
     "Timeline": {
       "title": "イベントスケージュール - WuWa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "現地、或いは各サーバーのタイムゾーンを使用して、すべてのガチャ、イベント、逆境深塔＆深層空想秘境の期間を一つの場所で確認できます。最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     }
   },
   "Layout": {
@@ -293,8 +293,8 @@
           "formula": "すり抜けありの状態でピックアップ共鳴者の命中率"
         },
         "RateUpWins4": {
-          "title": "ピックアップ共鳴者の排出率",
-          "formula": "ピックアップ中の星4キャラの排出率"
+          "title": "ピックアップの排出率",
+          "formula": "ピックアップ中の星4の排出率"
         }
       }
     },
