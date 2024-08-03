@@ -120,7 +120,7 @@
       }
     },
     "Error": {
-      "title": "오류 발생 - Wuwa Tracker",
+      "title": "오류 발생 - WuWa Tracker",
       "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
@@ -128,7 +128,7 @@
       "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
-      "title": "페이지를 찾을 수 없음 - Wuwa Tracker",
+      "title": "페이지를 찾을 수 없음 - WuWa Tracker",
       "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
