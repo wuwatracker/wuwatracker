@@ -236,16 +236,23 @@
     "title": "История круток",
     "ConvenePageContent": {
       "Scroll for More": "Прокрутите чтобы увидеть больше",
+      "Switch View": "Switch View",
       "Detailed View": "Подробный вид",
       "Import History": "Импортировать",
+      "Pull History": "Pull History",
       "Global Statistics": "Глобальная статистика",
-      "Overview": "Упрощённый вид"
+      "Overview": "Упрощённый вид",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальная статистика"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Категории круток"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Последние крутки",
