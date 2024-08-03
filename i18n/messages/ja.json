@@ -103,7 +103,7 @@
     },
     "Achievements": {
       "title": "実績 - Wuwa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "鳴潮での実績を追跡し、複数のデバイス間で自由にインポート＆エクスポート！最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     },
     "Convene": {
       "Index": {
@@ -116,7 +116,7 @@
       },
       "Share": {
         "title": "履歴共有 - WuWa Tracker",
-        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
       }
     },
     "Error": {
@@ -125,7 +125,7 @@
     },
     "Import": {
       "title": "集音履歴のインポート - Wuwa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "操作しやすいチュートリアルに従って、鳴潮での統計情報を確認しましょう。PC、Android、iOS、どちらもサポートしています。最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
     },
     "Not Found": {
       "title": "ページが見つかりません - Wuwa Tracker",
@@ -248,10 +248,10 @@
       "Convene Categories": "集音イベントの分類"
     },
     "UserRecentConvenes": {
-      "Recent Convenes": "Recent Convenes",
+      "Recent Convenes": "最近の集音",
       "no-filters": "フィルターが選択されていません",
       "no-records": "表示できる記録がありません",
-      "note-max": "This summary only shows up to {num} recent pulls."
+      "note-max": "ここの一覧は最近の {num} 件を表示します"
     },
     "UserPullHistoryTable": {
       "Pull History": "集音履歴",
@@ -267,12 +267,12 @@
     },
     "BannerSwitcher": {
       "All Banners": "All Banners",
-      "no-banners": "No banners found.",
-      "search": "ガチャバナーを検索..."
+      "no-banners": "バナーは見つかりません",
+      "search": "バナーを検索..."
     },
     "WidgetLuck": {
       "title": "{num}✦ 幸運値",
-      "no-luck": "this banner has no luck stats",
+      "no-luck": "このバナーは幸運値データがありません",
       "top": "上位 {percentile}%",
       "bottom": "下位 {percentile}%",
       "luckier": "幸運値は {percentile}% のユーザーより高い",
@@ -293,8 +293,8 @@
           "formula": "すり抜けありの状態でピックアップ共鳴者の命中率"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "ピックアップ共鳴者の排出率",
+          "formula": "ピックアップ中の星4キャラの排出率"
         }
       }
     },
