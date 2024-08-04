@@ -79,11 +79,11 @@
     "Permanent Resonator": "캐릭터 레귤러 튜닝",
     "Permanent Weapon": "무기 레귤러 튜닝",
     "Beginner": "Beginner",
-    "Beginner Convene": "Beginner Convene",
+    "Beginner Convene": "초보자 튜닝",
     "Beginner's Choice": "초보자 자유 선택",
     "Selector Ticket": "감사 타겟 튜닝",
     "Tidal Chorus": "울리는 조수",
-    "Winter Brume": "Winter Brume",
+    "Winter Brume": "동연 배너",
     "Utterance of Marvels": "새로운 소리",
     "Beginner's Choice Convene": "초보자 자유 선택 튜닝",
     "Giveback Event Convene": "Giveback Event Convene",
@@ -132,24 +132,24 @@
       "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - WuWa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "개인정보 보호 정책 - WuWa Tracker",
+      "description": "이 개인정보 보호정책 문서는 WuWa Tracker가 수신하고 수집하는 개인 정보 유형 및 그 사용 방법을 설명합니다. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다."
     },
     "Sequences": {
-      "title": "Sequences - WuWa Tracker",
+      "title": "시퀀스 - WuWa Tracker",
       "description": "중복된 레조네이터 및 무기를 계산하고 쇼케이스하여 관련 정보를 확인할 수 있습니다. 친구들에게 자랑하세요!"
     },
     "Settings": {
-      "title": "Settings - WuWa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "설정 - WuWa Tracker",
+      "description": "Google 로그인을 통해 데이터를 동기화하세요. 명조: 워더링 웨이브의 뽑기 데이터를 한 곳에서 관리하세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - WuWa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
+      "title": "이용 약관 - WuWa Tracker",
+      "description": "이 이용 약관은 WuWa Tracker 웹 사이트 및 서비스 사용에 대한 규칙과 규정을 명확히 합니다."
     },
     "Timeline": {
-      "title": "Event Timeline - WuWa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "이벤트 타임라인 - WuWa Tracker",
+      "description": "현지 시간대 또는 게임의 서버 시간대를 통해 모든 배너 일정, 게임 이벤트, 역경의 탑 및 신비한 경지 오픈 기간을 한 곳에서 볼 수 있습니다. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
     }
   },
   "Layout": {
@@ -236,8 +236,8 @@
     "title": "튜닝 트래커",
     "ConvenePageContent": {
       "Scroll for More": "스크롤해서 더보기",
-      "Switch View": "Switch View",
-      "Detailed View": "Detailed View",
+      "Switch View": "다르게 보기",
+      "Detailed View": "상세보기",
       "Import History": "Import History",
       "Pull History": "Pull History",
       "Global Statistics": "Global Statistics",
