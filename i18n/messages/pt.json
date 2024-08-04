@@ -18,60 +18,60 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
-    "Abyss Surges": "Ondas do Abismo (Abyss Surges)",
-    "Ages of Harvest": "Eras da Colheita (Ages of Harvest)",
-    "Amity Accord": "Acordo de Amizade (Amity Accord)",
-    "Autumntrace": "Autumntrace",
-    "Beguiling Melody": "Beguiling Melody",
-    "Blazing Brilliance": "Blazing Brilliance",
-    "Broadblade of Night": "Espadão da Noite (Broadblade of Night)",
-    "Broadblade of Voyager": "Espadão do Viajante (Broadblade of Voyager)",
-    "Broadblade#41": "Espadão#41 (Broadblade#41)",
+    "Abyss Surges": "Ondas do Abismo",
+    "Ages of Harvest": "Eras da Colheita",
+    "Amity Accord": "Acordo de Amizade",
+    "Autumntrace": "Vestígio de Outono",
+    "Beguiling Melody": "Melodia de Beguiling",
+    "Blazing Brilliance": "Brilho Ardente",
+    "Broadblade of Night": "Espadão da Noite",
+    "Broadblade of Voyager": "Espadão de Viajante",
+    "Broadblade#41": "Espadão#41",
     "Cadenza": "Cadenza",
-    "Commando of Conviction": "Commando of Conviction",
-    "Comet Flare": "Comet Flare",
-    "Cosmic Ripples": "Cosmic Ripples",
-    "Dauntless Evernight": "Dauntless Evernight",
+    "Commando of Conviction": "Comando de Convicção",
+    "Comet Flare": "Cometa Luminoso",
+    "Cosmic Ripples": "Ondulações Cósmicas",
+    "Dauntless Evernight": "Intrépida Noite Eterna",
     "Discord": "Discórdia (Discord)",
     "Emerald of Genesis": "Esmeralda do Gênesis (Emerald of Genesis)",
-    "Gauntlets of Night": "Gauntlets of Night",
-    "Gauntlets of Voyager": "Gauntlets of Voyager",
-    "Gauntlets#21D": "Manoplas#21D (Gauntlets#21D)",
-    "Guardian Broadblade": "Espadão Guardião (Guardian Broadblade)",
-    "Guardian Gauntlets": "Guardian Gauntlets",
-    "Guardian Pistols": "Guardian Pistols",
-    "Guardian Rectifier": "Guardian Rectifier",
-    "Guardian Sword": "Guardian Sword",
-    "Helios Cleaver": "Espada de Helios (Helios Cleaver)",
-    "Hollow Mirage": "Miragem Oca (Hollow Mirage)",
-    "Jinzhou Keeper": "Zelador de Jinzhou (Jinzhou Keeper)",
-    "Lunar Cutter": "Lunar Cutter",
+    "Gauntlets of Night": "Manoplas da Noite",
+    "Gauntlets of Voyager": "Manoplas de Viajante",
+    "Gauntlets#21D": "Manoplas#21D",
+    "Guardian Broadblade": "Espadão Guardião",
+    "Guardian Gauntlets": "Manoplas Guardiãs",
+    "Guardian Pistols": "Pistolas Guardiãs",
+    "Guardian Rectifier": "Retificador Guardião",
+    "Guardian Sword": "Espada Guardiã",
+    "Helios Cleaver": "Espada de Helios",
+    "Hollow Mirage": "Miragem Oca",
+    "Jinzhou Keeper": "Zelador de Jinzhou",
+    "Lunar Cutter": "Cortador Lunar",
     "Lumingloss": "Lumingloss",
-    "Lustrous Razor": "Lustrous Razor",
+    "Lustrous Razor": "Navalha Lustrosa",
     "Marcato": "Marcato",
-    "Novaburst": "Explosão de Nova (Novaburst)",
+    "Novaburst": "Explosão de Nova",
     "Originite: Type I": "Originite: Tipo I",
     "Originite: Type II": "Orignite: Tipo II",
     "Originite: Type III": "Originite: Tipo III",
     "Originite: Type IV": "Originite: Tipo IV",
     "Originite: Type V": "Originite: Tipo V",
     "Overture": "Overture",
-    "Pistols of Night": "Pistols of Night",
-    "Pistols of Voyager": "Pistols of Voyager",
-    "Pistols#26": "Pistolas#26 (Pistols#26)",
-    "Rectifier of Night": "Rectifier of Night",
-    "Rectifier of Voyager": "Rectifier of Voyager",
-    "Rectifier#25": "Retificador#25 (Rectifier#25)",
-    "Static Mist": "Static Mist",
+    "Pistols of Night": "Pistolas da Noite",
+    "Pistols of Voyager": "Pistolas de Viajante",
+    "Pistols#26": "Pistolas#26",
+    "Rectifier of Night": "Retificador da Noite",
+    "Rectifier of Voyager": "Retificador de Viajante",
+    "Rectifier#25": "Retificador#25",
+    "Static Mist": "Névoa Estática",
     "Stonard": "Stonard",
-    "Stringmaster": "Mestre das Cordas (Stringmaster)",
-    "Sword of Night": "Sword of Night",
-    "Sword of Voyager": "Sword of Voyager",
-    "Sword#18": "Espada#18 (Sword#18)",
-    "Thunderbolt": "Thunderbolt",
-    "Undying Flame": "Undying Flame",
-    "Variation": "Variation",
-    "Verdant Summit": "Verdant Summit"
+    "Stringmaster": "Mestre das Cordas",
+    "Sword of Night": "Espada da Noite",
+    "Sword of Voyager": "Espada de Viajante",
+    "Sword#18": "Espada#18",
+    "Thunderbolt": "Raio do Trovão",
+    "Undying Flame": "Chama Imortal",
+    "Variation": "Variação",
+    "Verdant Summit": "Cume Verdejante"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonator em Destaque",
@@ -82,17 +82,17 @@
     "Beginner Convene": "Convocação Inicial",
     "Beginner's Choice": "Escolha Inicial",
     "Selector Ticket": "Cupão de Selecionador",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume": "Winter Brume",
-    "Utterance of Marvels": "Utterance of Marvels",
+    "Tidal Chorus": "Coro da Maré",
+    "Winter Brume": "Bruma de Inverno",
+    "Utterance of Marvels": "Declaração de Maravilhas",
     "Beginner's Choice Convene": "Convocação da Escolha do Iniciante",
     "Giveback Event Convene": "Convocação do Evento de Retorno",
-    "Absolute Pulsation": "Absolute Pulsation",
-    "Prevail the Lasting Night": "Prevail the Lasting Night",
-    "When Thunder Pours": "When Thunder Pours",
-    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
-    "Thawborn Renewal": "Thawborn Renewal",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Absolute Pulsation": "Pulsação Absoluta",
+    "Prevail the Lasting Night": "Prevalece a Longa Noite",
+    "When Thunder Pours": "Quando Trovões Chovem",
+    "When Thunder Pours (Early)": "Quando Trovões Chovem (Antecipado)",
+    "Thawborn Renewal": "Degelo Primaveril",
+    "Vermillion's Ploy": "Estratagema Rubro"
   },
   "Common": {
     "Import History": "Importar Histórico"
@@ -116,7 +116,7 @@
       },
       "Share": {
         "title": "Histórico de Compartilhamento - WuWa Tracker",
-        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Crie um cartão do histórico de Convocação com seu histórico de tiros para compartilhar com seus amigos! WuWa Tracker conta o pity de Wuthering Wave, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
       }
     },
     "Error": {
@@ -125,11 +125,11 @@
     },
     "Import": {
       "title": "Importar Histórico de Convocações - WuWa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "Siga o nosso tutorial interativo para ver os seus dados e estatísticas de Wuthering Waves. Suportamos importações de dispositivos PC, Android e iOS com métodos automáticos. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe a sua conta!"
     },
     "Not Found": {
       "title": "Não Encontrado",
-      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "description": "Esta página não foi encontrada no WuWa Tracker. Por favor, retorne à página inicial para começar acompanhando os seus dados do Histórico de Convocações de Wuthering Waves."
     },
     "Privacy Policy": {
       "title": "Política de Privacidade - WuWa Tracker",
@@ -141,7 +141,7 @@
     },
     "Settings": {
       "title": "Configurações - WuWa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "Sincronize os seus dados pelo Google iniciando sessão. Gerencie os dados dos seus tiros de Wuthering Waves tudo num só lugar. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
     },
     "Terms & Conditions": {
       "title": "Termos & Condições - WuWa Tracker",
@@ -149,7 +149,7 @@
     },
     "Timeline": {
       "title": "Cronograma de Eventos - WuWa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "Usando o seu fuso horário local ou qualquer fuso horário dos servidores de Wuthering Waves, pode ver os horários de todos os banners, eventos no jogo, períodos da Torre da Adversidade & Profundezas do Reino Ilusório - tudo num só lugar. WuWa Tracker, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros como os seus amigos e acompanhe sua conta!"
     }
   },
   "Layout": {
@@ -236,10 +236,14 @@
     "title": "Contador de Convocações",
     "ConvenePageContent": {
       "Scroll for More": "Role para baixo para Mais",
+      "Switch View": "Mudar Visão",
       "Detailed View": "Visão Detalhada",
       "Import History": "Importar Histórico",
+      "Pull History": "Histórico de Tiros",
       "Global Statistics": "Estatísticas Globais",
-      "Overview": "Visão geral"
+      "Overview": "Visão geral",
+      "Recent": "Recente",
+      "Table": "Tabela"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Estatísticas Globais"
@@ -247,11 +251,14 @@
     "ConveneCategoryNav": {
       "Convene Categories": "Categorias de Convocação"
     },
+    "ConveneCategoryPity": {
+      "pity-counter": "Pity {num}✦"
+    },
     "UserRecentConvenes": {
       "Recent Convenes": "Convocações Recentes",
       "no-filters": "nenhum filtro selecionado",
-      "no-records": "nenhum registro para apresentar",
-      "note-max": "Este resumo apenas apresenta até os tiros {num} recentes."
+      "no-records": "nenhum registro a apresentar",
+      "note-max": "Este resumo apenas apresenta até {num} tiros recentes."
     },
     "UserPullHistoryTable": {
       "Pull History": "Histórico de Tiros",

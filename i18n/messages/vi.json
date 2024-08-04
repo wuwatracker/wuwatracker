@@ -236,16 +236,23 @@
     "title": "Theo dõi Triệu hồi",
     "ConvenePageContent": {
       "Scroll for More": "Cuộn để biết thêm chi tiết",
+      "Switch View": "Switch View",
       "Detailed View": "Detailed View",
       "Import History": "Import History",
+      "Pull History": "Pull History",
       "Global Statistics": "Global Statistics",
-      "Overview": "Overview"
+      "Overview": "Overview",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Thống kê toàn cầu"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Mục Triệu Hồi"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",

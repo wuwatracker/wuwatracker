@@ -236,16 +236,23 @@
     "title": "Pelacak Convene",
     "ConvenePageContent": {
       "Scroll for More": "Gulir untuk Selengkapnya",
+      "Switch View": "Switch View",
       "Detailed View": "Tampilan Detail",
       "Import History": "Impor Riwayat",
+      "Pull History": "Pull History",
       "Global Statistics": "Statistik Global",
-      "Overview": "Ringkasan"
+      "Overview": "Ringkasan",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Statistik Global"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Kategori Convene"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Convenes Terkini",

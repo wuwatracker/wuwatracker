@@ -236,16 +236,23 @@
     "title": "Convene Tracker",
     "ConvenePageContent": {
       "Scroll for More": "Scroll for More",
+      "Switch View": "Switch View",
       "Detailed View": "Detailed View",
       "Import History": "Import History",
+      "Pull History": "Pull History",
       "Global Statistics": "Global Statistics",
-      "Overview": "Overview"
+      "Overview": "Overview",
+      "Recent": "Recent",
+      "Table": "Table"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Global Statistics"
     },
     "ConveneCategoryNav": {
       "Convene Categories": "Convene Categories"
+    },
+    "ConveneCategoryPity": {
+      "pity-counter": "{num}✦ Pity"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Recent Convenes",
