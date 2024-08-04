@@ -85,12 +85,12 @@
     "Tidal Chorus": "海上共潮生",
     "Winter Brume": "冬烟",
     "Utterance of Marvels": "万象新声",
-    "Beginner's Choice Convene": "新手自选抽取",
+    "Beginner's Choice Convene": "新手自选唤取",
     "Giveback Event Convene": "新手自选唤取（感恩定向唤取）",
     "Absolute Pulsation": "浮声沉兵",
     "Prevail the Lasting Night": "夜将寒色去",
     "When Thunder Pours": "惊霆雨时节",
-    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
+    "When Thunder Pours (Early)": "惊霆雨时节 (Early)",
     "Thawborn Renewal": "寒尽觉春生",
     "Vermillion's Ploy": "炽羽策阵星"
   },
@@ -107,11 +107,11 @@
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - WuWa Tracker",
+        "title": "唤取 History - WuWa Tracker",
         "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
-        "title": "Global Statistics - WuWa Tracker",
+        "title": "全球统计数据 - WuWa Tracker",
         "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
@@ -236,11 +236,11 @@
     "title": "抽取追踪器",
     "ConvenePageContent": {
       "Scroll for More": "滚动查看更多",
-      "Switch View": "Switch View",
-      "Detailed View": "Detailed View",
+      "Switch View": "切换视图",
+      "Detailed View": "详情",
       "Import History": "导入历史",
       "Pull History": "推送历史",
-      "Global Statistics": "Global Statistics",
+      "Global Statistics": "全球统计数据",
       "Overview": "概览",
       "Recent": "最近",
       "Table": "Table"
@@ -257,7 +257,7 @@
     "UserRecentConvenes": {
       "Recent Convenes": "最近抽取记录",
       "no-filters": "未选择过滤条件",
-      "no-records": "no records to show",
+      "no-records": "无记录",
       "note-max": "此摘要最多仅显示最近 {num} 次抽取。"
     },
     "UserPullHistoryTable": {
@@ -273,31 +273,31 @@
       "Pulls": "抽数"
     },
     "BannerSwitcher": {
-      "All Banners": "All Banners",
-      "no-banners": "No banners found.",
-      "search": "Search banner..."
+      "All Banners": "所有横幅",
+      "no-banners": "未找到横幅。",
+      "search": "搜索横幅……"
     },
     "WidgetLuck": {
-      "title": "{num}✦ Luck Rating",
-      "no-luck": "this banner has no luck stats",
-      "top": "Top {percentile}%",
-      "bottom": "Bottom {percentile}%",
-      "luckier": "Luckier than {percentile}% of players",
-      "unluckier": "Unluckier than {percentile}% of players",
-      "Pull more to unlock": "Pull more to unlock",
-      "You need more pulls to view statistics": "You need more pulls to view statistics",
+      "title": "{num}✦ 幸运评分",
+      "no-luck": "该旗帜无幸运统计数据",
+      "top": "排名前 {percentile}%",
+      "bottom": "排名后 {percentile}%",
+      "luckier": "比 {percentile}% 玩家更幸运",
+      "unluckier": "比 {percentile}% 玩家更不幸",
+      "Pull more to unlock": "继续抽取以解锁",
+      "You need more pulls to view statistics": "你需要更多抽取记录来显示统计数据",
       "Percentiles": {
         "AvgPity": {
           "title": "平均保底次数",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "formula": "您平均需要多少抽来获取 {qualityLevel} 星商品？"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "五星占比",
+          "formula": "您的抽取记录里面，抽取到 {qualityLevel} 星角色的百分比是多少？"
         },
         "RateUpWins5": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "小保底不歪占比",
+          "formula": "您的小保底里面，抽取到目标角色的小保底的百分比是多少？"
         },
         "RateUpWins4": {
           "title": "Rate-up Wins",
@@ -372,7 +372,7 @@
       "Click to upload": "点击上传",
       "or drag and drop": "或者使用拖放",
       "1": {
-        "title": "首先，运行鸣潮并打开游戏中的唤取历史"
+        "title": "首先，运行《鸣潮》，并打开游戏中的唤取历史"
       },
       "2": {
         "title": "进入您的安装目录",
@@ -391,7 +391,7 @@
     "PC3Tutorial": {
       "invalid-path": "无效的游戏路径",
       "invalid-url": "无效的唤取历史链接",
-      "import-success": "成功导入唤取历史链接",
+      "import-success": "成功导入唤取历史链接！",
       "1": {
         "title": "拷贝您的安装目录",
         "description": "找到包含 <code>Wuthering Waves.exe</code> 和 <code>Client</code> 的文件夹。",
