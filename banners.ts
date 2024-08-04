@@ -1,131 +1,178 @@
-import {
-  limitedCharacterRateUpRules,
-  limitedWeaponRateUpRules,
-} from "./rate-up-rules";
-import { RateUpRule } from "./rate-up-rules";
-
-export interface BannerMetadata {
+/**
+ * Represents a rate-up rule with associated featured gacha item names and date range.
+ */
+export type BannerInfo = {
+  bannerId: number;
   cardPoolType: number;
-  title: string;
-  description: string;
-  featuredName: string;
-  pullCost: number;
-  fiveStarPity: number;
-  fourStarPity: number;
-  luckdrawSrc: string;
-  categorySrc: string;
-  href: string;
-  rules: RateUpRule[];
-}
+  name: string;
+  alt: string;
+  rateUp5Names?: string[]; // List of names for rate-up 5-star items during this rule's date range
+  rateUp4Names?: string[]; // List of names for rate-up 4-star items during this rule's date range
+  startDate: string; // Start date in UTC+8 (inclusive) of the rate-up rule's validity
+  endDate: string; // End date in UTC+8 (inclusive) of the rate-up rule's validity
+  // if the banner doesn't start in their own Server Time, but rather at the same time in the Asia/Shanghai timezone (UTC+8)
+  isCstStart?: boolean;
+  isCstEnd?: boolean;
+};
 
-export const bannerMetadata: BannerMetadata[] = [
+const standardBanners: BannerInfo[] = [
   {
-    cardPoolType: 1,
-    title: "Featured Resonator",
-    description: "Vermillion's Ploy",
-    featuredName: "Changli",
-    pullCost: 160,
-    fiveStarPity: 80,
-    fourStarPity: 10,
-    luckdrawSrc: "/assets/luckdraw/changli.webp",
-    categorySrc: "/assets/portraits/changli.webp",
-    href: "/convene/limited-character",
-    rules: limitedCharacterRateUpRules,
-  },
-  {
-    cardPoolType: 2,
-    title: "Featured Weapon",
-    description: "Absolute Pulsation",
-    featuredName: "Blazing Brilliance",
-    pullCost: 160,
-    fiveStarPity: 80,
-    fourStarPity: 10,
-    luckdrawSrc: "/assets/luckdraw/blazing_brilliance.webp",
-    categorySrc: "/assets/portraits/blazing_brilliance.webp",
-    href: "/convene/limited-weapon",
-    rules: limitedWeaponRateUpRules,
-  },
-  {
+    bannerId: 300001,
     cardPoolType: 3,
-    title: "Permanent Resonator",
-    description: "Tidal Chorus",
-    featuredName: "Encore",
-    pullCost: 160,
-    fiveStarPity: 80,
-    fourStarPity: 10,
-    luckdrawSrc: "/assets/luckdraw/encore.webp",
-    categorySrc: "/assets/portraits/encore.webp",
-    href: "/convene/permanent-character",
-    rules: [],
+    name: "Permanent Resonator",
+    alt: "Tidal Chorus",
+    startDate: "2024-05-21 00:00",
+    endDate: "2222-05-21 00:00",
   },
   {
+    bannerId: 400001,
     cardPoolType: 4,
-    title: "Permanent Weapon",
-    description: "Winter Brume Banner",
-    featuredName: "Lustrous Razor",
-    pullCost: 160,
-    fiveStarPity: 80,
-    fourStarPity: 10,
-    luckdrawSrc: "/assets/luckdraw/lustrous_razor.webp",
-    categorySrc: "/assets/portraits/lustrous_razor.webp",
-    href: "/convene/permanent-weapon",
-    rules: [],
+    name: "Permanent Weapon",
+    alt: "Winter Brume",
+    startDate: "2024-05-21 00:00",
+    endDate: "2222-05-21 00:00",
   },
   {
+    bannerId: 500001,
     cardPoolType: 5,
-    title: "Beginner Convene",
-    description: "Utterance of Marvels",
-    featuredName: "Jianxin",
-    pullCost: 128, // average pulls since it's always discounted
-    fiveStarPity: 50,
-    fourStarPity: 10,
-    luckdrawSrc: "/assets/luckdraw/jianxin.webp",
-    categorySrc: "/assets/portraits/jianxin.webp",
-    href: "/convene/starter",
-    rules: [],
+    name: "Beginner Convene",
+    alt: "Utterance of Marvels",
+    startDate: "2024-05-21 00:00",
+    endDate: "2222-05-21 00:00",
   },
   {
+    bannerId: 600001,
     cardPoolType: 6,
-    title: "Beginner's Choice",
-    description: "Beginner Selector",
-    featuredName: "Calcharo",
-    pullCost: 160,
-    fiveStarPity: 80,
-    fourStarPity: 10,
-    luckdrawSrc: "/assets/luckdraw/calcharo.webp",
-    categorySrc: "/assets/portraits/calcharo.webp",
-    href: "/convene/starter-selector",
-    rules: [],
+    name: "Beginner's Choice Convene",
+    alt: "Beginner's Choice",
+    startDate: "2024-05-21 00:00",
+    endDate: "2222-05-21 00:00",
   },
   {
+    bannerId: 700001,
     cardPoolType: 7,
-    title: "Selector Ticket",
-    description: "Convene Giveback Event",
-    featuredName: "Verina",
-    pullCost: 0,
-    fiveStarPity: 1,
-    fourStarPity: 1,
-    luckdrawSrc: "/assets/luckdraw/verina.webp",
-    categorySrc: "/assets/portraits/verina.webp",
-    href: "/convene/giveback-event",
-    rules: [],
+    name: "Giveback Event Convene",
+    alt: "Selector Ticket",
+    startDate: "2024-05-21 00:00",
+    endDate: "2222-05-21 00:00",
   },
 ];
 
-export type CardPoolType = 1 | 2 | 3 | 4 | 5 | 6 | 7;
-
-export const VALID_CARD_POOL_TYPES: CardPoolType[] = [1, 2, 3, 4, 5, 6, 7];
-
-export function isValidCardPoolType(
-  cardPoolType: number,
-): cardPoolType is CardPoolType {
-  return VALID_CARD_POOL_TYPES.includes(cardPoolType as CardPoolType);
-}
-
-export function getBannerDataByCardPoolType(
-  cardPoolType: CardPoolType,
-): BannerMetadata {
-  return bannerMetadata.find(
-    (banner) => banner.cardPoolType === cardPoolType,
-  ) as BannerMetadata;
-}
+export const banners: BannerInfo[] = [
+  {
+    bannerId: 100001,
+    cardPoolType: 1,
+    name: "Featured Resonator",
+    alt: "Prevail the Lasting Night",
+    rateUp5Names: ["Jiyan"],
+    rateUp4Names: ["Chixia", "Danjin", "Mortefi"],
+    startDate: "2024-05-23 00:00",
+    endDate: "2024-06-06 09:59",
+    isCstStart: true,
+    isCstEnd: true,
+  },
+  {
+    bannerId: 100002,
+    cardPoolType: 1,
+    name: "Featured Resonator",
+    alt: "When Thunder Pours (Early)",
+    rateUp5Names: ["Yinlin", "Jiyan"],
+    rateUp4Names: ["Aalto", "Taoqi", "Yuanwu", "Chixia", "Danjin", "Mortefi"],
+    startDate: "2024-06-06 10:00",
+    endDate: "2024-06-13 09:59",
+    isCstStart: true,
+  },
+  {
+    bannerId: 100003,
+    cardPoolType: 1,
+    name: "Featured Resonator",
+    alt: "When Thunder Pours",
+    rateUp5Names: ["Yinlin"],
+    rateUp4Names: ["Aalto", "Taoqi", "Yuanwu"],
+    startDate: "2024-06-13 10:00",
+    endDate: "2024-06-26 11:59",
+  },
+  {
+    bannerId: 100004,
+    cardPoolType: 1,
+    name: "Featured Resonator",
+    alt: "Thawborn Renewal",
+    rateUp5Names: ["Jinhsi"],
+    rateUp4Names: ["Sanhua", "Yangyang", "Danjin"],
+    startDate: "2024-06-28 12:00",
+    endDate: "2024-07-22 09:59",
+    isCstStart: true,
+  },
+  {
+    bannerId: 100005,
+    cardPoolType: 1,
+    name: "Featured Resonator",
+    alt: "Vermillion's Ploy",
+    rateUp5Names: ["Changli"],
+    rateUp4Names: ["Baizhi", "Taoqi", "Mortefi"],
+    startDate: "2024-07-22 10:00",
+    endDate: "2024-08-14 11:59",
+  },
+  {
+    bannerId: 200001,
+    cardPoolType: 2,
+    name: "Featured Weapon",
+    alt: "Absolute Pulsation",
+    rateUp5Names: ["Verdant Summit"],
+    rateUp4Names: ["Augment", "Hollow Mirage", "Dauntless Evernight"],
+    startDate: "2024-05-23 00:00",
+    endDate: "2024-06-06 09:59",
+    isCstStart: true,
+    isCstEnd: true,
+  },
+  {
+    bannerId: 200002,
+    cardPoolType: 2,
+    name: "Featured Weapon",
+    alt: "Absolute Pulsation",
+    rateUp5Names: ["Stringmaster", "Verdant Summit"],
+    rateUp4Names: [
+      "Augment",
+      "Hollow Mirage",
+      "Dauntless Evernight",
+      "Lunar Cutter",
+      "Cadenza",
+      "Jinzhou Keeper",
+    ],
+    startDate: "2024-06-06 10:00",
+    endDate: "2024-06-13 09:59",
+    isCstStart: true,
+  },
+  {
+    bannerId: 200003,
+    cardPoolType: 2,
+    name: "Featured Weapon",
+    alt: "Absolute Pulsation",
+    rateUp5Names: ["Stringmaster"],
+    rateUp4Names: ["Lunar Cutter", "Cadenza", "Jinzhou Keeper"],
+    startDate: "2024-06-13 10:00",
+    endDate: "2024-06-26 11:59",
+  },
+  {
+    bannerId: 200004,
+    cardPoolType: 2,
+    name: "Featured Weapon",
+    alt: "Absolute Pulsation",
+    rateUp5Names: ["Ages of Harvest"],
+    rateUp4Names: ["Sanhua", "Yangyang", "Danjin"],
+    startDate: "2024-06-28 12:00",
+    endDate: "2024-07-22 09:59",
+    isCstStart: true,
+  },
+  {
+    bannerId: 200005,
+    cardPoolType: 2,
+    name: "Featured Weapon",
+    alt: "Absolute Pulsation",
+    rateUp5Names: ["Blazing Brilliance"],
+    rateUp4Names: ["Baizhi", "Taoqi", "Mortefi"],
+    startDate: "2024-07-22 10:00",
+    endDate: "2024-08-14 11:59",
+  },
+  ...standardBanners,
+];
