@@ -35,7 +35,7 @@ const standardBanners: BannerInfo[] = [
   {
     bannerId: 500001,
     cardPoolType: 5,
-    name: "Beginner Convene",
+    name: "Novice Convene",
     alt: "Utterance of Marvels",
     startDate: "2024-05-21 00:00",
     endDate: "2222-05-21 00:00",
