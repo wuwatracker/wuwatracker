@@ -35,7 +35,7 @@ const standardBanners: BannerInfo[] = [
   {
     bannerId: 500001,
     cardPoolType: 5,
-    name: "Novice Convene",
+    name: "Beginner Convene",
     alt: "Utterance of Marvels",
     startDate: "2024-05-21 00:00",
     endDate: "2222-05-21 00:00",
@@ -90,7 +90,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Yinlin"],
     rateUp4Names: ["Aalto", "Taoqi", "Yuanwu"],
     startDate: "2024-06-13 10:00",
-    endDate: "2024-06-26 11:59",
+    endDate: "2024-06-26 23:59",
   },
   {
     bannerId: 100004,
@@ -151,7 +151,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Stringmaster"],
     rateUp4Names: ["Lunar Cutter", "Cadenza", "Jinzhou Keeper"],
     startDate: "2024-06-13 10:00",
-    endDate: "2024-06-26 11:59",
+    endDate: "2024-06-26 23:59",
   },
   {
     bannerId: 200004,
