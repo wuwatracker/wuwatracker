@@ -149,6 +149,12 @@
     "Timeline": {
       "title": "Event Timeline - WuWa Tracker",
       "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Resonators - WuWa Tracker",
+        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      }
     }
   },
   "Layout": {
@@ -550,6 +556,11 @@
     "ResetTimers": {
       "title": "Täglicher Server Reset Timer",
       "description": "Vergleiche deine Lokale Zeit mit den Wuthering Waves Spiel Servern um dein nächstes Abenteuer zu planen."
+    }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Resonators"
     }
   }
 }
