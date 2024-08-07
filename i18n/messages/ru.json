@@ -149,6 +149,12 @@
     "Timeline": {
       "title": "Календарь событий - WuWa Tracker",
       "description": "Используйте ваш часовой пояс или любой часовой пояс серверов Wuthering Waves, чтобы просматривать расписание каждого баннера, игровых событий, Башни Невзгод и Глубин Царства Иллюзий - все в одном месте. WuWa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Resonators - WuWa Tracker",
+        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      }
     }
   },
   "Layout": {
@@ -550,6 +556,11 @@
     "ResetTimers": {
       "title": "Таймеры ежедневного обновления серверов",
       "description": "Сравните свое местное время со временем игровых серверов Wuthering Waves, чтобы спланировать свое следующее приключение."
+    }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Resonators"
     }
   }
 }
