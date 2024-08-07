@@ -78,8 +78,7 @@
     "Featured Weapon": "Arme limitée",
     "Permanent Resonator": "Résonateurs permanents",
     "Permanent Weapon": "Armes permanentes",
-    "Beginner": "Débutant",
-    "Beginner Convene": "Bannière du débutant",
+    "Novice Convene": "Bannière du débutant",
     "Beginner's Choice": "Choix du débutant",
     "Selector Ticket": "Ticket sélecteur",
     "Tidal Chorus": "Chorale des vagues",
@@ -112,7 +111,7 @@
       },
       "Global": {
         "title": "Statistiques Globales - WuWa Tracker",
-        "description": "Consultez les statistiques mondiales d'invocation pour la bannière {currentBanner}, mettant en vedette {currentFeaturedResonator} ! Utilisez le tableau de bord prêts à l'emploi pour impressionner vos amis ! Wuwa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
+        "description": "Consultez les statistiques mondiales pour la bannière {currentBanner}, mettant en vedette {currentFeaturedResonator} ! Utilisez le tableau de bord pour impressionner vos amis ! WuWa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
       },
       "Share": {
         "title": "Partager l'Historique - WuWa Tracker",
