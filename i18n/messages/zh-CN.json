@@ -149,6 +149,12 @@
     "Timeline": {
       "title": "活动时间线 - WuWa Tracker",
       "description": "您可以使用您本地的时区或任何《鸣潮》服务器时区以查看每个横幅时间表、游戏内事件、逆境之塔和幻境深渊的期间 - 一切尽在一处。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Resonators - WuWa Tracker",
+        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      }
     }
   },
   "Layout": {
@@ -550,6 +556,11 @@
     "ResetTimers": {
       "title": "服务器每日刷新计时器",
       "description": "比较你的本地时间和鸣潮游戏服务器时间来规划接下来的冒险。"
+    }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Resonators"
     }
   }
 }
