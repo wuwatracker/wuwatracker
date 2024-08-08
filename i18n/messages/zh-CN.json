@@ -166,14 +166,14 @@
       "label": "帮助翻译"
     },
     "Footer": {
-      "disclaimer": "本网站与鸣潮并无关联。所有游戏资源、游戏内容、商标素材的及版权均归属于库洛游戏。",
+      "disclaimer": "本网站与《鸣潮》并无关联。所有游戏资源、游戏内容、商标素材及版权均归属于库洛游戏。",
       "Privacy Policy": "隐私政策",
       "Terms & Conditions": "使用条款"
     }
   },
   "MenuList": {
     "Tools": "工具",
-    "Database": "Database",
+    "Database": "数据库",
     "Guides": "指南",
     "Config": "配置",
     "Convene Tracker": "唤取记录",
@@ -185,9 +185,9 @@
     "Timeline": "时间线",
     "Import": "导入",
     "Settings": "设置",
-    "Resonators": "Resonators",
+    "Resonators": "共鸣者",
     "Support Us": "支持我们",
-    "Sign In To Google": "登录谷歌",
+    "Sign In To Google": "登录 Google",
     "Sign Out": "登出"
   },
   "Dashboard": {
@@ -503,31 +503,31 @@
   },
   "Settings": {
     "title": "设置",
-    "Google Account": "谷歌账号",
+    "Google Account": "Google 账号",
     "Browser Data": "浏览器数据",
     "Report an Issue": "报告问题",
     "SettingCloudSync": {
       "sign-out-success": "登出成功。",
       "login-to-sync": "您必须先登录才能开启同步。",
       "import-to-sync": "首先请导入你的数据来开启同步！",
-      "data-is-in-sync": "本地数据与你的谷歌账户中的数据已同步。",
+      "data-is-in-sync": "Google 账户数据已同步。",
       "is-synced": "数据已同步",
       "is-not-synced": "数据未同步",
       "Cloud Backup": "云端储存",
-      "description": "使用你的谷歌账户来储存数据，以便在任何设备上访问你的数据。登录之后，点击”同步数据“按钮来上传或下载数据到你的设备中。",
+      "description": "使用您的 Google 账户来储存数据，以便在任何设备上访问你的数据。一旦登录成功，只需要点击“同步数据”按钮就能够上传数据，或者将数据下载到您的设备中。",
       "Guest": "游客",
-      "Sign In to Google": "登录谷歌",
+      "Sign In to Google": "登录 Google",
       "Log Out": "登出",
       "Sync Data": "同步数据",
-      "Google Data": "谷歌数据",
+      "Google Data": "Google 账户数据",
       "Browser Data": "浏览器数据",
-      "browser-data-different": "你的本地数据和谷歌云端数据不同步。",
-      "browser-data-different-confirmation": "你的特征码为 {localId} 的本地数据与特征码为 ${googleId} 的谷歌账户中的数据冲突。你希望保留浏览器本地数据还是使用谷歌账户中的数据呢？"
+      "browser-data-different": "您浏览器的数据与 Google 账户数据未同步。",
+      "browser-data-different-confirmation": "您浏览器数据的玩家 ID 为 {localId}，而 Google 账户数据的玩家 ID 为 ${googleId}，两者存在冲突。您希望保留浏览器数据还是 Google 账户数据？"
     },
     "SignInButton": {
       "sign-out-success": "登出成功。",
       "Sign out": "登出",
-      "Sign In to Google": "登录谷歌"
+      "Sign In to Google": "登录 Google"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "在下载之前，你需要一个有效的唤取历史链接。",
@@ -567,7 +567,7 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "共鸣者"
     }
   }
 }
