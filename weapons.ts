@@ -10,8 +10,8 @@ export const weaponTypes = {
   Broadblade: {
     url: "/assets/icons/weapon-types/broadblade.webp",
   },
-  Gauntlet: {
-    url: "/assets/icons/weapon-types/gauntlet.webp",
+  Gauntlets: {
+    url: "/assets/icons/weapon-types/gauntlets.webp",
   },
   Gun: {
     url: "/assets/icons/weapon-types/pistols.webp",
@@ -45,7 +45,7 @@ export const fiveStarWeaponMetadata = {
   "Abyss Surges": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/abyss-surges.webp",
-    type: "Gauntlet",
+    type: "Gauntlets",
   },
   "Cosmic Ripples": {
     qualityLevel: 5,
@@ -103,27 +103,27 @@ export const fourStarWeaponMetadata = {
   "Gauntlets#21D": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/gauntlets21d.webp",
-    type: "Gauntlet",
+    type: "Gauntlets",
   },
   "Amity Accord": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/amity-accord.webp",
-    type: "Gauntlet",
+    type: "Gauntlets",
   },
   "Hollow Mirage": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/hollow-mirage.webp",
-    type: "Gauntlet",
+    type: "Gauntlets",
   },
   Marcato: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/marcato.webp",
-    type: "Gauntlet",
+    type: "Gauntlets",
   },
   Stonard: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/stonard.webp",
-    type: "Gauntlet",
+    type: "Gauntlets",
   },
   "Pistols#26": {
     qualityLevel: 4,

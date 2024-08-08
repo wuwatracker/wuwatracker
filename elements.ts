@@ -1,37 +1,37 @@
-type ElementMetadata = Record<string, { img: string; colorClass: string }>;
+type ElementMetadata = Record<string, { img: string; hex: string }>;
 
 export enum ElementsFilterType {
   AERO = "Aero",
   FUSION = "Fusion",
   SPECTRO = "Spectro",
   HAVOC = "Havoc",
-  CONDUCTO = "Conducto",
+  ELECTRO = "Electro",
   GLACIO = "Glacio",
 }
 
 export const elementsMetadata: ElementMetadata = {
   Aero: {
     img: "/assets/icons/elements/aero.png",
-    colorClass: "bg-green-800",
+    hex: "#34d399",
   },
   Fusion: {
     img: "/assets/icons/elements/fusion.png",
-    colorClass: "bg-red-800",
+    hex: "#f87171",
   },
   Spectro: {
     img: "/assets/icons/elements/spectro.png",
-    colorClass: "bg-yellow-800",
+    hex: "#fde68a",
   },
   Havoc: {
     img: "/assets/icons/elements/havoc.png",
-    colorClass: "bg-green-800", // Assuming you meant 'bg-green-800' for Havoc
+    hex: "#ec4899",
   },
-  Conducto: {
-    img: "/assets/icons/elements/conducto.png",
-    colorClass: "bg-purple-800",
+  Electro: {
+    img: "/assets/icons/elements/electro.png",
+    hex: "#e879f9",
   },
   Glacio: {
     img: "/assets/icons/elements/glacio.png",
-    colorClass: "bg-pink-800",
+    hex: "#a5f3fc",
   },
 } as ElementMetadata;
