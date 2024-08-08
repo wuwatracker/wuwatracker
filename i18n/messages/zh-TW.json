@@ -152,7 +152,7 @@
     },
     "Wiki": {
       "Resonator": {
-        "title": "Resonators - WuWa Tracker",
+        "title": "共鳴者 - WuWa Tracker",
         "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     }
@@ -560,7 +560,7 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "共鳴者"
     }
   }
 }
