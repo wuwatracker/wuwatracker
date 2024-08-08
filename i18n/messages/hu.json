@@ -246,9 +246,9 @@
       "Import History": "Import History",
       "Pull History": "Pull History",
       "Global Statistics": "Global Statistics",
-      "Overview": "Overview",
-      "Recent": "Recent",
-      "Table": "Table"
+      "Overview": "Áttekintés",
+      "Recent": "Legújabb",
+      "Table": "Asztal"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Globális statisztikák"
@@ -257,11 +257,11 @@
       "Convene Categories": "Húzási kategóriák"
     },
     "ConveneCategoryPity": {
-      "pity-counter": "{num}✦ Pity"
+      "pity-counter": "{num}✦ Kívánság"
     },
     "UserRecentConvenes": {
-      "Recent Convenes": "Recent Convenes",
-      "no-filters": "no filters selected",
+      "Recent Convenes": "Legújabb húzások",
+      "no-filters": "nincs szűrő kiválasztva",
       "no-records": "no records to show",
       "note-max": "This summary only shows up to {num} recent pulls."
     },
@@ -297,16 +297,16 @@
           "formula": "What is your average {qualityLevel}-star pity?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
+          "title": "Húzási arány",
           "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
         },
         "RateUpWins5": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "50/50 nyerések",
+          "formula": "Az 50/50-es húzások hány százalékát nyerted meg?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Felhúzási nyerések",
+          "formula": "Milyen gyakran voltak 4 csillagos húzások?"
         }
       }
     },
@@ -560,7 +560,7 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "Karakterek"
     }
   }
 }
