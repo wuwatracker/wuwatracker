@@ -13,7 +13,7 @@ export const weaponTypes = {
   Gauntlets: {
     url: "/assets/icons/weapon-types/gauntlets.webp",
   },
-  Gun: {
+  Pistols: {
     url: "/assets/icons/weapon-types/pistols.webp",
   },
   Rectifiers: {
@@ -65,7 +65,7 @@ export const fiveStarWeaponMetadata = {
   "Static Mist": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/static-mist.webp",
-    type: "Gun",
+    type: "Pistols",
   },
 } as WeaponMetadata;
 
@@ -128,32 +128,32 @@ export const fourStarWeaponMetadata = {
   "Pistols#26": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/pistols26.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Overture: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/overture.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Novaburst: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/novaburst.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Cadenza: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/cadenza.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Thunderbolt: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/thunderbolt.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   "Undying Flame": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/undying-flame.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Augment: {
     qualityLevel: 4,
