@@ -78,7 +78,7 @@
     "Featured Weapon": "ピックアップ武器",
     "Permanent Resonator": "共鳴者集音（恒常）",
     "Permanent Weapon": "武器集音（恒常）",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "初心者集音",
     "Beginner's Choice": "初心者応援セレクト",
     "Selector Ticket": "潮波の恩返しチケット",
     "Tidal Chorus": "潮と漲るもの",
@@ -290,7 +290,7 @@
       "luckier": "幸運値は {percentile}% のユーザーより高い",
       "unluckier": "幸運値は {percentile}% のユーザーより低い",
       "Pull more to unlock": "Pull more to unlock",
-      "You need more pulls to view statistics": "You need more pulls to view statistics",
+      "You need more pulls to view statistics": "分析を行うにはより多くのデータが必要です",
       "Percentiles": {
         "AvgPity": {
           "title": "平均回数",
