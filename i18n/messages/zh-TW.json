@@ -154,6 +154,10 @@
       "Resonator": {
         "title": "共鳴者 - WuWa Tracker",
         "description": "查看共鳴者資訊並使用 WuWa Tracker 的素材計算器來規畫你的升級路線。WuWa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
+      },
+      "Item": {
+        "title": "Items - WuWa Tracker",
+        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     }
   },
@@ -169,16 +173,19 @@
   },
   "MenuList": {
     "Tools": "工具",
+    "Database": "Database",
     "Guides": "導覽",
     "Config": "配置",
     "Convene Tracker": "喚取追蹤",
     "Global Stats": "全球數據",
     "Share History": "分享紀錄",
     "Sequences": "共鳴鏈",
+    "Items": "Items",
     "Achievements": "成就",
     "Timeline": "活動時程",
     "Import": "匯入",
     "Settings": "設定",
+    "Resonators": "Resonators",
     "Support Us": "支持我們",
     "Sign In To Google": "使用Google帳號登入",
     "Sign Out": "登出"
