@@ -181,6 +181,7 @@
 
   "MenuList": {
     "Tools": "Tools",
+    "Database": "Database",
     "Guides": "Guides",
     "Config": "Config",
 
@@ -193,6 +194,7 @@
     "Timeline": "Timeline",
     "Import": "Import",
     "Settings": "Settings",
+    "Resonators": "Resonators",
 
     "Support Us": "Support Us",
     "Sign In To Google": "Sign In To Google",
