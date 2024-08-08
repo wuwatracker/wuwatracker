@@ -154,6 +154,10 @@
       "Resonator": {
         "title": "Resonators - WuWa Tracker",
         "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      },
+      "Item": {
+        "title": "Items - WuWa Tracker",
+        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     }
   },
@@ -169,16 +173,19 @@
   },
   "MenuList": {
     "Tools": "Eszközök",
+    "Database": "Database",
     "Guides": "Útmutatók",
     "Config": "Konfiguráció",
     "Convene Tracker": "Húzás követés",
     "Global Stats": "Globális statisztikák",
     "Share History": "Előzmények megosztása",
     "Sequences": "Sorozatok",
+    "Items": "Items",
     "Achievements": "Teljesítmények",
     "Timeline": "Idővonal",
     "Import": "Importálás",
     "Settings": "Beállítások",
+    "Resonators": "Resonators",
     "Support Us": "Támogatás",
     "Sign In To Google": "Bejelentkezés Google-be",
     "Sign Out": "Kijelentkezés"
