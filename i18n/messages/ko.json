@@ -78,19 +78,18 @@
     "Featured Weapon": "무기 이벤트 튜닝",
     "Permanent Resonator": "캐릭터 레귤러 튜닝",
     "Permanent Weapon": "무기 레귤러 튜닝",
-    "Beginner": "초보자",
-    "Beginner Convene": "초보자 튜닝",
+    "Novice Convene": "Novice Convene",
     "Beginner's Choice": "초보자 자유 선택",
     "Selector Ticket": "감사 타겟 튜닝",
     "Tidal Chorus": "울리는 조수",
     "Winter Brume": "동연 배너",
     "Utterance of Marvels": "새로운 소리",
     "Beginner's Choice Convene": "초보자 자유 선택 튜닝",
-    "Giveback Event Convene": "Giveback Event Convene",
+    "Giveback Event Convene": "감사 타겟 튜닝",
     "Absolute Pulsation": "무기의 울림",
     "Prevail the Lasting Night": "야밤의 청룡",
     "When Thunder Pours": "뇌우의 광란",
-    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
+    "When Thunder Pours (Early)": "뇌우의 광란(조기)",
     "Thawborn Renewal": "눈 속에 트는 새싹",
     "Vermillion's Ploy": "별빛 속의 화염 깃털"
   },
@@ -102,7 +101,7 @@
       "description": "최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 모든 기기 간 데이터를 동기화하고, 친구들과 뽑기 결과를 공유하고 계정을 쉽게 추적할 수 있습니다!"
     },
     "Achievements": {
-      "title": "Achievements - WuWa Tracker",
+      "title": "업적 - WuWa Tracker",
       "description": "명조: 워더링 웨이브의 업적을 추적하고, 모든 기기에서 자유롭게 데이터를 가져오고 내보낼 수 있습니다! 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
     },
     "Convene": {
@@ -116,20 +115,20 @@
       },
       "Share": {
         "title": "기록 공유 - WuWa 트래커",
-        "description": "추첨 기록을 공유할 수 있는 모임 기록 카드를 생성하세요! 최신 데이터와 글로벌 통계를 활용한 유더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
+        "description": "뽑기 기록을 공유할 수 있는 튜닝 기록 카드를 생성하세요! 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
       }
     },
     "Error": {
       "title": "오류 발생 - WuWa Tracker",
-      "description": "WuWa Tracker를 사용하는 동안 오류가 발생했습니다. 문제를 신속히 해결하기 위해 Discord 서버로 보고서를 보내 주세요."
+      "description": "WuWa Tracker를 사용하는 동안 오류가 발생했습니다. 문제를 신속히 해결하기 위해 Discord 서버로 문의해주세요."
     },
     "Import": {
-      "title": "모임 기록 가져오기 - WuWa Tracker",
+      "title": "튜닝 기록 가져오기 - WuWa Tracker",
       "description": "명조: 워더링 웨이브 데이터를 표시하고 통계를 보기 위해 상호작용 튜토리얼을 따라 주세요. PC, Android 및 iOS 기기에서 자동으로 제출하는 것을 도와드릴 수 있습니다. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
     },
     "Not Found": {
       "title": "페이지를 찾을 수 없음 - WuWa Tracker",
-      "description": "이 페이지는 WuWa Tracker에서 찾을 수 없습니다. 유더링 웨이브 모임 기록 데이터 추적을 시작하려면 메인 페이지로 돌아가세요."
+      "description": "이 페이지는 WuWa Tracker에서 찾을 수 없습니다. 명조: 워더링 웨이브 뽑기 기록 데이터 추적을 시작하려면 메인 페이지로 돌아가세요."
     },
     "Privacy Policy": {
       "title": "개인정보 보호 정책 - WuWa Tracker",
@@ -284,24 +283,24 @@
       "bottom": "하위 {percentile}%",
       "luckier": "유저의 {percentile}% 보다 운이 좋음",
       "unluckier": "유저의 {percentile}% 보다 운이 나쁨",
-      "Pull more to unlock": "Pull more to unlock",
-      "You need more pulls to view statistics": "You need more pulls to view statistics",
+      "Pull more to unlock": "통계를 위해 더 뽑아주세요",
+      "You need more pulls to view statistics": "통계를 보기 위해서 더 많은 뽑기 횟수가 필요합니다",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "평균 천장",
+          "formula": "평균 {qualityLevel}성 천장은 언제인가요?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "뽑기 비율",
+          "formula": "총 튜닝 횟수 중 몇 퍼센트가 {qualityLevel}성 이었나요?"
         },
         "RateUpWins5": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "반천장 성공률",
+          "formula": "반천장 성공률이 몇 퍼센트인가요?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "확률업 공명자 성공률",
+          "formula": "확률 업 4성이 얼마나 나왔나요?"
         }
       }
     },
@@ -313,7 +312,7 @@
       "Pulls By Pity": "Pulls By Pity",
       "Pulls By Name": "Pulls By Name",
       "Pulls": "Pulls",
-      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
+      "Showing total pulls at each pull number": "뽑기 횟수 별 총 뽑은 횟수"
     },
     "SharePageContent": {
       "title": "카드 공유하기",
@@ -536,7 +535,7 @@
     },
     "SettingGlobalStats": {
       "title": "개인정보",
-      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
+      "description": "WuWa Tracker가 당신의 데이터를 처리할 권한을 관리합니다."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "글로벌 통계용으로 튜닝 데이터를 제공"
