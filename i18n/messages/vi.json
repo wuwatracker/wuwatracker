@@ -154,6 +154,10 @@
       "Resonator": {
         "title": "Resonators - WuWa Tracker",
         "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      },
+      "Item": {
+        "title": "Items - WuWa Tracker",
+        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     }
   },
@@ -169,16 +173,19 @@
   },
   "MenuList": {
     "Tools": "Công cụ",
+    "Database": "Database",
     "Guides": "Hướng dẫn",
     "Config": "Thiết lập",
     "Convene Tracker": "Theo dõi Lượt Quay",
     "Global Stats": "Thống kê Toàn cầu",
     "Share History": "Chia sẻ Lịch sử Quay",
     "Sequences": "Cung mệnh",
+    "Items": "Items",
     "Achievements": "Thành Tựu",
     "Timeline": "Timeline",
     "Import": "Nhập Dữ Liệu",
     "Settings": "Cài Đặt",
+    "Resonators": "Resonators",
     "Support Us": "Ủng Hộ Chúng Tôi",
     "Sign In To Google": "Đăng nhập vào Google",
     "Sign Out": "Đăng xuất"
