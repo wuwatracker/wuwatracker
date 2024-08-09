@@ -16,6 +16,12 @@ export const fiveStarResonatorMetadata = {
     element: "Spectro",
     portraitSrc: "/assets/portraits/frover.webp",
   },
+  Jiyan: {
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/jiyan.webp",
+    element: "Broadblade",
+    portraitSrc: "/assets/portraits/jiyan.webp",
+  },
   Yinlin: {
     qualityLevel: 5,
     imgSrc: "/assets/luckdraw/yinlin.webp",
