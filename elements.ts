@@ -11,27 +11,27 @@ export enum ElementsFilterType {
 
 export const elementsMetadata: ElementMetadata = {
   Aero: {
-    img: "/assets/icons/elements/aero.png",
+    img: "/assets/icons/elements/aero.webp",
     hex: "#34d399",
   },
   Fusion: {
-    img: "/assets/icons/elements/fusion.png",
+    img: "/assets/icons/elements/fusion.webp",
     hex: "#f87171",
   },
   Spectro: {
-    img: "/assets/icons/elements/spectro.png",
+    img: "/assets/icons/elements/spectro.webp",
     hex: "#fde68a",
   },
   Havoc: {
-    img: "/assets/icons/elements/havoc.png",
+    img: "/assets/icons/elements/havoc.webp",
     hex: "#ec4899",
   },
   Electro: {
-    img: "/assets/icons/elements/electro.png",
+    img: "/assets/icons/elements/electro.webp",
     hex: "#e879f9",
   },
   Glacio: {
-    img: "/assets/icons/elements/glacio.png",
+    img: "/assets/icons/elements/glacio.webp",
     hex: "#a5f3fc",
   },
 } as ElementMetadata;

@@ -4,11 +4,17 @@ type ResonatorMetadata = Record<
 >;
 
 export const fiveStarResonatorMetadata = {
-  Jiyan: {
+  "Rover-Havoc": {
     qualityLevel: 5,
-    imgSrc: "/assets/luckdraw/jiyan.webp",
-    element: "Aero",
-    portraitSrc: "/assets/portraits/jiyan.webp",
+    imgSrc: "/assets/luckdraw/mrover.webp",
+    element: "Havoc",
+    portraitSrc: "/assets/portraits/mrover.webp",
+  },
+  "Rover-Spectro": {
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/frover.webp",
+    element: "Spectro",
+    portraitSrc: "/assets/portraits/frover.webp",
   },
   Yinlin: {
     qualityLevel: 5,
