@@ -32,7 +32,7 @@
     "Comet Flare": "Comète éclatant",
     "Cosmic Ripples": "Ondes cosmiques",
     "Dauntless Evernight": "Intrépide éternel",
-    "Discord": "Discord",
+    "Discord": "Discorde",
     "Emerald of Genesis": "Émeraude éternelle",
     "Gauntlets of Night": "Gantelets de Nuit",
     "Gauntlets of Voyager": "Gantelets du Voyageur",
@@ -173,7 +173,7 @@
   },
   "MenuList": {
     "Tools": "Outils",
-    "Database": "Database",
+    "Database": "Base de données",
     "Guides": "Guides",
     "Config": "Configuration",
     "Convene Tracker": "Compteur d'invocations",
