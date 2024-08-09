@@ -13,10 +13,10 @@ export const weaponTypes = {
   Gauntlets: {
     url: "/assets/icons/weapon-types/gauntlets.webp",
   },
-  Gun: {
+  Pistols: {
     url: "/assets/icons/weapon-types/pistols.webp",
   },
-  Rectifiers: {
+  Rectifier: {
     url: "/assets/icons/weapon-types/rectifier.webp",
   },
 } as Record<string, { url: string }>;
@@ -30,7 +30,7 @@ export const fiveStarWeaponMetadata = {
   Stringmaster: {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/stringmaster.webp",
-    type: "Rectifiers",
+    type: "Rectifier",
   },
   "Ages of Harvest": {
     qualityLevel: 5,
@@ -50,7 +50,7 @@ export const fiveStarWeaponMetadata = {
   "Cosmic Ripples": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/cosmic-ripples.webp",
-    type: "Rectifiers",
+    type: "Rectifier",
   },
   "Emerald of Genesis": {
     qualityLevel: 5,
@@ -65,7 +65,7 @@ export const fiveStarWeaponMetadata = {
   "Static Mist": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/static-mist.webp",
-    type: "Gun",
+    type: "Pistols",
   },
 } as WeaponMetadata;
 
@@ -128,57 +128,57 @@ export const fourStarWeaponMetadata = {
   "Pistols#26": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/pistols26.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Overture: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/overture.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Novaburst: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/novaburst.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Cadenza: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/cadenza.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Thunderbolt: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/thunderbolt.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   "Undying Flame": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/undying-flame.webp",
-    type: "Gun",
+    type: "Pistols",
   },
   Augment: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/augment.webp",
-    type: "Rectifiers",
+    type: "Rectifier",
   },
   "Comet Flare": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/comet-flare.webp",
-    type: "Rectifiers",
+    type: "Rectifier",
   },
   "Jinzhou Keeper": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/jinzhou-keeper.webp",
-    type: "Rectifiers",
+    type: "Rectifier",
   },
   Variation: {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/variation.webp",
-    type: "Rectifiers",
+    type: "Rectifier",
   },
   "Rectifier#25": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/rectifier25.webp",
-    type: "Rectifiers",
+    type: "Rectifier",
   },
   "Sword#18": {
     qualityLevel: 4,
