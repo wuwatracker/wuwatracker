@@ -21,6 +21,8 @@ export const weaponTypes = {
   },
 } as Record<string, { url: string }>;
 
+export const validWeaponTypes = Object.keys(weaponTypes);
+
 export const fiveStarWeaponMetadata = {
   "Verdant Summit": {
     qualityLevel: 5,

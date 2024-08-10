@@ -2319,96 +2319,6 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup80/T_IconWup80_016_UI.webp",
   },
   {
-    id: 44010014,
-    slug: "an-error-happened.-please-contact-customer-service",
-    name: "An error happened. Please contact Customer Service",
-    tags: ["Material"],
-    description: "An error happened. Please contact Customer Service",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: ["Scar", "Bell-Borne Geochelone"],
-    sortIndex: 6,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_014_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup160/T_IconWup160_Mo_014_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup80/T_IconWup80_Mo_014_UI.webp",
-  },
-  {
-    id: 44010015,
-    slug: "an-error-happened.-please-contact-customer-service",
-    name: "An error happened. Please contact Customer Service",
-    tags: ["Material"],
-    description: "An error happened. Please contact Customer Service",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: ["Scar", "Bell-Borne Geochelone"],
-    sortIndex: 6,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_015_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup160/T_IconWup160_Mo_015_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup80/T_IconWup80_Mo_015_UI.webp",
-  },
-  {
-    id: 44010016,
-    slug: "an-error-happened.-please-contact-customer-service",
-    name: "An error happened. Please contact Customer Service",
-    tags: ["Material"],
-    description: "An error happened. Please contact Customer Service",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: ["Scar", "Bell-Borne Geochelone"],
-    sortIndex: 6,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_016_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup160/T_IconWup160_Mo_016_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup80/T_IconWup80_Mo_016_UI.webp",
-  },
-  {
-    id: 44010017,
-    slug: "an-error-happened.-please-contact-customer-service",
-    name: "An error happened. Please contact Customer Service",
-    tags: ["Material"],
-    description: "An error happened. Please contact Customer Service",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: ["Scar", "Bell-Borne Geochelone"],
-    sortIndex: 6,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_017_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup160/T_IconWup160_Mo_017_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup80/T_IconWup80_Mo_017_UI.webp",
-  },
-  {
-    id: 44010018,
-    slug: "an-error-happened.-please-contact-customer-service",
-    name: "An error happened. Please contact Customer Service",
-    tags: ["Material"],
-    description: "An error happened. Please contact Customer Service",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: ["Scar", "Bell-Borne Geochelone"],
-    sortIndex: 6,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup/T_IconWup_Mo_018_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup160/T_IconWup160_Mo_018_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWup80/T_IconWup80_Mo_018_UI.webp",
-  },
-  {
     id: 44010025,
     slug: "wood-textured-shard",
     name: "Wood-textured Shard",
@@ -2426,24 +2336,6 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_currency_4_UI.webp",
     iconSmallSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_currency_4_UI.webp",
-  },
-  {
-    id: 44010026,
-    slug: "an-error-happened.-please-contact-customer-service",
-    name: "An error happened. Please contact Customer Service",
-    tags: ["Special Token"],
-    description: "An error happened. Please contact Customer Service",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: ["Tacet Field (First-Clear)"],
-    sortIndex: 0,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_currency_6_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_currency_6_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_currency_6_UI.webp",
   },
   {
     id: 50001,
@@ -5118,10 +5010,7 @@ export const items = [
     id: 80050000,
     slug: "flour",
     name: "Flour",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "Food made from ground wheat, rich in starch, often used for making staple food.",
@@ -5139,10 +5028,7 @@ export const items = [
     id: 80050001,
     slug: "cooking-oil",
     name: "Cooking oil",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "Cooking oil made from animal fat or oil-producing plants, an essential Material in cooking.",
@@ -5160,10 +5046,7 @@ export const items = [
     id: 80050002,
     slug: "chili",
     name: "Chili",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "A plant that can give a spicy stimulus, popular all over the world.",
@@ -5181,10 +5064,7 @@ export const items = [
     id: 80050003,
     slug: "sugar",
     name: "Sugar",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "The main source of sweetness, often associated with a sense of happiness.",
@@ -5202,10 +5082,7 @@ export const items = [
     id: 80050004,
     slug: "tea",
     name: "Tea",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "The raw material of a beverage that once swept the world, rich in a variety of nutritious substances.",
@@ -5223,10 +5100,7 @@ export const items = [
     id: 80050005,
     slug: "milk",
     name: "Milk",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "A natural dairy product, not only suitable for direct drinking, but also can provide a unique milk flavor for the dish.",
@@ -5244,10 +5118,7 @@ export const items = [
     id: 80050006,
     slug: "rice",
     name: "Rice",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "The product of processed rice, rich in carbohydrates, is one of the most important staple food sources in the world.",
@@ -5265,10 +5136,7 @@ export const items = [
     id: 80050007,
     slug: "kudzu-root",
     name: "Kudzu Root",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "The dried root of a legume plant, with unique food and medicinal value.",
@@ -5286,10 +5154,7 @@ export const items = [
     id: 80050008,
     slug: "salt",
     name: "Salt",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "A condiment dubbed as the king of all condiments that brings the taste that’s indispensable for every dish.",
@@ -5307,10 +5172,7 @@ export const items = [
     id: 80050009,
     slug: "beans",
     name: "Beans",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "The fruit of a legume plant, rich in protein, is known as plant meat.",
@@ -5328,10 +5190,7 @@ export const items = [
     id: 80050010,
     slug: "vinegar",
     name: "Vinegar",
-    tags: [
-      "Cooking Ingredient",
-      "Please contact our Customer Service for assistance",
-    ],
+    tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
       "Vinegar is a fermented sour liquid condiment, found in every kitchen for as long as the human civilization exists.",
@@ -5599,186 +5458,6 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWeapon160/T_IconWeapon160_21020011_UI.webp",
     iconSmallSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconWeapon80/T_IconWeapon80_21020011_UI.webp",
-  },
-  {
-    id: 80053000,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Medicine"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 1,
-    dropLocations: [],
-    sortIndex: 20,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053001,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Medicine"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 2,
-    dropLocations: [],
-    sortIndex: 20,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053002,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Medicine"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 3,
-    dropLocations: [],
-    sortIndex: 20,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053003,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Medicine"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: [],
-    sortIndex: 20,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053004,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Gameplay Item"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 5,
-    dropLocations: [],
-    sortIndex: 0,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053005,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Gameplay Item"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 1,
-    dropLocations: [],
-    sortIndex: 0,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053006,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Gameplay Item"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 2,
-    dropLocations: [],
-    sortIndex: 0,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053007,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Medicine"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 3,
-    dropLocations: [],
-    sortIndex: 20,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053008,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Medicine"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 4,
-    dropLocations: [],
-    sortIndex: 20,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
-  },
-  {
-    id: 80053009,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Synthesis Result: Medicine"],
-    description:
-      "Anomaly detected, if you have any questions, please contact the official customer service",
-    flavor: "Please contact our Customer Service for assistance",
-    qualityLevel: 5,
-    dropLocations: [],
-    sortIndex: 20,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Level_005_3_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Level_005_3_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Level_005_3_UI.webp",
   },
   {
     id: 71020006,
@@ -6143,24 +5822,6 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_025_UI.webp",
     iconSmallSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_025_UI.webp",
-  },
-  {
-    id: 70060004,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Quest Item"],
-    description: "Please contact our Customer Service for assistance",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 3,
-    dropLocations: [],
-    sortIndex: 0,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_cdtq_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_cdtq_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_cdtq_UI.webp",
   },
   {
     id: 70010062,
@@ -6675,24 +6336,6 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Ele_UI.webp",
   },
   {
-    id: 70120006,
-    slug: "please-contact-our-customer-service-for-assistance",
-    name: "Please contact our Customer Service for assistance",
-    tags: ["Quest Item"],
-    description: "A box left by Jiaping, with an electronic lock on it.",
-    flavor:
-      "During her days in the Exiles camp, she carefully preserved the things inside, but now they lay casually discarded in the corner.",
-    qualityLevel: 3,
-    dropLocations: [],
-    sortIndex: 0,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_010_1_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_010_1_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_010_1_UI.webp",
-  },
-  {
     id: 44010028,
     slug: "testgolden-universal-echo",
     name: "test/Golden Universal Echo",
@@ -7188,25 +6831,6 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_057_UI.webp",
     iconSmallSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_057_UI.webp",
-  },
-  {
-    id: 50000031,
-    slug: "an-error-occurred.-please-contact-our-customer-service-for-assistance",
-    name: "An error occurred. Please contact our Customer Service for assistance",
-    tags: ["Random Echo Item", "Supply Pack"],
-    description:
-      "An error occurred. Please contact our Customer Service for assistance",
-    flavor:
-      "An error occurred. Please contact our Customer Service for assistance",
-    qualityLevel: 5,
-    dropLocations: [],
-    sortIndex: 0,
-    iconSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI.webp",
-    iconMiddleSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI.webp",
-    iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_01_UI.webp",
   },
   {
     id: 50000032,

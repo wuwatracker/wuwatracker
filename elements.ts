@@ -35,3 +35,5 @@ export const elementsMetadata: ElementMetadata = {
     hex: "#a5f3fc",
   },
 } as ElementMetadata;
+
+export const validElements = Object.keys(elementsMetadata);
