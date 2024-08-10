@@ -157,5 +157,5 @@ export const fourStarResonatorMetadata = {
 
 export const validResonatorNames = [
   ...Object.keys(fiveStarResonatorMetadata),
-  Object.keys(fourStarResonatorMetadata),
+  ...Object.keys(fourStarResonatorMetadata),
 ];
