@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "Rover-Havoc",
+    "Rover-Spectro": "Rover-Spectro",
     "Aalto": "秋水",
     "Baizhi": "白芷",
     "Calcharo": "卡卡罗",
@@ -159,6 +161,10 @@
         "title": "物品 - WuWa Tracker",
         "description": "查看《鸣潮》物品信息。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       }
+    },
+    "Planner": {
+      "title": "Material Planner - WuWa Tracker",
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
   "Layout": {
@@ -173,13 +179,13 @@
   },
   "MenuList": {
     "Tools": "工具",
-    "Database": "数据库",
+    "Inventory": "Inventory",
     "Guides": "指南",
     "Config": "配置",
     "Convene Tracker": "唤取记录",
     "Global Stats": "全球统计",
     "Share History": "分享记录",
-    "Sequences": "共鸣链",
+    "Planner": "Planner",
     "Items": "物品",
     "Achievements": "成就",
     "Timeline": "时间线",
@@ -569,5 +575,8 @@
     "Resonator": {
       "title": "共鸣者"
     }
+  },
+  "Planner": {
+    "title": "Material Planner"
   }
 }
