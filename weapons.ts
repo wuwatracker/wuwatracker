@@ -44,6 +44,16 @@ export const fiveStarWeaponMetadata = {
     imgSrc: "/assets/weapons/blazing-brilliance.webp",
     type: "Sword",
   },
+  "Rime-Draped Sprouts": {
+    qualityLevel: 5,
+    imgSrc: "/assets/weapons/rime-draped-sprouts.webp",
+    type: "Rectifier",
+  },
+  "Verity's Handle": {
+    qualityLevel: 5,
+    imgSrc: "/assets/weapons/verity's-handle.webp",
+    type: "Gauntlets",
+  },
   "Abyss Surges": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/abyss-surges.webp",

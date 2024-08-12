@@ -12,7 +12,7 @@ export interface Event {
   showOnHome?: boolean; // whether we show it in the home dashboard
   isGlobal?: boolean;
   sourceName?: string; // the display name of the source URL
-  reliability?: "Leak" | "Official";
+  reliability?: "Speculation" | "Official";
   group?: number; // events with the same group will overlap and merge if they are within 1 hour from each other's start & end dates, respectively
 }
 
@@ -70,6 +70,48 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       color: "#ee8548",
       url: "https://x.com/Wuthering_Waves/status/1814861986544693558",
       reliability: "Official",
+      group: 1,
+    },
+    {
+      name: "Rime-Draped Sprouts - Zhezhi Banner",
+      img: "https://snipboard.io/obTN95.jpg",
+      startDate: "2024-08-15 13:00",
+      endDate: "2024-09-08 09:59",
+      color: "#b2d1db",
+      isGlobal: true,
+      url: "https://wutheringwaves.kurogames.com/en/main/news/detail/1137",
+      reliability: "Official",
+      group: 0,
+    },
+    {
+      name: "Absolute Pulsation - Zhezhi Weapon Banner",
+      img: "https://snipboard.io/cSzLOq.jpg",
+      startDate: "2024-08-15 13:00",
+      endDate: "2024-09-08 09:59",
+      color: "#436a6d",
+      isGlobal: true,
+      url: "https://wutheringwaves.kurogames.com/en/main/news/detail/1137",
+      reliability: "Official",
+      group: 1,
+    },
+    {
+      name: "Verity's Handle - Xiangli Yao Banner",
+      img: "https://snipboard.io/axNq0f.jpg",
+      startDate: "2024-09-08 10:00",
+      endDate: "2024-10-01 11:59",
+      color: "#5562cc",
+      url: "https://wutheringwaves.kurogames.com/en/main/news/detail/1137",
+      reliability: "Speculation",
+      group: 0,
+    },
+    {
+      name: "Absolute Pulsation - Xiangli Yao Weapon Banner",
+      img: "https://snipboard.io/0O5rgv.jpg",
+      startDate: "2024-09-08 10:00",
+      endDate: "2024-10-01 11:59",
+      color: "#6d5d96",
+      url: "https://wutheringwaves.kurogames.com/en/main/news/detail/1137",
+      reliability: "Speculation",
       group: 1,
     },
   ],

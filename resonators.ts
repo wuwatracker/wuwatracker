@@ -24,6 +24,7 @@ export const fiveStarResonatorMetadata = {
     element: "Spectro",
     portraitSrc: "/assets/portraits/frover.webp",
   },
+
   Jiyan: {
     id: 1404,
     qualityLevel: 5,
@@ -51,6 +52,20 @@ export const fiveStarResonatorMetadata = {
     imgSrc: "/assets/luckdraw/changli.webp",
     element: "Fusion",
     portraitSrc: "/assets/portraits/changli.webp",
+  },
+  Zhezhi: {
+    id: 1105,
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/frover.webp",
+    element: "Glacio",
+    portraitSrc: "/assets/portraits/frover.webp",
+  },
+  "Xiangli Yao": {
+    id: 1305,
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/mrover.webp",
+    element: "Electro",
+    portraitSrc: "/assets/portraits/mrover.webp",
   },
   Calcharo: {
     id: 1301,
