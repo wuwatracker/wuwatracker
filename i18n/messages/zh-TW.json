@@ -121,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "發生錯誤",
-      "description": "使用 WuWa Tracker 時發生錯誤。請回報至我們的 Discord 伺服器，以便我們盡快解決問題。"
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "匯入喚取紀錄 - WuWa Tracker",
