@@ -54,7 +54,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       group: 1,
     },
     {
-      name: "Stellar Plummage - Changli Banner",
+      name: "Stellar Plumage - Changli Banner",
       img: "https://snipboard.io/1C0Pad.jpg",
       startDate: "2024-07-22 10:00",
       endDate: "2024-08-14 11:59",
@@ -232,7 +232,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       color: "#323b61",
     },
     {
-      name: "Dephs of Illusive Realm: Carnival in Slumberland",
+      name: "Depths of Illusive Realm: Carnival in Slumberland",
       img: "https://snipboard.io/LG7Hsb.jpg",
       description: `New Content "Carnival in Slumberland" Open! Phantom Echo: Dreamless and new Metaphors will be available for you to select. Rewards; 1000*Astrite, Phantom: Dreamless, Malleable Elite Class Echo I, Malleable Elite Class Echo II, Premium Sealed Tubes.`,
       startDate: "2024-08-22 10:00",
