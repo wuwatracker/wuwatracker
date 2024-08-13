@@ -121,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "오류 발생 - WuWa Tracker",
-      "description": "WuWa Tracker를 사용하는 동안 오류가 발생했습니다. 문제를 신속히 해결하기 위해 Discord 서버로 문의해주세요."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "튜닝 기록 가져오기 - WuWa Tracker",
