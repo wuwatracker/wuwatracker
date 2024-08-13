@@ -20,6 +20,8 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "Ondas do Abismo",
     "Ages of Harvest": "Eras da Colheita",
     "Amity Accord": "Acordo de Amizade",
@@ -73,7 +75,9 @@
     "Thunderbolt": "Raio do Trovão",
     "Undying Flame": "Chama Imortal",
     "Variation": "Variação",
-    "Verdant Summit": "Cume Verdejante"
+    "Verdant Summit": "Cume Verdejante",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonator em Destaque",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "Quando Trovões Chovem",
     "When Thunder Pours (Early)": "Quando Trovões Chovem (Antecipado)",
     "Thawborn Renewal": "Degelo Primaveril",
-    "Vermillion's Ploy": "Estratagema Rubro"
+    "Vermillion's Ploy": "Estratagema Rubro",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "Importar Histórico"
