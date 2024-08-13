@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "漂泊者-湮灭",
+    "Rover-Spectro": "漂泊者-衍射",
     "Aalto": "秋水",
     "Baizhi": "白芷",
     "Calcharo": "卡卡罗",
@@ -114,41 +116,55 @@
         "description": "查看以 {currentBanner} 为横幅的卡池的全球抽卡统计数据，并展现 {currentFeaturedResonator} 的特色！仪表板完美符合截图需要，您可以自由截图以向朋友炫耀！WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       },
       "Share": {
-        "title": "分享历史记录 - Wuwa Tracker",
+        "title": "分享历史记录 - WuWa Tracker",
         "description": "创建一张包含您抽取历史记录的抽取历史卡片，以便与朋友分享！WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       }
     },
     "Error": {
       "title": "发生错误",
-      "description": "使用 Wuwa Tracker 时发生错误。请将报告发送到我们的 Discord 服务器，以便我们尽快解决问题。"
+      "description": "在使用 WuWa Tracker 的过程中发生了错误。请向我们的 Discord 服务器发送一份报告，以便我们及时解决该问题。"
     },
     "Import": {
-      "title": "导入唤取历史 - Wuwa Tracker",
+      "title": "导入唤取历史 - WuWa Tracker",
       "description": "跟随我们的交互式教程显示您的《鸣潮》数据，并查看您的统计信息。我们支持从 PC、Android 和 iOS 设备自动导入数据。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
     },
     "Not Found": {
       "title": "未找到页面",
-      "description": "Wuwa Tracker 无法找到该页面。请返回主页面以跟踪您的《鸣潮》唤取历史数据。"
+      "description": "WuWa Tracker 无法找到该页面。请返回主页面以跟踪您的《鸣潮》唤取历史数据。"
     },
     "Privacy Policy": {
-      "title": "隐私政策 - Wuwa Tracker",
-      "description": "本隐私政策文件列明 Wuwa Tracker 所接收并收集的个人信息所涉及的类型，以及 Wuwa Tracker 使用该个人信息的方式。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+      "title": "隐私政策 - WuWa Tracker",
+      "description": "本隐私政策文件列明 WuWa Tracker 所接收并收集的个人信息所涉及的类型，以及 WuWa Tracker 使用该个人信息的方式。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
     },
     "Sequences": {
       "title": "商品列表 - WuWa Tracker",
       "description": "计算和展示您的重复共振器和武器，并查看与它们相关的信息。您可以向朋友展示它们！"
     },
     "Settings": {
-      "title": "设置 - Wuwa Tracker",
+      "title": "设置 - WuWa Tracker",
       "description": "通过登录到 Google 的方式同步您的数据。在同一位置管理您的《鸣潮》抽取数据。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
     },
     "Terms & Conditions": {
-      "title": "条款和条件 - Wuwa Tracker",
-      "description": "本条款和条件列明在使用 Wuwa Tracker 网站和服务时所需要遵守的规则和限制。"
+      "title": "条款和条件 - WuWa Tracker",
+      "description": "本条款和条件列明在使用 WuWa Tracker 网站和服务时所需要遵守的规则和限制。"
     },
     "Timeline": {
       "title": "活动时间线 - WuWa Tracker",
       "description": "您可以使用您本地的时区或任何《鸣潮》服务器时区以查看每个横幅时间表、游戏内事件、逆境之塔和幻境深渊的期间 - 一切尽在一处。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "共鸣者 - WuWa Tracker",
+        "description": "查看《鸣潮》共鸣者信息，并利用 WuWa Tracker 的材料计算器来对您共鸣者的升级资源分配进行充分的计划。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+      },
+      "Item": {
+        "title": "物品 - WuWa Tracker",
+        "description": "查看《鸣潮》物品信息。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+      }
+    },
+    "Planner": {
+      "title": "材料规划工具 - WuWa Tracker",
+      "description": "功能最强大的《鸣潮》计算器，能够规划您在升级共鸣者时所消耗的等级突破材料、技能材料和经验材料。WuWa Tracker 是首个适合每位玩家的《鸣潮》工具套件。"
     }
   },
   "Layout": {
@@ -156,27 +172,29 @@
       "label": "帮助翻译"
     },
     "Footer": {
-      "disclaimer": "本网站与鸣潮并无关联。所有游戏资源、游戏内容、商标素材的及版权均归属于库洛游戏。",
+      "disclaimer": "本网站与《鸣潮》并无关联。所有游戏资源、游戏内容、商标素材及版权均归属于库洛游戏。",
       "Privacy Policy": "隐私政策",
       "Terms & Conditions": "使用条款"
     }
   },
   "MenuList": {
     "Tools": "工具",
+    "Inventory": "物品栏",
     "Guides": "指南",
     "Config": "配置",
     "Convene Tracker": "唤取记录",
     "Global Stats": "全球统计",
     "Share History": "分享记录",
-    "Sequences": "共鸣链",
-    "Items": "Items",
+    "Planner": "规划工具",
+    "Items": "物品",
     "Achievements": "成就",
     "Timeline": "时间线",
     "Import": "导入",
     "Settings": "设置",
+    "Resonators": "共鸣者",
     "Support Us": "支持我们",
-    "Sign In To Google": "登录谷歌",
-    "Sign Out": "登出"
+    "Sign In To Google": "登录 Google",
+    "Sign Out": "退出登录"
   },
   "Dashboard": {
     "title": "控制面板",
@@ -195,7 +213,7 @@
     "Tutorial": {
       "title": "开始",
       "description": "欢迎您，漂泊者。让我们开始吧？",
-      "View Pull History": "查看抽卡记录",
+      "View Pull History": "查看抽取记录",
       "Sync Your Data": "同步数据",
       "Your data will now sync automatically!": "你的数据将自动同步！"
     },
@@ -239,11 +257,11 @@
       "Switch View": "切换视图",
       "Detailed View": "详情",
       "Import History": "导入历史",
-      "Pull History": "推送历史",
+      "Pull History": "抽取历史",
       "Global Statistics": "全球统计数据",
       "Overview": "概览",
       "Recent": "最近",
-      "Table": "Table"
+      "Table": "列表"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "全球统计数据"
@@ -261,8 +279,8 @@
       "note-max": "此摘要最多仅显示最近 {num} 次抽取。"
     },
     "UserPullHistoryTable": {
-      "Pull History": "抽卡记录",
-      "Pull Num": "抽卡次数",
+      "Pull History": "抽取历史",
+      "Pull Num": "抽取序号",
       "Item": "名称",
       "Pity": "保底",
       "Date Received": "获取日期"
@@ -288,7 +306,7 @@
       "You need more pulls to view statistics": "您需要更多抽取记录来显示统计数据",
       "Percentiles": {
         "AvgPity": {
-          "title": "平均保底次数",
+          "title": "平均保底抽取次数",
           "formula": "您平均需要多少抽来获取 {qualityLevel} 星商品？"
         },
         "PullRatio": {
@@ -422,7 +440,7 @@
       "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "参照我们的视频教程",
-        "description": "类似于从原神或者崩坏：星穹铁道中得到历史记录，根据<video>Chario的视频教程</video>来下载并使用<app>Stream - Network Debug Tool.</app>来得到你的链接。",
+        "description": "类似于从《原神》或《崩坏：星穹铁道》中获取历史记录，请根据<video>Chario的视频教程</video>来下载并使用<app>Stream - Network Debug Tool.</app>来得到你的链接。",
         "Video Tutorial": "视频教程",
         "iOS Import Tutorial Video": "iOS导入教程视频",
         "video-tutorial-desc": "参照 <highlight>Chario</highlight> 在我们的 <link>Discord 服务器</link> 上提供的一步一步的YouTube教程在电脑端导入你的数据。"
@@ -439,8 +457,8 @@
       "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "使用Ascent来获得唤取历史链接",
-        "description": "类似于从原神或者崩坏：星穹铁道中得到历史记录，根据<video>Mirai0009的视频教程</video>来下载并使用<app>Ascent v2.1.6</app>来得到你的链接。",
-        "note": "此方法仅适用于安卓系统11及以上版本。",
+        "description": "类似于从《原神》或《崩坏：星穹铁道》中获取历史记录，请根据<video>Mirai0009的视频教程</video>来下载并使用<app>Ascent v2.1.6</app>来得到你的链接。",
+        "note": "此方法仅适用于 Android 11 及以上。",
         "troubleshooting": "如果无法正确运行，请查看<link>问题诊断板块</link>。"
       },
       "2": {
@@ -451,15 +469,15 @@
         "title": " 点击此网站上的“导入历史”按钮"
       },
       "Video Tutorial": "视频教程",
-      "Android Ascent Import Tutorial Video": "安卓Ascent 导入教程视频",
-      "video-tutorial-desc": "首先，请仔细阅读<guide>这篇文字教程</guide>，然后参照这个<video>YouTube视频</video>在安卓端得到你的数据。特别鸣谢Mirai0009。"
+      "Android Ascent Import Tutorial Video": "Android Ascent 导入教程视频",
+      "video-tutorial-desc": "首先，请仔细阅读<guide>这篇文字教程</guide>，然后参照这个<video>YouTube视频</video>在 Android 端得到你的数据。特别鸣谢Mirai0009。"
     },
     "Android2Tutorial": {
       "invalid-url": "无效的唤取历史链接",
       "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "使用 Termux 来获得唤取历史链接",
-        "description": "类似于从原神或者崩坏：星穹铁道中得到历史记录，根据<guide>eqdamini的教程</guide>来下载并使用<app>Termux</app>来得到你的链接。"
+        "description": "类似于从《原神》或《崩坏：星穹铁道》中获取历史记录，请根据<guide>eqdamini的教程</guide>来下载并使用<app>Termux</app>来得到你的链接。"
       },
       "2": {
         "title": "将链接粘贴至此处",
@@ -476,9 +494,9 @@
         "title": "参照我们的视频教程",
         "description": "打开鸣潮应用后参照<link>yukio36的视频教程</link>。",
         "Video Tutorial": "视频教程",
-        "Android Airplane Mode Import Tutorial Video": "安卓飞行模式导入教程视频",
-        "video-tutorial-desc": "参照 <highlight>yukio36</highlight> 在我们的 <link>Discord 服务器</link> 上提供的一步一步的YouTube教程，无需下载任何应用，在安卓端导入你的数据。",
-        "note": "注意：此方法并非一定适用于所有设备，如果失败的话，请尝试其他方法。"
+        "Android Airplane Mode Import Tutorial Video": "Android 飞行模式导入教程视频",
+        "video-tutorial-desc": "参照 <highlight>yukio36</highlight> 在我们的 <link>Discord 服务器</link> 上提供的一步一步的YouTube教程，无需下载任何应用，在 Android 端导入你的数据。",
+        "note": "注意：该方法未必适用于所有设备。所以，如果失败的话，请尝试其他方法。"
       },
       "2": {
         "title": "将链接粘贴至此处",
@@ -491,31 +509,31 @@
   },
   "Settings": {
     "title": "设置",
-    "Google Account": "谷歌账号",
+    "Google Account": "Google 账号",
     "Browser Data": "浏览器数据",
     "Report an Issue": "报告问题",
     "SettingCloudSync": {
-      "sign-out-success": "登出成功。",
+      "sign-out-success": "成功退出登录。",
       "login-to-sync": "您必须先登录才能开启同步。",
       "import-to-sync": "首先请导入你的数据来开启同步！",
-      "data-is-in-sync": "本地数据与你的谷歌账户中的数据已同步。",
+      "data-is-in-sync": "Google 账户数据已同步。",
       "is-synced": "数据已同步",
       "is-not-synced": "数据未同步",
       "Cloud Backup": "云端储存",
-      "description": "使用你的谷歌账户来储存数据，以便在任何设备上访问你的数据。登录之后，点击”同步数据“按钮来上传或下载数据到你的设备中。",
+      "description": "使用您的 Google 账户来储存数据，以便在任何设备上访问你的数据。一旦登录成功，只需要点击“同步数据”按钮就能够上传数据，或者将数据下载到您的设备中。",
       "Guest": "游客",
-      "Sign In to Google": "登录谷歌",
-      "Log Out": "登出",
+      "Sign In to Google": "登录 Google",
+      "Log Out": "退出登录",
       "Sync Data": "同步数据",
-      "Google Data": "谷歌数据",
+      "Google Data": "Google 账户数据",
       "Browser Data": "浏览器数据",
-      "browser-data-different": "你的本地数据和谷歌云端数据不同步。",
-      "browser-data-different-confirmation": "你的特征码为 {localId} 的本地数据与特征码为 ${googleId} 的谷歌账户中的数据冲突。你希望保留浏览器本地数据还是使用谷歌账户中的数据呢？"
+      "browser-data-different": "您浏览器的数据与 Google 账户数据未同步。",
+      "browser-data-different-confirmation": "您浏览器数据的玩家 ID 为 {localId}，而 Google 账户数据的玩家 ID 为 ${googleId}，两者存在冲突。您希望保留浏览器数据还是 Google 账户数据？"
     },
     "SignInButton": {
-      "sign-out-success": "登出成功。",
-      "Sign out": "登出",
-      "Sign In to Google": "登录谷歌"
+      "sign-out-success": "成功退出登录。",
+      "Sign out": "退出登录",
+      "Sign In to Google": "登录 Google"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "在下载之前，你需要一个有效的唤取历史链接。",
@@ -552,5 +570,13 @@
       "title": "服务器每日刷新计时器",
       "description": "比较你的本地时间和鸣潮游戏服务器时间来规划接下来的冒险。"
     }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "共鸣者"
+    }
+  },
+  "Planner": {
+    "title": "材料规划工具"
   }
 }

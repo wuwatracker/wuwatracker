@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "Rover-Havoc",
+    "Rover-Spectro": "Rover-Spectro",
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
@@ -119,7 +121,7 @@
       }
     },
     "Error": {
-      "title": "Ralat Berlaku - Wuwa Tracker",
+      "title": "Ralat Berlaku",
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
@@ -149,6 +151,20 @@
     "Timeline": {
       "title": "Event Timeline - WuWa Tracker",
       "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Resonators - WuWa Tracker",
+        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      },
+      "Item": {
+        "title": "Items - WuWa Tracker",
+        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      }
+    },
+    "Planner": {
+      "title": "Material Planner - WuWa Tracker",
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
   "Layout": {
@@ -163,17 +179,19 @@
   },
   "MenuList": {
     "Tools": "Tools",
+    "Inventory": "Inventory",
     "Guides": "Guides",
     "Config": "Config",
     "Convene Tracker": "Convene Tracker",
     "Global Stats": "Global Stats",
     "Share History": "Share History",
-    "Sequences": "Sequences",
+    "Planner": "Planner",
     "Items": "Items",
     "Achievements": "Achievements",
     "Timeline": "Timeline",
     "Import": "Import",
     "Settings": "Settings",
+    "Resonators": "Resonators",
     "Support Us": "Support Us",
     "Sign In To Google": "Sign In To Google",
     "Sign Out": "Sign Out"
@@ -552,5 +570,13 @@
       "title": "Server Daily Reset Timers",
       "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
     }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Resonators"
+    }
+  },
+  "Planner": {
+    "title": "Material Planner"
   }
 }

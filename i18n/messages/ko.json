@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "Rover-Havoc",
+    "Rover-Spectro": "Rover-Spectro",
     "Aalto": "알토",
     "Baizhi": "설지",
     "Calcharo": "카카루",
@@ -119,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "오류 발생 - WuWa Tracker",
-      "description": "WuWa Tracker를 사용하는 동안 오류가 발생했습니다. 문제를 신속히 해결하기 위해 Discord 서버로 문의해주세요."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "튜닝 기록 가져오기 - WuWa Tracker",
@@ -149,6 +151,20 @@
     "Timeline": {
       "title": "이벤트 타임라인 - WuWa Tracker",
       "description": "현지 시간대 또는 게임의 서버 시간대를 통해 모든 배너 일정, 게임 이벤트, 역경의 탑 및 신비한 경지 오픈 기간을 한 곳에서 볼 수 있습니다. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Resonators - WuWa Tracker",
+        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      },
+      "Item": {
+        "title": "Items - WuWa Tracker",
+        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      }
+    },
+    "Planner": {
+      "title": "Material Planner - WuWa Tracker",
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
   "Layout": {
@@ -163,6 +179,7 @@
   },
   "MenuList": {
     "Tools": "도구",
+    "Inventory": "Inventory",
     "Guides": "가이드",
     "Config": "구성",
     "Convene Tracker": "튜닝 트래커",
@@ -174,6 +191,7 @@
     "Timeline": "타임라인",
     "Import": "제출하기",
     "Settings": "설정",
+    "Resonators": "Resonators",
     "Support Us": "지원하기",
     "Sign In To Google": "Google로 로그인",
     "Sign Out": "로그아웃"
@@ -552,5 +570,13 @@
       "title": "일일 서버 초기화 타이머",
       "description": "다음 여정에 대비해 현지 시간과 일일 서버 초기화 시간을 비교하세요."
     }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Resonators"
+    }
+  },
+  "Planner": {
+    "title": "Material Planner"
   }
 }

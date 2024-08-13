@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "Rover-Havoc",
+    "Rover-Spectro": "Rover-Spectro",
     "Aalto": "アールト",
     "Baizhi": "白芷",
     "Calcharo": "カカロ",
@@ -78,7 +80,7 @@
     "Featured Weapon": "ピックアップ武器",
     "Permanent Resonator": "共鳴者集音（恒常）",
     "Permanent Weapon": "武器集音（恒常）",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "初心者集音",
     "Beginner's Choice": "初心者応援セレクト",
     "Selector Ticket": "潮波の恩返しチケット",
     "Tidal Chorus": "潮と漲るもの",
@@ -119,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "エラーが発生しました - Wuwa Tracker",
-      "description": "WuWa Tracker の使用中にエラーが発生しました。速やかに対応できるよう、私たちの Discord サーバーにレポートをお送りください。"
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "集音履歴のインポート - Wuwa Tracker",
@@ -149,6 +151,20 @@
     "Timeline": {
       "title": "イベントスケージュール - WuWa Tracker",
       "description": "現地、或いは各サーバーのタイムゾーンを使用して、すべてのガチャ、イベント、逆境深塔＆深層空想秘境の期間を一つの場所で確認できます。最新のデータと世界の統計情報などを使用する鳴潮集音カウンター WuWa Tracker です。ガチャ履歴や実績を追跡し、友達と共有しましょう！"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Resonators - WuWa Tracker",
+        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      },
+      "Item": {
+        "title": "Items - WuWa Tracker",
+        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      }
+    },
+    "Planner": {
+      "title": "Material Planner - WuWa Tracker",
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
   "Layout": {
@@ -163,6 +179,7 @@
   },
   "MenuList": {
     "Tools": "ツール",
+    "Inventory": "Inventory",
     "Guides": "ガイド",
     "Config": "設定",
     "Convene Tracker": "集音履歴分析",
@@ -174,6 +191,7 @@
     "Timeline": "スケジュール",
     "Import": "インポート",
     "Settings": "設定",
+    "Resonators": "Resonators",
     "Support Us": "寄付",
     "Sign In To Google": "Googleでログイン",
     "Sign Out": "ログアウト"
@@ -285,7 +303,7 @@
       "luckier": "幸運値は {percentile}% のユーザーより高い",
       "unluckier": "幸運値は {percentile}% のユーザーより低い",
       "Pull more to unlock": "Pull more to unlock",
-      "You need more pulls to view statistics": "You need more pulls to view statistics",
+      "You need more pulls to view statistics": "分析を行うにはより多くのデータが必要です",
       "Percentiles": {
         "AvgPity": {
           "title": "平均回数",
@@ -552,5 +570,13 @@
       "title": "日付更新時間",
       "description": "次の冒険に備えてサーバーの日付更新時間を比べよう。"
     }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Resonators"
+    }
+  },
+  "Planner": {
+    "title": "Material Planner"
   }
 }

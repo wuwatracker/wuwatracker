@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "Nomade-Havoc",
+    "Rover-Spectro": "Nomade-Spectro",
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
@@ -32,7 +34,7 @@
     "Comet Flare": "Comète éclatant",
     "Cosmic Ripples": "Ondes cosmiques",
     "Dauntless Evernight": "Intrépide éternel",
-    "Discord": "Discord",
+    "Discord": "Discorde",
     "Emerald of Genesis": "Émeraude éternelle",
     "Gauntlets of Night": "Gantelets de Nuit",
     "Gauntlets of Voyager": "Gantelets du Voyageur",
@@ -119,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "Une erreur s'est produite",
-      "description": "Une erreur est survenue lors de l'utilisation de WuWa Tracker. Veuillez envoyer un rapport sur notre serveur Discord afin que nous puissions la corriger rapidement."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "Importer - WuWa Tracker",
@@ -149,6 +151,20 @@
     "Timeline": {
       "title": "Calendrier - WuWa Tracker",
       "description": "En utilisant votre fuseau horaire local ou tout autre horaire de serveur de Wuthering Waves, vous pouvez voir tous les calendriers des bannières, événements, périodes de la tour éprouvante et royaume fantôme. WuWa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Résonateurs - WuWa Tracker",
+        "description": "Consultez la liste des résonateurs de Wuthering Waves et utilisez le calculateur de materieux pour prévoir l'amélioration de vos résonateurs. Wuwa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
+      },
+      "Item": {
+        "title": "Objets - WuWa Tracker",
+        "description": "Consultez la liste des objets de Wuthering Waves. Wuwa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
+      }
+    },
+    "Planner": {
+      "title": "Calculateur de matériaux - WuWa Tracker",
+      "description": "Le plus puissant calculateur de Wuthering Waves pour planifier l'augmentation du niveau de vos résonateurs, vos compétences et vos matériaux d'EXP ! WuWa tracker est la première boite à outils de Wuthering Waves pour tous les joueurs."
     }
   },
   "Layout": {
@@ -163,17 +179,19 @@
   },
   "MenuList": {
     "Tools": "Outils",
+    "Inventory": "Inventaire",
     "Guides": "Guides",
     "Config": "Configuration",
     "Convene Tracker": "Compteur d'invocations",
     "Global Stats": "Stats globale",
     "Share History": "Partager",
-    "Sequences": "Séquences",
-    "Items": "Items",
+    "Planner": "Calculateur",
+    "Items": "Objets",
     "Achievements": "Trophées",
     "Timeline": "Calendrier",
     "Import": "Importer",
     "Settings": "Paramètres",
+    "Resonators": "Résonateurs",
     "Support Us": "Soutenez-nous",
     "Sign In To Google": "Se connecter via Google",
     "Sign Out": "Se déconnecter"
@@ -270,7 +288,7 @@
     "UserBannerStats": {
       "Total": "Total",
       "Astrites": "Astrites",
-      "Pulls": "Invocations"
+      "Pulls": "Obtenus"
     },
     "BannerSwitcher": {
       "All Banners": "Toutes les bannières",
@@ -552,5 +570,13 @@
       "title": "Minuteur de réinitialisation quotidienne des serveurs",
       "description": "Comparez votre fuseau horaire à ceux des serveurs de Wuthering Waves pour planifier votre prochaine aventure."
     }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Résonateurs"
+    }
+  },
+  "Planner": {
+    "title": "Calculateur de matériaux"
   }
 }

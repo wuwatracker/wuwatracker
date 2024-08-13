@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "Rover-Havoc",
+    "Rover-Spectro": "Rover-Spectro",
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
@@ -78,7 +80,7 @@
     "Featured Weapon": "Рекомендуемое оружие",
     "Permanent Resonator": "Постоянный Резонатор",
     "Permanent Weapon": "Постоянное оружие",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "Баннер новичка",
     "Beginner's Choice": "Выбор новичка",
     "Selector Ticket": "Билетный баннер",
     "Tidal Chorus": "Tidal Chorus",
@@ -119,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "Произошла ошибка",
-      "description": "Произошла ошибка при использовании WuWa Tracker. Пожалуйста, сообщите об этом на нашем сервере Discord, чтобы мы могли быстро исправить проблему."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "Импорт истории - WuWa Tracker",
@@ -149,6 +151,20 @@
     "Timeline": {
       "title": "Календарь событий - WuWa Tracker",
       "description": "Используйте ваш часовой пояс или любой часовой пояс серверов Wuthering Waves, чтобы просматривать расписание каждого баннера, игровых событий, Башни Невзгод и Глубин Царства Иллюзий - все в одном месте. WuWa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Резонаторы - WuWa Tracker",
+        "description": "Просматривайте информацию о Резонаторах в Wuthering Waves и используйте калькулятор WuWa Tracker, чтобы распланировать улучшения ваших Резонаторов. WuWa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и отслеживайте прогресс своего аккаунта!"
+      },
+      "Item": {
+        "title": "Предметы - WuWa Tracker",
+        "description": "Просматривайте информацию о предметах в Wuthering Waves. WuWa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и следите за прогрессом своего аккаунта!"
+      }
+    },
+    "Planner": {
+      "title": "Планировщик - WuWa Tracker",
+      "description": "Лучший калькулятор для планирования возвышений и улучшений навыков ваших Резонаторов в Wuthering Waves! WuWa Tracker - главный набор инструментов для каждого игрока в Wuthering Waves."
     }
   },
   "Layout": {
@@ -163,17 +179,19 @@
   },
   "MenuList": {
     "Tools": "Инструменты",
+    "Inventory": "Инвентарь",
     "Guides": "Руководства",
     "Config": "Конфигурация",
     "Convene Tracker": "История круток",
     "Global Stats": "Статистика",
     "Share History": "Поделиться",
-    "Sequences": "Коллекция",
-    "Items": "Items",
+    "Planner": "Планировщик",
+    "Items": "Предметы",
     "Achievements": "Достижения",
     "Timeline": "Календарь",
     "Import": "Импорт данных",
     "Settings": "Настройки",
+    "Resonators": "Резонаторы",
     "Support Us": "Поддержите нас",
     "Sign In To Google": "Войти в Google",
     "Sign Out": "Выйти"
@@ -236,14 +254,14 @@
     "title": "История круток",
     "ConvenePageContent": {
       "Scroll for More": "Прокрутите чтобы увидеть больше",
-      "Switch View": "Switch View",
+      "Switch View": "Сменить вид",
       "Detailed View": "Подробный вид",
       "Import History": "Импортировать",
-      "Pull History": "Pull History",
+      "Pull History": "История круток",
       "Global Statistics": "Глобальная статистика",
       "Overview": "Упрощённый вид",
-      "Recent": "Recent",
-      "Table": "Table"
+      "Recent": "Последние",
+      "Table": "Таблица"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Глобальная статистика"
@@ -252,7 +270,7 @@
       "Convene Categories": "Категории круток"
     },
     "ConveneCategoryPity": {
-      "pity-counter": "{num}✦ Pity"
+      "pity-counter": "{num}✦ Гарант"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "Последние крутки",
@@ -288,7 +306,7 @@
       "You need more pulls to view statistics": "Вам нужно сделать больше круток, чтобы увидеть статистику",
       "Percentiles": {
         "AvgPity": {
-          "title": "Ср. гарант",
+          "title": "Средний гарант",
           "formula": "Каков ваш средний {qualityLevel}-звёздочный гарант?"
         },
         "PullRatio": {
@@ -300,8 +318,8 @@
           "formula": "Каков ваш процент выигрыша в 50/50?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "Как часто ваши 4-звёздочные крутки были гарантированными?"
+          "title": "% круток до гаранта",
+          "formula": "Как часто ваши 4-звёздочные крутки были до гаранта?"
         }
       }
     },
@@ -313,7 +331,7 @@
       "Pulls By Pity": "Гарант по круткам",
       "Pulls By Name": "Крутки по именам",
       "Pulls": "Круток",
-      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
+      "Showing total pulls at each pull number": "Глобальная статистика выпадений на каждой крутке"
     },
     "SharePageContent": {
       "title": "Поделиться",
@@ -527,7 +545,7 @@
       "Convene History Data": "Данные об истории круток",
       "Import Tutorial": "Руководство по импорту",
       "Go to Import Tutorial": "Перейти к руководству по импорту данных",
-      "description": "Здесь вы можете изменить вашу ссылку на историю круток, а также сохранить её локально в виде JSON файла.",
+      "description": "Здесь вы можете изменить вашу ссылку на историю круток, а также сохранить историю локально в виде JSON файла.",
       "Your Convene History URL": "Ваша ссылка на историю круток",
       "Download Your History": "Скачать свои данные",
       "Delete Browser Saved Data": "Удалить сохраненные в браузере данные",
@@ -552,5 +570,13 @@
       "title": "Таймеры ежедневного обновления серверов",
       "description": "Сравните свое местное время со временем игровых серверов Wuthering Waves, чтобы спланировать свое следующее приключение."
     }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Резонаторы"
+    }
+  },
+  "Planner": {
+    "title": "Планировщик"
   }
 }

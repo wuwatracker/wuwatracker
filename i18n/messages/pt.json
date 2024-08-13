@@ -1,5 +1,7 @@
 {
   "Items": {
+    "Rover-Havoc": "Rover-Havoc",
+    "Rover-Spectro": "Rover-Spectro",
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
@@ -78,7 +80,7 @@
     "Featured Weapon": "Arma em Destaque",
     "Permanent Resonator": "Resonator Permanente",
     "Permanent Weapon": "Arma Permanente",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "Convocação Inicial",
     "Beginner's Choice": "Escolha Inicial",
     "Selector Ticket": "Cupão de Selecionador",
     "Tidal Chorus": "Coro da Maré",
@@ -119,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "Ocorreu um Erro",
-      "description": "Um error ocorreu enquanto usava WuWa Tracker. Por favor, envie um relatório no nosso servidor do Discord para podermos resolvê-lo prontamente."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "Importar Histórico de Convocações - WuWa Tracker",
@@ -149,6 +151,20 @@
     "Timeline": {
       "title": "Cronograma de Eventos - WuWa Tracker",
       "description": "Usando o seu fuso horário local ou qualquer fuso horário dos servidores de Wuthering Waves, pode ver os horários de todos os banners, eventos no jogo, períodos da Torre da Adversidade & Profundezas do Reino Ilusório - tudo num só lugar. WuWa Tracker, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros como os seus amigos e acompanhe sua conta!"
+    },
+    "Wiki": {
+      "Resonator": {
+        "title": "Resonators - WuWa Tracker",
+        "description": "Veja informações sobre Resonators de Wuthering Waves e use a calculadora de materiais de WuWa Tracker para planejar as upgrades dos seus Resonators. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
+      },
+      "Item": {
+        "title": "Items - WuWa Tracker",
+        "description": "Veja Informações sobre os Items de Wuthering Waves. WuWa Tracker conta o pity de Wuthering Waves, usando dados atualizados com estatísticas globais e mais. Compartilhe seus tiros com os seus amigos e acompanhe sua conta!"
+      }
+    },
+    "Planner": {
+      "title": "Planeador de Materiais - WuWa Tracker",
+      "description": "A calculadora mais poderosa de Wuthering Waves para planejar o nível de Ascenção de seu Resonator, abilidade, e materias de EXP! WuWa Tracker é a melhor coleção de ferramentas de Wuthering Waves para todos os jogadores."
     }
   },
   "Layout": {
@@ -163,17 +179,19 @@
   },
   "MenuList": {
     "Tools": "Ferramentas",
+    "Inventory": "Inventário",
     "Guides": "Guias",
     "Config": "Config",
     "Convene Tracker": "Contador",
     "Global Stats": "Estatísticas Globais",
     "Share History": "Compartilhar",
-    "Sequences": "Sequências",
+    "Planner": "Planeador",
     "Items": "Items",
     "Achievements": "Conquistas",
     "Timeline": "Cronograma",
     "Import": "Importar",
     "Settings": "Configurações",
+    "Resonators": "Resonators",
     "Support Us": "Suporte-nos",
     "Sign In To Google": "Iniciar Sessão no Google",
     "Sign Out": "Terminar Sessão"
@@ -552,5 +570,13 @@
       "title": "Temporizadores de Reset Diário dos Servidores",
       "description": "Compare o seu fuso horário local com o dos servidores de Wuthering Waves para planejar a sua próxima aventura."
     }
+  },
+  "Wiki": {
+    "Resonator": {
+      "title": "Resonators"
+    }
+  },
+  "Planner": {
+    "title": "Planeador de Materiais"
   }
 }
