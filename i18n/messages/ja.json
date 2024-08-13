@@ -121,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "エラーが発生しました - Wuwa Tracker",
-      "description": "WuWa Tracker の使用中にエラーが発生しました。速やかに対応できるよう、私たちの Discord サーバーにレポートをお送りください。"
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "集音履歴のインポート - Wuwa Tracker",
