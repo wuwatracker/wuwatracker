@@ -20,6 +20,8 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "Abgrundwogen",
     "Ages of Harvest": "Ages of Harvest",
     "Amity Accord": "Freundschaftsabkommen",
@@ -73,7 +75,9 @@
     "Thunderbolt": "Donnerschlag",
     "Undying Flame": "Unsterbliche Flamme",
     "Variation": "Variation",
-    "Verdant Summit": "Grüner Gipfel"
+    "Verdant Summit": "Grüner Gipfel",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "Hervorgehobenes Resonator-Zusammenrufen",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "Wenn der Donner strömt",
     "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Thawborn Renewal",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Vermillion's Ploy": "Vermillion's Ploy",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "Import"
@@ -121,7 +127,7 @@
       }
     },
     "Error": {
-      "title": "Ein Fehler ist aufgetreten",
+      "title": "An Error Occurred",
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
