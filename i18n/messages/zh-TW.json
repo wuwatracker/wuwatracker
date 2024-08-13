@@ -191,7 +191,7 @@
     "Timeline": "活動時程",
     "Import": "匯入",
     "Settings": "設定",
-    "Resonators": "Resonators",
+    "Resonators": "共鳴者",
     "Support Us": "支持我們",
     "Sign In To Google": "使用Google帳號登入",
     "Sign Out": "登出"
@@ -281,7 +281,7 @@
     "UserPullHistoryTable": {
       "Pull History": "喚取記錄",
       "Pull Num": "喚取序",
-      "Item": "物件",
+      "Item": "項目",
       "Pity": "保底",
       "Date Received": "取得日期"
     },
@@ -338,7 +338,7 @@
       "description": "自訂並下載您的鳴潮喚取紀錄並分享!",
       "Customize": "自訂",
       "Edit Share Card": "編輯分享卡面",
-      "edit-description": "您的卡面已更新",
+      "edit-description": "卡面將隨變動即時更新。",
       "Select Banner": "選擇橫幅",
       "Background": "背景",
       "Foreground": "前景",
@@ -453,7 +453,7 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "無效的喚取記錄連結",
+      "invalid-url": "無效的喚取記錄 URL",
       "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "使用 Ascent 取得喚取記錄連結",
@@ -520,7 +520,7 @@
       "is-synced": "資料已同步",
       "is-not-synced": "資料未同步",
       "Cloud Backup": "雲端備份",
-      "description": "使用您的 Google 帳號儲存資料並且可以在任何裝置取得。只要登入一次並點擊\"同步資料\"即可上傳或下載資料至您的裝置內。",
+      "description": "使用 Google 帳戶儲存資料至雲端即可在任何裝置上取得同步紀錄。",
       "Guest": "訪客",
       "Sign In to Google": "使用 Google 登入",
       "Log Out": "登出",
@@ -553,7 +553,7 @@
       "Save": "儲存"
     },
     "SettingGlobalStats": {
-      "title": "隱私權",
+      "title": "隱私設定",
       "description": "管理 WuWa Tracker 對於您資料的存取權限"
     },
     "GlobalStatsCheckbox": {
