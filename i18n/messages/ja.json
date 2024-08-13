@@ -1,7 +1,7 @@
 {
   "Items": {
-    "Rover-Havoc": "Rover-Havoc",
-    "Rover-Spectro": "Rover-Spectro",
+    "Rover-Havoc": "漂泊者・消滅",
+    "Rover-Spectro": "漂泊者・回折",
     "Aalto": "アールト",
     "Baizhi": "白芷",
     "Calcharo": "カカロ",
@@ -20,8 +20,8 @@
     "Yangyang": "秧秧",
     "Yinlin": "吟霖",
     "Yuanwu": "淵武",
-    "Zhezhi": "Zhezhi",
-    "Xiangli Yao": "Xiangli Yao",
+    "Zhezhi": "折枝",
+    "Xiangli Yao": "相里要",
     "Abyss Surges": "怒涛の湖音",
     "Ages of Harvest": "歳華調和",
     "Amity Accord": "金鉄の志",
@@ -76,8 +76,8 @@
     "Undying Flame": "燃え尽きぬ焔",
     "Variation": "奇妙バリエーション",
     "Verdant Summit": "蒼鱗連峰",
-    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle"
+    "Rime-Draped Sprouts": "氷華の雅印",
+    "Verity's Handle": "万端の枢機"
   },
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
@@ -98,8 +98,8 @@
     "When Thunder Pours (Early)": "春を告げる雷雨（早期）",
     "Thawborn Renewal": "冬尽きて、春息吹く",
     "Vermillion's Ploy": "星々を弄ぶ焔羽",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "星々の野を駆ける千機",
+    "Chromatic Prose": "極彩色に染まる詩"
   },
   "Common": {
     "Import History": "履歴をインポート"
@@ -160,11 +160,11 @@
     },
     "Wiki": {
       "Resonator": {
-        "title": "Resonators - WuWa Tracker",
+        "title": "共鳴者 - WuWa Tracker",
         "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Item": {
-        "title": "Items - WuWa Tracker",
+        "title": "アイテム - WuWa Tracker",
         "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
@@ -185,19 +185,19 @@
   },
   "MenuList": {
     "Tools": "ツール",
-    "Inventory": "Inventory",
+    "Inventory": "インベントリ",
     "Guides": "ガイド",
     "Config": "設定",
     "Convene Tracker": "集音履歴分析",
     "Global Stats": "グローバル統計",
     "Share History": "履歴共有",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "計算機",
+    "Items": "アイテム",
     "Achievements": "実績",
     "Timeline": "スケジュール",
     "Import": "インポート",
     "Settings": "設定",
-    "Resonators": "Resonators",
+    "Resonators": "共鳴者",
     "Support Us": "寄付",
     "Sign In To Google": "Googleでログイン",
     "Sign Out": "ログアウト"
@@ -579,7 +579,7 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "共鳴者"
     }
   },
   "Planner": {
