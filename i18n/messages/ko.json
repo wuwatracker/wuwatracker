@@ -20,6 +20,8 @@
     "Yangyang": "양양",
     "Yinlin": "음림",
     "Yuanwu": "연무",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "물결의 파동",
     "Ages of Harvest": "태평성대",
     "Amity Accord": "전우의 의리",
@@ -73,7 +75,9 @@
     "Thunderbolt": "뇌전",
     "Undying Flame": "불멸의 성화",
     "Variation": "판타지 변주",
-    "Verdant Summit": "청룡의 천장"
+    "Verdant Summit": "청룡의 천장",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "캐릭터 이벤트 튜닝",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "뇌우의 광란",
     "When Thunder Pours (Early)": "뇌우의 광란(조기)",
     "Thawborn Renewal": "눈 속에 트는 새싹",
-    "Vermillion's Ploy": "별빛 속의 화염 깃털"
+    "Vermillion's Ploy": "별빛 속의 화염 깃털",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "기록 제출하기"
@@ -185,7 +191,7 @@
     "Convene Tracker": "튜닝 트래커",
     "Global Stats": "글로벌 통계",
     "Share History": "기록 공유하기",
-    "Sequences": "시퀀스",
+    "Planner": "Planner",
     "Items": "Items",
     "Achievements": "업적",
     "Timeline": "타임라인",
