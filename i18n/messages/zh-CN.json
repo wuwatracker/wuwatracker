@@ -20,6 +20,8 @@
     "Yangyang": "秧秧",
     "Yinlin": "吟霖",
     "Yuanwu": "渊武",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "擎渊怒涛",
     "Ages of Harvest": "时和岁稔",
     "Amity Accord": "袍泽之固",
@@ -73,7 +75,9 @@
     "Thunderbolt": "奔雷",
     "Undying Flame": "无眠烈火",
     "Variation": "奇幻变奏",
-    "Verdant Summit": "苍鳞千嶂"
+    "Verdant Summit": "苍鳞千嶂",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "角色活动唤取",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "惊霆雨时节",
     "When Thunder Pours (Early)": "惊霆雨时节 (Early)",
     "Thawborn Renewal": "寒尽觉春生",
-    "Vermillion's Ploy": "炽羽策阵星"
+    "Vermillion's Ploy": "炽羽策阵星",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "导入历史记录"
