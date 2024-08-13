@@ -121,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "เกิดข้อผิดพลาด",
-      "description": "An error occured while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "Import Convene History - WuWa Tracker",
