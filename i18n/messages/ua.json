@@ -20,6 +20,8 @@
     "Yangyang": "Ян'ян",
     "Yinlin": "Їньлінь",
     "Yuanwu": "Янву",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "Сплески безодні",
     "Ages of Harvest": "Епоха врожаю",
     "Amity Accord": "Дружня угода",
@@ -73,7 +75,9 @@
     "Thunderbolt": "Блискавка",
     "Undying Flame": "Невгасиме полум'я",
     "Variation": "Варіація",
-    "Verdant Summit": "Зелена вершина"
+    "Verdant Summit": "Зелена вершина",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "Особливий Резонатор",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "Коли гримить грім",
     "When Thunder Pours (Early)": "Коли гримить грім (Рано)",
     "Thawborn Renewal": "Відродження відлиги",
-    "Vermillion's Ploy": "Полум'яна хитрість"
+    "Vermillion's Ploy": "Полум'яна хитрість",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "Імпорт історії"
