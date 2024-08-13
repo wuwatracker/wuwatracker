@@ -20,6 +20,8 @@
     "Yangyang": "秧秧",
     "Yinlin": "吟霖",
     "Yuanwu": "淵武",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "怒涛の湖音",
     "Ages of Harvest": "歳華調和",
     "Amity Accord": "金鉄の志",
@@ -73,7 +75,9 @@
     "Thunderbolt": "迸る雷霆",
     "Undying Flame": "燃え尽きぬ焔",
     "Variation": "奇妙バリエーション",
-    "Verdant Summit": "蒼鱗連峰"
+    "Verdant Summit": "蒼鱗連峰",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "春を告げる雷雨",
     "When Thunder Pours (Early)": "春を告げる雷雨（早期）",
     "Thawborn Renewal": "冬尽きて、春息吹く",
-    "Vermillion's Ploy": "星々を弄ぶ焔羽"
+    "Vermillion's Ploy": "星々を弄ぶ焔羽",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "履歴をインポート"
@@ -185,8 +191,8 @@
     "Convene Tracker": "集音履歴分析",
     "Global Stats": "グローバル統計",
     "Share History": "履歴共有",
-    "Sequences": "共鳴チェーン",
-    "Items": "アイテム",
+    "Planner": "Planner",
+    "Items": "Items",
     "Achievements": "実績",
     "Timeline": "スケジュール",
     "Import": "インポート",
