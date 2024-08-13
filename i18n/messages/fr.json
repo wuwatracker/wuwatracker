@@ -121,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "Une erreur s'est produite",
-      "description": "Une erreur est survenue lors de l'utilisation de WuWa Tracker. Veuillez envoyer un rapport sur notre serveur Discord afin que nous puissions la corriger rapidement."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "Importer - WuWa Tracker",
