@@ -56,16 +56,16 @@ export const fiveStarResonatorMetadata = {
   Zhezhi: {
     id: 1105,
     qualityLevel: 5,
-    imgSrc: "/assets/luckdraw/frover.webp",
+    imgSrc: "/assets/luckdraw/zhezhi.webp",
     element: "Glacio",
-    portraitSrc: "/assets/portraits/frover.webp",
+    portraitSrc: "/assets/portraits/zhezhi.webp",
   },
   "Xiangli Yao": {
     id: 1305,
     qualityLevel: 5,
-    imgSrc: "/assets/luckdraw/mrover.webp",
+    imgSrc: "/assets/luckdraw/xiangli-yao.webp",
     element: "Electro",
-    portraitSrc: "/assets/portraits/mrover.webp",
+    portraitSrc: "/assets/portraits/xiangli-yao.webp",
   },
   Calcharo: {
     id: 1301,

@@ -51,7 +51,7 @@ export const fiveStarWeaponMetadata = {
   },
   "Verity's Handle": {
     qualityLevel: 5,
-    imgSrc: "/assets/weapons/verity's-handle.webp",
+    imgSrc: "/assets/weapons/veritys-handle.webp",
     type: "Gauntlets",
   },
   "Abyss Surges": {
