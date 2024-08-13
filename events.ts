@@ -21,6 +21,7 @@ export const EVENT_GROUP = {
   ILLUSIVE_REALM: 1,
   TOWER_OF_ADVERSITY: 2,
   DOUBLE_DROPS: 3,
+  SEVEN_DAY_LOGIN: 4,
 };
 
 /**
@@ -174,6 +175,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       url: "https://wutheringwaves.kurogames.com/en/main/news/detail/975",
       reliability: "Official",
       isGlobal: true,
+      group: EVENT_GROUP.SEVEN_DAY_LOGIN,
     },
     {
       name: "Depths of Illusive Realm: Dreams Ablaze in Darkness",
@@ -217,6 +219,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       startDate: "2024-08-15 13:00",
       isGlobal: true,
       color: "#a1ccfa",
+      group: EVENT_GROUP.SEVEN_DAY_LOGIN,
     },
     {
       name: "Converging Paths",
