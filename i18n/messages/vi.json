@@ -20,6 +20,8 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "Abyss Surges",
     "Ages of Harvest": "Ages of Harvest",
     "Amity Accord": "Amity Accord",
@@ -73,7 +75,9 @@
     "Thunderbolt": "Thunderbolt",
     "Undying Flame": "Hỏa Diểm Bất Tận",
     "Variation": "Variation",
-    "Verdant Summit": "Verdant Summit"
+    "Verdant Summit": "Verdant Summit",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "Nhân Vật Giới Hạn",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "Điện Thiểm Lôi Minh",
     "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Noãn Khởi Tề Uy",
-    "Vermillion's Ploy": "Châu Sa Tinh Nghịch"
+    "Vermillion's Ploy": "Châu Sa Tinh Nghịch",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "Nhập Lịch sử Triệu hồi"
@@ -121,7 +127,7 @@
       }
     },
     "Error": {
-      "title": "Đã xảy ra lỗi",
+      "title": "An Error Occurred",
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
