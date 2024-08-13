@@ -121,8 +121,8 @@
       }
     },
     "Error": {
-      "title": "Terjadi Kesalahan - Wuwa Tracker",
-      "description": "Terjadi kesalahan saat menggunakan Wuwa Tracker. Harap kirim laporan ke server Discord kami agar kami dapat menanganinya segera."
+      "title": "An Error Occurred",
+      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
       "title": "Impor Riwayat Convene - Wuwa Tracker",
