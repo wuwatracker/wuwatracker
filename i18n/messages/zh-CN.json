@@ -20,8 +20,8 @@
     "Yangyang": "秧秧",
     "Yinlin": "吟霖",
     "Yuanwu": "渊武",
-    "Zhezhi": "Zhezhi",
-    "Xiangli Yao": "Xiangli Yao",
+    "Zhezhi": "折枝",
+    "Xiangli Yao": "相里要",
     "Abyss Surges": "擎渊怒涛",
     "Ages of Harvest": "时和岁稔",
     "Amity Accord": "袍泽之固",
@@ -76,8 +76,8 @@
     "Undying Flame": "无眠烈火",
     "Variation": "奇幻变奏",
     "Verdant Summit": "苍鳞千嶂",
-    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle"
+    "Rime-Draped Sprouts": "琼枝冰绡",
+    "Verity's Handle": "诸方玄枢"
   },
   "CardPoolNames": {
     "Featured Resonator": "角色活动唤取",
@@ -98,8 +98,8 @@
     "When Thunder Pours (Early)": "惊霆雨时节 (Early)",
     "Thawborn Renewal": "寒尽觉春生",
     "Vermillion's Ploy": "炽羽策阵星",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "千机逐星野",
+    "Chromatic Prose": "赋彩作长吟"
   },
   "Common": {
     "Import History": "导入历史记录"
@@ -525,7 +525,7 @@
       "data-is-in-sync": "Google 账户数据已同步。",
       "is-synced": "数据已同步",
       "is-not-synced": "数据未同步",
-      "Cloud Backup": "云端储存",
+      "Cloud Backup": "云端存储",
       "description": "使用您的 Google 账户来储存数据，以便在任何设备上访问你的数据。一旦登录成功，只需要点击“同步数据”按钮就能够上传数据，或者将数据下载到您的设备中。",
       "Guest": "游客",
       "Sign In to Google": "登录 Google",
