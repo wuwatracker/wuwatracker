@@ -76,8 +76,8 @@
     "Undying Flame": "Flamme divine",
     "Variation": "Variation fantastique",
     "Verdant Summit": "Sommet verdoyant",
-    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle"
+    "Rime-Draped Sprouts": "Pousses enrobées de givre",
+    "Verity's Handle": "Poignée de la Vérité"
   },
   "CardPoolNames": {
     "Featured Resonator": "Résonateur limité",
@@ -98,8 +98,8 @@
     "When Thunder Pours (Early)": "Sous la pluie effrayante",
     "Thawborn Renewal": "Le rêve du printemps",
     "Vermillion's Ploy": "Phénix flamboyant",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "Inquisition éthérée",
+    "Chromatic Prose": "Prose chromatique"
   },
   "Common": {
     "Import History": "Importer votre historique"
@@ -127,8 +127,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Une erreur est survenue",
+      "description": "Une erreur est survenue lors de l'utilisation de WuWa Tracker. Veuillez envoyer un rapport sur notre serveur Discord afin que nous puissions la corriger rapidement."
     },
     "Import": {
       "title": "Importer - WuWa Tracker",
