@@ -1,7 +1,7 @@
 {
   "Items": {
-    "Rover-Havoc": "Rover-Havoc",
-    "Rover-Spectro": "Rover-Spectro",
+    "Rover-Havoc": "Errante-Destrucción",
+    "Rover-Spectro": "Errante-Espectro",
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
@@ -110,7 +110,7 @@
     },
     "Achievements": {
       "title": "Logros - WuWa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "description": "¡Sigue tus logros en Wuthering Waves e importa y exporta tus datos libremente entre dispositivos! WuWa Tracker es un contador de pity para Wuthering Waves, utilizando los datos más actualizados con estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
     },
     "Convene": {
       "Index": {
@@ -127,8 +127,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Ocurrió un error",
+      "description": "Ocurrió un error al usar WuWa Tracker. Por favor, envía un informe a nuestro servidor de Discord para que podamos solucionarlo rápidamente."
     },
     "Import": {
       "title": "Importar Historial de Invocaciones - WuWa Tracker",
@@ -160,8 +160,8 @@
     },
     "Wiki": {
       "Resonator": {
-        "title": "Resonators - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Resonadores - WuWa Tracker",
+        "description": "Ve la información de los Resonadores de Wuthering Waves y usa la calculadora de materiales de WuWa Tracker para planear las mejoras de tu Resonador. El contador de pity de WuWa Tracker, usando los datos más recientes con las estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
       },
       "Item": {
         "title": "Items - WuWa Tracker",
@@ -560,7 +560,7 @@
     },
     "SettingGlobalStats": {
       "title": "Privacidad",
-      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
+      "description": "Configura los permisos de WuWa Tracker para usar tus datos en la aplicación."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Añadir los datos de tus tiradas a las estadísticas globales"
