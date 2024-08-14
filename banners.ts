@@ -60,7 +60,7 @@ const standardBanners: BannerInfo[] = [
   },
 ];
 
-const rawBanners: BannerInfo[] = [
+export const rawBanners: BannerInfo[] = [
   {
     bannerId: 100001,
     cardPoolType: 1,
