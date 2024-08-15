@@ -1,3 +1,5 @@
+import dayjs from "dayjs";
+
 /**
  * Represents a rate-up rule with associated featured gacha item names and date range.
  */
@@ -58,7 +60,7 @@ const standardBanners: BannerInfo[] = [
   },
 ];
 
-export const banners: BannerInfo[] = [
+const rawBanners: BannerInfo[] = [
   {
     bannerId: 100001,
     cardPoolType: 1,
@@ -218,3 +220,7 @@ export const banners: BannerInfo[] = [
   },
   ...standardBanners,
 ];
+
+export const banners = rawBanners.filter((b) =>
+  dayjs(b.startDate).isBefore(dayjs().add(1, "hour")),
+);
