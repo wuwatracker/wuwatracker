@@ -80,18 +80,18 @@
     "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
-    "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Novice Convene": "Novice Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
-    "Tidal Chorus": "Tidal Chorus",
-    "Winter Brume": "Winter Brume",
-    "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner's Choice Convene": "Beginner's Choice Convene",
-    "Giveback Event Convene": "Giveback Event Convene",
+    "Featured Resonator": "ตู้กาชาตัวละครลิมิเต็ด",
+    "Featured Weapon": "ตู้กาชาอาวุธลิมิเต็ด",
+    "Permanent Resonator": "ตู้กาชาตัวละครถาวร",
+    "Permanent Weapon": "ตู้กาชาอาวุธถาวร",
+    "Novice Convene": "ตู้กาชาเริ่มต้น",
+    "Beginner's Choice": "ตู้เลือกตัวละครมือใหม่",
+    "Selector Ticket": "จำนวนตั๋วที่ถูกใช้",
+    "Tidal Chorus": "ตู้กาชาตัวละครถาวร",
+    "Winter Brume": "ตู้กาชาอาวุธถาวร",
+    "Utterance of Marvels": "ตู้กาชาเริ่มต้น",
+    "Beginner's Choice Convene": "ตู้กาชาเลือกตัวละครมือใหม่",
+    "Giveback Event Convene": "ตั๋วเลือกตัวละครถาวร",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
@@ -102,7 +102,7 @@
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
-    "Import History": "Import History"
+    "Import History": "นำเข้าประวัติ"
   },
   "Metadata": {
     "Generic": {
@@ -127,7 +127,7 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
+      "title": "เกิดข้อผิดพลาด",
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
@@ -139,37 +139,37 @@
       "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - WuWa Tracker",
+      "title": "นโยบายความเป็นส่วนตัว - WuWa Tracker",
       "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
     },
     "Sequences": {
-      "title": "Sequences - WuWa Tracker",
+      "title": "กลุ่มดาว - WuWa Tracker",
       "description": "นับและโชว์ Resonators และ Weapons ที่ซ้ำกันของคุณและดูข้อมูลที่เกี่ยวข้อง คุณสามารถโชว์ให้เพื่อน ๆ เห็นได้!"
     },
     "Settings": {
-      "title": "Settings - WuWa Tracker",
+      "title": "การตั้งค่า - WuWa Tracker",
       "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - WuWa Tracker",
+      "title": "ข้อกำหนดและเงื่อนไข - WuWa Tracker",
       "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
     },
     "Timeline": {
-      "title": "Event Timeline - WuWa Tracker",
+      "title": "ไทม์ไลน์กิจกรรม - WuWa Tracker",
       "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Wiki": {
       "Resonator": {
-        "title": "Resonators - WuWa Tracker",
+        "title": "เรโซเนเตอร์ - WuWa Tracker",
         "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Item": {
-        "title": "Items - WuWa Tracker",
+        "title": "ไอเทม - WuWa Tracker",
         "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
-      "title": "Material Planner - WuWa Tracker",
+      "title": "ตัวช่วยจัดการ - WuWa Tracker",
       "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
