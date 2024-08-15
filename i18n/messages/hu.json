@@ -191,13 +191,13 @@
     "Convene Tracker": "Húzás követés",
     "Global Stats": "Globális statisztikák",
     "Share History": "Előzmények megosztása",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "Tervező",
+    "Items": "Eszközök",
     "Achievements": "Teljesítmények",
     "Timeline": "Idővonal",
     "Import": "Importálás",
     "Settings": "Beállítások",
-    "Resonators": "Resonators",
+    "Resonators": "Karakterek",
     "Support Us": "Támogatás",
     "Sign In To Google": "Bejelentkezés Google-be",
     "Sign Out": "Kijelentkezés"
@@ -213,7 +213,7 @@
         "data": "adat",
         "updates": "frissítések"
       },
-      "title": "WuWa Tracker helps you track",
+      "title": "WuWa Tracker segít követni",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet."
     },
     "Tutorial": {
@@ -262,9 +262,9 @@
       "Scroll for More": "Görgess tovább",
       "Switch View": "Switch View",
       "Detailed View": "Detailed View",
-      "Import History": "Import History",
-      "Pull History": "Pull History",
-      "Global Statistics": "Global Statistics",
+      "Import History": "Előzmények importálása",
+      "Pull History": "Húzási előzmények",
+      "Global Statistics": "Globális statisztikák",
       "Overview": "Áttekintés",
       "Recent": "Legújabb",
       "Table": "Asztal"
