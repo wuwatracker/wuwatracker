@@ -221,6 +221,7 @@ export const rawBanners: BannerInfo[] = [
   ...standardBanners,
 ];
 
-export const banners = rawBanners.filter((b) =>
-  dayjs(b.startDate).isBefore(dayjs().add(1, "hour")),
-);
+export const banners = rawBanners.filter((b) => {
+  const UNRELEASED_BANNERS = [100007, 200007];
+  return !UNRELEASED_BANNERS.includes(b.bannerId);
+});
