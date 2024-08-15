@@ -98,8 +98,8 @@
     "When Thunder Pours (Early)": "Điện Thiểm Lôi Minh (sớm)",
     "Thawborn Renewal": "Noãn Khởi Tề Uy",
     "Vermillion's Ploy": "Châu Sa Tinh Nghịch",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "Phát Hiện Sáng Suốt",
+    "Chromatic Prose": "Áng Văn Rực Rỡ"
   },
   "Common": {
     "Import History": "Nhập Lịch sử Triệu hồi"
@@ -109,12 +109,12 @@
       "description": "Bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Đồng bộ dữ liệu qua các thiết bị và chia sẻ kết quả với bạn bè để dễ dàng theo dõi tài khoản!"
     },
     "Achievements": {
-      "title": "Achievements - WuWa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Thành Tựu - WuWa Tracker",
+      "description": "Theo dõi thành tựu của bạn trong Wuthering Waves và nhập/xuất dữ liệu tự do qua các thiết bị! Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - WuWa Tracker",
+        "title": "Lịch sử Quay",
         "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
