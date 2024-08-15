@@ -33,7 +33,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
   banners: [
     {
       name: "Chromatic Prose - Zhezhi Banner",
-      img: "https://snipboard.io/xcDvKo.jpg",
+      img: "https://snipboard.io/jQedCO.jpg",
       startDate: "2024-08-15 13:00",
       endDate: "2024-09-07 09:59",
       color: "#7cb3ba",
@@ -44,7 +44,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     },
     {
       name: "Absolute Pulsation - Zhezhi Weapon Banner",
-      img: "https://snipboard.io/LiUNfr.jpg",
+      img: "https://snipboard.io/Aybjos.jpg",
       startDate: "2024-08-15 13:00",
       endDate: "2024-09-07 09:59",
       color: "#4fbdbe",
