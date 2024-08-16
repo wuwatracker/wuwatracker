@@ -354,8 +354,8 @@
   },
   "Import": {
     "title": "Importálás",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expiration-notice-title": "URL lejárat",
+    "expiration-notice-content": "Az 1.2-es javítástól kezdve az URL-címed egy óra múlva lejár. A frissített húzások megtekintéséhez, kérlek, győződj meg róla, hogy megnyitod a játékbeli húzási előzményeid, mielőtt újraimportálod.",
     "Import Tutorial": "Importálás bemutató",
     "PC": {
       "title": "Számítógép",
