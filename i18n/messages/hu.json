@@ -354,9 +354,9 @@
   },
   "Import": {
     "title": "Importálás",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
+    "expired-url": "Ez az URL lejárt. Kérlek, nyisd meg a húzási előzményeidet és importáld újra.",
+    "invalid-url": "A húzási előzményeid URL-címe érvénytelen.",
+    "import-success": "Sikeresen importáltad a húzási előzményeidet!",
     "expiration-notice-title": "URL lejárat",
     "expiration-notice-content": "Az 1.2-es javítástól kezdve az URL-címed egy óra múlva lejár. A frissített húzások megtekintéséhez, kérlek, győződj meg róla, hogy megnyitod a játékbeli húzási előzményeid, mielőtt újraimportálod.",
     "Import Tutorial": "Importálás bemutató",
