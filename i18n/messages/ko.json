@@ -354,6 +354,9 @@
   },
   "Import": {
     "title": "제출하기",
+    "expired-url": "This URL has expired. Please open your Convene history & import again.",
+    "invalid-url": "Your Convene History URL is invalid.",
+    "import-success": "Successfully imported Convene History URL!",
     "expiration-notice-title": "URL 만료",
     "expiration-notice-content": "1.2 패치로 인해, 튜닝 기록 URL이 만료되었습니다. 업데이트 된 뽑기 기록을 보기 위해 튜닝 기록을 다시 제출해주세요.",
     "Import Tutorial": "제출 튜토리얼",
@@ -373,8 +376,6 @@
       "description-android": "만약 첫번째 방법이 작동하지 않는다면, 다른 방법을 시도해보세요. 여전히 도움이 필요하다면, <link>디스코드 서버</link>에 방문해주세요."
     },
     "PC1Tutorial": {
-      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
-      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
         "title": "먼저, 게임을 실행시킨 다음, 인게임 튜닝 기록을 여세요.",
         "description": "그 다음, Windows PowerShell을 열고, 아래의 스크립트를 붙여넣으세요.",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
-      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "found-url": "URL을 찾았습니다! 기록 제출하기 버튼을 클릭해서 진행하세요.",
       "not-found-url": "로그 파일에서 유효한 URL을 찾지 못했습니다.",
       "Click to upload": "클릭해서 업로드",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "유효하지 않은 게임 경로입니다.",
-      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
-      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
         "title": "게임이 설치된 경로를 복사해주세요.",
         "description": "<code>Wuthering Waves.exe</code>프로그램과 <code>Client</code>폴더가 있는 폴더를 찾아주세요.",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "유효하지 않은 JSON 데이터입니다 - 세미콜론도 복사해주세요.",
-      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
-      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
         "title": "비디오 튜토리얼을 따라해보세요.",
         "description": "원신이나 붕괴: 스타레일에서 뽑기 기록을 얻는 방법과 비슷합니다. <video>Chario님의 이 동영상</video>을 따라, <app>Stream - Network Debug Tool</app>을 다운로드하고 사용해주세요.",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
-      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
         "title": "Ascent를 사용해 튜닝 기록 URL 얻기",
         "description": "원신이나 붕괴: 스타레일에서 뽑기 기록을 얻는 방법과 비슷합니다. <video>Mirai0009님의 이 동영상</video>을 따라, <app>Ascent v2.1.6</app>을 다운로드하고 URL을 얻어주세요.",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "먼저, <guide>이 가이드</guide>를 꼼꼼히 읽고, <video>유튜브 영상</video>을 따라 Android에서 데이터를 얻으세요. Mirai0009님께 감사드립니다."
     },
     "Android2Tutorial": {
-      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
-      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
         "title": "Termux를 사용해 튜닝 기록 URL 얻기",
         "description": "원신이나 붕괴: 스타레일에서 뽑기 기록을 얻는 방법과 비슷합니다. <guide>eqdamini님의 이 가이드</guide>를 따라, <app>Termux</app>를 다운로드하고 URL을 얻어주세요."
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "유효하지 않은 튜닝 기록 URL 입니다.",
-      "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
       "1": {
         "title": "비디오 튜토리얼을 따라해보세요.",
         "description": "게임 앱을 연 후, <link>yukio36님의 비디오 튜토리얼</link>을 따라주세요.",
