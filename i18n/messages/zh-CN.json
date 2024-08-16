@@ -354,8 +354,8 @@
   },
   "Import": {
     "title": "导入",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expiration-notice-title": "URL 到期失效",
+    "expiration-notice-content": "从游戏版本 1.2 开始，您的 URL 将在导入后 1 小时失效。为了查看最新的抽取记录，请确保在重新导入之前打开您游戏内的唤取历史。",
     "Import Tutorial": "导入教程",
     "PC": {
       "title": "PC",
