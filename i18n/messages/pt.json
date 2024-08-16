@@ -354,6 +354,9 @@
   },
   "Import": {
     "title": "Importar",
+    "expired-url": "This URL has expired. Please open your Convene history & import again.",
+    "invalid-url": "Your Convene History URL is invalid.",
+    "import-success": "Successfully imported Convene History URL!",
     "expiration-notice-title": "URL Expiration",
     "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Tutorial de Importação",
@@ -373,8 +376,6 @@
       "description-android": "Se o primeiro método não funcionar, tente os outros. Se ainda precisar de ajuda, por favor visite o nosso <link>Servidor do Discord</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "URL do Histórico de Convocações inválido.",
-      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Primeiro, inicie Wuthering Waves e Abra o seu Histórico de Convocações no jogo",
         "description": "Depois, abra o Windows PowerShell e cole o seguinte script.",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "URL do Histórico de Convocações inválido.",
-      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "found-url": "Encontramos um URL! Clique no botão \"Importar Histórico\" para cotinuar.",
       "not-found-url": "Nenhum URL válido encontrado no ficheiro do histórico.",
       "Click to upload": "Clique para fazer upload",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "Caminho do Jogo Inválido",
-      "invalid-url": "URL de Histórico de Convocação Inválido",
-      "import-success": "URL de Histórico de Convocação importado com sucesso!",
       "1": {
         "title": "Copie o Seu Diretório de Instalação",
         "description": "Encontre a pasta que contem <code>Wuthering Waves.exe</code> e a pasta <code>Client</code>.",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "Dados JSON inválidos - tenha certeza de copiar os ponto e vírgula",
-      "invalid-url": "URL do Histórico de Convocações inválido",
-      "import-success": "URL de Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Siga o nosso Tutorial",
         "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este tutorial por Chario</video> para baixar e usar <app>Steam - Network Debug Tool</app>.",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "URL de Histórico de Convocações inválido",
-      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Use Ascent Para Obter o URL do Histórico de Convocações",
         "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <video>este guia por Mirai0009</video> para baixar e usar o <app>Ascent v2.1.6</app> para obter o seu URL.",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "Primeiro, leia cuidadosamente este <guide>guia</guide> e depois siga este <video>vídeo do YouTube</video> para conseguir seus dados no Android. Todos os créditos vão para Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "URL de Histórico de Convocações inválido",
-      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Use Termux Para Conseguir o URL do Histórico de Convocações",
         "description": "Parecido a pegar o seu histórico em Genshin Impact ou Honkai Star Rail, siga <guide>este guia por eqdamini</guide> para baixar e usar o <app>Termux</app> para obter o seu URL."
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "URL de Histórico de Convocações inválido",
-      "import-success": "URL do Histórico de Convocações importado com sucesso!",
       "1": {
         "title": "Siga o nosso Tutorial",
         "description": "Siga <link>este tutorial por yukio36</link> depois de iniciar Wuthering Waves.",
