@@ -22,7 +22,6 @@
     "Yuanwu": "연무",
     "Zhezhi": "절지",
     "Xiangli Yao": "상리요",
-
     "Abyss Surges": "물결의 파동",
     "Ages of Harvest": "태평성대",
     "Amity Accord": "전우의 의리",
@@ -368,6 +367,8 @@
 
   "Import": {
     "title": "제출하기",
+    "expiration-notice-title": "URL Expiration",
+    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "제출 튜토리얼",
     "PC": {
       "title": "PC",

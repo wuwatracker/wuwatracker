@@ -20,6 +20,8 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "Flux de l'Abîme",
     "Ages of Harvest": "Cycles de saisons",
     "Amity Accord": "Accord d'Amity",
@@ -73,7 +75,9 @@
     "Thunderbolt": "Tonnerre",
     "Undying Flame": "Flamme divine",
     "Variation": "Variation fantastique",
-    "Verdant Summit": "Sommet verdoyant"
+    "Verdant Summit": "Sommet verdoyant",
+    "Rime-Draped Sprouts": "Germe de glacier",
+    "Verity's Handle": "Poignée de la Vérité"
   },
   "CardPoolNames": {
     "Featured Resonator": "Résonateur limité",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "Sous la pluie effrayante",
     "When Thunder Pours (Early)": "Sous la pluie effrayante",
     "Thawborn Renewal": "Le rêve du printemps",
-    "Vermillion's Ploy": "Phénix flamboyant"
+    "Vermillion's Ploy": "Phénix flamboyant",
+    "Celestial Revelation": "Inquisition éthérée",
+    "Chromatic Prose": "Prose chromatique"
   },
   "Common": {
     "Import History": "Importer votre historique"
@@ -121,8 +127,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Une erreur est survenue",
+      "description": "Une erreur est survenue lors de l'utilisation de WuWa Tracker. Veuillez envoyer un rapport sur notre serveur Discord afin que nous puissions la corriger rapidement."
     },
     "Import": {
       "title": "Importer - WuWa Tracker",
@@ -348,6 +354,8 @@
   },
   "Import": {
     "title": "Importer",
+    "expiration-notice-title": "URL Expiration",
+    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Tutoriel d'importation",
     "PC": {
       "title": "PC",

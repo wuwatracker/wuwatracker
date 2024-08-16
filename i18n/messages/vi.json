@@ -20,6 +20,8 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "Abyss Surges",
     "Ages of Harvest": "Ages of Harvest",
     "Amity Accord": "Amity Accord",
@@ -73,27 +75,31 @@
     "Thunderbolt": "Thunderbolt",
     "Undying Flame": "Hỏa Diểm Bất Tận",
     "Variation": "Variation",
-    "Verdant Summit": "Verdant Summit"
+    "Verdant Summit": "Verdant Summit",
+    "Rime-Draped Sprouts": "Chồi Xuân Ẩn Giấu",
+    "Verity's Handle": "Ngưỡng Cửa Sự Thật"
   },
   "CardPoolNames": {
     "Featured Resonator": "Nhân Vật Giới Hạn",
     "Featured Weapon": "Vũ Khí Giới Hạn",
     "Permanent Resonator": "Nhân Vật Tiêu Chuẩn",
     "Permanent Weapon": "Vũ Khí Tiêu Chuẩn",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "Banner Tân thủ",
     "Beginner's Choice": "Chọn lựa của Tân Thủ",
     "Selector Ticket": "Vé Chọn",
     "Tidal Chorus": "Khúc Triều Đồng",
-    "Winter Brume": "Winter Brume",
+    "Winter Brume": "Sương Giá Mùa Đông",
     "Utterance of Marvels": "Kỳ Quan Vọng",
-    "Beginner's Choice Convene": "Beginner's Choice Convene",
-    "Giveback Event Convene": "Giveback Event Convene",
+    "Beginner's Choice Convene": "Banner Tự chọn Cho Tân thủ",
+    "Giveback Event Convene": "Banner Sự Kiện 5* Tùy Chọn",
     "Absolute Pulsation": "Xung Động Tuyệt Đối",
     "Prevail the Lasting Night": "Hừng Đông Sau Đêm",
     "When Thunder Pours": "Điện Thiểm Lôi Minh",
-    "When Thunder Pours (Early)": "When Thunder Pours (Early)",
+    "When Thunder Pours (Early)": "Điện Thiểm Lôi Minh (sớm)",
     "Thawborn Renewal": "Noãn Khởi Tề Uy",
-    "Vermillion's Ploy": "Châu Sa Tinh Nghịch"
+    "Vermillion's Ploy": "Châu Sa Tinh Nghịch",
+    "Celestial Revelation": "Phát Hiện Sáng Suốt",
+    "Chromatic Prose": "Áng Văn Rực Rỡ"
   },
   "Common": {
     "Import History": "Nhập Lịch sử Triệu hồi"
@@ -103,12 +109,12 @@
       "description": "Bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Đồng bộ dữ liệu qua các thiết bị và chia sẻ kết quả với bạn bè để dễ dàng theo dõi tài khoản!"
     },
     "Achievements": {
-      "title": "Achievements - WuWa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Thành Tựu - WuWa Tracker",
+      "description": "Theo dõi thành tựu của bạn trong Wuthering Waves và nhập/xuất dữ liệu tự do qua các thiết bị! Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - WuWa Tracker",
+        "title": "Lịch sử Quay",
         "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
@@ -121,7 +127,7 @@
       }
     },
     "Error": {
-      "title": "Đã xảy ra lỗi",
+      "title": "An Error Occurred",
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
@@ -348,6 +354,8 @@
   },
   "Import": {
     "title": "Nhập",
+    "expiration-notice-title": "URL Expiration",
+    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Hướng Dẫn Nhập",
     "PC": {
       "title": "PC",

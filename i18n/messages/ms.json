@@ -20,6 +20,8 @@
     "Yangyang": "Yangyang",
     "Yinlin": "Yinlin",
     "Yuanwu": "Yuanwu",
+    "Zhezhi": "Zhezhi",
+    "Xiangli Yao": "Xiangli Yao",
     "Abyss Surges": "Abyss Surges",
     "Ages of Harvest": "Ages of Harvest",
     "Amity Accord": "Amity Accord",
@@ -73,7 +75,9 @@
     "Thunderbolt": "Thunderbolt",
     "Undying Flame": "Undying Flame",
     "Variation": "Variation",
-    "Verdant Summit": "Verdant Summit"
+    "Verdant Summit": "Verdant Summit",
+    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
+    "Verity's Handle": "Verity's Handle"
   },
   "CardPoolNames": {
     "Featured Resonator": "Featured Resonator",
@@ -93,7 +97,9 @@
     "When Thunder Pours": "When Thunder Pours",
     "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Thawborn Renewal",
-    "Vermillion's Ploy": "Vermillion's Ploy"
+    "Vermillion's Ploy": "Vermillion's Ploy",
+    "Celestial Revelation": "Celestial Revelation",
+    "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "Import History"
@@ -121,7 +127,7 @@
       }
     },
     "Error": {
-      "title": "Ralat Berlaku",
+      "title": "An Error Occurred",
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
@@ -348,6 +354,8 @@
   },
   "Import": {
     "title": "Import",
+    "expiration-notice-title": "URL Expiration",
+    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Import Tutorial",
     "PC": {
       "title": "PC",
