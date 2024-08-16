@@ -354,9 +354,9 @@
   },
   "Import": {
     "title": "导入",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
+    "expired-url": "该 URL 已到期失效。请打开您的唤取历史并再次导入。",
+    "invalid-url": "您的唤取历史 URL 无效。",
+    "import-success": "成功导入唤取历史 URL！",
     "expiration-notice-title": "URL 到期失效",
     "expiration-notice-content": "从游戏版本 1.2 开始，您的 URL 将在导入后 1 小时失效。为了查看最新的抽取记录，请确保在重新导入之前打开您游戏内的唤取历史。",
     "Import Tutorial": "导入教程",
@@ -560,12 +560,12 @@
   "Timeline": {
     "title": "时间线",
     "heading": "活动时间线",
-    "description": "以你的本地时区或者其他<link>服务器时间</link>查看鸣潮的活动。",
+    "description": "以您本地的时区或其他<link>服务器时间</link>查看《鸣潮》的活动。",
     "github-update-message": "由 {author} 编辑于 {time}。",
     "Edit this page on GitHub": "在GitHub上编辑此页",
     "ResetTimers": {
       "title": "服务器每日刷新计时器",
-      "description": "比较你的本地时间和鸣潮游戏服务器时间来规划接下来的冒险。"
+      "description": "将您本地的时间与《鸣潮》游戏服务器进行比较，并以此规划您接下来的冒险旅程。"
     }
   },
   "Wiki": {
