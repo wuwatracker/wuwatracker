@@ -354,6 +354,9 @@
   },
   "Import": {
     "title": "Importar",
+    "expired-url": "This URL has expired. Please open your Convene history & import again.",
+    "invalid-url": "Your Convene History URL is invalid.",
+    "import-success": "Successfully imported Convene History URL!",
     "expiration-notice-title": "URL Expiration",
     "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Tutorial para importar",
@@ -373,8 +376,6 @@
       "description-android": "Si el primer método no te funciona, por favor usa el otro. Si aún necesitas ayuda, por favor visita nuestro <link>servidor de Discord</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "URL de historial de invocación inválida.",
-      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Primero, ejecuta Wuthering Waves y abre tu historial de invocación en el juego",
         "description": "Despues, abre Windows PowerShell, y entonces pega el siguiente script.",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "URL del historial de invocación inválida.",
-      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "found-url": "¡Hemos encontrado una URL! Haz clic en el botón de importar historial para continuar.",
       "not-found-url": "Ninguna URL válida encontrada en los archivos de registros.",
       "Click to upload": "Click para subir",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "Dirección del juego inválida",
-      "invalid-url": "URL de historial de invocación inválida",
-      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Copia tu carpeta de instalación",
         "description": "Busca la carpeta que contiene <code>Wuthering Waves.exe</code> y la carpeta <code>Client</code>.",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "Datos JSON inválidos. Asegúrate de copiar los punto y coma",
-      "invalid-url": "URL de historial de invocación inválida",
-      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Sigue nuestro videotutorial",
         "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <video>este videotutorial de Chario</video> para descargar y usar <app>Stream - Network Debug Tool</app>.",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "URL de historial de invocación inválida",
-      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Usa Ascent para conseguir la URL de tu historial",
         "description": "Similar a conseguir tu historial en Genshin Impact o Honkai Star Rail, sigue <video>esta guía de Mirai0009</video> para descargar y usar <app>Ascent v2.1.6</app> para conseguir tu URL.",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "Primero, lee detenidamente <guide>esta guía escrita</guide>, y luego, sigue este <video>video de YouTube</video> para conseguir tus datos en Android.\nTodos los créditos van para Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "URL de historial de invocación inválida",
-      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Usa Termux para conseguir la URL de tu historial",
         "description": "Similar a como obtienes tu historial en Genshin Impact o Honkai Star Rail, sigue <guide>esta guía de eqdamini</guide> para descargar la app de <app>Termux</app>, con la que conseguirás tu URL."
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "URL de historial de invocación inválida",
-      "import-success": "¡URL del historial de invocación importada exitosamente!",
       "1": {
         "title": "Sigue nuestro videotutorial",
         "description": "Sigue <link>este videotutorial de yukio36</link> después de abrir la aplicación de Wuthering Waves.",
