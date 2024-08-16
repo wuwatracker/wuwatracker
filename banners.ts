@@ -1,3 +1,5 @@
+import dayjs from "dayjs";
+
 /**
  * Represents a rate-up rule with associated featured gacha item names and date range.
  */
@@ -58,7 +60,7 @@ const standardBanners: BannerInfo[] = [
   },
 ];
 
-export const banners: BannerInfo[] = [
+export const rawBanners: BannerInfo[] = [
   {
     bannerId: 100001,
     cardPoolType: 1,
@@ -67,7 +69,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Jiyan"],
     rateUp4Names: ["Chixia", "Danjin", "Mortefi"],
     startDate: "2024-05-23 00:00",
-    endDate: "2024-06-06 09:59",
+    endDate: "2024-06-06 09:59:59",
     isCstStart: true,
     isCstEnd: true,
   },
@@ -79,7 +81,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Yinlin", "Jiyan"],
     rateUp4Names: ["Aalto", "Taoqi", "Yuanwu", "Chixia", "Danjin", "Mortefi"],
     startDate: "2024-06-06 10:00",
-    endDate: "2024-06-13 09:59",
+    endDate: "2024-06-13 09:59:59",
     isCstStart: true,
   },
   {
@@ -90,7 +92,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Yinlin"],
     rateUp4Names: ["Aalto", "Taoqi", "Yuanwu"],
     startDate: "2024-06-13 10:00",
-    endDate: "2024-06-26 23:59",
+    endDate: "2024-06-26 23:59:59",
   },
   {
     bannerId: 100004,
@@ -100,7 +102,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Jinhsi"],
     rateUp4Names: ["Sanhua", "Yangyang", "Danjin"],
     startDate: "2024-06-28 12:00",
-    endDate: "2024-07-22 09:59",
+    endDate: "2024-07-22 09:59:59",
     isCstStart: true,
   },
   {
@@ -111,7 +113,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Changli"],
     rateUp4Names: ["Baizhi", "Taoqi", "Mortefi"],
     startDate: "2024-07-22 10:00",
-    endDate: "2024-08-14 11:59",
+    endDate: "2024-08-14 11:59:59",
   },
   {
     bannerId: 100006,
@@ -120,8 +122,8 @@ export const banners: BannerInfo[] = [
     alt: "Chromatic Prose",
     rateUp5Names: ["Zhezhi"],
     rateUp4Names: ["Sanhua", "Baizhi", "Chixia"],
-    startDate: "2024-08-15 13:00",
-    endDate: "2024-09-07 09:59",
+    startDate: "2024-08-15 12:00",
+    endDate: "2024-09-07 09:59:59",
     isCstStart: true,
   },
   {
@@ -132,7 +134,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Xiangli Yao"],
     rateUp4Names: ["Aalto", "Yuanwu", "Danjin"],
     startDate: "2024-09-07 10:00",
-    endDate: "2024-09-28 11:59",
+    endDate: "2024-09-28 11:59:59",
   },
   {
     bannerId: 200001,
@@ -142,7 +144,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Verdant Summit"],
     rateUp4Names: ["Augment", "Hollow Mirage", "Dauntless Evernight"],
     startDate: "2024-05-23 00:00",
-    endDate: "2024-06-06 09:59",
+    endDate: "2024-06-06 09:59:59",
     isCstStart: true,
     isCstEnd: true,
   },
@@ -161,7 +163,7 @@ export const banners: BannerInfo[] = [
       "Jinzhou Keeper",
     ],
     startDate: "2024-06-06 10:00",
-    endDate: "2024-06-13 09:59",
+    endDate: "2024-06-13 09:59:59",
     isCstStart: true,
   },
   {
@@ -172,7 +174,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Stringmaster"],
     rateUp4Names: ["Lunar Cutter", "Cadenza", "Jinzhou Keeper"],
     startDate: "2024-06-13 10:00",
-    endDate: "2024-06-26 23:59",
+    endDate: "2024-06-26 23:59:59",
   },
   {
     bannerId: 200004,
@@ -182,7 +184,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Ages of Harvest"],
     rateUp4Names: ["Discord", "Commando of Conviction", "Amnity Accord"],
     startDate: "2024-06-28 12:00",
-    endDate: "2024-07-22 09:59",
+    endDate: "2024-07-22 09:59:59",
     isCstStart: true,
   },
   {
@@ -193,7 +195,7 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Blazing Brilliance"],
     rateUp4Names: ["Comet Flare", "Overture", "Undying Flame"],
     startDate: "2024-07-22 10:00",
-    endDate: "2024-08-14 11:59",
+    endDate: "2024-08-14 11:59:59",
   },
   {
     bannerId: 200006,
@@ -202,8 +204,8 @@ export const banners: BannerInfo[] = [
     alt: "Absolute Pulsation",
     rateUp5Names: ["Rime-Draped Sprouts"],
     rateUp4Names: ["Dauntless Evernight", "Jinzhou Keeper", "Hollow Mirage"],
-    startDate: "2024-08-15 13:00",
-    endDate: "2024-09-07 09:59",
+    startDate: "2024-08-15 12:00",
+    endDate: "2024-09-07 09:59:59",
     isCstStart: true,
   },
   {
@@ -214,7 +216,12 @@ export const banners: BannerInfo[] = [
     rateUp5Names: ["Verity's Handle"],
     rateUp4Names: ["Marcato", "Helios Cleaver", "Novaburst"],
     startDate: "2024-09-07 10:00",
-    endDate: "2024-09-28 11:59",
+    endDate: "2024-09-28 11:59:59",
   },
   ...standardBanners,
 ];
+
+export const banners = rawBanners.filter((b) => {
+  const UNRELEASED_BANNERS = [100007, 200007];
+  return !UNRELEASED_BANNERS.includes(b.bannerId);
+});

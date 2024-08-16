@@ -368,6 +368,8 @@
 
   "Import": {
     "title": "Import",
+    "expiration-notice-title": "URL Expiration",
+    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Import Tutorial",
     "PC": {
       "title": "PC",
