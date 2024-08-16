@@ -1,7 +1,7 @@
 {
   "Items": {
-    "Rover-Havoc": "Rover-Havoc",
-    "Rover-Spectro": "Rover-Spectro",
+    "Rover-Havoc": "방랑자-인멸",
+    "Rover-Spectro": "방랑자-회절",
     "Aalto": "알토",
     "Baizhi": "설지",
     "Calcharo": "카카루",
@@ -76,15 +76,15 @@
     "Undying Flame": "불멸의 성화",
     "Variation": "판타지 변주",
     "Verdant Summit": "청룡의 천장",
-    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle"
+    "Rime-Draped Sprouts": "옥수 비단",
+    "Verity's Handle": "팔방의 천추"
   },
   "CardPoolNames": {
     "Featured Resonator": "캐릭터 이벤트 튜닝",
     "Featured Weapon": "무기 이벤트 튜닝",
     "Permanent Resonator": "캐릭터 레귤러 튜닝",
     "Permanent Weapon": "무기 레귤러 튜닝",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "초보자 튜닝",
     "Beginner's Choice": "초보자 자유 선택",
     "Selector Ticket": "감사 타겟 튜닝",
     "Tidal Chorus": "울리는 조수",
@@ -98,8 +98,8 @@
     "When Thunder Pours (Early)": "뇌우의 광란(조기)",
     "Thawborn Renewal": "눈 속에 트는 새싹",
     "Vermillion's Ploy": "별빛 속의 화염 깃털",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "별바다의 기관 문명을 찾아서",
+    "Chromatic Prose": "채색의 운율"
   },
   "Common": {
     "Import History": "기록 제출하기"
@@ -127,8 +127,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "오류 발생",
+      "description": "WuWa Tracker를 사용하는 동안 오류가 발생했습니다. 문제를 신속히 해결하기 위해 Discord 서버로 문의해주세요."
     },
     "Import": {
       "title": "튜닝 기록 가져오기 - WuWa Tracker",
@@ -160,17 +160,17 @@
     },
     "Wiki": {
       "Resonator": {
-        "title": "Resonators - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "공명자 - WuWa Tracker",
+        "description": "명조: 워더링 웨이브의 공명자 정보를 보고 공명자 업그레이드를 위해 WuWa Tracker의 재료 계산기를 사용해보세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
       },
       "Item": {
-        "title": "Items - WuWa Tracker",
-        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "아이템 - WuWa Tracker",
+        "description": "명조: 워더링 웨이브의 아이템 정보를 확인하세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
       }
     },
     "Planner": {
-      "title": "Material Planner - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
+      "title": "재료 계산기 - WuWa Tracker",
+      "description": "공명자의 돌파 레벨, 스킬, 그리고 EXP 재료를 계산하기에 가장 적합한 명조: 워더링 웨이브 계산기입니다. WuWa Tracker는 명조: 워더링 웨이브의 모든 플레이어를 위한 도구 모음입니다."
     }
   },
   "Layout": {
@@ -185,19 +185,19 @@
   },
   "MenuList": {
     "Tools": "도구",
-    "Inventory": "Inventory",
+    "Inventory": "인벤토리",
     "Guides": "가이드",
     "Config": "구성",
     "Convene Tracker": "튜닝 트래커",
     "Global Stats": "글로벌 통계",
     "Share History": "기록 공유하기",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "계산기",
+    "Items": "아이템",
     "Achievements": "업적",
     "Timeline": "타임라인",
     "Import": "제출하기",
     "Settings": "설정",
-    "Resonators": "Resonators",
+    "Resonators": "공명자",
     "Support Us": "지원하기",
     "Sign In To Google": "Google로 로그인",
     "Sign Out": "로그아웃"
@@ -354,8 +354,8 @@
   },
   "Import": {
     "title": "제출하기",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expiration-notice-title": "URL 만료",
+    "expiration-notice-content": "1.2 패치로 인해, 튜닝 기록 URL이 만료되었습니다. 업데이트 된 뽑기 기록을 보기 위해 튜닝 기록을 다시 제출해주세요.",
     "Import Tutorial": "제출 튜토리얼",
     "PC": {
       "title": "PC",
@@ -581,10 +581,10 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "공명자"
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "재료 계산기"
   }
 }
