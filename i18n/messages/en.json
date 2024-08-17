@@ -110,6 +110,15 @@
     "Import History": "Import History"
   },
 
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
+      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+    }
+  },
+
   "Metadata": {
     "Generic": {
       "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Synchronize your data across devices and share your pulls with your friends and track your account easily!"
