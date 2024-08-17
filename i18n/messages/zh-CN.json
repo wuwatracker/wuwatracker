@@ -114,7 +114,7 @@
     },
     "Convene": {
       "Index": {
-        "title": "唤取 History - WuWa Tracker",
+        "title": "唤取历史 - WuWa Tracker",
         "description": "查看您最新的《鸣潮》抽取统计数据和最近的唤取记录。仪表板完美符合截图需要，您可以自由截图以向朋友炫耀！WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       },
       "Global": {
@@ -257,7 +257,7 @@
     }
   },
   "Convene": {
-    "title": "抽取追踪器",
+    "title": "唤取记录",
     "ConvenePageContent": {
       "Scroll for More": "滚动查看更多",
       "Switch View": "切换视图",
