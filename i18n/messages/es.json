@@ -104,6 +104,14 @@
   "Common": {
     "Import History": "Importar historial"
   },
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
+      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+    }
+  },
   "Metadata": {
     "Generic": {
       "description": "Un contador de pity para Wuthering Waves. Utilizando los datos más actualizados con estadísticas globales, y más. ¡Sincroniza tus datos entre dispositivos, comparte tus invocaciones con tus amigos, y sigue tu cuenta fácilmente!"
