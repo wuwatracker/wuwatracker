@@ -136,7 +136,7 @@
     },
     "Error": {
       "title": "Ocorreu Um Erro",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "description": "Ocorreu um erro enquanto usava WuWa Tracker. Por favor, envie um relatório para o nosso servidor Discord para o podermos resolver prontamente."
     },
     "Import": {
       "title": "Importar Histórico de Convocações - WuWa Tracker",
@@ -362,11 +362,11 @@
   },
   "Import": {
     "title": "Importar",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "Este URL expirou. Por favor, abra o seu Histórico de Convocações & importe novamente.",
+    "invalid-url": "O seu URL do Histórico de Convocações é invalido.",
+    "import-success": "URL do Histórico de Convocações importado com sucesso!",
+    "expiration-notice-title": "Validade do URL",
+    "expiration-notice-content": "A partir do patch 1.2, o seu URL vai expirar depois de uma hora. Para ver tiros atualizados, por favor, tenha certeza de abrir o seu Histórico de Convocações no jogo antes de reimportar.",
     "Import Tutorial": "Tutorial de Importação",
     "PC": {
       "title": "PC",
