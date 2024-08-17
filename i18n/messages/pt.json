@@ -76,8 +76,8 @@
     "Undying Flame": "Chama Imortal",
     "Variation": "Variação",
     "Verdant Summit": "Cume Verdejante",
-    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle"
+    "Rime-Draped Sprouts": "Brotos Geados",
+    "Verity's Handle": "Cabo da Verdade"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonator em Destaque",
@@ -98,18 +98,18 @@
     "When Thunder Pours (Early)": "Quando Trovões Chovem (Antecipado)",
     "Thawborn Renewal": "Degelo Primaveril",
     "Vermillion's Ploy": "Estratagema Rubro",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "Revelação Celestial",
+    "Chromatic Prose": "Prosa Cromática"
   },
   "Common": {
     "Import History": "Importar Histórico"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "O seu UID tem de conter 9 caracteres",
+      "Your record ID cannot be empty": "O seu ID salvo não pode estar vazio",
+      "Your URL contains an invalid server ID": "O seu URL contém um ID de servidor inválido",
+      "Your server area is not supported at the moment": "A área do seu servidor não é suportada de momento"
     }
   },
   "Metadata": {
@@ -135,7 +135,7 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
+      "title": "Ocorreu Um Erro",
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
