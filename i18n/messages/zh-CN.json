@@ -106,10 +106,10 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "您的 UID 必须包含 9 个字符",
+      "Your record ID cannot be empty": "您的记录 ID 不可为空",
+      "Your URL contains an invalid server ID": "您的 URL 包含无效的服务器 ID",
+      "Your server area is not supported at the moment": "您服务器所在的区域暂时未受支持"
     }
   },
   "Metadata": {
