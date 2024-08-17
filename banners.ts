@@ -113,7 +113,7 @@ export const rawBanners: BannerInfo[] = [
     rateUp5Names: ["Changli"],
     rateUp4Names: ["Baizhi", "Taoqi", "Mortefi"],
     startDate: "2024-07-22 10:00",
-    endDate: "2024-08-14 11:59:59",
+    endDate: "2024-08-14 12:59:59",
   },
   {
     bannerId: 100006,
@@ -195,7 +195,7 @@ export const rawBanners: BannerInfo[] = [
     rateUp5Names: ["Blazing Brilliance"],
     rateUp4Names: ["Comet Flare", "Overture", "Undying Flame"],
     startDate: "2024-07-22 10:00",
-    endDate: "2024-08-14 11:59:59",
+    endDate: "2024-08-14 12:59:59",
   },
   {
     bannerId: 200006,
