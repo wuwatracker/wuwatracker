@@ -354,6 +354,9 @@
   },
   "Import": {
     "title": "匯入遊戲資訊",
+    "expired-url": "This URL has expired. Please open your Convene history & import again.",
+    "invalid-url": "Your Convene History URL is invalid.",
+    "import-success": "Successfully imported Convene History URL!",
     "expiration-notice-title": "URL Expiration",
     "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "匯入教學",
@@ -373,8 +376,6 @@
       "description-android": "如果第一個方法無法使用，請嘗試其他方法。如果仍然有問題，請造訪我們的 <link>Discord 伺服器</link>。"
     },
     "PC1Tutorial": {
-      "invalid-url": "無效的喚取記錄連結。",
-      "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "首先，執行鳴潮並開啟遊戲內的喚取紀錄",
         "description": "再來，開啟 Windows PowerShell，貼上以下的指令。",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "無效的喚取記錄連結。",
-      "import-success": "成功匯入喚取記錄連結",
       "found-url": "我們找到了您的紀錄連結！點擊\"匯入歷史紀錄\"按鈕繼續。",
       "not-found-url": "在紀錄檔中沒有找到有效的連結。",
       "Click to upload": "點擊上傳",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "無效的遊戲路徑",
-      "invalid-url": "無效的記錄連結",
-      "import-success": "成功匯入記錄連結",
       "1": {
         "title": "複製遊戲安裝路徑",
         "description": "找到包含 <code>Wuthering Waves.exe</code> 及 <code>Client</code> 資料夾",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "錯誤的 JSON 資料，請確認有複製到所有符號",
-      "invalid-url": "無效的喚取記錄連結",
-      "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "觀看教學影片",
         "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Chario 提供的教學影片</video> 下載並使用<app>Stream - Network Debug Tool</app> 來取得您的連結。",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "無效的喚取記錄 URL",
-      "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "使用 Ascent 取得喚取記錄連結",
         "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <video>Mirai0009 提供的教學影片</video> 下載並使用 <app>Ascent v2.1.6</app> 來取得您的連結",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "首先，仔細閱讀<guide>文字指南</guide>，然後按照這個<video>YouTube影片</video>來在 Android 設備上獲取你的資料。資料內容來自於Mirai0009。"
     },
     "Android2Tutorial": {
-      "invalid-url": "無效的喚取記錄連結",
-      "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "使用 Termux 取得喚取記錄連結",
         "description": "類似於原神或者星穹鐵道取得歷史紀錄的方式，依據 <guide>eqdamini 的使用說明</guide> 使用 <app>Termux</app> 來取得您的連結。"
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "無效的喚取記錄連結",
-      "import-success": "成功匯入喚取記錄連結",
       "1": {
         "title": "依照我們的教學影片",
         "description": "開啟鳴潮後，請依照 <link>yukio36 提供的教學影片</link> 進行。",

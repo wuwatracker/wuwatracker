@@ -354,6 +354,9 @@
   },
   "Import": {
     "title": "Impor",
+    "expired-url": "This URL has expired. Please open your Convene history & import again.",
+    "invalid-url": "Your Convene History URL is invalid.",
+    "import-success": "Successfully imported Convene History URL!",
     "expiration-notice-title": "URL Expiration",
     "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Panduan Import",
@@ -373,8 +376,6 @@
       "description-android": "Jika cara utama masih tidak berkerja untuk Anda gunakan cara lainya. Jika Anda masih membutuhkan bantuan, tolong kunjungi <link>Discord Server</link> kami."
     },
     "PC1Tutorial": {
-      "invalid-url": "Alamat Riwayat Convene Tidak Valid.",
-      "import-success": "Berhasil mengimpor Alamat Riwayat Convene!",
       "1": {
         "title": "Pertama, jalankan Wuthering Waves dan Buka Riwayat Convene di dalam game",
         "description": "Setelah itu, buka Windows PowerShell, lalu tempelkan skrip berikut.",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Alamat Riwayat Convene Tidak Valid.",
-      "import-success": "Berhasil mengimpor Alamat Riwayat Convene!",
       "found-url": "Kami menemukan Alamat-nya! Klik tombol Impor Riwayat untuk melanjutkan.",
       "not-found-url": "Tidak ada Alamat valid yang ditemukan di file log.",
       "Click to upload": "Klik untuk mengunggah",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "Alamat Tempat Penyimpanan Game Tidak Valid",
-      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
-      "import-success": "Mengimport Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Copy Alamat Tempat Game Anda di Instal",
         "description": "Cari folder yang ada <code>Wuthering Waves.exe</code> dan <code> sebuah Client </code> folder.",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "Data JSON tidak valid - pastikan untuk menyalin titik koma",
-      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
-      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Ikuti Video Tutorial Kami",
         "description": "Mirip dengan mendapatkan riwayat Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>video tutorial dari Chario</video> ini untuk mengunduh dan menggunakan <app>Stream - Network Debug Tool</app>.",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
-      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Gunakan Ascent Untuk Mengambil Alamat Riwayat Convene",
         "description": "Mirip dengan mendapatkan riwayat Anda di Genshin Impact atau Honkai Star Rail, ikuti <video>panduan dari Mirai0009</video> ini untuk mengunduh dan menggunakan <app>Ascent v2.1.6</app> untuk mendapatkan Alamat Anda.",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "Pertama, baca dengan cermat <guide>panduan teks ini</guide> lalu ikuti <video>video YouTube</video> ini untuk mendapatkan data Anda di Android. Semua kredit diberikan kepada Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Alamat Riwayat Convene Tidak Valid",
-      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Gunakan Termux Untuk Mendapatkan Alamat Riwayat Convene",
         "description": "Mirip dengan mendapatkan riwayat Anda di Genshin Impact atau Honkai Star Rail, ikuti <guide>panduan dari eqdamini</guide> ini untuk mengunduh dan menggunakan <app>Termux</app> untuk mendapatkan Alamat Anda."
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Alamat Riwayat Convene History Tidak Valid",
-      "import-success": "Mengimpor Alamat Riwayat Convene Berhasil!",
       "1": {
         "title": "Ikuti Video Tutorial Kami",
         "description": "Ikuti <link>video tutorial dari yukio36</link> ini setelah membuka aplikasi Wuthering Waves.",

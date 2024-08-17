@@ -354,6 +354,9 @@
   },
   "Import": {
     "title": "Імпорт",
+    "expired-url": "This URL has expired. Please open your Convene history & import again.",
+    "invalid-url": "Your Convene History URL is invalid.",
+    "import-success": "Successfully imported Convene History URL!",
     "expiration-notice-title": "URL Expiration",
     "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Довідник по імпорту",
@@ -373,8 +376,6 @@
       "description-android": "Якщо перший спосіб не працює, спробуйте інший. Якщо вам все ще потрібна допомога, відвідайте наш <link>Discord</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Недійсна URL-адреса історії скликань.",
-      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
         "title": "Спочатку запустіть Wuthering Waves і відкрийте вашу історію скликань у грі",
         "description": "Після цього, відкрийте Windows PowerShell, та вставте наступний скрипт.",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Недійсна URL-адреса історії скликань.",
-      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "found-url": "Ми знайшли URL! Натисніть кнопку \"Імпортувати історію\", щоб продовжити.",
       "not-found-url": "У файлі журналу не знайдено дійсної URL-адреси.",
       "Click to upload": "Натисніть для завантаження",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "Недійсний шлях до гри",
-      "invalid-url": "Недійсна URL-адреса історії скликань",
-      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
         "title": "Скопіюйте ваш каталог встановлення",
         "description": "Знайдіть теку, яка містить <code>Wuthering Waves.exe</code> і <code>Client</code> теку.",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "Невірні дані JSON - переконайтеся, що скопіювали крапки з комою",
-      "invalid-url": "Недійсна URL-адреса історії скликань",
-      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
         "title": "Дотримуйтесь нашої відеоінструкції",
         "description": "Подібно до отримання історії в Genshin Impact або Honkai Star Rail, слідуйте <video>цьому відеоуроку від Chario</video>, щоб завантажити та використовувати <app>Stream - Network Debug Tool</app>.",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Недійсна URL-адреса історії скликань",
-      "import-success": "URL-адреса історії скликання успішно імпортована!",
       "1": {
         "title": "Використовуйте Termux для отримання URL-адреси історії скликань",
         "description": "Подібно до отримання історії в Genshin Impact або Honkai Star Rail, слідуйте <video>цьому посібнику від Mirai0009</video>, щоб завантажити та використовувати <app>Ascent v2.1.6</app> для отримання вашої URL.",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "Спочатку уважно прочитайте <guide>цей текстовий посібник</guide>, а потім перегляньте <video>відео на YouTube</video>, щоб імпортувати дані на Android. Усі заслуги належать Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Недійсна URL-адреса історії скликань",
-      "import-success": "URL-адреса історії успішно імпортована!",
       "1": {
         "title": "Використовуйте Termux для отримання URL-адреси історії скликань",
         "description": "Подібно до отримання історії в Genshin Impact або Honkai Star Rail, слідуйте <guide> цьому посібнику від eqdamini </guide>, щоб завантажити та використовувати <app>Termux</app> для отримання вашої URL-адреси."
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Недійсна URL-адреса історії скликань",
-      "import-success": "URL-адреса історії успішно імпортована!",
       "1": {
         "title": "Дотримуйтесь нашої відеоінструкції",
         "description": "Перегляньте <link>цей відеоурок від yukio36</link> після відкриття додатка Wuthering Waves.",

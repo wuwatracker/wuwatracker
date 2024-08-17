@@ -354,6 +354,9 @@
   },
   "Import": {
     "title": "Import",
+    "expired-url": "This URL has expired. Please open your Convene history & import again.",
+    "invalid-url": "Your Convene History URL is invalid.",
+    "import-success": "Successfully imported Convene History URL!",
     "expiration-notice-title": "URL Expiration",
     "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
     "Import Tutorial": "Import Tutorial",
@@ -373,8 +376,6 @@
       "description-android": "Wenn die erste Methode nicht für dich funktioniert, kannst du noch eine andere probieren, wenn du immer noch Hilfe brauchst, kann du unserem <link>Discord Server zu beitreten</link>."
     },
     "PC1Tutorial": {
-      "invalid-url": "Invalide Convene-Verlauf-URL.",
-      "import-success": "Erfolgreich Convene-Verlauf-URL importiert!",
       "1": {
         "title": "Erstens, öffne Wuthering Waves und öffne im Spiel deinen Convene Verlauf",
         "description": "Danach öffnest du Windows PowerShell und fügst das folgende Script ein.",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "Invalid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL!",
       "found-url": "We found a URL! Click the Import History button to proceed.",
       "not-found-url": "No valid URL found in the log file.",
       "Click to upload": "Drücke zum Hochladen",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "Invalid Game Path",
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
       "1": {
         "title": "Copy Your Installation Directory",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
-      "invalid-url": "Invalide Convene-Verlauf-URL",
-      "import-success": "Successfully imported Convene History URL!",
       "1": {
         "title": "Folge unserem Video Tutorial",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "Invalide Convene-Verlauf-URL",
-      "import-success": "Successfully imported Convene History URL!",
       "1": {
         "title": "Use Ascent To Get Convene History URL",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
     },
     "Android2Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Erfolgreich die Convene-Verlauf-URL importiert!",
       "1": {
         "title": "Benutze Termux, um deine Convene-Verlauf-URL zu bekommen",
         "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "Invalid Convene History URL",
-      "import-success": "Successfully imported Convene History URL!",
       "1": {
         "title": "Folge unserem Video Tutorial",
         "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",

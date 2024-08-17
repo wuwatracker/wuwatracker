@@ -354,8 +354,11 @@
   },
   "Import": {
     "title": "导入",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "该 URL 已到期失效。请打开您的唤取历史并再次导入。",
+    "invalid-url": "您的唤取历史 URL 无效。",
+    "import-success": "成功导入唤取历史 URL！",
+    "expiration-notice-title": "URL 到期失效",
+    "expiration-notice-content": "从游戏版本 1.2 开始，您的 URL 将在导入后 1 小时失效。为了查看最新的抽取记录，请确保在重新导入之前打开您游戏内的唤取历史。",
     "Import Tutorial": "导入教程",
     "PC": {
       "title": "PC",
@@ -373,8 +376,6 @@
       "description-android": "如果第一个方法无法使用，请尝试其他的方法。如果您还需要帮助，请访问我们的<link>Discord服务器</link>。"
     },
     "PC1Tutorial": {
-      "invalid-url": "无效的唤取历史链接.",
-      "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "首先，运行《鸣潮》，并打开游戏中的唤取历史",
         "description": "接着，打开Windows PowerShell，然后粘贴下面的脚本。",
@@ -391,8 +392,6 @@
       }
     },
     "PC2Tutorial": {
-      "invalid-url": "无效的唤取历史链接.",
-      "import-success": "成功导入唤取历史链接",
       "found-url": "我们找到了一个链接！点击导入历史按钮以继续。",
       "not-found-url": "在日志文件中没有找到有效的链接。",
       "Click to upload": "点击上传",
@@ -416,8 +415,6 @@
     },
     "PC3Tutorial": {
       "invalid-path": "无效的游戏路径",
-      "invalid-url": "无效的唤取历史链接",
-      "import-success": "成功导入唤取历史链接！",
       "1": {
         "title": "拷贝您的安装目录",
         "description": "找到包含 <code>Wuthering Waves.exe</code> 和 <code>Client</code> 的文件夹。",
@@ -444,8 +441,6 @@
     },
     "IOSTutorial": {
       "invalid-json": "无效的JSON数据 - 请确认复制了分号",
-      "invalid-url": "无效的唤取历史链接",
-      "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "参照我们的视频教程",
         "description": "类似于从《原神》或《崩坏：星穹铁道》中获取历史记录，请根据<video>Chario的视频教程</video>来下载并使用<app>Stream - Network Debug Tool.</app>来得到你的链接。",
@@ -461,8 +456,6 @@
       }
     },
     "Android1Tutorial": {
-      "invalid-url": "无效的唤取历史链接",
-      "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "使用Ascent来获得唤取历史链接",
         "description": "类似于从《原神》或《崩坏：星穹铁道》中获取历史记录，请根据<video>Mirai0009的视频教程</video>来下载并使用<app>Ascent v2.1.6</app>来得到你的链接。",
@@ -481,8 +474,6 @@
       "video-tutorial-desc": "首先，请仔细阅读<guide>这篇文字教程</guide>，然后参照这个<video>YouTube视频</video>在 Android 端得到你的数据。特别鸣谢Mirai0009。"
     },
     "Android2Tutorial": {
-      "invalid-url": "无效的唤取历史链接",
-      "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "使用 Termux 来获得唤取历史链接",
         "description": "类似于从《原神》或《崩坏：星穹铁道》中获取历史记录，请根据<guide>eqdamini的教程</guide>来下载并使用<app>Termux</app>来得到你的链接。"
@@ -496,8 +487,6 @@
       }
     },
     "Android3Tutorial": {
-      "invalid-url": "无效的唤取历史链接",
-      "import-success": "成功导入唤取历史链接",
       "1": {
         "title": "参照我们的视频教程",
         "description": "打开鸣潮应用后参照<link>yukio36的视频教程</link>。",
@@ -571,12 +560,12 @@
   "Timeline": {
     "title": "时间线",
     "heading": "活动时间线",
-    "description": "以你的本地时区或者其他<link>服务器时间</link>查看鸣潮的活动。",
+    "description": "以您本地的时区或其他<link>服务器时间</link>查看《鸣潮》的活动。",
     "github-update-message": "由 {author} 编辑于 {time}。",
     "Edit this page on GitHub": "在GitHub上编辑此页",
     "ResetTimers": {
       "title": "服务器每日刷新计时器",
-      "description": "比较你的本地时间和鸣潮游戏服务器时间来规划接下来的冒险。"
+      "description": "将您本地的时间与《鸣潮》游戏服务器进行比较，并以此规划您接下来的冒险旅程。"
     }
   },
   "Wiki": {
