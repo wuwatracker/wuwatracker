@@ -104,6 +104,14 @@
   "Common": {
     "Import History": "导入历史记录"
   },
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
+      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+    }
+  },
   "Metadata": {
     "Generic": {
       "description": "WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
