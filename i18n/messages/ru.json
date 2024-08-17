@@ -104,6 +104,14 @@
   "Common": {
     "Import History": "Импортировать"
   },
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
+      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+    }
+  },
   "Metadata": {
     "Generic": {
       "description": "Счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Синхронизируйте свои данные между устройствами, делитесь своими достижениями с друзьями и легко следите за прогрессом своего аккаунта!"
