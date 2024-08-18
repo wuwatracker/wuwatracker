@@ -88,7 +88,7 @@
     "Beginner's Choice": "新手自选",
     "Selector Ticket": "自选卷",
     "Tidal Chorus": "海上共潮生",
-    "Winter Brume": "冬烟",
+    "Winter Brume": "冬湖烟波",
     "Utterance of Marvels": "万象新声",
     "Beginner's Choice Convene": "新手自选唤取",
     "Giveback Event Convene": "新手自选唤取（感恩定向唤取）",
@@ -104,6 +104,14 @@
   "Common": {
     "Import History": "导入历史记录"
   },
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "您的 UID 必须包含 9 个字符",
+      "Your record ID cannot be empty": "您的记录 ID 不可为空",
+      "Your URL contains an invalid server ID": "您的 URL 包含无效的服务器 ID",
+      "Your server area is not supported at the moment": "您服务器所在的区域暂时未受支持"
+    }
+  },
   "Metadata": {
     "Generic": {
       "description": "WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
@@ -114,7 +122,7 @@
     },
     "Convene": {
       "Index": {
-        "title": "唤取 History - WuWa Tracker",
+        "title": "唤取历史 - WuWa Tracker",
         "description": "查看您最新的《鸣潮》抽取统计数据和最近的唤取记录。仪表板完美符合截图需要，您可以自由截图以向朋友炫耀！WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       },
       "Global": {
@@ -257,7 +265,7 @@
     }
   },
   "Convene": {
-    "title": "抽取追踪器",
+    "title": "唤取记录",
     "ConvenePageContent": {
       "Scroll for More": "滚动查看更多",
       "Switch View": "切换视图",

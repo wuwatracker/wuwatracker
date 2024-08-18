@@ -104,6 +104,14 @@
   "Common": {
     "Import History": "匯入歷史紀錄"
   },
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
+      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+    }
+  },
   "Metadata": {
     "Generic": {
       "description": "鳴潮的喚取計算平台，使用全球統計的最新數據。提供跨平台資料同步，輕鬆與朋友分享抽卡成果!"

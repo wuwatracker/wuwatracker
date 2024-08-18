@@ -104,6 +104,14 @@
   "Common": {
     "Import History": "Importer votre historique"
   },
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "Votre Code de fonctionnalité doit contenir 9 caractères",
+      "Your record ID cannot be empty": "L'ID de votre historique ne peux être vide",
+      "Your URL contains an invalid server ID": "Votre URL ne contient pas d'ID de serveur valide",
+      "Your server area is not supported at the moment": "Votre serveur n'est pas pris en charge pour l'instant"
+    }
+  },
   "Metadata": {
     "Generic": {
       "description": "Un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Synchronisez vos données sur plusieurs appareils, partagez vos invocations avec vos amis et suivez facilement votre compte !"
@@ -354,11 +362,11 @@
   },
   "Import": {
     "title": "Importer",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "Votre URL a expiré. Veuillez ouvrir votre historique en jeu et le réimporter.",
+    "invalid-url": "L'URL de votre historique est invalide.",
+    "import-success": "Importation réussie !",
+    "expiration-notice-title": "Expiration des URL",
+    "expiration-notice-content": "Depuis la version 1.2, votre URL expire au bout d'une heure. Afin de voir les nouvelles invocations, assurez-vous d'ouvrir votre historique d'invocation dans le jeu avant de le réimporter.",
     "Import Tutorial": "Tutoriel d'importation",
     "PC": {
       "title": "PC",

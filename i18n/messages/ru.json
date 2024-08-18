@@ -104,6 +104,14 @@
   "Common": {
     "Import History": "Импортировать"
   },
+  "Validation": {
+    "GachaRecordQueryArgs": {
+      "Your UID must contain 9 characters": "Ваш UID должен состоять из 9 цифр",
+      "Your record ID cannot be empty": "Ваше поле \"ID записи\" не может быть пустым",
+      "Your URL contains an invalid server ID": "Ваша ссылка содержит некорректный ИД сервера",
+      "Your server area is not supported at the moment": "На данный момент ваш сервер не поддерживается"
+    }
+  },
   "Metadata": {
     "Generic": {
       "description": "Счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Синхронизируйте свои данные между устройствами, делитесь своими достижениями с друзьями и легко следите за прогрессом своего аккаунта!"
@@ -127,8 +135,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Произошла ошибка",
+      "description": "Произошла ошибка при использовании WuWa Tracker. Пожалуйста, сообщите об этом на нашем сервере Discord, чтобы мы могли быстро исправить проблему."
     },
     "Import": {
       "title": "Импорт истории - WuWa Tracker",
@@ -354,11 +362,11 @@
   },
   "Import": {
     "title": "Импорт",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "Данная ссылка устарела. Пожалуйста, проведите импорт снова.",
+    "invalid-url": "Ваша ссылка на историю круток некорректна.",
+    "import-success": "Ссылка на историю круток успешно импортирована!",
+    "expiration-notice-title": "Истечение срока действия ссылки",
+    "expiration-notice-content": "После выпуска патча 1.2 действие вашей ссылки теперь будет прекращаться спустя час. Убедитесь, что вы открыли внутриигровую историю круток перед повторным импортом.",
     "Import Tutorial": "Руководство по импорту",
     "PC": {
       "title": "ПК",
