@@ -106,8 +106,8 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your UID must contain 9 characters": "Ваш UID должен состоять из 9 цифр",
+      "Your record ID cannot be empty": "Ваше поле \"ID записи\" не может быть пустым",
       "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
       "Your server area is not supported at the moment": "Your server area is not supported at the moment"
     }
