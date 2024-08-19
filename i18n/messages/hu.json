@@ -106,10 +106,10 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "Az UID-nek 9 karaktert kell tartalmaznia",
+      "Your record ID cannot be empty": "A felvétel azonosítója nem lehet üres",
+      "Your URL contains an invalid server ID": "Az URL címed érvénytelen szerverazonosítót tartalmaz",
+      "Your server area is not supported at the moment": "A szerver területe jelenleg nem támogatott"
     }
   },
   "Metadata": {
