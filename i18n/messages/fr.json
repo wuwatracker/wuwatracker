@@ -366,7 +366,7 @@
     "invalid-url": "L'URL de votre historique est invalide.",
     "import-success": "Importation réussie !",
     "expiration-notice-title": "Expiration des URL",
-    "expiration-notice-content": "Depuis la version 1.2, votre URL expire au bout d'une heure. Afin de voir les nouvelles invocations, assurez-vous d'ouvrir votre historique d'invocation dans le jeu avant de le réimporter.",
+    "expiration-notice-content": "Depuis la version 1.2, votre URL expire au bout d'une heure. Afin de voir vos dernières invocations, assurez-vous d'ouvrir votre historique d'invocation en jeu puis de le réimporter.",
     "Import Tutorial": "Tutoriel d'importation",
     "PC": {
       "title": "PC",
@@ -478,7 +478,7 @@
         "title": "Appuyez sur le bouton \"Importer l'historique\"."
       },
       "Video Tutorial": "Tutoriel vidéo",
-      "Android Ascent Import Tutorial Video": "Vidéo tutorielle d'importation avec Android Ascent",
+      "Android Ascent Import Tutorial Video": "Tutoriel vidéo d'importation avec Android Ascent",
       "video-tutorial-desc": "Pour commencer, lisez attentivement <guide>ce guide textuel</guide>, puis suivez <video>cette vidéo YouTube</video> pour récupérer vos données sur Android. Tous les crédits reviennent à Mirai0009."
     },
     "Android2Tutorial": {
@@ -497,9 +497,9 @@
     "Android3Tutorial": {
       "1": {
         "title": "Suivez notre tutoriel vidéo",
-        "description": "Suivez <link>cette vidéo tutorielle de yukio36</link> après avoir lancé Wuthering Waves.",
+        "description": "Suivez <link>ce tutoriel vidéo de yukio36</link> après avoir lancé Wuthering Waves.",
         "Video Tutorial": "Tutoriel vidéo",
-        "Android Airplane Mode Import Tutorial Video": "Vidéo tutorielle d'importation avec Android en mode Avion",
+        "Android Airplane Mode Import Tutorial Video": "Tutoriel vidéo d'importation avec Android en mode Avion",
         "video-tutorial-desc": "Suivez ce tutoriel étape par étape sur YouTube, par <highlight>yukio36</highlight> de notre <link>serveur Discord</link> pour importer vos données sur Android sans avoir à télécharger quoique ce soit.",
         "note": "Note : Il se peut que cette solution ne fonctionne pas sur tous les appareils. Veuillez utiliser une autre méthode si une erreur se produit."
       },
