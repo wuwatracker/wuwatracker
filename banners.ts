@@ -1,5 +1,3 @@
-import dayjs from "dayjs";
-
 /**
  * Represents a rate-up rule with associated featured gacha item names and date range.
  */
