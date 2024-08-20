@@ -17,7 +17,7 @@ export const localeLabels: CountryInformation[] = [
   { value: "ko", label: "한국어", shortLabel: "🇰🇷" },
   { value: "ms", label: "Bahasa Melayu", shortLabel: "🇲🇾", isIncomplete: true },
   { value: "ru", label: "Русский", shortLabel: "🇷🇺" },
-  { value: "th", label: "ไทย", shortLabel: "🇹🇭", isIncomplete: true },
+  { value: "th", label: "ไทย", shortLabel: "🇹🇭" },
   { value: "ua", label: "Українська", shortLabel: "🇺🇦" },
   { value: "vi", label: "Tiếng Việt", shortLabel: "🇻🇳" },
   { value: "zh-CN", label: "中文", shortLabel: "🇨🇳" },
