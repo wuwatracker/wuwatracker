@@ -302,7 +302,7 @@
     "UserBannerStats": {
       "Total": "Total",
       "Astrites": "Astrites",
-      "Pulls": "Obtenus"
+      "Pulls": "Invocations"
     },
     "BannerSwitcher": {
       "All Banners": "Toutes les bannières",
