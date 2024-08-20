@@ -106,10 +106,10 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "UID ของคุณต้องมี 9 ตัวอักษร",
+      "Your record ID cannot be empty": "Record ID ของคุณต้องไม่ว่างเปล่า",
+      "Your URL contains an invalid server ID": "URL ของคุณมี Server ID ที่ไม่ถูกต้อง",
+      "Your server area is not supported at the moment": "พื้นที่เซิร์ฟเวอร์ของคุณยังไม่ได้รับการสนับสนุนในขณะนี้"
     }
   },
   "Metadata": {
@@ -117,20 +117,20 @@
       "description": "เคาน์เตอร์ความเสียใจสำหรับ Wuthering Waves โดยใช้ข้อมูลล่าสุดพร้อมสถิติทั่วโลกและอื่น ๆ ซิงโครไนซ์ข้อมูลของคุณในอุปกรณ์ทุกเครื่องและแชร์ผลลัพธ์กับเพื่อน ๆ และติดตามบัญชีของคุณได้โดยง่าย!"
     },
     "Achievements": {
-      "title": "Achievements - WuWa Tracker",
-      "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "ความสำเร็จ - WuWa Tracker",
+      "description": "ติดตามความสำเร็จใน Wuthering Waves ของคุณนำเข้าหรือส่งออกข้อมูลของคุณระหว่างอุปกรณ์ได้อย่างอิสระ! WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - WuWa Tracker",
-        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "สถานะการสุ่ม - WuWa Tracker",
+        "description": "คุณสามารถดูสถิติการสุ่มและประวัติการสุ่มล่าสุดใน Wuthering Waves ของคุณและสามารถใช้แดชบอร์ดเพื่ออวดเพื่อนๆ ของคุณ! WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
       },
       "Global": {
-        "title": "Global Statistics - WuWa Tracker",
+        "title": "สถิติโดยรวม - WuWa Tracker",
         "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Share": {
-        "title": "Share History - WuWa Tracker",
+        "title": "แชร์ประวัติ - WuWa Tracker",
         "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
@@ -139,7 +139,7 @@
       "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
     },
     "Import": {
-      "title": "Import Convene History - WuWa Tracker",
+      "title": "นำเข้าข้อมูล - WuWa Tracker",
       "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
@@ -177,7 +177,7 @@
       }
     },
     "Planner": {
-      "title": "ตัวช่วยจัดการ - WuWa Tracker",
+      "title": "แพลนเนอร์จัดระเบียบ - WuWa Tracker",
       "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
@@ -214,15 +214,15 @@
     "title": "แดชบอร์ด",
     "Greeting": {
       "AnimatedWords": {
-        "pulls": "จำนวนการสุ่มได้",
-        "pity": "pity",
+        "pulls": "จำนวนการสุ่ม",
+        "pity": "จำนวน Pity",
         "events": "กิจกรรม",
         "statistics": "สถิติ",
         "data": "ข้อมูล",
         "updates": "การอัปเดต"
       },
       "title": "WuWa Tracker เครื่องมือช่วยติดตาม",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "description": "เครื่องมือ 3rd Party ของ Wuthering Waves อิงข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ เรามุ่งหวังที่จะให้บริการเครื่องมือที่ดีที่สุดให้กับคุณและให้เพื่อนๆใน Wuthering Waves"
     },
     "Tutorial": {
       "title": "เตรียมตัวเบื้องต้น",
@@ -345,7 +345,7 @@
       "Pulls By Pity": "ที่สุ่มได้ตาม Pity",
       "Pulls By Name": "ที่สุ่มได้ตามชื่อ",
       "Pulls": "ในครั้งที่สุ่มได้",
-      "Showing total pulls at each pull number": "แสดงการสุ่มได้ในทุกๆสิบครั้ง"
+      "Showing total pulls at each pull number": "แสดงการสุ่มได้ในครั้งนั้น"
     },
     "SharePageContent": {
       "title": "แชร์การ์ด",
@@ -362,12 +362,12 @@
   },
   "Import": {
     "title": "นำเข้าข้อมูล",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
-    "Import Tutorial": "วิธีการการนำเข้า",
+    "expired-url": "URL นี้หมดอายุแล้ว กรุณาเปิดหน้าประวัติ Convene ในเกมของคุณและนำเข้าข้อมูลอีกครั้ง",
+    "invalid-url": "URL ประวัติการสุ่มของคุณไม่ถูกต้อง",
+    "import-success": "นำเข้า URL ประวัติการสุ่ม Convene สำเร็จ!",
+    "expiration-notice-title": "ปัญหา URL ของคุณหมดอายุ",
+    "expiration-notice-content": "ปัจจุบัน Patch 1.2 นั้น URL จาก Windows PowerShell ของคุณจะหมดอายุหลังจากนั้น 1 ชั่วโมง หากต้องการนำเข้าและดูข้อมูลนั้น กรุณาเปิดหน้าประวัติการสุ่ม \"Convene\" ในเกมก่อนทำการนำเข้าข้อมูลใหม่อีกครั้ง",
+    "Import Tutorial": "วิธีการนำเข้า",
     "PC": {
       "title": "PC",
       "Automatic": "อัตโนมัติ",
@@ -385,9 +385,9 @@
     },
     "PC1Tutorial": {
       "1": {
-        "title": "ขั้นแรก เปิดตัวเกมและเปิดหน้าประวัติการสุ่มภายในเกม",
+        "title": "ขั้นแรก เปิดตัวเกม Wuthering Waves บน PC และเปิดประวัติการสุ่ม Convene ในเกมของคุณ",
         "description": "จากนั้น ให้ทำการกดปุ่ม Win + S เพื่อ Search หา Windows PowerShell แล้วคัดลอก Script ดังกล่าวไปวางในนั้น",
-        "History URL Script": "History URL Script",
+        "History URL Script": "Script สำหรับลิงค์ประวัติ URL",
         "Click the copy button on the right": "กดปุ่มด้านขวาเพื่อคัดลอกข้อความทั้งหมด",
         "note": "หมายเหตุ: ตัว Script ของเราไม่ได้ยุ่งเกี่้ยวกับการแก้ไขไฟล์ต่างๆ มันเพียงแค่ดึง URL จากบันทึกของคุณ คุณสามารถ <link>ตรวจสอบ Script ได้ที่นี่</link>."
       },
@@ -400,188 +400,188 @@
       }
     },
     "PC2Tutorial": {
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "found-url": "พบ URL แล้ว! กดปุ่ม \"นำเข้าประวัติ\" เพื่อดำเนินการต่อ",
+      "not-found-url": "ไม่พบ URL ที่ถูกต้องในไฟล์ log",
+      "Click to upload": "คลิกเพื่ออัปโหลด",
+      "or drag and drop": "หรือลากแล้วปล่อยไฟล์",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "ขั้นแรก เปิดตัวเกม Wuthering Waves บน PC และเปิดประวัติการสุ่ม Convene ในเกมของคุณ"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "ไปที่ตำแหน่งการติดตั้งเกมของคุณ",
+        "description": "กดคลิกขวาที่ไอคอนเกม Wuthering Waves แล้วเลือก <code>Open file location</code> ตำแหน่งไฟล์เกมที่ถูกต้องนั้นจะประกอบไปด้วย <code>launcher.exe</code> และไฟล์ <code>.dll</code> จำนวนมาก"
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "มุมขวาบนของ File Explorer ให้ทำการ Search หาไฟล์ <code>debug.log</code> จากนั้นลากหรืออัพโหลดไฟล์ที่นี่"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "กดปุ่ม \"นำเข้าประวัติ\" เพื่อเริ่มใช้งาน"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "วิดีโอสอนใช้งาน",
+      "PC Import Tutorial Video": "วิดีโอสอนใช้งานสำหรับ PC",
+      "video-tutorial-desc": "วิดีโอแนะนำการใช้งานจาก Youtube ของช่อง <highlight>cacaowithwater</highlight> จากคอมมูนิตี้ <link>Discord ของพวกเรา</link> คุณสามารถทำตามวิธีดังกล่าวเพื่อนำเข้าประวัติการสุ่มของคุณ"
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
+      "invalid-path": "ตำแหน่งไฟล์เกมไม่ถูกต้อง",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "คัดลอกตำแหน่งไฟล์เกมของคุณลงที่นี่",
+        "description": "ให้ใช้ตำแหน่งไฟล์ที่ประกอบด้วยไฟล์ <code>Wuthering Waves.exe</code> และโฟลเดอร์ <code>Client</code>",
+        "Your installation directory": "ตำแหน่งไฟล์เกมของคุณ ตัวอย่าง \"C:\\Wuthering Waves\\Wuthering Waves Game\"",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
-        "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
-        "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
-        "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
-        "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
+        "title": "เปิดตัวเกม Wuthering Waves บน PC และเปิดประวัติการสุ่ม Convene ในเกมของคุณ",
+        "description": "จากนั้น ให้ทำการกดปุ่ม Win + S เพื่อ Search หา Windows PowerShell แล้วคัดลอก Script ดังกล่าวไปวางในนั้น",
+        "invalid-directory": "กรุณาใส่ตำแหน่งไฟล์เกมที่ติดตั้งก่อน!",
+        "Stuck? Click the “Need Help?” button": "ไม่สามารถไปต่อได้? กรุณากดปุ่ม \"ต้องการความช่วยเหลือ\"",
+        "note": "หมายเหตุ: ตัว Script ของเราไม่ได้ยุ่งเกี่้ยวกับการแก้ไขไฟล์ต่างๆ มันเพียงแค่ดึง URL จากบันทึกของคุณ คุณสามารถ <link>ตรวจสอบ Script ได้ที่นี่</link>."
       },
       "3": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "วาง URL ที่นี่",
+        "Your Convene History URL": "วาง URL ที่ได้จาก Windows PowerShell ได้ที่นี่"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "กดปุ่ม \"นำเข้าประวัติ\" เพื่อเริ่มใช้งาน"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial to import your data on PC. Please join our <link>Discord Server</link> to ask for any help!"
+      "Video Tutorial": "วิดีโอสอนใช้งาน",
+      "PC Import Tutorial Video": "วิดีโอสอนใช้งานสำหรับ PC",
+      "video-tutorial-desc": "วิดีโอแนะนำการใช้งานจาก Youtube คุณสามารถทำตามวิธีดังกล่าว หากต้องการความช่วยเหลือ สามารถติดต่อได้ที่คอมมูนิตี้ <link>Discord ของพวกเรา</link>"
     },
     "IOSTutorial": {
-      "invalid-json": "Invalid JSON data - make sure to copy the semicolons",
+      "invalid-json": "ข้อมูล JSON ไม่ถูกต้อง – ตรวจสอบให้แน่ใจว่าคุณได้คัดลอกเครื่องหมายเซมิคลอน (;) ด้วย",
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this video tutorial by Chario</video> to download and use <app>Stream - Network Debug Tool</app>.",
-        "Video Tutorial": "Video Tutorial",
-        "iOS Import Tutorial Video": "iOS Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>Chario</highlight> from our <link>Discord Server</link> to import your data on PC."
+        "title": "ขั้นแรก ทำตามวิดีสอนใช้งานของพวกเรา",
+        "description": "วิธีจะคล้ายกับการรับประวัติใน Genshin Impact หรือ Honkai Star Rail ให้ทำตาม <video>วิดีโอของ Chario</video> และดาวน์โหลด <app>Stream - Network Debug Tool</app>",
+        "Video Tutorial": "วิดีโอสอนใช้งาน",
+        "iOS Import Tutorial Video": "วิดีโอสอนใช้งานสำหรับ iOS",
+        "video-tutorial-desc": "วิดีโอแนะนำการใช้งานจาก Youtube ของช่อง <highlight>Chario</highlight> จากคอมมูนิตี้ <link>Discord ของพวกเรา</link> คุณสามารถทำตามวิธีดังกล่าวเพื่อนำเข้าประวัติการสุ่มของคุณ"
       },
       "2": {
-        "title": "Paste the JSON Here"
+        "title": "วางข้อมูล JSON ที่นี่"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "กดปุ่ม \"นำเข้าประวัติ\" เพื่อเริ่มใช้งาน"
       }
     },
     "Android1Tutorial": {
       "1": {
-        "title": "Use Ascent To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <video>this guide by Mirai0009</video> to download and use <app>Ascent v2.1.6</app> to get your URL.",
-        "note": "This method only supports Android versions 11 and above.",
-        "troubleshooting": "If it's not working properly, check the <link>troubleshooting section</link>."
+        "title": "ใช้ Ascent เพื่อรับ URL ประวัติการสุ่ม Convene ของคุณ",
+        "description": "วิธีจะคล้ายกับการรับประวัติใน Genshin Impact หรือ Honkai Star Rail ให้ทำตาม <video>คู่มือคำแนะนำของ Mirai0009</video> และดาวน์โหลด <app>Ascent v2.1.6</app> เพื่อรับ URL ประวัติการสุ่มของคุณ",
+        "note": "วิธีนี้รองรับเฉพาะ Android เวอร์ชัน 11 ขึ้นไป",
+        "troubleshooting": "หากวิธีนี้ทำงานไม่ถูกต้อง สามารถกดเช็คได้ที่ <link>Troubleshooting Section</link>."
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "วาง URL ที่นี่",
+        "Your Convene History URL": "วาง Convene URL ของคุณได้ที่นี่"
       },
       "3": {
-        "title": " Press the \"Import History\" Button on this Website"
+        "title": "กดปุ่ม \"นำเข้าประวัติ\" เพื่อเริ่มใช้งาน"
       },
-      "Video Tutorial": "Video Tutorial",
-      "Android Ascent Import Tutorial Video": "Android Ascent Import Tutorial Video",
-      "video-tutorial-desc": "First, read this carefully read <guide>this text guide</guide> then follow this <video>YouTube video</video> to get your data on Android. All credits goes to Mirai0009."
+      "Video Tutorial": "วิดีโอสอนใช้งาน",
+      "Android Ascent Import Tutorial Video": "วิดีโอสอนใช้งานสำหรับ Android ผ่าน Ascent",
+      "video-tutorial-desc": "ขั้นแรก <guide>อ่านคู่มือนี้</guide>อย่างละเอียด จากนั้นให้ทำตาม<video>วิดิโอ YouTube นี้</video> เพื่อดึงข้อมูลของคุณบน Android ขอขอบคุณและสงวนเครดิตนี้ให้กับ Mirai0009"
     },
     "Android2Tutorial": {
       "1": {
-        "title": "Use Termux To Get Convene History URL",
-        "description": "Similar to getting your history in Genshin Impact or Honkai Star Rail, follow <guide>this guide by eqdamini</guide> to download and use <app>Termux</app> to get your URL."
+        "title": "ใช้ Termux เพื่อรับ URL ประวัติการสุ่ม Convene ของคุณ",
+        "description": "วิธีจะคล้ายกับการรับประวัติใน Genshin Impact หรือ Honkai Star Rail ให้ทำตาม <guide>คู่มือคำแนะนำของ eqdamini</guide> และดาวน์โหลด <app>Termux</app> เพื่อรับ URL ประวัติการสุ่มของคุณ"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "วาง URL ที่นี่",
+        "Your Convene History URL": "วาง Convene URL ของคุณได้ที่นี่"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "กดปุ่ม \"นำเข้าประวัติ\" เพื่อเริ่มใช้งาน"
       }
     },
     "Android3Tutorial": {
       "1": {
-        "title": "Follow our Video Tutorial",
-        "description": "Follow <link>this video tutorial by yukio36</link> after opening the Wuthering Waves app.",
-        "Video Tutorial": "Video Tutorial",
-        "Android Airplane Mode Import Tutorial Video": "Android Airplane Mode Import Tutorial Video",
-        "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>yukio36</highlight> from our <link>Discord Server</link> to import your data on Android without downloading anything.",
-        "note": "Note: This may not work for every device, so try the other methods if it fails."
+        "title": "ขั้นแรก ทำตามวิดีสอนใช้งานของพวกเรา",
+        "description": "ทำตาม <link>วิดีโอแนะนำของ yukio36</link> หลังจากเปิดเกม Wuthering Waves",
+        "Video Tutorial": "วิดีโอสอนใช้งาน",
+        "Android Airplane Mode Import Tutorial Video": "วิดีโอสอนใช้งานสำหรับ Android วิธีโหมดเครื่องบิน",
+        "video-tutorial-desc": "วิดีโอแนะนำการใช้งานจาก Youtube ของช่อง <highlight>yukio36</highlight> จากคอมมูนิตี้ <link>Discord ของพวกเรา</link> คุณสามารถทำตามวิธีดังกล่าวเพื่อนำเข้าประวัติการสุ่มของคุณ",
+        "note": "หมายเหตุ: วิธีนี้อาจไม่ทำงานกับอุปกรณ์ทุกตัว ดังนั้นให้ลองวิธีอื่นหากวิธีนี้ล้มเหลว"
       },
       "2": {
-        "title": "Paste the URL Here",
-        "Your Convene History URL": "Your Convene History URL"
+        "title": "วาง URL ที่นี่",
+        "Your Convene History URL": "วาง Convene URL ของคุณได้ที่นี่"
       },
       "3": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "กดปุ่ม \"นำเข้าประวัติ\" เพื่อเริ่มใช้งาน"
       }
     }
   },
   "Settings": {
-    "title": "Settings",
-    "Google Account": "Google Account",
-    "Browser Data": "Browser Data",
-    "Report an Issue": "Report an Issue",
+    "title": "การตั้งค่า",
+    "Google Account": "บัญชี Google",
+    "Browser Data": "ข้อมูลเบราว์เซอร์",
+    "Report an Issue": "รายงานปัญหา",
     "SettingCloudSync": {
-      "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
-      "is-synced": "Data is synced",
-      "is-not-synced": "Data is NOT synced",
-      "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
+      "sign-out-success": "ออกจากระบบเรียบร้อย",
+      "login-to-sync": "คุณต้องเข้าสู่ระบบก่อนถึงจะสามารถซิงค์ได้",
+      "import-to-sync": "นำเข้าข้อมูลของคุณก่อนเริ่มการซิงค์!",
+      "data-is-in-sync": "ข้อมูลซิงค์กับบัญชี Google ของคุณแล้ว",
+      "is-synced": "ข้อมูลซิงค์แล้ว",
+      "is-not-synced": "ข้อมูลยังไม่ซิงค์",
+      "Cloud Backup": "สำรองข้อมูลบนคลาวด์",
+      "description": "ระบบจะบันทึกข้อมูลลงในบัญชี Google ของคุณทำให้คุณสามารถเข้าถึงข้อมูลจากอุปกรณ์ใดก็ได้ เมื่อลงชื่อเข้าใช้แล้ว เพียงคลิกปุ่ม \"ซิงค์ข้อมูล\" จะสามารถอัปโหลดหรือดาวน์โหลดข้อมูลลงในอุปกรณ์ของคุณ",
       "Guest": "ผู้เยี่ยมชม",
       "Sign In to Google": "เข้าสู่ระบบบัญชี Google",
       "Log Out": "ออกจากระบบ",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
+      "Sync Data": "ซิงค์ข้อมูล",
+      "Google Data": "ข้อมูล Google",
+      "Browser Data": "ข้อมูลเบราว์เซอร์",
+      "browser-data-different": "ข้อมูลเบราว์เซอร์ในเครื่องของคุณแตกต่างจากข้อมูลในบัญชี Google ของคุณ",
+      "browser-data-different-confirmation": "ข้อมูลในเครื่องของคุณที่มี Player ID ({localId}) ไม่ตรงกับ Player ID ในบัญชี Google ของคุณ (${googleId}) คุณต้องการเก็บข้อมูลในเบราว์เซอร์ของคุณหรือใช้ข้อมูลจากบัญชี Google ของคุณแทน?"
     },
     "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "sign-out-success": "ออกจากระบบเรียบร้อย",
+      "Sign out": "ออกจากระบบ",
+      "Sign In to Google": "เข้าสู่ระบบบัญชี Google"
     },
     "SettingConveneHistoryUrl": {
-      "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
-      "download-failed": "Failed to start download.",
-      "download-starting": "Your download will start shortly.",
-      "invalid-url": "Please input a valid Convene History URL.",
-      "import-success": "Successfully imported Convene History URL locally!",
-      "delete-local-success": "Deleted local history data.",
-      "Convene History Data": "Convene History Data",
-      "Import Tutorial": "Import Tutorial",
-      "Go to Import Tutorial": "Go to Import Tutorial",
-      "description": "Edit your Convene History URL and export it as JSON.",
-      "Your Convene History URL": "Your Convene History URL",
-      "Download Your History": "Download Your History",
-      "Delete Browser Saved Data": "Delete Browser Saved Data",
-      "Delete your local data": "Delete your local data",
-      "Save": "Save"
+      "require-url-before-downloading": "URL ประวัติการสุ่ม Convene ของคุณต้องถูกต้องก่อนที่จะดาวน์โหลด",
+      "download-failed": "เกิดข้อผิดพลาดในการดาวน์โหลด",
+      "download-starting": "การดาวน์โหลดของคุณจะเริ่มในไม่ช้า",
+      "invalid-url": "กรุณาป้อน URL ประวัติการสุ่ม Convene ที่ถูกต้อง",
+      "import-success": "นำเข้า URL ประวัติการสุ่ม Convene สำเร็จ!",
+      "delete-local-success": "ลบข้อมูลประวัติในเครื่องเรียบร้อย",
+      "Convene History Data": "ข้อมูลประวัติการสุ่ม Convene",
+      "Import Tutorial": "คู่มือการนำเข้า",
+      "Go to Import Tutorial": "ไปที่การนำเข้าข้อมูล",
+      "description": "แก้ไข URL ประวัติการสุ่ม Convene ของคุณและส่งออกเป็นไฟล์ JSON",
+      "Your Convene History URL": "ลิงค์ URL ประวัติการสุ่ม Convene ของคุณ",
+      "Download Your History": "ดาวน์โหลดประวัติการสุ่มของคุณ",
+      "Delete Browser Saved Data": "ลบข้อมูลที่บันทึกในเบราว์เซอร์",
+      "Delete your local data": "ลบข้อมูลในเครื่องของคุณ",
+      "Save": "บันทึก"
     },
     "SettingGlobalStats": {
-      "title": "Privacy",
-      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
+      "title": "ความเป็นส่วนตัว",
+      "description": "จัดการสิทธิ์การเข้าถึงของ WuWa Tracker ในการเข้าถึงข้อมูลของคุณ"
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "Submit pull data for global statistics"
+      "Submit pull data for global statistics": "ส่งข้อมูลการสุ่มของคุณให้กับทางเราเพื่อเก็บเป็นสถิติโดยรวม"
     }
   },
   "Timeline": {
-    "title": "Timeline",
-    "heading": "Event Timeline",
-    "description": "View Wuthering Waves events in your local timezone or in other <link>Server Times</link>.",
+    "title": "ไทม์ไลน์",
+    "heading": "ไทม์ไลน์กิจกรรม",
+    "description": "แสดงกิจกรรมต่างๆของเกม Wuthering Waves ในเขตเวลาท้องถิ่นของคุณหรือใน <link>เวลาของเซิร์ฟเวอร์</link>.",
     "github-update-message": "Updated on {time} by {author}.",
-    "Edit this page on GitHub": "Edit this page on GitHub",
+    "Edit this page on GitHub": "แก้ไขหน้านี้บน GitHub",
     "ResetTimers": {
-      "title": "Server Daily Reset Timers",
-      "description": "Compare your local time to the Wuthering Waves game servers to plan your next adventure."
+      "title": "ตัวจับเวลารีเซ็ตประจำวันของเซิร์ฟเวอร์",
+      "description": "เปรียบเทียบเวลาท้องถิ่นของคุณกับเซิร์ฟเวอร์เกม Wuthering Waves เพื่อวางแผนการผจญภัยครั้งถัดไป"
     }
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "เรโซเนเตอร์"
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "แพลนเนอร์จัดระเบียบ"
   }
 }
