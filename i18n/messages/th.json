@@ -106,7 +106,7 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your UID must contain 9 characters": "UID ของคุณต้องมี 9 ตัวอักษร",
       "Your record ID cannot be empty": "Your record ID cannot be empty",
       "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
       "Your server area is not supported at the moment": "Your server area is not supported at the moment"
@@ -177,7 +177,7 @@
       }
     },
     "Planner": {
-      "title": "ตัวช่วยจัดการ - WuWa Tracker",
+      "title": "แพลนเนอร์จัดระเบียบ - WuWa Tracker",
       "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
@@ -345,7 +345,7 @@
       "Pulls By Pity": "ที่สุ่มได้ตาม Pity",
       "Pulls By Name": "ที่สุ่มได้ตามชื่อ",
       "Pulls": "ในครั้งที่สุ่มได้",
-      "Showing total pulls at each pull number": "แสดงการสุ่มได้ในทุกๆสิบครั้ง"
+      "Showing total pulls at each pull number": "แสดงการสุ่มได้ในครั้งนั้น"
     },
     "SharePageContent": {
       "title": "แชร์การ์ด",
@@ -362,12 +362,12 @@
   },
   "Import": {
     "title": "นำเข้าข้อมูล",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
-    "Import Tutorial": "วิธีการการนำเข้า",
+    "expired-url": "URL นี้หมดอายุแล้ว กรุณาเปิดหน้าประวัติ Convene ในเกมของคุณและนำเข้าข้อมูลอีกครั้ง",
+    "invalid-url": "URL ประวัติการสุ่มของคุณไม่ถูกต้อง",
+    "import-success": "นำเข้า URL ประวัติการสุ่มสำเร็จ!",
+    "expiration-notice-title": "ปัญหา URL ของคุณหมดอายุ",
+    "expiration-notice-content": "ปัจจุบัน Patch 1.2 นั้น URL จาก Windows PowerShell ของคุณจะหมดอายุหลังจากนั้น 1 ชั่วโมง หากต้องการนำเข้าและดูข้อมูลนั้น กรุณาเปิดหน้าประวัติการสุ่ม \"Convene\" ในเกมก่อนทำการนำเข้าข้อมูลใหม่อีกครั้ง",
+    "Import Tutorial": "วิธีการนำเข้า",
     "PC": {
       "title": "PC",
       "Automatic": "อัตโนมัติ",
@@ -387,7 +387,7 @@
       "1": {
         "title": "ขั้นแรก เปิดตัวเกมและเปิดหน้าประวัติการสุ่มภายในเกม",
         "description": "จากนั้น ให้ทำการกดปุ่ม Win + S เพื่อ Search หา Windows PowerShell แล้วคัดลอก Script ดังกล่าวไปวางในนั้น",
-        "History URL Script": "History URL Script",
+        "History URL Script": "Script สำหรับลิงค์ประวัติ URL",
         "Click the copy button on the right": "กดปุ่มด้านขวาเพื่อคัดลอกข้อความทั้งหมด",
         "note": "หมายเหตุ: ตัว Script ของเราไม่ได้ยุ่งเกี่้ยวกับการแก้ไขไฟล์ต่างๆ มันเพียงแค่ดึง URL จากบันทึกของคุณ คุณสามารถ <link>ตรวจสอบ Script ได้ที่นี่</link>."
       },
@@ -400,39 +400,39 @@
       }
     },
     "PC2Tutorial": {
-      "found-url": "We found a URL! Click the Import History button to proceed.",
-      "not-found-url": "No valid URL found in the log file.",
-      "Click to upload": "Click to upload",
-      "or drag and drop": "or drag and drop",
+      "found-url": "พบ URL แล้ว! กดปุ่ม \"นำเข้าประวัติ\" เพื่อดำเนินการต่อ",
+      "not-found-url": "ไม่พบ URL ที่ถูกต้องในไฟล์ log",
+      "Click to upload": "คลิกเพื่ออัปโหลด",
+      "or drag and drop": "หรือลากแล้วปล่อยไฟล์",
       "1": {
-        "title": "First, launch Wuthering Waves and Open Your In-game Convene History"
+        "title": "ขั้นแรก เปิดตัวเกมและเปิดหน้าประวัติการสุ่มภายในเกม"
       },
       "2": {
-        "title": "Go to Your Installation Directory",
-        "description": "Right click your Wuthering Waves game launcher and select <code>Open file location</code>. You should see <code>launcher.exe</code> and a lot of <code>.dll</code> files."
+        "title": "ไปที่ตำแหน่งการติดตั้งเกมของคุณ",
+        "description": "กดคลิกขวาที่ไอคอนเกม Wuthering Waves แล้วเลือก <code>Open file location</code> ตำแหน่งไฟล์เกมที่ถูกต้องนั้นจะประกอบไปด้วย <code>launcher.exe</code> และไฟล์ <code>.dll</code> จำนวนมาก"
       },
       "3": {
-        "title": "Search for <code>debug.log</code> in the File Explorer and Upload it Here"
+        "title": "มุมขวาบนของ File Explorer ให้ทำการ Search หาไฟล์ <code>debug.log</code> จากนั้นลากหรืออัพโหลดไฟล์ที่นี่"
       },
       "4": {
-        "title": "Press the \"Import History\" Button on this Website"
+        "title": "กดปุ่ม \"นำเข้าประวัติ\" เพื่อเริ่มใช้งาน"
       },
-      "Video Tutorial": "Video Tutorial",
-      "PC Import Tutorial Video": "PC Import Tutorial Video",
-      "video-tutorial-desc": "Follow this step-by-step YouTube tutorial by <highlight>cacaowithwater</highlight> from our <link>Discord Server</link> to import your data on PC."
+      "Video Tutorial": "วิดีโอสอนใช้งาน",
+      "PC Import Tutorial Video": "วิดีโอสอนใช้งานสำหรับ PC",
+      "video-tutorial-desc": "วิดีโอแนะนำการใช้งานจาก Youtube ของช่อง <highlight>cacaowithwater</highlight> จากคอมมูนิตี้ <link>Discord ของพวกเรา</link> คุณสามารถทำตามวิธีดังกล่าว"
     },
     "PC3Tutorial": {
-      "invalid-path": "Invalid Game Path",
+      "invalid-path": "ตำแหน่งไฟล์เกมไม่ถูกต้อง",
       "1": {
-        "title": "Copy Your Installation Directory",
-        "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
-        "Your installation directory": "Your installation directory",
+        "title": "คัดลอกตำแหน่งไฟล์เกมของคุณลงที่นี่",
+        "description": "ให้ใช้ตำแหน่งไฟล์ที่ประกอบด้วยไฟล์ <code>Wuthering Waves.exe</code> และโฟลเดอร์ <code>Client</code>",
+        "Your installation directory": "ตำแหน่งไฟล์เกมของคุณ ตัวอย่าง \"C:\\Wuthering Waves\\Wuthering Waves Game\"",
         "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
       },
       "2": {
         "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",
         "description": "Afterwards, open Windows PowerShell, and then paste the following script.",
-        "invalid-directory": "Input a valid installation directory first!",
+        "invalid-directory": "กรุณาใส่ตำแหน่งไฟล์ที่ติดตั้งก่อน!",
         "Stuck? Click the “Need Help?” button": "Stuck? Click the “Need Help?” button",
         "note": "Note: The script does not edit your files, it simply extracts the URL from your logs. You can view the script <link>here</link>."
       },
@@ -582,6 +582,6 @@
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "แพลนเนอร์จัดระเบียบ"
   }
 }
