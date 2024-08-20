@@ -1,5 +1,3 @@
-import { convertDatesToServerTime } from "./lib/convertDatesToServerTime";
-
 export interface Event {
   id?: number; // announcement id
   name: string;
@@ -187,6 +185,6 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
 };
 
 export const events = {
-  banners: convertDatesToServerTime(rawEvents.banners),
-  activities: convertDatesToServerTime(rawEvents.activities),
+  banners: rawEvents.banners,
+  activities: rawEvents.activities,
 };
