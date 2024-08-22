@@ -1,7 +1,7 @@
 {
   "Items": {
     "Rover-Havoc": "Rover-Havoc",
-    "Rover-Spectro": "Rover-Spectro",
+    "Rover-Spectro": "漂泊者-衍射",
     "Aalto": "秋水",
     "Baizhi": "白芷",
     "Calcharo": "卡卡羅",
@@ -20,8 +20,8 @@
     "Yangyang": "秧秧",
     "Yinlin": "吟霖",
     "Yuanwu": "淵武",
-    "Zhezhi": "Zhezhi",
-    "Xiangli Yao": "Xiangli Yao",
+    "Zhezhi": "折枝",
+    "Xiangli Yao": "相里要",
     "Abyss Surges": "擎淵怒濤",
     "Ages of Harvest": "時和歲稔",
     "Amity Accord": "袍澤之固",
@@ -362,11 +362,11 @@
   },
   "Import": {
     "title": "匯入遊戲資訊",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "紀錄連結已失效。請重新開啟抽卡紀錄後再次進行匯入。",
+    "invalid-url": "抽卡紀錄連結不符。",
+    "import-success": "成功匯入記錄連結",
+    "expiration-notice-title": "紀錄連結已過期",
+    "expiration-notice-content": "自1.2版本後，紀錄連結增加了一個小時的時效。為了得到最新抽卡數據，請確定在遊戲內重新開啟抽卡紀錄後重新匯入紀錄連結。",
     "Import Tutorial": "匯入教學",
     "PC": {
       "title": "PC",
@@ -582,6 +582,6 @@
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "資源規劃"
   }
 }
