@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "成就",
-    "description": "資料來源參考<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "成功匯入資料。",
