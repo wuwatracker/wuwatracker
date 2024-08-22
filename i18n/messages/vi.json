@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "Thành tựu",
-    "description": "Nguồn: <link>StarDB's WuWa Achievements V1.1 spreadsheet</link>.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Nhập dữ liệu thành công.",
