@@ -107,7 +107,7 @@
   "Validation": {
     "GachaRecordQueryArgs": {
       "Your UID must contain 9 characters": "UID는 9글자여야 합니다",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your record ID cannot be empty": "기록 ID를 비워둘 수 없습니다",
       "Your URL contains an invalid server ID": "URL이 유효하지 않은 서버 ID를 포함하고 있습니다",
       "Your server area is not supported at the moment": "당신의 서버는 현재 지원하지 않습니다."
     }
@@ -361,7 +361,7 @@
   },
   "Import": {
     "title": "제출하기",
-    "expired-url": "이 uRL은 만료되었습니다. 튜닝 기록을 열고 다시 제출해주세요.",
+    "expired-url": "이 URL은 만료되었습니다. 튜닝 기록을 열고 다시 제출해주세요.",
     "invalid-url": "튜닝 기록 URL이 유효하지 않습니다.",
     "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
     "expiration-notice-title": "URL 만료",
