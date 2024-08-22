@@ -1,6 +1,6 @@
 {
   "Items": {
-    "Rover-Havoc": "Rover-Havoc",
+    "Rover-Havoc": "漂泊者-湮滅",
     "Rover-Spectro": "漂泊者-衍射",
     "Aalto": "秋水",
     "Baizhi": "白芷",
@@ -106,10 +106,10 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "遊戲 UID 少於9字元",
+      "Your record ID cannot be empty": "紀錄 ID 不能為空白",
+      "Your URL contains an invalid server ID": "紀錄連結存在無效的伺服器 ID",
+      "Your server area is not supported at the moment": "尚未支援此伺服器"
     }
   },
   "Metadata": {
@@ -135,8 +135,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "發生錯誤",
+      "description": "使用 WuWa Tracker 時發生錯誤。請回報至我們的 Discord 伺服器，以便我們盡快解決問題。"
     },
     "Import": {
       "title": "匯入喚取紀錄 - WuWa Tracker",
@@ -172,12 +172,12 @@
         "description": "查看共鳴者資訊並使用 WuWa Tracker 的素材計算器來規畫你的升級路線。WuWa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
       },
       "Item": {
-        "title": "Items - WuWa Tracker",
-        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "道具 - WuWa Tracker",
+        "description": "查看鳴潮道具資訊。WuWa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
       }
     },
     "Planner": {
-      "title": "Material Planner - WuWa Tracker",
+      "title": "素材規劃 - WuWa Tracker",
       "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
@@ -193,14 +193,14 @@
   },
   "MenuList": {
     "Tools": "工具",
-    "Inventory": "Inventory",
+    "Inventory": "物品欄",
     "Guides": "導覽",
     "Config": "配置",
     "Convene Tracker": "喚取追蹤",
     "Global Stats": "全球數據",
     "Share History": "分享紀錄",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "素材規劃",
+    "Items": "道具",
     "Achievements": "成就",
     "Timeline": "活動時程",
     "Import": "匯入",
