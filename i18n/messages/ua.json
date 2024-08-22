@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "Досягнення",
-    "description": "Подяка <link>StarDB's WuWa Achievements V1.1 spreadsheet for WuWa Achievements V1.1</link> за початкові дані.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Дані успішно імпортовано.",
