@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "업적",
-    "description": "<link>StarDB's WuWa Achievements V1.1 spreadsheet</link>, 초기 데이터 제공에 감사드립니다.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "성공적으로 데이터를 제출했습니다.",
