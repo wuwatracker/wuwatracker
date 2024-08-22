@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "Pencapaian",
-    "description": "Kredit diberikan kepada <link>spreadsheet WuWa Achievements V1.1 StarDB</link> untuk data awal.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Data berhasil diimpor.",
