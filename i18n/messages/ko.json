@@ -106,10 +106,10 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your UID must contain 9 characters": "UID는 9글자여야 합니다",
       "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your URL contains an invalid server ID": "URL이 유효하지 않은 서버 ID를 포함하고 있습니다",
+      "Your server area is not supported at the moment": "당신의 서버는 현재 지원하지 않습니다."
     }
   },
   "Metadata": {
@@ -361,9 +361,9 @@
   },
   "Import": {
     "title": "제출하기",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
+    "expired-url": "이 uRL은 만료되었습니다. 튜닝 기록을 열고 다시 제출해주세요.",
+    "invalid-url": "튜닝 기록 URL이 유효하지 않습니다.",
+    "import-success": "성공적으로 튜닝 기록 URL을 제출했습니다!",
     "expiration-notice-title": "URL 만료",
     "expiration-notice-content": "1.2 패치로 인해, 튜닝 기록 URL이 만료되었습니다. 업데이트 된 뽑기 기록을 보기 위해 튜닝 기록을 다시 제출해주세요.",
     "Import Tutorial": "제출 튜토리얼",
