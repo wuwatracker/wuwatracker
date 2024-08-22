@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "รางวัลความสำเร็จ",
-    "description": "ขอขอบคุณและสงวนเครดิตให้กับ <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> สำหรับข้อมูลเบื้องต้น",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "นำเข้าข้อมูลสำเร็จ",
