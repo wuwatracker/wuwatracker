@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "実績",
-    "description": "初期データは <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> を使用しております。",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "データが正常にインポートされました",

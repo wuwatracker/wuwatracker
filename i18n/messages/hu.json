@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "Teljesítmények",
-    "description": "Köszönet a <link>StarDB's WuWa Achievements V1.1 táblázatának</link> a kezdeti adatokért.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Sikeres adatimportálás.",

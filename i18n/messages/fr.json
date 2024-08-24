@@ -241,7 +241,6 @@
   },
   "Achievements": {
     "title": "Trophées",
-    "description": "Merci à <link>StarDB's WuWa Achievements V1.1 spreadsheet</link> pour les données.",
     "AchievementsPageContent": {
       "toast": {
         "import-success": "Importation des données réussie.",
