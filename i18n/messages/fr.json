@@ -208,7 +208,8 @@
     "Resonators": "Résonateurs",
     "Support Us": "Soutenez-nous",
     "Sign In To Google": "Se connecter via Google",
-    "Sign Out": "Se déconnecter"
+    "Sign Out": "Se déconnecter",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "Tableau de bord",
@@ -517,27 +518,19 @@
     "Browser Data": "Données du navigateur",
     "Report an Issue": "Signaler un problème",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "Déconnexion réussie.",
-      "login-to-sync": "Vous devez vous connecter pour pouvoir synchroniser.",
-      "import-to-sync": "Veuillez importer vos données avant de synchroniser !",
-      "data-is-in-sync": "Données synchronisées avec votre compte Google.",
       "is-synced": "Les données sont synchronisées",
       "is-not-synced": "Les données sont désynchronisées",
       "Cloud Backup": "Sauvegarde Cloud",
-      "description": "Sauvegardez vos données en utilisant votre compte Google et accédez à vos données sur n'importe quel appareil. Une fois connecté, cliquez simplement sur le bouton \"Synchroniser les données\" pour mettre à jour vos données.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "Invité",
       "Sign In to Google": "Se connecter avec Google",
       "Log Out": "Se déconnecter",
-      "Sync Data": "Synchroniser les données",
-      "Google Data": "Données Google",
-      "Browser Data": "Données du navigateur",
-      "browser-data-different": "Les données locales de votre navigateur sont différentes de celles de votre compte Google.",
-      "browser-data-different-confirmation": "Vos données locales (ID {localId}) sont en conflit avec les données de votre compte Google (ID ${googleId}). Voulez-vous garder les données locales de votre navigateur ou celles de votre compte Google ?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Déconnexion réussie.",
-      "Sign out": "Déconnexion",
-      "Sign In to Google": "Se connecter avec Google"
+      "Sync Data": "Synchroniser les données"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Vous avez besoin d'une URL valide d'historique avant de télécharger.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Calculateur de matériaux"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
