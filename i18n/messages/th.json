@@ -208,7 +208,8 @@
     "Resonators": "เรโซเนเตอร์",
     "Support Us": "สนับสนุนพวกเรา",
     "Sign In To Google": "เข้าสู่ระบบบัญชี Google",
-    "Sign Out": "ออกจากระบบ"
+    "Sign Out": "ออกจากระบบ",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "แดชบอร์ด",
@@ -517,27 +518,19 @@
     "Browser Data": "ข้อมูลเบราว์เซอร์",
     "Report an Issue": "รายงานปัญหา",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "ออกจากระบบเรียบร้อย",
-      "login-to-sync": "คุณต้องเข้าสู่ระบบก่อนถึงจะสามารถซิงค์ได้",
-      "import-to-sync": "นำเข้าข้อมูลของคุณก่อนเริ่มการซิงค์!",
-      "data-is-in-sync": "ข้อมูลซิงค์กับบัญชี Google ของคุณแล้ว",
       "is-synced": "ข้อมูลซิงค์แล้ว",
       "is-not-synced": "ข้อมูลยังไม่ซิงค์",
       "Cloud Backup": "สำรองข้อมูลบนคลาวด์",
-      "description": "ระบบจะบันทึกข้อมูลลงในบัญชี Google ของคุณทำให้คุณสามารถเข้าถึงข้อมูลจากอุปกรณ์ใดก็ได้ เมื่อลงชื่อเข้าใช้แล้ว เพียงคลิกปุ่ม \"ซิงค์ข้อมูล\" จะสามารถอัปโหลดหรือดาวน์โหลดข้อมูลลงในอุปกรณ์ของคุณ",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "ผู้เยี่ยมชม",
       "Sign In to Google": "เข้าสู่ระบบบัญชี Google",
       "Log Out": "ออกจากระบบ",
-      "Sync Data": "ซิงค์ข้อมูล",
-      "Google Data": "ข้อมูล Google",
-      "Browser Data": "ข้อมูลเบราว์เซอร์",
-      "browser-data-different": "ข้อมูลเบราว์เซอร์ในเครื่องของคุณแตกต่างจากข้อมูลในบัญชี Google ของคุณ",
-      "browser-data-different-confirmation": "ข้อมูลในเครื่องของคุณที่มี Player ID ({localId}) ไม่ตรงกับ Player ID ในบัญชี Google ของคุณ (${googleId}) คุณต้องการเก็บข้อมูลในเบราว์เซอร์ของคุณหรือใช้ข้อมูลจากบัญชี Google ของคุณแทน?"
-    },
-    "SignInButton": {
-      "sign-out-success": "ออกจากระบบเรียบร้อย",
-      "Sign out": "ออกจากระบบ",
-      "Sign In to Google": "เข้าสู่ระบบบัญชี Google"
+      "Sync Data": "ซิงค์ข้อมูล"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "URL ประวัติการสุ่ม Convene ของคุณต้องถูกต้องก่อนที่จะดาวน์โหลด",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "แพลนเนอร์จัดระเบียบ"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
