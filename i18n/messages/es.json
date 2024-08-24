@@ -208,7 +208,8 @@
     "Resonators": "Resonators",
     "Support Us": "Apóyanos",
     "Sign In To Google": "Iniciar sesión con Google",
-    "Sign Out": "Cerrar Sesión"
+    "Sign Out": "Cerrar Sesión",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "Panel",
@@ -517,27 +518,19 @@
     "Browser Data": "Datos del navegador",
     "Report an Issue": "Reportar un problema",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "Has cerrado sesión exitosamente.",
-      "login-to-sync": "Debes iniciar sesión antes de poder sincronizar.",
-      "import-to-sync": "¡Importa tus datos primero para empezar a sincronizar!",
-      "data-is-in-sync": "Los datos están sincronizados con tu cuenta de Google.",
       "is-synced": "Los datos están sincronizados",
       "is-not-synced": "Los datos NO están sincronizados",
       "Cloud Backup": "Copia en la nube",
-      "description": "Guarda tus datos usando tu cuenta de Google y accede a tus datos desde cualquier dispositivo. Una vez iniciada sesión, solo haz clic en el botón \"Sincroniza tus datos\" para subir o descargar tus datos desde cualquier dispositivo.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "Invitado",
       "Sign In to Google": "Iniciar sesión con Google",
       "Log Out": "Cerrar sesión",
-      "Sync Data": "Sincroniza tus datos",
-      "Google Data": "Datos de Google",
-      "Browser Data": "Datos del navegador",
-      "browser-data-different": "Tus datos locales en el navegador son diferentes a los datos en tu cuenta Google.",
-      "browser-data-different-confirmation": "Tus datos locales con el ID del jugador ({localId}) no son iguales al ID del jugador (${googleId}) en tu cuenta de Google. ¿Te gustaría mantener los datos locales de tu navegador, o en vez de eso, prefieres usar los datos de tu cuenta de Google?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Has cerrado sesión exitosamente.",
-      "Sign out": "Cerrar sesión",
-      "Sign In to Google": "Iniciar sesión con Google"
+      "Sync Data": "Sincroniza tus datos"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Necesitas una URL de historial de invocación válida antes de descargar.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Material Planner"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
