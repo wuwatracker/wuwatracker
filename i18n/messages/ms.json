@@ -208,7 +208,8 @@
     "Resonators": "Resonators",
     "Support Us": "Support Us",
     "Sign In To Google": "Sign In To Google",
-    "Sign Out": "Sign Out"
+    "Sign Out": "Sign Out",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "Dashboard",
@@ -517,27 +518,19 @@
     "Browser Data": "Browser Data",
     "Report an Issue": "Report an Issue",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "Signed out successfully.",
-      "login-to-sync": "You must login before being able to sync.",
-      "import-to-sync": "Import your data first to start syncing!",
-      "data-is-in-sync": "Data is in sync with your Google Account.",
       "is-synced": "Data is synced",
       "is-not-synced": "Data is NOT synced",
       "Cloud Backup": "Cloud Backup",
-      "description": "Save your data using your Google Account and access your data in any device. Once logged in, just click the \"Sync Data\" button to upload or download your data into your device.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "Guest",
       "Sign In to Google": "Sign In to Google",
       "Log Out": "Log Out",
-      "Sync Data": "Sync Data",
-      "Google Data": "Google Data",
-      "Browser Data": "Browser Data",
-      "browser-data-different": "Your local browser data is different from your Google Account data.",
-      "browser-data-different-confirmation": "Your local data with player ID ({localId}) conflicts with your Google Account's player ID (${googleId}). Would you like to keep your browser's local data or would you like to use your Google Account data instead?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Signed out successfully.",
-      "Sign out": "Sign out",
-      "Sign In to Google": "Sign In to Google"
+      "Sync Data": "Sync Data"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "You need a valid Convene History URL before downloading.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Material Planner"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
