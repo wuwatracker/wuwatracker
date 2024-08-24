@@ -209,7 +209,7 @@
     "Support Us": "Támogatás",
     "Sign In To Google": "Bejelentkezés Google-be",
     "Sign Out": "Kijelentkezés",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "Súgó"
   },
   "Dashboard": {
     "title": "Irányítópult",
@@ -519,14 +519,14 @@
     "Report an Issue": "Hiba jelentése",
     "SettingCloudSync": {
       "UserProfilePicker": {
-        "no-pulls": "No pulls found...",
-        "pick-a-profile": "Select a profile..."
+        "no-pulls": "Nincs húzás...",
+        "pick-a-profile": "Válassz egy profilt..."
       },
       "sign-out-success": "Sikeresen kijelentkeztél.",
       "is-synced": "Adatok szinkronizálva",
       "is-not-synced": "Adatok NINCSENEK szinkronizálva",
       "Cloud Backup": "Felhőalapú biztonsági mentés",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "Mentsd el adataidat automatikusan a Google Drive segítségével, és bármilyen eszközön hozzáférhetsz az adatokhoz.",
       "Guest": "Vendég",
       "Sign In to Google": "Bejelentkezés Google-be",
       "Log Out": "Kijelentkezés",
@@ -577,10 +577,10 @@
     "title": "Alapanyag tervező"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "Sikeresen kijelentkeztél.",
+    "re-login-to-sync": "Az adatok szinkronizálásának folytatásához újra be kell jelentkezned.",
+    "drive-pulls-in-sync": "A húzások szinkronizálva vannak a Google Drive-val.",
+    "drive-pulls-imported": "Sikeresen importáltad a Google Drive-ról a húzásaidat.",
+    "drive-pulls-saved": "Sikeresen elmentetted a húzásokat a Google Drive-ra."
   }
 }
