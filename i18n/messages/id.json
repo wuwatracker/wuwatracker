@@ -208,7 +208,8 @@
     "Resonators": "Resonators",
     "Support Us": "Dukung Kami",
     "Sign In To Google": "Masuk ke Google",
-    "Sign Out": "Keluar"
+    "Sign Out": "Keluar",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "Menu",
@@ -517,27 +518,19 @@
     "Browser Data": "Data Browser",
     "Report an Issue": "Laporkan Masalah",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "Berhasil keluar.",
-      "login-to-sync": "Anda harus login sebelum dapat melakukan sinkronisasi.",
-      "import-to-sync": "Impor data Anda terlebih dahulu untuk mulai menyinkronkan!",
-      "data-is-in-sync": "Data disinkronkan dengan Akun Google Anda.",
       "is-synced": "Data disinkronkan",
       "is-not-synced": "Data TIDAK disinkronkan",
       "Cloud Backup": "Cadangan Cloud",
-      "description": "Simpan data Anda menggunakan Akun Google Anda dan akses data Anda di perangkat apa pun. Setelah masuk, cukup klik tombol \"Sinkronkan Data\" untuk mengunggah atau mengunduh data Anda ke perangkat Anda.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "Tamu",
       "Sign In to Google": "Masuk ke Google",
       "Log Out": "Keluar",
-      "Sync Data": "Sinkronkan Data",
-      "Google Data": "Data Google",
-      "Browser Data": "Data Browser",
-      "browser-data-different": "Data browser lokal Anda berbeda dengan data Akun Google Anda.",
-      "browser-data-different-confirmation": "Data lokal Anda dengan ID pemain ({localId}) bertentangan dengan ID pemain Akun Google Anda (${googleId}). Apakah Anda ingin menyimpan data lokal browser Anda atau ingin menggunakan data Akun Google Anda?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Berhasil keluar.",
-      "Sign out": "Keluar",
-      "Sign In to Google": "Masuk ke Google"
+      "Sync Data": "Sinkronkan Data"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Anda memerlukan Alamat Riwayat Convene yang valid sebelum mengunduh.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Material Planner"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
