@@ -208,7 +208,8 @@
     "Resonators": "Резонаторы",
     "Support Us": "Поддержите нас",
     "Sign In To Google": "Войти в Google",
-    "Sign Out": "Выйти"
+    "Sign Out": "Выйти",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "Главная страница",
@@ -517,27 +518,19 @@
     "Browser Data": "Локальные данные",
     "Report an Issue": "Сообщить о проблеме",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "Выход произведен успешно.",
-      "login-to-sync": "Вы должны быть авторизованы перед синхронизацией.",
-      "import-to-sync": "Импортируйте свои данные, чтобы начать синхронизацию!",
-      "data-is-in-sync": "Данные синхронизированы с вашим Google аккаунтом.",
       "is-synced": "Данные синхронизированы",
       "is-not-synced": "Данные НЕ синхронизированы",
       "Cloud Backup": "Облачное сохранение",
-      "description": "Сохраняйте ваши данные и получайте доступ к ним с любого устройства, используя аккаунт Google. После входа в аккаунт, просто нажмите \"Синхронизировать\", чтобы отправить данные в облако или скачать их на устройство.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "Гость",
       "Sign In to Google": "Войти в Google",
       "Log Out": "Выход из системы",
-      "Sync Data": "Синхронизировать",
-      "Google Data": "Данные из Google",
-      "Browser Data": "Данные браузера",
-      "browser-data-different": "Локально сохраненные в браузере данные отличаются от данных из вашего Google аккаунта.",
-      "browser-data-different-confirmation": "Локально сохраненные данные пользователя с ID ({localId}) конфликтуют с вашими данными пользователя Google аккаунта с ID (${googleId}). Вы бы хотели использовать локальные данные браузера или использовать сохраненные в Google аккаунте данные вместо них?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Выход произведен успешно.",
-      "Sign out": "Выйти",
-      "Sign In to Google": "Войти в Google"
+      "Sync Data": "Синхронизировать"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Для скачивания вам необходима правильная ссылка на историю круток.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Планировщик"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
