@@ -208,7 +208,8 @@
     "Resonators": "共鳴者",
     "Support Us": "支持我們",
     "Sign In To Google": "使用Google帳號登入",
-    "Sign Out": "登出"
+    "Sign Out": "登出",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "首頁",
@@ -517,27 +518,19 @@
     "Browser Data": "瀏覽器資料",
     "Report an Issue": "回報問題",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "成功登出。",
-      "login-to-sync": "您必須先登入後才可以進行同步。",
-      "import-to-sync": "首先匯入您的資料以進行同步",
-      "data-is-in-sync": "資料已與您的 Google 帳號同步",
       "is-synced": "資料已同步",
       "is-not-synced": "資料未同步",
       "Cloud Backup": "雲端備份",
-      "description": "使用 Google 帳戶儲存資料至雲端即可在任何裝置上取得同步紀錄。",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "訪客",
       "Sign In to Google": "使用 Google 登入",
       "Log Out": "登出",
-      "Sync Data": "同步資料",
-      "Google Data": "Google 資料",
-      "Browser Data": "瀏覽器資料",
-      "browser-data-different": "您的本機資料與 Google 帳號儲存的資料不同。",
-      "browser-data-different-confirmation": "您的本機資料中，玩家ID ({localId}) 與 Google 帳號資料中的玩家ID (${googleId}) 不符合。請問您要保留本機資料還是使用 Google 帳號中的資料取代現有本機資料？"
-    },
-    "SignInButton": {
-      "sign-out-success": "成功登出。",
-      "Sign out": "登出",
-      "Sign In to Google": "使用 Google 登入"
+      "Sync Data": "同步資料"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "您需要使用正確的記錄連結才能下載資料。",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "資源規劃"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
