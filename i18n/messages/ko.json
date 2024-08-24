@@ -208,7 +208,8 @@
     "Resonators": "공명자",
     "Support Us": "지원하기",
     "Sign In To Google": "Google로 로그인",
-    "Sign Out": "로그아웃"
+    "Sign Out": "로그아웃",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "대시보드",
@@ -517,27 +518,19 @@
     "Browser Data": "브라우저 데이터",
     "Report an Issue": "이슈 제보하기",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "성공적으로 로그아웃 하였습니다.",
-      "login-to-sync": "동기화 하기 위해서는 먼저 로그인 해야 합니다.",
-      "import-to-sync": "동기화 하기 위해 먼저 데이터를 제출해주세요!",
-      "data-is-in-sync": "데이터를 Google 계정과 동기화했습니다.",
       "is-synced": "데이터 동기화됨",
       "is-not-synced": "데이터 동기화 되지 않음",
       "Cloud Backup": "클라우드 백업",
-      "description": "데이터를 Google 계정에 저장하여 다른 기기에서도 볼 수 있습니다. 로그인 후 \"데이터 동기화\" 버튼을 클릭하는 것만으로 데이터를 기기에 업로드하거나 다운로드할 수 있습니다.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "게스트",
       "Sign In to Google": "Google로 로그인",
       "Log Out": "로그아웃",
-      "Sync Data": "데이터 동기화",
-      "Google Data": "Google 데이터",
-      "Browser Data": "브라우저 데이터",
-      "browser-data-different": "로컬 브라우저 데이터가 Google 계정의 데이터와 다릅니다.",
-      "browser-data-different-confirmation": "플레이어 ID({localId}) 를 가진 로컬 데이터가 Google 계정의 플레이어 ID(${googleId}) 와 다릅니다. 브라우저의 로컬 데이터를 유지하시겠습니까, 아니면 구글 계정의 데이터를 대신 사용하시겠습니까?"
-    },
-    "SignInButton": {
-      "sign-out-success": "성공적으로 로그아웃 하였습니다.",
-      "Sign out": "로그아웃",
-      "Sign In to Google": "Google로 로그인"
+      "Sync Data": "데이터 동기화"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "다운로드 하기 전에 유효한 튜닝 기록 URL이 필요합니다.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "재료 계산기"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
