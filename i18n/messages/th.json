@@ -118,20 +118,20 @@
     },
     "Achievements": {
       "title": "ความสำเร็จ - WuWa Tracker",
-      "description": "ติดตามความสำเร็จใน Wuthering Waves ของคุณนำเข้าหรือส่งออกข้อมูลของคุณระหว่างอุปกรณ์ได้อย่างอิสระ! WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+      "description": "ติดตามความสำเร็จใน Wuthering Waves ของคุณนำเข้าหรือส่งออกข้อมูลของคุณระหว่างอุปกรณ์ได้อย่างอิสระ! WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
     },
     "Convene": {
       "Index": {
         "title": "สถานะการสุ่ม - WuWa Tracker",
-        "description": "คุณสามารถดูสถิติการสุ่มและประวัติการสุ่มล่าสุดใน Wuthering Waves ของคุณและสามารถใช้แดชบอร์ดเพื่ออวดเพื่อนๆ ของคุณ! WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+        "description": "คุณสามารถดูสถิติการสุ่มและประวัติการสุ่มล่าสุดใน Wuthering Waves ของคุณและสามารถใช้แดชบอร์ดเพื่ออวดเพื่อนๆ ของคุณ! WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
       },
       "Global": {
         "title": "สถิติโดยรวม - WuWa Tracker",
-        "description": "เช็คสถิติทั่วโลกสำหรับตู้แบนเนอร์ {currentBanner} โดย {currentFeaturedResonator} เป็นตัวหน้าตู้ สามารถใช้แดชบอร์ดเพื่ออวดเพื่อนๆ ของคุณ!. WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+        "description": "เช็คสถิติทั่วโลกสำหรับตู้แบนเนอร์ {currentBanner} โดย {currentFeaturedResonator} เป็นตัวหน้าตู้ สามารถใช้แดชบอร์ดเพื่ออวดเพื่อนๆ ของคุณ!. WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
       },
       "Share": {
         "title": "แชร์ประวัติ - WuWa Tracker",
-        "description": "คุณสามารถสร้างการ์ดประวัติการสุ่ม Convene จากการสุ่มของคุณ โชว์ให้กับเพื่อนๆ ของคุณ! WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+        "description": "คุณสามารถสร้างการ์ดประวัติการสุ่ม Convene จากการสุ่มของคุณ โชว์ให้กับเพื่อนๆ ของคุณ! WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
       }
     },
     "Error": {
@@ -140,7 +140,7 @@
     },
     "Import": {
       "title": "นำเข้าข้อมูล - WuWa Tracker",
-      "description": "คู่มือแสดงข้อมูล Wuthering Waves และดูสถิติของคุณ แพลตฟอร์มเรารองรับการนำเข้าข้อมูลจาก PC, Android และ iOS ด้วยวิธีการอัตโนมัติ. WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+      "description": "คู่มือแสดงข้อมูล Wuthering Waves และดูสถิติของคุณ แพลตฟอร์มเรารองรับการนำเข้าข้อมูลจาก PC, Android และ iOS ด้วยวิธีการอัตโนมัติ. WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
     },
     "Not Found": {
       "title": "ไม่พบหน้านี้",
@@ -148,7 +148,7 @@
     },
     "Privacy Policy": {
       "title": "นโยบายความเป็นส่วนตัว - WuWa Tracker",
-      "description": "เอกสารนโยบายความเป็นส่วนตัวนี้สรุปประเภทของข้อมูลส่วนบุคคลที่ได้รับและรวบรวมโดย WuWa Tracker และวิธีการที่ข้อมูลเหล่านั้นถูกใช้. WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ"
+      "description": "เอกสารนโยบายความเป็นส่วนตัวนี้สรุปประเภทของข้อมูลส่วนบุคคลที่ได้รับและรวบรวมโดย WuWa Tracker และวิธีการที่ข้อมูลเหล่านั้นถูกใช้. WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ"
     },
     "Sequences": {
       "title": "กลุ่มดาว - WuWa Tracker",
@@ -156,7 +156,7 @@
     },
     "Settings": {
       "title": "การตั้งค่า - WuWa Tracker",
-      "description": "ซิงค์ข้อมูลของคุณผ่าน Google โดยการลงชื่อเข้าใช้ จัดการข้อมูลการดึงของ Wuthering Waves ของคุณทั้งหมดในที่เดียว. WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+      "description": "ซิงค์ข้อมูลของคุณผ่าน Google โดยการลงชื่อเข้าใช้ จัดการข้อมูลการดึงของ Wuthering Waves ของคุณทั้งหมดในที่เดียว. WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
     },
     "Terms & Conditions": {
       "title": "ข้อกำหนดและเงื่อนไข - WuWa Tracker",
@@ -164,16 +164,16 @@
     },
     "Timeline": {
       "title": "ไทม์ไลน์กิจกรรม - WuWa Tracker",
-      "description": "ด้วยเครื่องมือเช็คเวลาเวิร์ฟเวอร์และเวลาท้องถิ่นของคุณคุณสามารถดูตารางเวลาแบนเนอร์ทั้งหมด, กิจกรรมในเกม, Tower of Adversity & Depths of Illusive Realm ครบจบในที่เดียว. WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+      "description": "ด้วยเครื่องมือเช็คเวลาเวิร์ฟเวอร์และเวลาท้องถิ่นของคุณคุณสามารถดูตารางเวลาแบนเนอร์ทั้งหมด, กิจกรรมในเกม, Tower of Adversity & Depths of Illusive Realm ครบจบในที่เดียว. WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
     },
     "Wiki": {
       "Resonator": {
         "title": "เรโซเนเตอร์ - WuWa Tracker",
-        "description": "ดูข้อมูลเรโซเนเตอร์ของ Wuthering Waves และใช้คำนวณวัตถุดิบผ่าน WuWa Tracker เพื่อวางแผนการอัพเกรดเรโซเนเตอร์ของคุณ. WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+        "description": "ดูข้อมูลเรโซเนเตอร์ของ Wuthering Waves และใช้คำนวณวัตถุดิบผ่าน WuWa Tracker เพื่อวางแผนการอัพเกรดเรโซเนเตอร์ของคุณ. WuWa Tracker เป็น อุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
       },
       "Item": {
         "title": "ไอเทม - WuWa Tracker",
-        "description": "ดูข้อมูลไอเท็มของ Wuthering Waves. WuWa Tracker เป็น Pity Counter สำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
+        "description": "ดูข้อมูลไอเท็มของ Wuthering Waves. WuWa Tracker เป็นอุปกรณ์นับการันตีสำหรับเกม Wuthering Waves โดยใช้ข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ แบ่งปันข้อมูลการดึงของคุณกับเพื่อนๆ และติดตามบัญชีของคุณ!"
       }
     },
     "Planner": {
@@ -209,7 +209,7 @@
     "Support Us": "สนับสนุนพวกเรา",
     "Sign In To Google": "เข้าสู่ระบบบัญชี Google",
     "Sign Out": "ออกจากระบบ",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "ต้องการความช่วยเหลือ"
   },
   "Dashboard": {
     "title": "แดชบอร์ด",
@@ -284,7 +284,7 @@
       "Convene Categories": "ประเภทตู้กาชา"
     },
     "ConveneCategoryPity": {
-      "pity-counter": "{num}✦ Pity"
+      "pity-counter": "การันตี {num}✦"
     },
     "UserRecentConvenes": {
       "Recent Convenes": "สุ่มได้ล่าสุด",
@@ -296,7 +296,7 @@
       "Pull History": "ประวัติการสุ่ม",
       "Pull Num": "สุ่มครั้งที่",
       "Item": "ไอเทมที่ได้",
-      "Pity": "Pity",
+      "Pity": "การันตีที่",
       "Date Received": "วันเวลาที่ได้รับ"
     },
     "UserBannerStats": {
@@ -320,8 +320,8 @@
       "You need more pulls to view statistics": "คุณต้องสุ่มเพิ่มเพื่อดูสถิติ",
       "Percentiles": {
         "AvgPity": {
-          "title": "จำนวน Pity โดยเฉลี่ย",
-          "formula": "ค่าเฉลี่ยอิงจาก Pity Rate ที่ทำให้คุณได้รับ {qualityLevel} ดาว"
+          "title": "การันตีโดยเฉลี่ย",
+          "formula": "ค่าเฉลี่ยอิงจากตัว {qualityLevel} ดาวที่คุณได้ก่อนการันตี"
         },
         "PullRatio": {
           "title": "อัตราของการสุ่มได้",
@@ -519,14 +519,14 @@
     "Report an Issue": "รายงานปัญหา",
     "SettingCloudSync": {
       "UserProfilePicker": {
-        "no-pulls": "No pulls found...",
-        "pick-a-profile": "Select a profile..."
+        "no-pulls": "ไม่พบการสุ่ม...",
+        "pick-a-profile": "เลือกโปรไฟล์..."
       },
       "sign-out-success": "ออกจากระบบเรียบร้อย",
       "is-synced": "ข้อมูลซิงค์แล้ว",
       "is-not-synced": "ข้อมูลยังไม่ซิงค์",
       "Cloud Backup": "สำรองข้อมูลบนคลาวด์",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "บันทึกข้อมูลของคุณโดยอัตโนมัติด้วย Google Drive คุณสามารถเข้าถึงข้อมูลจากอุปกรณ์ใดก็ได้",
       "Guest": "ผู้เยี่ยมชม",
       "Sign In to Google": "เข้าสู่ระบบบัญชี Google",
       "Log Out": "ออกจากระบบ",
@@ -577,10 +577,10 @@
     "title": "แพลนเนอร์จัดระเบียบ"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "ออกจากระบบเรียบร้อย",
+    "re-login-to-sync": "กรุณาเข้าสู่ระบบใหม่เพื่อทำการซิงค์ข้อมูลของคุณ",
+    "drive-pulls-in-sync": "การสุ่มของคุณกำลังซิงค์เข้ากับ Google Drive",
+    "drive-pulls-imported": "นำเข้าข้อมูลการสุ่มจาก Google Drive สำเร็จ",
+    "drive-pulls-saved": "บันทึกข้อมูลการสุ่มลง Google Drive สำเร็จ"
   }
 }
