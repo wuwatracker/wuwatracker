@@ -209,7 +209,7 @@
     "Support Us": "支持我们",
     "Sign In To Google": "登录 Google",
     "Sign Out": "退出登录",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "请求协助"
   },
   "Dashboard": {
     "title": "控制面板",
@@ -519,14 +519,14 @@
     "Report an Issue": "报告问题",
     "SettingCloudSync": {
       "UserProfilePicker": {
-        "no-pulls": "No pulls found...",
-        "pick-a-profile": "Select a profile..."
+        "no-pulls": "未找到抽取记录……",
+        "pick-a-profile": "请选择一个文件……"
       },
       "sign-out-success": "成功退出登录。",
       "is-synced": "数据已同步",
       "is-not-synced": "数据未同步",
       "Cloud Backup": "云端存储",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "自动使用 Google Drive 保存您的数据，并在任何设备上访问这些数据。",
       "Guest": "游客",
       "Sign In to Google": "登录 Google",
       "Log Out": "退出登录",
@@ -577,10 +577,10 @@
     "title": "材料规划工具"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "成功退出登录。",
+    "re-login-to-sync": "为了继续同步数据，您需要重新登录。",
+    "drive-pulls-in-sync": "抽取记录通过 Google Drive 保持同步。",
+    "drive-pulls-imported": "成功从 Google Drive 导入抽取记录。",
+    "drive-pulls-saved": "成功将抽取记录保存到 Google Drive。"
   }
 }
