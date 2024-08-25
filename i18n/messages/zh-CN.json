@@ -579,7 +579,7 @@
   "Tooltips": {
     "sign-out-success": "成功退出登录。",
     "re-login-to-sync": "为了继续同步数据，您需要重新登录。",
-    "drive-pulls-in-sync": "抽取记录通过 Google Drive 保持同步。",
+    "drive-pulls-in-sync": "抽取记录已经与 Google Drive 保持同步。",
     "drive-pulls-imported": "成功从 Google Drive 导入抽取记录。",
     "drive-pulls-saved": "成功将抽取记录保存到 Google Drive。"
   }
