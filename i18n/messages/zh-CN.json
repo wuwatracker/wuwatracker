@@ -208,7 +208,8 @@
     "Resonators": "共鸣者",
     "Support Us": "支持我们",
     "Sign In To Google": "登录 Google",
-    "Sign Out": "退出登录"
+    "Sign Out": "退出登录",
+    "Ask for Help": "请求协助"
   },
   "Dashboard": {
     "title": "控制面板",
@@ -517,27 +518,19 @@
     "Browser Data": "浏览器数据",
     "Report an Issue": "报告问题",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "未找到抽取记录……",
+        "pick-a-profile": "请选择一个文件……"
+      },
       "sign-out-success": "成功退出登录。",
-      "login-to-sync": "您必须先登录才能开启同步。",
-      "import-to-sync": "首先请导入你的数据来开启同步！",
-      "data-is-in-sync": "Google 账户数据已同步。",
       "is-synced": "数据已同步",
       "is-not-synced": "数据未同步",
       "Cloud Backup": "云端存储",
-      "description": "使用您的 Google 账户来储存数据，以便在任何设备上访问你的数据。一旦登录成功，只需要点击“同步数据”按钮就能够上传数据，或者将数据下载到您的设备中。",
+      "description": "自动使用 Google Drive 保存您的数据，并在任何设备上访问这些数据。",
       "Guest": "游客",
       "Sign In to Google": "登录 Google",
       "Log Out": "退出登录",
-      "Sync Data": "同步数据",
-      "Google Data": "Google 账户数据",
-      "Browser Data": "浏览器数据",
-      "browser-data-different": "您浏览器的数据与 Google 账户数据未同步。",
-      "browser-data-different-confirmation": "您浏览器数据的玩家 ID 为 {localId}，而 Google 账户数据的玩家 ID 为 ${googleId}，两者存在冲突。您希望保留浏览器数据还是 Google 账户数据？"
-    },
-    "SignInButton": {
-      "sign-out-success": "成功退出登录。",
-      "Sign out": "退出登录",
-      "Sign In to Google": "登录 Google"
+      "Sync Data": "同步数据"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "在下载之前，你需要一个有效的唤取历史链接。",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "材料规划工具"
+  },
+  "Tooltips": {
+    "sign-out-success": "成功退出登录。",
+    "re-login-to-sync": "为了继续同步数据，您需要重新登录。",
+    "drive-pulls-in-sync": "抽取记录通过 Google Drive 保持同步。",
+    "drive-pulls-imported": "成功从 Google Drive 导入抽取记录。",
+    "drive-pulls-saved": "成功将抽取记录保存到 Google Drive。"
   }
 }

@@ -208,7 +208,8 @@
     "Resonators": "Resonators",
     "Support Us": "Ủng Hộ Chúng Tôi",
     "Sign In To Google": "Đăng nhập vào Google",
-    "Sign Out": "Đăng xuất"
+    "Sign Out": "Đăng xuất",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "Tổng Quan",
@@ -517,27 +518,19 @@
     "Browser Data": "Dữ liệu trình duyệt",
     "Report an Issue": "Báo cáo vấn đề",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "Đăng xuất thành công.",
-      "login-to-sync": "Bạn phải đăng nhập trước khi có thể đồng bộ dữ liệu.",
-      "import-to-sync": "Nhập dữ liệu vào trước để bắt đầu đồng bộ nha!",
-      "data-is-in-sync": "Dữ liệu đã được đồng bộ với tài khoản Google.",
       "is-synced": "Dữ liệu đã được đồng bộ",
       "is-not-synced": "Dữ liệu CHƯA được đồng bộ",
       "Cloud Backup": "Sao lưu dữ liệu từ xa",
-      "description": "Lưu dữ liệu của bạn bằng Tài khoản Google và truy cập dữ liệu của bạn trên bất kỳ thiết bị nào. Sau khi đăng nhập, chỉ cần nhấp vào nút \"Đồng bộ hóa dữ liệu\" để tải lên hoặc tải xuống dữ liệu của bạn vào thiết bị.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "Khách",
       "Sign In to Google": "Đăng nhập vào Google",
       "Log Out": "Đăng xuất",
-      "Sync Data": "Đồng bộ dữ liệu",
-      "Google Data": "Dữ liệu từ Google",
-      "Browser Data": "Dữ liệu từ Trình duyệt",
-      "browser-data-different": "Dữ liệu trình duyệt của bạn khác với dữ liệu Tài khoản Google của bạn.",
-      "browser-data-different-confirmation": "Dữ liệu của bạn với ID người chơi ({localId}) xung đột với ID người chơi trong Tài khoản Google của bạn (${googleId}). Bạn muốn giữ lại dữ liệu của trình duyệt hay bạn muốn sử dụng dữ liệu Tài khoản Google của mình?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Đăng xuất thành công.",
-      "Sign out": "Đăng xuất",
-      "Sign In to Google": "Đăng nhập vào Google"
+      "Sync Data": "Đồng bộ dữ liệu"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Bạn cần có URL Lịch sử Triệu hồi hợp lệ trước khi tải xuống.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Material Planner"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }

@@ -208,7 +208,8 @@
     "Resonators": "Karakterek",
     "Support Us": "Támogatás",
     "Sign In To Google": "Bejelentkezés Google-be",
-    "Sign Out": "Kijelentkezés"
+    "Sign Out": "Kijelentkezés",
+    "Ask for Help": "Segítség kérése"
   },
   "Dashboard": {
     "title": "Irányítópult",
@@ -517,27 +518,19 @@
     "Browser Data": "Böngésző adatai",
     "Report an Issue": "Hiba jelentése",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "Nincs húzás...",
+        "pick-a-profile": "Válassz egy profilt..."
+      },
       "sign-out-success": "Sikeresen kijelentkeztél.",
-      "login-to-sync": "Be kell jelentkezned a szinkronizáláshoz.",
-      "import-to-sync": "Importáld az adataidat a szinkronizálás előtt!",
-      "data-is-in-sync": "Adataid szinkronizálása a Google fiókoddal.",
       "is-synced": "Adatok szinkronizálva",
       "is-not-synced": "Adatok NINCSENEK szinkronizálva",
       "Cloud Backup": "Felhőalapú biztonsági mentés",
-      "description": "Mentsd el az adataidat a Google-fiókod segítségével, és bármely eszközön hozzáférhetsz az adataidhoz. Ha bejelentkeztél, csak kattints az \"Adatok szinkronizálása\" gombra az adatok feltöltéséhez vagy letöltéséhez a készülékedre.",
+      "description": "Mentsd el adataidat automatikusan a Google Drive segítségével, és bármilyen eszközön hozzáférhetsz az adatokhoz.",
       "Guest": "Vendég",
       "Sign In to Google": "Bejelentkezés Google-be",
       "Log Out": "Kijelentkezés",
-      "Sync Data": "Adatok szinkronizálása",
-      "Google Data": "Google adat",
-      "Browser Data": "Böngésző adat",
-      "browser-data-different": "A helyi böngészőadatok különböznek a Google-fiókadatoktól.",
-      "browser-data-different-confirmation": "A játékos azonosítójával ({localId}) rendelkező helyi adatok ütköznek a Google-fiókod játékos azonosítójával (${googleId}). Szeretnéd megtartani a böngésződ helyi adatait, vagy inkább a Google-fiókod adatait szeretnéd használni?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Sikeresen kijelentkeztél.",
-      "Sign out": "Kijelentkezés",
-      "Sign In to Google": "Bejelentkezés Google-el"
+      "Sync Data": "Adatok szinkronizálása"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "A letöltés előtt érvényes húzási előzmény URL-címre van szükséged.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Alapanyag tervező"
+  },
+  "Tooltips": {
+    "sign-out-success": "Sikeresen kijelentkeztél.",
+    "re-login-to-sync": "Az adatok szinkronizálásának folytatásához újra be kell jelentkezned.",
+    "drive-pulls-in-sync": "A húzások szinkronizálva vannak a Google Drive-val.",
+    "drive-pulls-imported": "Sikeresen importáltad a Google Drive-ról a húzásaidat.",
+    "drive-pulls-saved": "Sikeresen elmentetted a húzásokat a Google Drive-ra."
   }
 }

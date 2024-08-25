@@ -208,7 +208,8 @@
     "Resonators": "Resonators",
     "Support Us": "Підтримати",
     "Sign In To Google": "Вхід в Google",
-    "Sign Out": "Вийти"
+    "Sign Out": "Вийти",
+    "Ask for Help": "Ask for Help"
   },
   "Dashboard": {
     "title": "Інформаційна панель",
@@ -517,27 +518,19 @@
     "Browser Data": "Дані з браузера",
     "Report an Issue": "Повідомити про проблему",
     "SettingCloudSync": {
+      "UserProfilePicker": {
+        "no-pulls": "No pulls found...",
+        "pick-a-profile": "Select a profile..."
+      },
       "sign-out-success": "Успішний вихід з системи.",
-      "login-to-sync": "Ви повинні увійти в систему, перш ніж мати можливість синхронізувати дані.",
-      "import-to-sync": "Спочатку імпортуйте ваші дані, щоб розпочати синхронізацію!",
-      "data-is-in-sync": "Дані синхронізовані з вашим обліковим записом Google.",
       "is-synced": "Дані синхронізовані",
       "is-not-synced": "Дані НЕ синхронізовані",
       "Cloud Backup": "Хмарне резервне копіювання",
-      "description": "Зберігайте свої дані за допомогою облікового запису Google та отримуйте доступ до них на будь-якому пристрої. Після входу в систему просто натисніть кнопку \"Синхронізувати дані\", щоб завантажити або завантажити дані на ваш пристрій.",
+      "description": "Save your data automatically using Google Drive and access your data in any device.",
       "Guest": "Гість",
       "Sign In to Google": "Увійти в обліковий запис Google",
       "Log Out": "Вийти",
-      "Sync Data": "Синхронізувати дані",
-      "Google Data": "Дані з Google",
-      "Browser Data": "Дані з браузера",
-      "browser-data-different": "Дані вашого локального браузера відрізняються від даних облікового запису Google.",
-      "browser-data-different-confirmation": "Ваші локальні дані з ID гравця ({localId}) конфліктують з ID вашого гравця Google (${googleId}). Бажаєте зберегти локальні дані вашого браузера чи натомість використовувати дані вашого облікового запису Google?"
-    },
-    "SignInButton": {
-      "sign-out-success": "Ви успішно вийшли з системи.",
-      "Sign out": "Вийти",
-      "Sign In to Google": "Вхід Google"
+      "Sync Data": "Синхронізувати дані"
     },
     "SettingConveneHistoryUrl": {
       "require-url-before-downloading": "Перед завантаженням вам необхідно мати дійсну URL-адресу Історії Скликань.",
@@ -582,5 +575,12 @@
   },
   "Planner": {
     "title": "Material Planner"
+  },
+  "Tooltips": {
+    "sign-out-success": "Signed out successfully.",
+    "re-login-to-sync": "You need to re-login to continue syncing your data.",
+    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
+    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
   }
 }
