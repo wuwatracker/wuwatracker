@@ -20,8 +20,8 @@
     "Yangyang": "Ян'ян",
     "Yinlin": "Їньлінь",
     "Yuanwu": "Янву",
-    "Zhezhi": "Zhezhi",
-    "Xiangli Yao": "Xiangli Yao",
+    "Zhezhi": "Джеджи",
+    "Xiangli Yao": "Сянлі Яо",
     "Abyss Surges": "Сплески безодні",
     "Ages of Harvest": "Епоха врожаю",
     "Amity Accord": "Дружня угода",
@@ -193,19 +193,19 @@
   },
   "MenuList": {
     "Tools": "Інструменти",
-    "Inventory": "Inventory",
+    "Inventory": "Інвентар",
     "Guides": "Інструкції",
     "Config": "Конфігурація",
     "Convene Tracker": "Скликання",
     "Global Stats": "Статистика",
     "Share History": "Поділитися",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "Планер",
+    "Items": "Предмети",
     "Achievements": "Досягнення",
     "Timeline": "Розклад",
     "Import": "Імпорт",
     "Settings": "Налаштування",
-    "Resonators": "Resonators",
+    "Resonators": "Резонатори",
     "Support Us": "Підтримати",
     "Sign In To Google": "Вхід в Google",
     "Sign Out": "Вийти",
@@ -579,8 +579,8 @@
   "Tooltips": {
     "sign-out-success": "Signed out successfully.",
     "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "drive-pulls-in-sync": "Витяги синхронізовані з Гугл Диском.",
+    "drive-pulls-imported": "Витяги успішно імпортовано з Гугл Диску.",
+    "drive-pulls-saved": "Витяги успішно збережено на Гугл Диску."
   }
 }
