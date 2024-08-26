@@ -106,7 +106,7 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your UID must contain 9 characters": "UIDは9文字でなければなりません",
       "Your record ID cannot be empty": "Your record ID cannot be empty",
       "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
       "Your server area is not supported at the moment": "Your server area is not supported at the moment"
@@ -365,8 +365,8 @@
     "expired-url": "This URL has expired. Please open your Convene history & import again.",
     "invalid-url": "Your Convene History URL is invalid.",
     "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expiration-notice-title": "URL満了",
+    "expiration-notice-content": "バーション1.2から集音URLが1時間で満了することになりました．最新の履歴を見れるよう、ゲーム内の集音履歴を開け再インポートしてください．",
     "Import Tutorial": "インポートチュートリアル",
     "PC": {
       "title": "PC",
@@ -577,10 +577,10 @@
     "title": "Material Planner"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
+    "sign-out-success": "サインアウト成功",
     "re-login-to-sync": "You need to re-login to continue syncing your data.",
     "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "drive-pulls-imported": "Google Driveからの集音履歴がインポートされました．",
+    "drive-pulls-saved": "集音履歴がGoogle Driveに保存しました．"
   }
 }
