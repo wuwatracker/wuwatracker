@@ -135,8 +135,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "エラーが発生しました．",
+      "description": "WuWa Trackerを使用中にエラーが発生しました．Discordサーバーに通報し、即解決するようにお願いします"
     },
     "Import": {
       "title": "集音履歴のインポート - Wuwa Tracker",
@@ -577,9 +577,9 @@
     "title": "Material Planner"
   },
   "Tooltips": {
-    "sign-out-success": "サインアウト成功",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
+    "sign-out-success": "サインアウト成功．",
+    "re-login-to-sync": "改めてサインインしてデータを同期する．",
+    "drive-pulls-in-sync": "集音履歴がGoogle Driveと同期されました．",
     "drive-pulls-imported": "Google Driveからの集音履歴がインポートされました．",
     "drive-pulls-saved": "集音履歴がGoogle Driveに保存しました．"
   }
