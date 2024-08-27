@@ -169,11 +169,11 @@
     "Wiki": {
       "Resonator": {
         "title": "共鸣者 - WuWa Tracker",
-        "description": "查看《鸣潮》共鸣者信息，并利用 WuWa Tracker 的材料计算器来对您共鸣者的升级资源分配进行充分的计划。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+        "description": "查看《鸣潮》游戏中共鸣者的信息和档案，并使用 WuWa Tracker 的材料计算器来对您升级共鸣者时所消耗的资源进行规划。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       },
       "Item": {
         "title": "物品 - WuWa Tracker",
-        "description": "查看《鸣潮》物品信息。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+        "description": "查看《鸣潮》物品的信息及其掉落位置，并追踪您的物品栏，且上述操作均可于本网站的同一处完成，免去切换网页或工具的麻烦。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       }
     },
     "Planner": {
@@ -579,7 +579,7 @@
   "Tooltips": {
     "sign-out-success": "成功退出登录。",
     "re-login-to-sync": "为了继续同步数据，您需要重新登录。",
-    "drive-pulls-in-sync": "抽取记录通过 Google Drive 保持同步。",
+    "drive-pulls-in-sync": "抽取记录已经与 Google Drive 保持同步。",
     "drive-pulls-imported": "成功从 Google Drive 导入抽取记录。",
     "drive-pulls-saved": "成功将抽取记录保存到 Google Drive。"
   }

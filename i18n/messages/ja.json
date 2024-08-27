@@ -106,7 +106,7 @@
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your UID must contain 9 characters": "UIDは9文字でなければなりません",
       "Your record ID cannot be empty": "Your record ID cannot be empty",
       "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
       "Your server area is not supported at the moment": "Your server area is not supported at the moment"
@@ -135,8 +135,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "エラーが発生しました．",
+      "description": "WuWa Trackerを使用中にエラーが発生しました．Discordサーバーに通報し、即解決するようにお願いします"
     },
     "Import": {
       "title": "集音履歴のインポート - Wuwa Tracker",
@@ -169,11 +169,11 @@
     "Wiki": {
       "Resonator": {
         "title": "共鳴者 - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Item": {
         "title": "アイテム - WuWa Tracker",
-        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
@@ -365,8 +365,8 @@
     "expired-url": "This URL has expired. Please open your Convene history & import again.",
     "invalid-url": "Your Convene History URL is invalid.",
     "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expiration-notice-title": "URL満了",
+    "expiration-notice-content": "バーション1.2から集音URLが1時間で満了することになりました．最新の履歴を見れるよう、ゲーム内の集音履歴を開け再インポートしてください．",
     "Import Tutorial": "インポートチュートリアル",
     "PC": {
       "title": "PC",
@@ -577,10 +577,10 @@
     "title": "Material Planner"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "サインアウト成功．",
+    "re-login-to-sync": "改めてサインインしてデータを同期する．",
+    "drive-pulls-in-sync": "集音履歴がGoogle Driveと同期されました．",
+    "drive-pulls-imported": "Google Driveからの集音履歴がインポートされました．",
+    "drive-pulls-saved": "集音履歴がGoogle Driveに保存しました．"
   }
 }

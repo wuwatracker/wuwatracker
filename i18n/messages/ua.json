@@ -1,7 +1,7 @@
 {
   "Items": {
-    "Rover-Havoc": "Rover-Havoc",
-    "Rover-Spectro": "Rover-Spectro",
+    "Rover-Havoc": "Ровер-Хаос",
+    "Rover-Spectro": "Ровер-Спектро",
     "Aalto": "Алто",
     "Baizhi": "Байджи",
     "Calcharo": "Какаро",
@@ -20,8 +20,8 @@
     "Yangyang": "Ян'ян",
     "Yinlin": "Їньлінь",
     "Yuanwu": "Янву",
-    "Zhezhi": "Zhezhi",
-    "Xiangli Yao": "Xiangli Yao",
+    "Zhezhi": "Джеджи",
+    "Xiangli Yao": "Сянлі Яо",
     "Abyss Surges": "Сплески безодні",
     "Ages of Harvest": "Епоха врожаю",
     "Amity Accord": "Дружня угода",
@@ -76,15 +76,15 @@
     "Undying Flame": "Невгасиме полум'я",
     "Variation": "Варіація",
     "Verdant Summit": "Зелена вершина",
-    "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle"
+    "Rime-Draped Sprouts": "Паростки в Паморозі",
+    "Verity's Handle": "Руків'я Істини"
   },
   "CardPoolNames": {
     "Featured Resonator": "Особливий Резонатор",
     "Featured Weapon": "Особлива зброя",
     "Permanent Resonator": "Постійні Резонатори",
     "Permanent Weapon": "Постійна зброя",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "Скликання новачка",
     "Beginner's Choice": "Початкове на вибір",
     "Selector Ticket": "Вибірковий білет",
     "Tidal Chorus": "Приливний хор",
@@ -98,18 +98,18 @@
     "When Thunder Pours (Early)": "Коли гримить грім (Рано)",
     "Thawborn Renewal": "Відродження відлиги",
     "Vermillion's Ploy": "Полум'яна хитрість",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "Небесне Одкровення",
+    "Chromatic Prose": "Кольорова Проза"
   },
   "Common": {
     "Import History": "Імпорт історії"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "Ваш UID має складатися з 9 символів",
+      "Your record ID cannot be empty": "Ваш ID не може бути порожнім",
+      "Your URL contains an invalid server ID": "Ваше посилання містить неправильний ID серверу",
+      "Your server area is not supported at the moment": "Ваша область серверу не підтримується на цей момент"
     }
   },
   "Metadata": {
@@ -135,8 +135,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Сталася помилка",
+      "description": "Під час використання WuWa Трекеру сталася помилка. Будь ласка, надішліть звіт на наш сервер Discord, щоб ми могли оперативно її вирішити."
     },
     "Import": {
       "title": "Імпорт історії Скликань - WuWa Tracker",
@@ -168,16 +168,16 @@
     },
     "Wiki": {
       "Resonator": {
-        "title": "Resonators - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Резонатори - WuWa Трекер",
+        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Item": {
-        "title": "Items - WuWa Tracker",
-        "description": "View Wuthering Waves Item information. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Предмети - WuWa Tracker",
+        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
-      "title": "Material Planner - WuWa Tracker",
+      "title": "Планер Матеріалів - WuWa Трекер",
       "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
@@ -193,23 +193,23 @@
   },
   "MenuList": {
     "Tools": "Інструменти",
-    "Inventory": "Inventory",
+    "Inventory": "Інвентар",
     "Guides": "Інструкції",
     "Config": "Конфігурація",
     "Convene Tracker": "Скликання",
     "Global Stats": "Статистика",
     "Share History": "Поділитися",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "Планер",
+    "Items": "Предмети",
     "Achievements": "Досягнення",
     "Timeline": "Розклад",
     "Import": "Імпорт",
     "Settings": "Налаштування",
-    "Resonators": "Resonators",
+    "Resonators": "Резонатори",
     "Support Us": "Підтримати",
     "Sign In To Google": "Вхід в Google",
     "Sign Out": "Вийти",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "Звернутися по допомогу"
   },
   "Dashboard": {
     "title": "Інформаційна панель",
@@ -362,11 +362,11 @@
   },
   "Import": {
     "title": "Імпорт",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "Це посилання недійсне. Будь ласка, відкрийте історію скликань та імпортуйте знов.",
+    "invalid-url": "Ваша URL-адреса скликань некоректна.",
+    "import-success": "URL-адреса історії скликань успішно імпортована!",
+    "expiration-notice-title": "Закінчення дії URL",
+    "expiration-notice-content": "Починаючи з версії 1.2, ваші посилання стають недійсними через годину. Щоб бачити оновлені витяги, будь ласка, переконайтеся що ви відкрили історію у грі перед новим імпортом.",
     "Import Tutorial": "Довідник по імпорту",
     "PC": {
       "title": "ПК",
@@ -519,14 +519,14 @@
     "Report an Issue": "Повідомити про проблему",
     "SettingCloudSync": {
       "UserProfilePicker": {
-        "no-pulls": "No pulls found...",
-        "pick-a-profile": "Select a profile..."
+        "no-pulls": "Витягів не знайдено...",
+        "pick-a-profile": "Оберіть профіль..."
       },
       "sign-out-success": "Успішний вихід з системи.",
       "is-synced": "Дані синхронізовані",
       "is-not-synced": "Дані НЕ синхронізовані",
       "Cloud Backup": "Хмарне резервне копіювання",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "Зберігайте ваші дані автоматично та переглядайте їх на будь-якому пристрої використовуючи Гугл Диск.",
       "Guest": "Гість",
       "Sign In to Google": "Увійти в обліковий запис Google",
       "Log Out": "Вийти",
@@ -570,17 +570,17 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "Резонатори"
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "Планер матеріалів"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "Успішний вихід.",
+    "re-login-to-sync": "Вам необхідно увійти знов щоб продовжити синхронізацію даних.",
+    "drive-pulls-in-sync": "Витяги синхронізовані з Гугл Диском.",
+    "drive-pulls-imported": "Витяги успішно імпортовано з Гугл Диску.",
+    "drive-pulls-saved": "Витяги успішно збережено на Гугл Диску."
   }
 }

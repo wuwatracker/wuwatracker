@@ -169,11 +169,11 @@
     "Wiki": {
       "Resonator": {
         "title": "Karakterek - WuWa Tracker",
-        "description": "Nézd meg a Wuthering Waves karakter információit, és használd a WuWa Tracker alapanyag tervezőjét a karakter-fejlesztések megtervezéséhez. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Item": {
         "title": "Eszközök - WuWa Tracker",
-        "description": "Nézd meg a Wuthering Waves eszközeinek információit, és használd a WuWa Tracker alapanyag tervezőjét a karakter-fejlesztések megtervezéséhez. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
