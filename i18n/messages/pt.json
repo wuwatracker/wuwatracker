@@ -579,8 +579,8 @@
   "Tooltips": {
     "sign-out-success": "Signed out successfully.",
     "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "drive-pulls-in-sync": "Tiros são sincronizados com o Google Drive.",
+    "drive-pulls-imported": "Importou os seus tiros do Google Drive com sucesso.",
+    "drive-pulls-saved": "Tiros salvos para o Google Drive com sucesso."
   }
 }
