@@ -37,7 +37,7 @@
     "Cosmic Ripples": "Ondulações Cósmicas",
     "Dauntless Evernight": "Intrépida Noite Eterna",
     "Discord": "Discórdia (Discord)",
-    "Emerald of Genesis": "Esmeralda do Gênesis (Emerald of Genesis)",
+    "Emerald of Genesis": "Esmeralda do Gênesis",
     "Gauntlets of Night": "Manoplas da Noite",
     "Gauntlets of Voyager": "Manoplas de Viajante",
     "Gauntlets#21D": "Manoplas#21D",
@@ -186,7 +186,7 @@
       "label": "Ajude a traduzir"
     },
     "Footer": {
-      "disclaimer": "Não somos afiliados com Wuthering Waves. Todas as imagens, conteúdo de jogo e materias têm direitos de autor e são trademarks de Kuro Games.",
+      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "Política de Privacidade",
       "Terms & Conditions": "Termos & Condições"
     }
@@ -209,7 +209,7 @@
     "Support Us": "Suporte-nos",
     "Sign In To Google": "Iniciar Sessão no Google",
     "Sign Out": "Terminar Sessão",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "Pedir Ajuda"
   },
   "Dashboard": {
     "title": "Painel de Ferramentas",
@@ -519,14 +519,14 @@
     "Report an Issue": "Reporte Problemas",
     "SettingCloudSync": {
       "UserProfilePicker": {
-        "no-pulls": "No pulls found...",
-        "pick-a-profile": "Select a profile..."
+        "no-pulls": "Nenhum tiro encontrado...",
+        "pick-a-profile": "Selecione um perfil..."
       },
       "sign-out-success": "Sessão terminada com sucesso.",
       "is-synced": "Os dados estão sincronizados",
       "is-not-synced": "Os dados NÃO estão sincronizados",
       "Cloud Backup": "Backup da Nuvem",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "Salve seus dados automaticamente usando o Google Drive e os acesse em qualquer dispositivo.",
       "Guest": "Convidado",
       "Sign In to Google": "Iniciar Sessão no Google",
       "Log Out": "Terminar sessão",
@@ -577,10 +577,10 @@
     "title": "Planeador de Materiais"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "Terminou sessão com sucesso.",
+    "re-login-to-sync": "Tem que reiniciar sessão para continuar a sincronizar os seus dados.",
+    "drive-pulls-in-sync": "Tiros são sincronizados com o Google Drive.",
+    "drive-pulls-imported": "Importou os seus tiros do Google Drive com sucesso.",
+    "drive-pulls-saved": "Tiros salvos para o Google Drive com sucesso."
   }
 }
