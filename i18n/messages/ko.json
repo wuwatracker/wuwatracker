@@ -169,11 +169,11 @@
     "Wiki": {
       "Resonator": {
         "title": "공명자 - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "명조: 워더링 웨이브의 공명자 정보, 프로필을 보고 공명자 업그레이드를 위해 WuWa Tracker의 재료 계산기를 사용해보세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
       },
       "Item": {
         "title": "아이템 - WuWa Tracker",
-        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "명조: 워더링 웨이브의 아이템 정보, 드랍 장소, 그리고 당신의 인벤토리를 확인하세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
       }
     },
     "Planner": {
@@ -186,7 +186,7 @@
       "label": "번역 도움말"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "우리는 Wuthering Waves와 연관이 없습니다. 모든 게임 에셋, 콘텐츠와 소재의 트레이드마크와 저작권은 Kuro Games에 있습니다.",
       "Privacy Policy": "개인정보 보호정책",
       "Terms & Conditions": "이용 약관"
     }
