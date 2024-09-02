@@ -169,11 +169,11 @@
     "Wiki": {
       "Resonator": {
         "title": "Résonateurs - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Consultez la liste des résonateurs de Wuthering Waves et utilisez le calculateur de materieux pour prévoir l'amélioration de vos résonateurs. Wuwa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
       },
       "Item": {
         "title": "Objets - WuWa Tracker",
-        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Consultez la liste des objets de Wuthering Waves et leurs emplacements et surveiller votre inventaire, tout au même endroit. Wuwa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
       }
     },
     "Planner": {
@@ -186,7 +186,7 @@
       "label": "Aidez à traduire"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Nous ne sommes pas affiliés à Wuthering Waves. Toutes les ressources et tout le contenu sont la propriété de Kuro Games.",
       "Privacy Policy": "Politique de confidentialité",
       "Terms & Conditions": "Conditions d'utilisation"
     }
