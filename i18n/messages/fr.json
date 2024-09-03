@@ -293,7 +293,7 @@
       "note-max": "Ce résumé n'affiche que les {num} dernières invocations."
     },
     "UserPullHistoryTable": {
-      "Pull History": "Historique d'invocations",
+      "Pull History": "Historique des invocations",
       "Pull Num": "Invocation N°",
       "Item": "Objet",
       "Pity": "Pity",
