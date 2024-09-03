@@ -107,8 +107,8 @@
   "Validation": {
     "GachaRecordQueryArgs": {
       "Your UID must contain 9 characters": "Ваш UID должен состоять из 9 цифр",
-      "Your record ID cannot be empty": "Ваше поле \"ID записи\" не может быть пустым",
-      "Your URL contains an invalid server ID": "Ваша ссылка содержит некорректный ИД сервера",
+      "Your record ID cannot be empty": "Ваше поле «ID записи» не может быть пустым",
+      "Your URL contains an invalid server ID": "Ваша ссылка содержит некорректный ID сервера",
       "Your server area is not supported at the moment": "На данный момент ваш сервер не поддерживается"
     }
   },
@@ -186,7 +186,7 @@
       "label": "Помощь в переводе"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Сайт не аффилирован с игрой Wuthering Waves, все ресурсы, игровой контент и материалы являются товарными знаками и принадлежат Kuro Games.",
       "Privacy Policy": "Политика конфиденциальности",
       "Terms & Conditions": "Условия использования сервиса"
     }
@@ -223,7 +223,7 @@
         "updates": "обновления"
       },
       "title": "WuWa Tracker поможет вам отслеживать",
-      "description": "Счётчик круток для Wuthering Waves, предоставляющий актуальную информацию, с глобальной статистикой и другими полезными функциями. Мы стремимся предоставить лучшие инструменты для того, чтобы вы могли следить за прогрессом своего аккаунта и делиться им с друзьями."
+      "description": "Счётчик круток для Wuthering Waves с расширенными возможностями, включающими отслеживание и планирование вашего прогресса, а также доступом ко всей актуальной игровой информации. Мы стремимся развивать платформу, чтобы вы могли эффективно следить за своим аккаунтом и делиться достижениями с друзьями."
     },
     "Tutorial": {
       "title": "Подготовка",
