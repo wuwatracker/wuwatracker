@@ -169,11 +169,11 @@
     "Wiki": {
       "Resonator": {
         "title": "Karakterek - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Nézd meg a Wuthering Waves karakter információit, és használd a WuWa Tracker alapanyag tervezőjét a karakter-fejlesztések megtervezéséhez. WuWa Tracker kívánság számláló a Wuthering Waves számára, a naprakész adatok felhasználásával, globális statisztikákkal és egyebekkel. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       },
       "Item": {
         "title": "Eszközök - WuWa Tracker",
-        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Nézd meg a Wuthering Waves teszközinformációkat, a leadási helyeket, és kövesd a készletedet - mindezt egy helyen. WuWa Tracker kívánság számláló Wuthering Waves számára, a naprakész adatok felhasználásával globális statisztikák és több. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       }
     },
     "Planner": {
@@ -186,7 +186,7 @@
       "label": "Segíts fordítani"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Nem állunk kapcsolatban a Wuthering Waves vállalattal. Minden játékeszköz, tartalom és anyag, amely nem a mi tulajdonunk, a Kuro Games védjegye és szerzői joga.",
       "Privacy Policy": "Adatvédelmi irányelvek",
       "Terms & Conditions": "Szolgáltatási feltételek"
     }
