@@ -102,7 +102,9 @@
     "Chromatic Prose": "Кольорова Проза"
   },
   "Common": {
-    "Import History": "Імпорт історії"
+    "Import History": "Імпорт історії",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "Досягнення",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "Дані успішно імпортовано.",
         "import-invalid": "Будь ласка, імпортуйте дійсні дані.",
@@ -250,13 +253,16 @@
         "download-fail": "Не вдалося завантажити.",
         "download-start": "Незабаром розпочнеться ваше завантаження."
       },
-      "description": "Скористайтеся фільтрами, щоб дізнатися, які досягнення вам не вистачає.",
       "Completed": "Виконано",
       "ImportDialog": {
         "title": "Імпорт даних",
         "description": "Використовуйте раніше експортовані дані та синхронізуйте їх з вашим браузером."
       },
       "Hidden": "Приховані",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "Натисніть для завантаження",
       "or drag and drop": "або перетягніть файл",
       "Import": "Імпорт",
