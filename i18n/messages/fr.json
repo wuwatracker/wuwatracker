@@ -102,7 +102,9 @@
     "Chromatic Prose": "Prose chromatique"
   },
   "Common": {
-    "Import History": "Importer votre historique"
+    "Import History": "Importer votre historique",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "Trophées",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "Importation des données réussie.",
         "import-invalid": "Veuillez importer des données valides.",
@@ -250,13 +253,16 @@
         "download-fail": "Échec du téléchargement.",
         "download-start": "Le téléchargement va commencer."
       },
-      "description": "Utilisez les filtres pour trouver les trophées qu'ils vous manquent.",
       "Completed": "Complété",
       "ImportDialog": {
         "title": "Importer les données",
         "description": "Utilisez vos données précédemment exportées et synchronisez-les avec votre navigateur."
       },
       "Hidden": "Caché",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "Cliquez pour envoyer",
       "or drag and drop": "ou glissez déposez",
       "Import": "Importer",
