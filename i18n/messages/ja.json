@@ -103,8 +103,8 @@
   },
   "Common": {
     "Import History": "履歴をインポート",
-    "All": "All",
-    "Search": "Search"
+    "All": "すべて",
+    "Search": "検索"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -368,11 +368,11 @@
   },
   "Import": {
     "title": "インポート",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL満了",
-    "expiration-notice-content": "バーション1.2から集音URLが1時間で満了することになりました．最新の履歴を見れるよう、ゲーム内の集音履歴を開け再インポートしてください．",
+    "expired-url": "URLの有効期限が切れました。もう一度取得してください。",
+    "invalid-url": "無効な集音履歴URLです。",
+    "import-success": "集音履歴のインポートは成功しました！",
+    "expiration-notice-title": "URL期限切れ",
+    "expiration-notice-content": "バーション1.2からURLは1時間の期限に追加されました。最新の集音履歴を見るには、ゲーム内の集音履歴を開いて、もう一度インポートの手順を実行してください。",
     "Import Tutorial": "インポートチュートリアル",
     "PC": {
       "title": "PC",
@@ -532,7 +532,7 @@
       "is-synced": "データの同期が成功しました",
       "is-not-synced": "データは同期できませんでした",
       "Cloud Backup": "クラウドバックアップ",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "データを自動的にGoogle Driveに保存し、他のデバイスも読み込めるようにします。",
       "Guest": "ゲスト",
       "Sign In to Google": "Googleでログイン",
       "Log Out": "ログアウト",
