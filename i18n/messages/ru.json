@@ -102,7 +102,9 @@
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
-    "Import History": "Импортировать"
+    "Import History": "Импортировать",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "Достижения",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "Данные успешно импортированы.",
         "import-invalid": "Пожалуйста, предоставьте правильные данные.",
@@ -250,13 +253,16 @@
         "download-fail": "Ошибка при скачивании.",
         "download-start": "Ваша загрузка скоро начнётся."
       },
-      "description": "Используйте фильтры для поиска определённых достижений.",
       "Completed": "Получено",
       "ImportDialog": {
         "title": "Импорт",
         "description": "Используйте ранее сохранённые данные, чтобы сохранить их в данном браузере."
       },
       "Hidden": "Скрыто",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "Нажмите для отправки",
       "or drag and drop": "или перетащите",
       "Import": "Импорт",
