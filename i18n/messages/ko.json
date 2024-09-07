@@ -103,8 +103,8 @@
   },
   "Common": {
     "Import History": "기록 제출하기",
-    "All": "All",
-    "Search": "Search"
+    "All": "전체",
+    "Search": "검색"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -245,7 +245,7 @@
   "Achievements": {
     "title": "업적",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "업적을 찾을 수 없습니다",
       "toast": {
         "import-success": "성공적으로 데이터를 제출했습니다.",
         "import-invalid": "유효한 데이터를 제출해주세요.",
@@ -259,10 +259,10 @@
         "description": "이전에 내보낸 데이터를 사용하여 브라우저와 동기화하세요."
       },
       "Hidden": "Hidden",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "일반",
+      "Completion": "완료 유무",
+      "Complete": "완료",
+      "Incomplete": "미완료",
       "Click to upload": "클릭해서 업로드",
       "or drag and drop": "또는 드래그하고 놓기",
       "Import": "제출하기",
