@@ -102,7 +102,9 @@
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
-    "Import History": "Importar historial"
+    "Import History": "Importar historial",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "Logros",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "Datos importados exitosamente.",
         "import-invalid": "Por favor importa datos válidos.",
@@ -250,13 +253,16 @@
         "download-fail": "Error al comenzar la descarga.",
         "download-start": "Tu descarga comenzará en breve."
       },
-      "description": "Para encontrar los logros que te faltan, usa los filtros.",
       "Completed": "Completado",
       "ImportDialog": {
         "title": "Importar datos",
         "description": "Usa tus datos exportados previamente para sincronizarlos con tu navegador."
       },
       "Hidden": "Oculto",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "Clic para subir archivo",
       "or drag and drop": "o arrastra y suelta",
       "Import": "Importar",
