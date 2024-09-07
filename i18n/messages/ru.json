@@ -103,8 +103,8 @@
   },
   "Common": {
     "Import History": "Импортировать",
-    "All": "All",
-    "Search": "Search"
+    "All": "Все",
+    "Search": "Поиск"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -245,7 +245,7 @@
   "Achievements": {
     "title": "Достижения",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "достижений не найдено",
       "toast": {
         "import-success": "Данные успешно импортированы.",
         "import-invalid": "Пожалуйста, предоставьте правильные данные.",
@@ -259,10 +259,10 @@
         "description": "Используйте ранее сохранённые данные, чтобы сохранить их в данном браузере."
       },
       "Hidden": "Скрыто",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "Видимые",
+      "Completion": "Прогресс",
+      "Complete": "Получено",
+      "Incomplete": "Не получено",
       "Click to upload": "Нажмите для отправки",
       "or drag and drop": "или перетащите",
       "Import": "Импорт",
