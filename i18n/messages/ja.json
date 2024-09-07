@@ -102,7 +102,9 @@
     "Chromatic Prose": "極彩色に染まる詩"
   },
   "Common": {
-    "Import History": "履歴をインポート"
+    "Import History": "履歴をインポート",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "実績",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "データが正常にインポートされました",
         "import-invalid": "有効なデータをインポートしてください",
@@ -250,13 +253,16 @@
         "download-fail": "ダウンロードを開始することができませんでした",
         "download-start": "ダウンロードがまもなく始まります"
       },
-      "description": "フィルターを使用して、まだ達成していない実績を探しましょう",
       "Completed": "達成",
       "ImportDialog": {
         "title": "データをインポート",
         "description": "エクスポートしたデータを使って同期する"
       },
       "Hidden": "隠しアチーブメント",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "クリックしてアップロードする",
       "or drag and drop": "あるいはファイルをドラッグしてここに置く",
       "Import": "インポート",
