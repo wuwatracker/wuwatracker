@@ -103,8 +103,8 @@
   },
   "Common": {
     "Import History": "导入历史记录",
-    "All": "All",
-    "Search": "Search"
+    "All": "全部",
+    "Search": "搜索"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -245,7 +245,7 @@
   "Achievements": {
     "title": "成就",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "未找到成就",
       "toast": {
         "import-success": "数据导入成功。",
         "import-invalid": "请导入有效数据。",
@@ -259,10 +259,10 @@
         "description": "使用您以前导出的数据并和浏览器进行同步。"
       },
       "Hidden": "隐藏",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "可见",
+      "Completion": "完成状态",
+      "Complete": "已完成",
+      "Incomplete": "未完成",
       "Click to upload": "点击上传",
       "or drag and drop": "或者拖放",
       "Import": "导入",
