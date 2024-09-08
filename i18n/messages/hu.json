@@ -102,7 +102,9 @@
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
-    "Import History": "Előzmények importálása"
+    "Import History": "Előzmények importálása",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "Teljesítmények",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "Sikeres adatimportálás.",
         "import-invalid": "Kérlek, importálj érvényes adatokat.",
@@ -250,13 +253,16 @@
         "download-fail": "Nem sikerült elindítani a letöltést.",
         "download-start": "A letöltés hamarosan elindul."
       },
-      "description": "Használd a szűrőket, hogy megtaláld a hiányzó teljesítményeket.",
       "Completed": "Teljesítve",
       "ImportDialog": {
         "title": "Adatok importálása",
         "description": "Használd a korábban exportált adataidat, és szinkronizáld a böngésződdel."
       },
       "Hidden": "Rejtett",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "Kattints a feltöltéshez",
       "or drag and drop": "vagy húzd és engedd el",
       "Import": "Importálás",

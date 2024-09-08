@@ -102,7 +102,9 @@
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
-    "Import History": "Impor Riwayat"
+    "Import History": "Impor Riwayat",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "Pencapaian",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "Data berhasil diimpor.",
         "import-invalid": "Harap impor data yang valid.",
@@ -250,13 +253,16 @@
         "download-fail": "Gagal memulai pengunduhan.",
         "download-start": "Pengunduhan Anda akan segera dimulai."
       },
-      "description": "Gunakan filter untuk membantumu mencari pencapaian apa yang kamu belum dapatkan.",
       "Completed": "Berhasil",
       "ImportDialog": {
         "title": "Impor Data",
         "description": "Gunakan data yang Anda ekspor sebelumnya dan sinkronkan dengan browser Anda."
       },
       "Hidden": "Tersembunyi",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "Klik untuk mengunggah",
       "or drag and drop": "atau tarik dan jatuhkan",
       "Import": "Impor",

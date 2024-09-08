@@ -102,7 +102,9 @@
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
-    "Import History": "匯入歷史紀錄"
+    "Import History": "匯入歷史紀錄",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "成就",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "成功匯入資料。",
         "import-invalid": "請匯入有效資料。",
@@ -250,13 +253,16 @@
         "download-fail": "下載失敗。",
         "download-start": "下載即將開始。"
       },
-      "description": "使用篩選器尋找缺少的成就。",
       "Completed": "完成",
       "ImportDialog": {
         "title": "匯入資料",
         "description": "使用先前匯出的資料並且同步至瀏覽器。"
       },
       "Hidden": "隱藏",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "點擊上傳",
       "or drag and drop": "或者拖拉",
       "Import": "匯入",

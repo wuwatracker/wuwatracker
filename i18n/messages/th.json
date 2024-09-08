@@ -102,7 +102,9 @@
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
-    "Import History": "นำเข้าประวัติ"
+    "Import History": "นำเข้าประวัติ",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "รางวัลความสำเร็จ",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "นำเข้าข้อมูลสำเร็จ",
         "import-invalid": "นำเข้าข้อมูลไม่ถูกต้อง โปรดนำเข้าข้อมูลใหม่อีกครั้ง",
@@ -250,13 +253,16 @@
         "download-fail": "ไม่สามารถเริ่มการดาวน์โหลดได้",
         "download-start": "การดาวน์โหลดของคุณจะเริ่มในไม่ช้า"
       },
-      "description": "กดปุ่ม Filter จะช่วยให้คุณหาความสำเร็จที่คุณพลาดไป",
       "Completed": "เสร็จสิ้น",
       "ImportDialog": {
         "title": "นำเข้าข้อมูล",
         "description": "อัปโหลดความสำเร็จก่อนหน้าของคุณและซิงค์เข้ากับเบราว์เซอร์"
       },
       "Hidden": "ความสำเร็จลับ",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "กดที่นี่เพื่ออัปโหลด",
       "or drag and drop": "หรือลากแล้วปล่อยไฟล์",
       "Import": "อัปโหลดข้อมูล",

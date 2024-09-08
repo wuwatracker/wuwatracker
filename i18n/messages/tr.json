@@ -116,7 +116,7 @@
   },
   "Metadata": {
     "Generic": {
-      "description": "Sebuah pengira kesedihan untuk Gelombang Wuthering, menggunakan data terkini dengan statistik global dan lain-lain. Segerakan data anda di semua peranti dan kongsi tarikan anda dengan rakan-rakan serta lacak akaun anda dengan mudah!"
+      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Synchronize your data across devices and share your pulls with your friends and track your account easily!"
     },
     "Achievements": {
       "title": "Achievements - WuWa Tracker",
@@ -145,7 +145,7 @@
       "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Not Found": {
-      "title": "Tidak Dijumpai",
+      "title": "Not Found",
       "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
     },
     "Privacy Policy": {
@@ -154,7 +154,7 @@
     },
     "Sequences": {
       "title": "Sequences - WuWa Tracker",
-      "description": "Kira dan tunjukkan Resonator dan Senjata berganda anda serta lihat maklumat berkaitan. Anda boleh mempamerkannya kepada rakan-rakan!"
+      "description": "Count and showcase your duplicate Resonators and Weapons and see information related to them. You can showcase them to your friends!"
     },
     "Settings": {
       "title": "Settings - WuWa Tracker",
@@ -185,7 +185,7 @@
   },
   "Layout": {
     "LocaleSwitcher": {
-      "label": "Bantu Terjemahkan"
+      "label": "Help Translate"
     },
     "Footer": {
       "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
@@ -433,7 +433,7 @@
         "title": "Copy Your Installation Directory",
         "description": "Find the folder that contains <code>Wuthering Waves.exe</code> and a <code>Client</code> folder.",
         "Your installation directory": "Your installation directory",
-        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your convene history, otherwise the script won't work."
+        "warning": "Warning: If you edited your <code>Engine.ini</code> file to disable logs, you'll have to re-enable them before opening your Convene history, otherwise the script won't work."
       },
       "2": {
         "title": "Launch Wuthering Waves on PC and Open Your In-game Convene History",

@@ -102,7 +102,9 @@
     "Chromatic Prose": "Áng Văn Rực Rỡ"
   },
   "Common": {
-    "Import History": "Nhập Lịch sử Triệu hồi"
+    "Import History": "Nhập Lịch sử Triệu hồi",
+    "All": "All",
+    "Search": "Search"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -243,6 +245,7 @@
   "Achievements": {
     "title": "Thành tựu",
     "AchievementsPageContent": {
+      "no-achievements": "no achievements found",
       "toast": {
         "import-success": "Nhập dữ liệu thành công.",
         "import-invalid": "Vui lòng nhập dữ liệu hợp lệ.",
@@ -250,13 +253,16 @@
         "download-fail": "Tải xuống thất bại.",
         "download-start": "Quá trình tải xuống sẽ bắt đầu ngay thôi."
       },
-      "description": "Sử dụng bộ lọc để tìm những thành tựu chưa hoàn thành.",
       "Completed": "Hoàn tất",
       "ImportDialog": {
         "title": "Nhập dữ liệu",
         "description": "Sử dụng dữ liệu đã xuất ra trước đó và đồng bộ hóa nó với trình duyệt của bạn."
       },
       "Hidden": "Đã ẩn",
+      "Visible": "Visible",
+      "Completion": "Completion",
+      "Complete": "Complete",
+      "Incomplete": "Incomplete",
       "Click to upload": "Bấm để tải lên",
       "or drag and drop": "hoặc kéo và thả",
       "Import": "Nhập",
