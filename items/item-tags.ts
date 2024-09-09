@@ -26,5 +26,4 @@ export const itemTags = [
   "Utility",
   "Weapon & Skill Material",
   "Weapon EXP Material",
-  "Weapon and Skill Material",
 ];

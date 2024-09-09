@@ -1440,7 +1440,7 @@ export const items = [
     tags: ["Cooking Ingredient"],
     description: "A material used for Cooking.",
     flavor:
-      "Poultry obtained from birds, featuring a fresh cut with evenly distributed patterns. With skilled hands, it can be transformed into exquisite dishes.",
+      "Meat obtained from fowls. Freshly cut. Extra tender. With skilled hands, it can be transformed into exquisite dishes.",
     qualityLevel: 1,
     dropLocations: ["Overworld Collection"],
     sortIndex: 0,
@@ -1922,7 +1922,7 @@ export const items = [
     id: 43020011,
     slug: "inert-metallic-drip",
     name: "Inert Metallic Drip",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A basic material used to break through weapons and upgrade skills for Sword Resonators.",
     flavor:
@@ -1945,7 +1945,7 @@ export const items = [
     id: 43020012,
     slug: "reactive-metallic-drip",
     name: "Reactive Metallic Drip",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A medium material used to break through weapons and upgrade skills for Sword Resonators.",
     flavor:
@@ -1964,7 +1964,7 @@ export const items = [
     id: 43020013,
     slug: "polarized-metallic-drip",
     name: "Polarized Metallic Drip",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "An advanced material used to break through weapons and upgrade skills for Sword Resonators.",
     flavor:
@@ -1983,7 +1983,7 @@ export const items = [
     id: 43020014,
     slug: "heterized-metallic-drip",
     name: "Heterized Metallic Drip",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A premium material used to break through weapons and upgrade skills for Sword Resonators.",
     flavor:
@@ -2002,7 +2002,7 @@ export const items = [
     id: 43020021,
     slug: "impure-phlogiston",
     name: "Impure Phlogiston",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A basic material used to break through weapons and upgrade skills for Pistols Resonators.",
     flavor:
@@ -2025,7 +2025,7 @@ export const items = [
     id: 43020022,
     slug: "extracted-phlogiston",
     name: "Extracted Phlogiston",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A medium material used to break through weapons and upgrade skills for Pistols Resonators.",
     flavor:
@@ -2044,7 +2044,7 @@ export const items = [
     id: 43020023,
     slug: "refined-phlohiston",
     name: "Refined Phlohiston",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "An advanced material used to break through weapons and upgrade skills for Pistols Resonators.",
     flavor:
@@ -2063,7 +2063,7 @@ export const items = [
     id: 43020024,
     slug: "flawless-phlohiston",
     name: "Flawless Phlohiston",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A premium material used to break through weapons and upgrade skills for Pistols Resonators.",
     flavor:
@@ -2082,7 +2082,7 @@ export const items = [
     id: 43020031,
     slug: "lento-helix",
     name: "Lento Helix",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A basic material used to break through weapons and upgrade skills for Rectifier Resonators.",
     flavor:
@@ -2105,7 +2105,7 @@ export const items = [
     id: 43020032,
     slug: "adagio-helix",
     name: "Adagio Helix",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A medium material used to break through weapons and upgrade skills for Rectifier Resonators.",
     flavor:
@@ -2124,7 +2124,7 @@ export const items = [
     id: 43020033,
     slug: "andante-helix",
     name: "Andante Helix",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "An advanced material used to break through weapons and upgrade skills for Rectifier Resonators.",
     flavor:
@@ -2143,7 +2143,7 @@ export const items = [
     id: 43020034,
     slug: "presto-helix",
     name: "Presto Helix",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A premium material used to break through weapons and upgrade skills for Rectifier Resonators.",
     flavor:
@@ -2162,7 +2162,7 @@ export const items = [
     id: 43020041,
     slug: "waveworn-residue-210",
     name: "Waveworn Residue 210",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A basic material used to break through weapons and upgrade skills for Broadblade Resonators.",
     flavor:
@@ -2185,7 +2185,7 @@ export const items = [
     id: 43020042,
     slug: "waveworn-residue-226",
     name: "Waveworn Residue 226",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A medium material used to break through weapons and upgrade skills for Broadblade Resonators.",
     flavor:
@@ -2204,7 +2204,7 @@ export const items = [
     id: 43020043,
     slug: "waveworn-residue-235",
     name: "Waveworn Residue 235",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "An advanced material used to break through weapons and upgrade skills for Broadblade Resonators.",
     flavor:
@@ -2223,7 +2223,7 @@ export const items = [
     id: 43020044,
     slug: "waveworn-residue-239",
     name: "Waveworn Residue 239",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A premium material used to break through weapons and upgrade skills for Broadblade Resonators.",
     flavor:
@@ -2242,7 +2242,7 @@ export const items = [
     id: 43020051,
     slug: "cadence-seed",
     name: "Cadence Seed",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A basic material used to break through weapons and upgrade skills for Gauntlets Resonators.",
     flavor:
@@ -2265,7 +2265,7 @@ export const items = [
     id: 43020052,
     slug: "cadence-bud",
     name: "Cadence Bud",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A medium material used to break through weapons and upgrade skills for Gauntlets Resonators.",
     flavor:
@@ -2284,7 +2284,7 @@ export const items = [
     id: 43020053,
     slug: "cadence-leaf",
     name: "Cadence Leaf",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "An advanced material used to break through weapons and upgrade skills for Gauntlets Resonators.",
     flavor:
@@ -2303,7 +2303,7 @@ export const items = [
     id: 43020054,
     slug: "cadence-blossom",
     name: "Cadence Blossom",
-    tags: ["Weapon and Skill Material"],
+    tags: ["Weapon & Skill Material"],
     description:
       "A premium material used to break through weapons and upgrade skills for Gauntlets Resonators.",
     flavor:
@@ -2546,7 +2546,13 @@ export const items = [
     flavor:
       "A cylindrical storage that contains advanced frequencies. To activate it, users must rotate the cipher wheel to the correct position. This storage not only contains the database needed for routine training, but also incorporates simulation materials tailored to diverse scenarios. Therefore, it can fully exploit the potential of the absorbed Echoes.",
     qualityLevel: 4,
-    dropLocations: ["Huanglong Exploration", "Tacet Field"],
+    dropLocations: [
+      "Huanglong Exploration",
+      "Tacet Field",
+      "Souvenir Store",
+      "Adversity Exchange",
+      "Simulation Training Store",
+    ],
     sortIndex: 2,
     iconSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_12_UI.webp",
@@ -2564,7 +2570,11 @@ export const items = [
     flavor:
       "A cylindrical storage that contains special frequencies. To activate it, users must rotate the cipher wheel to the correct position. It contains precious data collected from various extreme environments, facilitating the revolutionary transformation of the absorbed Echoes.",
     qualityLevel: 5,
-    dropLocations: ["Huanglong Exploration", "Tacet Field"],
+    dropLocations: [
+      "Huanglong Exploration",
+      "Tacet Field",
+      "Simulation Training Store",
+    ],
     sortIndex: 3,
     iconSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_13_UI.webp",
@@ -5282,9 +5292,9 @@ export const items = [
     name: "Podcast Experience",
     tags: ["EXP"],
     description:
-      "Experience obtained from completing Pioneer Podcast tasks can be used to upgrade the Pioneer Podcast level.",
+      "Experience obtained from completing Podcast Tasks can be used to upgrade the Podcast level.",
     flavor:
-      "Complete Pioneer Podcast tasks to build up energy and earn valuable rewards.",
+      "Complete Podcast Tasks to build up energy and earn valuable rewards.",
     qualityLevel: 3,
     dropLocations: [],
     sortIndex: 0,
@@ -6370,7 +6380,7 @@ export const items = [
     iconMiddleSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_060_UI.webp",
     iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_024_UI.webp",
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_060_UI.webp",
   },
   {
     id: 70130003,
@@ -6389,7 +6399,7 @@ export const items = [
     iconMiddleSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_060_UI.webp",
     iconSmallSrc:
-      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_024_UI.webp",
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_060_UI.webp",
   },
   {
     id: 31000012,
@@ -11126,6 +11136,24 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMst80/T_IconMst80_007_UI.webp",
   },
   {
+    id: 70139323,
+    slug: "chrono-sign",
+    name: "Chrono Sign",
+    tags: ["Quest Item"],
+    description: "A key used to open the Woodveil Hall laboratory.",
+    flavor:
+      "The Court of Savantae Committee left many mysteries in Mt. Firmament: its unfinished research buried deep in the mountains and the ending that befell the researchers. Perhaps you'll be able to uncover these dust-sealed secrets with this key.",
+    qualityLevel: 4,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI.webp",
+  },
+  {
     id: 70139324,
     slug: "stories-of-guqin",
     name: "Stories of Guqin",
@@ -11195,6 +11223,25 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_shlb_04_UI.webp",
   },
   {
+    id: 70140003,
+    slug: "ultrasonic-pulse-chip",
+    name: "Ultrasonic Pulse Chip",
+    tags: ["Quest Item"],
+    description:
+      "Release a powerful vortex to cleanse muds and the mud shield of Tacet Discords.",
+    flavor:
+      "Developed by Huaxu Academy, this chip can release vortex flow and facilitate researches surrounding the Whining Aix's Mire.",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_041_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_041_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_041_UI.webp",
+  },
+  {
     id: 70139325,
     slug: "cipher-key",
     name: "Cipher Key",
@@ -11212,6 +11259,109 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_073_UI.webp",
     iconSmallSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_073_UI.webp",
+  },
+  {
+    id: 14,
+    slug: "preparation-credits",
+    name: "Preparation Credits",
+    tags: ["Special Token"],
+    description:
+      "A written application for materials and planning list used for Wishes. Automatically restored to the upper limit at 04:00.",
+    flavor:
+      "The supplies prepared for the Moonlit Fair must be meticulously planned and allocated to ensure they fulfill as many wishes as possible.",
+    qualityLevel: 4,
+    dropLocations: [
+      "Festival Journal",
+      "Wishing Stall (Complete Wish Upon the Moon IV to unlock)",
+      "Automatically restores to the full at 04:00 a.m.",
+      "Yumyum Haven",
+    ],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon02_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon02_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon02_UI.webp",
+  },
+  {
+    id: 15,
+    slug: "operation-fund",
+    name: "Operation Fund",
+    tags: ["Special Token"],
+    description:
+      "Funds prepared for the Moonlit Fair that are used for construction or Wishes.",
+    flavor:
+      "You can never have too many funds if you want to hold a grand festival.",
+    qualityLevel: 3,
+    dropLocations: ["Lodge Wishes"],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon04_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon04_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon04_UI.webp",
+  },
+  {
+    id: 16,
+    slug: "wish",
+    name: "Wish",
+    tags: ["Special Token"],
+    description:
+      "The Wish Tag of a fulfilled wish. Used to improve characters' stats.",
+    flavor:
+      "Completed Wish Tags are stored carefully as invaluable mementos to everyone who has worked hard to make the Moonlit Fair possible.",
+    qualityLevel: 5,
+    dropLocations: [
+      "Lodge Wishes",
+      "Xiang-LEE (Complete Wish Upon the Moon IV to unlock)",
+    ],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon07_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon07_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon07_UI.webp",
+  },
+  {
+    id: 17,
+    slug: "popularity",
+    name: "Popularity",
+    tags: ["Special Token"],
+    description:
+      "Popularity Points are gained by completing Wishes. They indicate how successful the Moonlit Fair is.",
+    flavor:
+      "An objective overview of the number of visitors at the Moonlit Fair and their feedback, gathered through big data analysis, anonymous questionnaires, community reviews, and random street interviews.",
+    qualityLevel: 5,
+    dropLocations: ["Lodge Wishes", "Fair Stalls"],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon05_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon05_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon05_UI.webp",
+  },
+  {
+    id: 18,
+    slug: "palace-lantern",
+    name: "Palace Lantern",
+    tags: ["Special Token"],
+    description:
+      "A common souvenir of the Moon-Chasing Festival that can be exchanged for exclusive rewards.",
+    flavor:
+      "Perfect for holding in one's hand, this small and exquisite lantern is usually given out as souvenirs during the festival.",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon08_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon08_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon08_UI.webp",
   },
   {
     id: 71030001,
@@ -11600,6 +11750,80 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_shlb_03_UI.webp",
   },
   {
+    id: 6,
+    slug: "waveplate-crystal",
+    name: "Waveplate Crystal",
+    tags: ["Consumable"],
+    description:
+      "This refined Waveplate has a higher storage limit.\nOnce the Waveplates are full, this starts replenishing at the rate of 1 per 12 minutes. Use it to add an equal amount of Waveplates.",
+    flavor:
+      'A special technology from the Black Shores that can help Resonators manage Waveplate resources.\n"Always be prepared to avoid wastage."',
+    qualityLevel: 4,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_yml_02_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_yml_02_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_yml_02_UI.webp",
+  },
+  {
+    id: 70139331,
+    slug: "activated-chrono-sign",
+    name: "Activated Chrono Sign",
+    tags: ["Quest Item"],
+    description:
+      "While equipped, this allows you to use the Chronopins left by CSC to temporarily slow down time in the surrounding area.",
+    flavor:
+      "Confirming identity, code name: Rover. Top-level access to the Woodveil Hall laboratory granted. May this item guide you to the answers and enlightenment we seek.",
+    qualityLevel: 4,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_069_UI.webp",
+  },
+  {
+    id: 20,
+    slug: "tide-note",
+    name: "Tide Note",
+    tags: ["Activity Points"],
+    description:
+      "A note containing music scores of Solaris's unique music.\nCollect a certain number of these notes to claim rewards on the event page.",
+    flavor:
+      'In a world constructed out of energy and syntony, all words and stories can be sung in music.\n"I came into this world, bringing naught but paper, rope, and a shadow."',
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Circumfluence01_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Circumfluence01_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Circumfluence01_UI.webp",
+  },
+  {
+    id: 21,
+    slug: "dream-fragment",
+    name: "Dream Fragment",
+    tags: ["Consumable"],
+    description: "Dream Fragment",
+    flavor: "Dream Fragment",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_01_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_01_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.webp",
+  },
+  {
     id: 50006,
     slug: "voucher-of-reciprocal-tides",
     name: "Voucher of Reciprocal Tides",
@@ -11635,6 +11859,113 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMonsterGoods80/T_IconMonsterGoods80_1006_UI_png.webp",
   },
   {
+    id: 10001305,
+    slug: "xiangli-yao's-waveband",
+    name: "Xiangli Yao's Waveband",
+    tags: ["Waveband"],
+    description: "Used to activate Xiangli Yao's Sequences.",
+    flavor:
+      "A Resonator's Forte is composed of countless Wavebands. When these Wavebands form a complete Resonance Chain, the Resonator can unleash their full power.",
+    qualityLevel: 5,
+    dropLocations: ["Convene"],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1610_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup160/T_IconRup160_Part_1610_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1610_UI.webp",
+  },
+  {
+    id: 10001105,
+    slug: "zhezhi's-waveband",
+    name: "Zhezhi's Waveband",
+    tags: ["Waveband"],
+    description: "Used to activate Zhezhi's Sequences.",
+    flavor:
+      "A Resonator's Forte is composed of countless Wavebands. When these Wavebands form a complete Resonance Chain, the Resonator can unleash their full power.",
+    qualityLevel: 5,
+    dropLocations: ["Convene"],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_Part_1609_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup160/T_IconRup160_Part_1609_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup80/T_IconRup80_Part_1609_UI.webp",
+  },
+  {
+    id: 70140021,
+    slug: "skyshaker",
+    name: "Skyshaker",
+    tags: ["Quest Item"],
+    description:
+      "A special firecracker sold at the Fireworks Shop. After equipping this to Utility, you can throw firecrackers to damage enemies. ()",
+    flavor:
+      "A special firecracker made by following a secret blueprint found in Xisha. Refrain from using this in crowded areas as it is both powerful and loud.",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon03_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon03_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon03_UI.webp",
+  },
+  {
+    id: 70140022,
+    slug: "the-present",
+    name: "The Present",
+    tags: ["Quest Item"],
+    description: "A folding fan that Zhezhi painted for you.",
+    flavor:
+      "Zhezhi's painting on this fan captures everything that is beautiful about this moment forever. It is her wish that you will recall this beautiful moment when you see this fan no matter where you are.",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon01_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon01_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon01_UI.webp",
+  },
+  {
+    id: 22,
+    slug: "dream-fragment",
+    name: "Dream Fragment",
+    tags: ["Consumable"],
+    description: "Dream Fragment",
+    flavor: "Dream Fragment",
+    qualityLevel: 4,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_01_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_01_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.webp",
+  },
+  {
+    id: 23,
+    slug: "dream-fragment",
+    name: "Dream Fragment",
+    tags: ["Consumable"],
+    description: "Dream Fragment",
+    flavor: "Dream Fragment",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_01_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_01_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_01_UI.webp",
+  },
+  {
     id: 51006,
     slug: "magisterial-radiant-aid",
     name: "Magisterial Radiant Aid",
@@ -11667,5 +11998,330 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_13_UI.webp",
     iconSmallSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_13_UI.webp",
+  },
+  {
+    id: 70140025,
+    slug: "skyshaker",
+    name: "Skyshaker",
+    tags: ["Quest Item"],
+    description:
+      "A special firecracker sold at the Fireworks Shop. After equipping this to Utility, you can throw firecrackers to damage enemies. ()",
+    flavor:
+      "A special firecracker made by following a secret blueprint found in Xisha. Refrain from using this in crowded areas as it is both powerful and loud.",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon03_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon03_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon03_UI.webp",
+  },
+  {
+    id: 80000035,
+    slug: "huanglong-omelette",
+    name: "Huanglong Omelette",
+    tags: ["Dish"],
+    description:
+      "Increases all team members' ATK by 6% and Energy Regen by 10%, lasting for 30m. Only effective on your own Resonators in Co-op Mode.",
+    flavor:
+      "A common dish that has become a hallmark of Huanglong cuisine. Golden and exquisite, it is a breakfast plate beloved by people of all ages.\nAs it is always found on the dining tables of Huanglong, most folks see it as an everyday indulgence. But those who have been away from their homes always find themselves longing for its delicate fragrance.",
+    qualityLevel: 3,
+    dropLocations: ["Cooking"],
+    sortIndex: 6,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_042_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_042_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_042_UI.webp",
+  },
+  {
+    id: 80000036,
+    slug: "plumpcake",
+    name: "Plumpcake",
+    tags: ["Dish"],
+    description: "Restores 80 STA.",
+    flavor:
+      "A cake that is baked in every kitchen in Huanglong when the Moon-Chasing Festival is around.\nShared on the reunion dinner among the elder and the young, who exchange good wishes in the moonlight sifting through the lush leaves of the osmanthus trees. Over the moon-chasing tale that's been told a thousand times before, everyone bites down on this sweet, fragrant treat and savors the joy of reunion.",
+    qualityLevel: 3,
+    dropLocations: ["Cooking"],
+    sortIndex: 6,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon06_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon06_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon06_UI.webp",
+  },
+  {
+    id: 80000037,
+    slug: "moon-pearl",
+    name: "Moon Pearl",
+    tags: ["Dish"],
+    description:
+      "Increases all team members' Max HP by 1000, lasting for 30m. Only effective on your own Resonators in Co-op Mode.",
+    flavor:
+      'A signature dessert of the Moon-Chasing Festival, with chewy rice balls served in rich, mellow sweet soup.\nWhile some people pray to the moon for blessings, others put their prayers and blessings into this dessert.\n"Reunion is what these Moon Pearls are all about!"',
+    qualityLevel: 3,
+    dropLocations: ["Cooking"],
+    sortIndex: 6,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_046_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_046_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_046_UI.webp",
+  },
+  {
+    id: 80000038,
+    slug: "moon-brew",
+    name: "Moon Brew",
+    tags: ["Dish"],
+    description:
+      "Increases Energy Regen of all Resonators on the team by 20%, lasting for 30m. Only effective on your own Resonators in Co-op Mode.",
+    flavor:
+      "A mellow and refreshing wine enjoyed during the Moon-Chasing Festival.\nIn Jinzhou, there is a famous play about a person who drinks a thousand cups of wine so that, as he's awake, he can still walk in a dream, for there are places only reachable in the dreamland. The sweet taste enjoyed with closed eyes is the taste of home.",
+    qualityLevel: 3,
+    dropLocations: ["Cooking"],
+    sortIndex: 6,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_045_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_045_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_045_UI.webp",
+  },
+  {
+    id: 80001035,
+    slug: "vege-omelette",
+    name: "Vege Omelette",
+    tags: ["Dish"],
+    description:
+      "Increases all team members' ATK by 8% and Energy Regen by 12%, lasting for 30m. Only effective on your own Resonators in Co-op Mode.",
+    flavor:
+      "This nutritionally balanced, simple dish is a breakfast staple in Huanglong and a regular dish found in every household and the breakfast shops in Jinzhou. For someone who has lived in Jinzhou for many years like Xiangli Yao, it is an easy first choice for breakfast.\nA sip of tea after a bite perfectly balances the flavors, satisfying your appetite while awakening your taste buds and mind after a deep sleep.",
+    qualityLevel: 3,
+    dropLocations: ["Cooking"],
+    sortIndex: 6,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_043_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_043_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_043_UI.webp",
+  },
+  {
+    id: 80001001,
+    slug: "sweet-roasted-flatbread",
+    name: "Sweet Roasted Flatbread",
+    tags: ["Dish"],
+    description:
+      "Increases all team members' DEF by 220, lasting for 15m. Only effective on your own Resonators in Co-op Mode.",
+    flavor:
+      "Zhezhi likes her Roasted Flatbread sweet. She improved on the original recipe by adding her favorite sweetener. This simple, modest pastry restores energy quickly upon consumption and doesn't go bad for a long time. After learning how to make it, Zhezhi always stores lots of it at home and considers it an essential snack for her sketching trips.",
+    qualityLevel: 2,
+    dropLocations: ["Cooking"],
+    sortIndex: 6,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_044_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_044_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_044_UI.webp",
+  },
+  {
+    id: 80010035,
+    slug: "egg-pancake-recipe",
+    name: "Egg Pancake Recipe",
+    tags: ["Recipe"],
+    description: "Used to learn how to cook Egg Pancake.",
+    flavor: "A recipe that details how to make Egg Pancake.",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_036_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_036_UI.webp",
+  },
+  {
+    id: 80010036,
+    slug: "plumpcake-recipe",
+    name: "Plumpcake Recipe",
+    tags: ["Recipe"],
+    description: "Used to learn how to cook Plumpcake.",
+    flavor: "A recipe that details how to make Plumpcake.",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_036_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_036_UI.webp",
+  },
+  {
+    id: 80010037,
+    slug: "moon-pearl-recipe",
+    name: "Moon Pearl Recipe",
+    tags: ["Recipe"],
+    description: "Used to learn how to cook Moon Pearl.",
+    flavor: "A recipe that details how to make Moon Pearl.",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_036_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_036_UI.webp",
+  },
+  {
+    id: 80010038,
+    slug: "moon-brew-recipe",
+    name: "Moon Brew Recipe",
+    tags: ["Recipe"],
+    description: "Used to learn how to cook Moon Brew.",
+    flavor: "A recipe that details how to make Moon Brew.",
+    qualityLevel: 3,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook/T_IconCook_036_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook160/T_IconCook160_036_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconCook80/T_IconCook80_036_UI.webp",
+  },
+  {
+    id: 70140026,
+    slug: "serenity-of-xiehua-village",
+    name: "Serenity of Xiehua Village",
+    tags: ["Quest Item"],
+    description:
+      "A scroll painting that Zhezhi gave you. This is the first scroll painting she has painted with her Forte in many years. The beautiful scenery depicted in the painting seems to give off a different feeling than before.",
+    flavor:
+      "It is an opportunity for encounters, a testimony of shared experiences, a key that opens hearts, and an unforgettable collaboration.",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_078_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_078_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_078_UI.webp",
+  },
+  {
+    id: 70010073,
+    slug: "the-second-coming-of-solaris-in-game-redemption-code.",
+    name: "The Second Coming of Solaris in-game redemption code.",
+    tags: ["Quest Item"],
+    description:
+      "An in-game item redemption code that can be used to redeem Second Coming of Solaris x Jewel Boba Collaboration Pack.",
+    flavor:
+      'The collaboration between Jewel Boba and the Pioneer Association\'s Second Coming of Solaris has begun, bringing exclusive "jewels" to Second Coming of Solaris!\nThis secret key includes an in-game item redemption code, which can be used to claim the exclusive Jewel Boba Collaboration Pack in the game client.',
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA/T_IconA_Act_ChasingMoon01_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA160/T_IconA160_Act_ChasingMoon01_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconA80/T_IconA80_Act_ChasingMoon01_UI.webp",
+  },
+  {
+    id: 44010030,
+    slug: "phantom:-dreamless",
+    name: "Phantom: Dreamless",
+    tags: ["Phantom Appearance"],
+    description: "Unlocks the Phantom Appearance of the corresponding Echo.",
+    flavor: "InpuBoxText_empty",
+    qualityLevel: 5,
+    dropLocations: ["Illusive Store"],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMonsterHead/T_IconMonsterHead_998_1_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMonsterGoods160/T_IconMonsterGoods160_998_1_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMonsterGoods80/T_IconMonsterGoods80_998_1_UI.webp",
+  },
+  {
+    id: 51008,
+    slug: "blake-bloom's-radiant-aid",
+    name: "Blake Bloom's Radiant Aid",
+    tags: ["Supply Pack"],
+    description: "ItemInfo_51006_AttributesDescription",
+    flavor: "ItemInfo_51006_BgDescription",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_16_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_16_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_16_UI.webp",
+  },
+  {
+    id: 51009,
+    slug: "blake-bloom's-forging-aid",
+    name: "Blake Bloom's Forging Aid",
+    tags: ["Supply Pack"],
+    description: "ItemInfo_51007_AttributesDescription",
+    flavor: "ItemInfo_51007_BgDescription",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_15_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_15_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconGiftPack/T_IconGiftPack_dj_15_UI.webp",
+  },
+  {
+    id: 71030002,
+    slug: "dream-of-chaos",
+    name: "Dream of Chaos",
+    tags: ["Quest Item"],
+    description: "An item obtained from defeating Dreamless in Somnoire.",
+    flavor:
+      "\"I don't want to be your enemy, nor do I plan to destroy anything... Destruction... is not my end goal. It is not a matter of anyone's desires, but an inevitable conclusion.\nEmbrace IT... You will come to realize that resistance is futile.\"",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_082_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_082_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_082_UI.webp",
+  },
+  {
+    id: 71030003,
+    slug: "the-unworthy-dreams",
+    name: "The Unworthy Dreams",
+    tags: ["Quest Item"],
+    description: "An item obtained from clearing the Nonexistent Dream.",
+    flavor:
+      "A young woman dreams of the vibrant garden back in her hometown.\nAn elderly man envisions pouring tea for his late wife, just as he did in their early days together.\nYet IT claims these dreams are worthless, devoid of meaning.\nDo you also agree that they should be erased?",
+    qualityLevel: 5,
+    dropLocations: [],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_083_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_083_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_083_UI.webp",
   },
 ];
