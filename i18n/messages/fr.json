@@ -103,8 +103,8 @@
   },
   "Common": {
     "Import History": "Importer votre historique",
-    "All": "All",
-    "Search": "Search"
+    "All": "Tous",
+    "Search": "Chercher"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -245,7 +245,7 @@
   "Achievements": {
     "title": "Trophées",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "Aucun(s) trophée(s) trouvé",
       "toast": {
         "import-success": "Importation des données réussie.",
         "import-invalid": "Veuillez importer des données valides.",
@@ -259,10 +259,10 @@
         "description": "Utilisez vos données précédemment exportées et synchronisez-les avec votre navigateur."
       },
       "Hidden": "Caché",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "Affiché",
+      "Completion": "Complétion",
+      "Complete": "Complété",
+      "Incomplete": "Non complété",
       "Click to upload": "Cliquez pour envoyer",
       "or drag and drop": "ou glissez déposez",
       "Import": "Importer",
