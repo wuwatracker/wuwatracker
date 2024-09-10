@@ -98,8 +98,8 @@
     "When Thunder Pours (Early)": "驚霆雨時節 (提前)",
     "Thawborn Renewal": "寒盡覺春生",
     "Vermillion's Ploy": "熾羽策陣星",
-    "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Celestial Revelation": "千機逐星野",
+    "Chromatic Prose": "賦彩作長吟"
   },
   "Common": {
     "Import History": "匯入歷史紀錄",
@@ -171,16 +171,16 @@
     "Wiki": {
       "Resonator": {
         "title": "共鳴者 - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "查看共鳴者資訊並使用 WuWa Tracker 的素材計算器來規畫你的升級路線。WuWa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
       },
       "Item": {
         "title": "道具 - WuWa Tracker",
-        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "查看鳴潮道具資訊、掉落地點，並紀錄您的物品。WuWa Tracker 是鳴潮的喚取計算平台，使用全球統計的最新數據。與朋友分享抽卡結果，輕鬆追蹤您的帳戶！"
       }
     },
     "Planner": {
       "title": "素材規劃 - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
+      "description": "功能最完善的鳴潮素材計算網頁，計算所需要的升級材料和經驗值。WuWa Tracker 是一個適合所有玩家，最全面的鳴潮輔助工具。"
     }
   },
   "Layout": {
@@ -258,8 +258,8 @@
         "title": "匯入資料",
         "description": "使用先前匯出的資料並且同步至瀏覽器。"
       },
-      "Hidden": "隱藏",
-      "Visible": "公開",
+      "Hidden": "顯示隱藏",
+      "Visible": "僅公開",
       "Completion": "進度",
       "Complete": "已完成",
       "Incomplete": "未完成",
@@ -526,7 +526,7 @@
     "SettingCloudSync": {
       "UserProfilePicker": {
         "no-pulls": "無抽卡資料...",
-        "pick-a-profile": "Select a profile..."
+        "pick-a-profile": "選擇帳戶"
       },
       "sign-out-success": "成功登出。",
       "is-synced": "資料已同步",
