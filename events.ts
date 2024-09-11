@@ -157,6 +157,16 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       color: "#181c30",
     },
     {
+      name: "[Wuthering Exploration] Limited-Time Exploration Event",
+      img: "https://snipboard.io/HOIwY8.jpg",
+      description: `The Pioneer Association has decided to focus on the Central Plains in the next issue of Wutherium Geography. To this end, it has organized a special exploration in the Central Plains. Rewards; Astrite x800, Malleable Elite Class Echo I x1, Malleable Elite Class Echo II x1, Premium Tuner x100, Premium Sealed Tube x30.`,
+      startDate: "2024-09-12 10:00",
+      endDate: "2024-09-26 03:59",
+      url: "https://x.com/Wuthering_Waves/status/1833686955160223813",
+      reliability: "Official",
+      color: "#2a2a32",
+    },
+    {
       name: "Bountiful Crescendo: Leveling Material Double Drop Event",
       img: "https://snipboard.io/SwirLt.jpg",
       description: `Consume Waveplates to claim double rewards when completing the "Simulation Challenge" and "Forgery Challenge".`,
