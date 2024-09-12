@@ -54,9 +54,9 @@
     "Lustrous Razor": "Glanzvolle Rasierklinge",
     "Marcato": "Marcato",
     "Novaburst": "Novaburst",
-    "Originite: Type I": "Originite: Type I",
-    "Originite: Type II": "Originite: Type II",
-    "Originite: Type III": "Originite: Type III",
+    "Originite: Type I": "Originite: Typ I",
+    "Originite: Type II": "Originite: Typ II",
+    "Originite: Type III": "Originite: Typ III",
     "Originite: Type IV": "Originite: Type IV",
     "Originite: Type V": "Originite: Type V",
     "Overture": "Overture",
@@ -119,7 +119,7 @@
       "description": "Ein Pity-Zähler für Wuthering Waves, der die aktuellsten Daten mit globalen Statistiken und mehr verwendet. Synchronisieren Sie Ihre Daten über Geräte hinweg, teilen Sie Ihre Ziehungen mit Freunden und verfolgen Sie Ihr Konto einfach!"
     },
     "Achievements": {
-      "title": "Achievements - WuWa Tracker",
+      "title": "Trophäen",
       "description": "Track your Wuthering Waves achievements and freely import & export your data across devices! WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
     },
     "Convene": {
@@ -128,8 +128,8 @@
         "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
-        "title": "Global Statistics - WuWa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "",
+        "description": "Siehe globale Pull-Statistiken, die den {currentBanner} Banner mit dem {currentFeaturedResonator} darbieten! Benutze die Screenshot fertigen Dashboards um vor deinen Freunden anzuangeben. Der WuWa Tracker pity Zähler für Wuthering Waves benutzt die aktuellen Daten mit globalen Statistiken und mehr. Teile deine pulls mit Freunden und verfolge deinem Account!"
       },
       "Share": {
         "title": "Share History - WuWa Tracker",
@@ -137,8 +137,8 @@
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Ein Fehler ist aufgetreten",
+      "description": "Ein Fehler ist aufgetreten beim benutzen von WuWa Tracker. Bitte melde den Fehler auf unserem Discord Server, so dass wir das Problem schnell benennen können."
     },
     "Import": {
       "title": "Import Convene History - WuWa Tracker",
@@ -146,11 +146,11 @@
     },
     "Not Found": {
       "title": "Nicht gefunden",
-      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "description": "Die Seite wurde auf WuWa Tracker nicht gefunden. Bitte gehen SIe zur Hauptseite zurück um mit der Vefolgung von Ihren Wuthering Waves Zusammentreffen-Registerdaten zu starten."
     },
     "Privacy Policy": {
       "title": "Privacy Policy - WuWa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "description": "Das Datenschutzrichtliniendokument umfasst wie WuWa Tracker persönlichen Information empfängt, sammelt und benutzt. WuWa Tracker ist ein pity Zähler für Wuthering Waves, dass die aktuellen Daten mit globalen Statistiken etc. benutzt."
     },
     "Sequences": {
       "title": "Sequences - WuWa Tracker",
@@ -180,7 +180,7 @@
     },
     "Planner": {
       "title": "Material Planner - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa tracker is the premiere Wuthering Waves suite of tools for every player."
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
   "Layout": {

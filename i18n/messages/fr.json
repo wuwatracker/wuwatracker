@@ -103,8 +103,8 @@
   },
   "Common": {
     "Import History": "Importer votre historique",
-    "All": "All",
-    "Search": "Search"
+    "All": "Tous",
+    "Search": "Chercher"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -180,7 +180,7 @@
     },
     "Planner": {
       "title": "Calculateur de matériaux - WuWa Tracker",
-      "description": "Le plus puissant calculateur de Wuthering Waves pour planifier l'augmentation du niveau de vos résonateurs, vos compétences et vos matériaux d'EXP ! WuWa tracker est la première boite à outils de Wuthering Waves pour tous les joueurs."
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker is the premiere Wuthering Waves suite of tools for every player."
     }
   },
   "Layout": {
@@ -245,7 +245,7 @@
   "Achievements": {
     "title": "Trophées",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "Aucun(s) trophée(s) trouvé",
       "toast": {
         "import-success": "Importation des données réussie.",
         "import-invalid": "Veuillez importer des données valides.",
@@ -259,10 +259,10 @@
         "description": "Utilisez vos données précédemment exportées et synchronisez-les avec votre navigateur."
       },
       "Hidden": "Caché",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "Affiché",
+      "Completion": "Complétion",
+      "Complete": "Complété",
+      "Incomplete": "Non complété",
       "Click to upload": "Cliquez pour envoyer",
       "or drag and drop": "ou glissez déposez",
       "Import": "Importer",
