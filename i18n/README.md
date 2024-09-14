@@ -4,33 +4,33 @@
   <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat&logo=Crowdin&logoColor=white" alt="translation provider" style="height: 20px;"/>
 </a>
 
-We need more translators to help us translate the rest of the pages in Crowdin.
-
-> [!NOTE]
-> These initial langauges are based on the top countries that use our application as of the time of writing this.
-
 ### Available Languages
 
-| Filename   | Country         | Language Name       | ISO Code |
-| ---------- | --------------- | ------------------- | -------- |
-| de.json    | Germany         | German              | de       |
-| en.json    | United States   | English             | en       |
-| es.json    | Spain           | Spanish             | es       |
-| fr.json    | France          | French              | fr       |
-| id.json    | Indonesia       | Indonesian          | id       |
-| hu.json    | Hungary         | Hungarian           | hu       |
-| ja.json    | Japan           | Japanese            | ja       |
-| ko.json    | South Korea     | Korean              | ko       |
-| ms.json    | Malaysia        | Malay               | ms       |
-| pt.json    | Portugal/Brazil | Portuguese          | pt       |
-| ru.json    | Russia          | Russian             | ru       |
-| th.json    | Thailand        | Thai                | th       |
-| ua.json    | Ukraine         | Ukrainian           | uk_UA    |
-| vi.json    | Vietnam         | Vietnamese          | vi       |
-| zh-CN.json | China           | Simplified Chinese  | zh_CN    |
-| zh-TW.json | China           | Traditional Chinese | zh_TW    |
+> [!TIP]
+> If you would like to see your language get supported, feel free to head over to our [Discord server](https://discord.gg/mADnEXwZGT) and make a suggestion.
 
-### We Need Your Help!
+| Filename   | Country         | Language Name       | Is Incomplete |
+| ---------- | --------------- | ------------------- | ------------- |
+| de.json    | Germany         | German              |               |
+| en.json    | United States   | English             |               |
+| es.json    | Spain           | Spanish             |               |
+| fr.json    | France          | French              |               |
+| id.json    | Indonesia       | Indonesian          |               |
+| hu.json    | Hungary         | Hungarian           |               |
+| ja.json    | Japan           | Japanese            |               |
+| ko.json    | South Korea     | Korean              |               |
+| ms.json    | Malaysia        | Malay               | Yes           |
+| pt.json    | Portugal/Brazil | Portuguese          |               |
+| ru.json    | Russia          | Russian             |               |
+| th.json    | Thailand        | Thai                |               |
+| ua.json    | Ukraine         | Ukrainian           |               |
+| vi.json    | Vietnam         | Vietnamese          |               |
+| zh-CN.json | China           | Simplified Chinese  |               |
+| zh-TW.json | China           | Traditional Chinese |               |
+| pl         | Poland          | Polish              | Yes           |
+| tr         | Turkey          | Turkish             | Yes           |
+
+### Volunteer
 
 We're managing translations with [Crowdin](https://crowdin.com/) so that our translators can easily edit & make comments on translations!
 
