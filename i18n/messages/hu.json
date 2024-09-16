@@ -103,8 +103,8 @@
   },
   "Common": {
     "Import History": "Előzmények importálása",
-    "All": "All",
-    "Search": "Search"
+    "All": "Összes",
+    "Search": "Keresés"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -180,7 +180,7 @@
     },
     "Planner": {
       "title": "Alapanyag tervező - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker is the premiere Wuthering Waves suite of tools for every player."
+      "description": "A leghatékonyabb Wuthering Waves tervező a karakterfejlődési szint, készség és EXP anyagok tervezéséhez! A WuWa Tracker a premier Wuthering Waves eszközcsomag minden játékos számára."
     }
   },
   "Layout": {
@@ -245,7 +245,7 @@
   "Achievements": {
     "title": "Teljesítmények",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "nincsenek teljesítmények",
       "toast": {
         "import-success": "Sikeres adatimportálás.",
         "import-invalid": "Kérlek, importálj érvényes adatokat.",
@@ -259,10 +259,10 @@
         "description": "Használd a korábban exportált adataidat, és szinkronizáld a böngésződdel."
       },
       "Hidden": "Rejtett",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "Látható",
+      "Completion": "Állapota",
+      "Complete": "Teljesítve",
+      "Incomplete": "Befejezetlen",
       "Click to upload": "Kattints a feltöltéshez",
       "or drag and drop": "vagy húzd és engedd el",
       "Import": "Importálás",
