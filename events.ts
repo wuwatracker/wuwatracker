@@ -92,6 +92,15 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       group: EVENT_GROUP.TOWER_OF_ADVERSITY,
     },
     {
+      name: "Tower of Adversity: Hazard Revisited",
+      img: "https://snipboard.io/NnA3YO.jpg",
+      startDate: "2024-09-16 04:00",
+      endDate: "2024-09-30 04:00",
+      color: "#18235f",
+      reliability: "Official",
+      group: EVENT_GROUP.TOWER_OF_ADVERSITY,
+    },
+    {
       name: "By Moon's Grace",
       img: "https://snipboard.io/VWCEnw.jpg",
       description: `Assist in the preparation for the Moonlit Fair with Xiangli Yao. The Popularity of the Moon-Chasing Festival can be earned by building "Fair Stalls" and completing "Wishes". You may invite Resonators as your Companions by completing Side Quests during the preparation.`,
