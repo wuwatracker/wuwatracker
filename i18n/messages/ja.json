@@ -5,6 +5,7 @@
     "Aalto": "アールト",
     "Baizhi": "白芷",
     "Calcharo": "カカロ",
+    "Camellya": "Camellya",
     "Changli": "長離",
     "Chixia": "熾霞",
     "Danjin": "丹瑾",
@@ -13,8 +14,10 @@
     "Jinhsi": "今汐",
     "Jiyan": "忌炎",
     "Lingyang": "凌陽",
+    "Lumi": "Lumi",
     "Mortefi": "モルトフィー",
     "Sanhua": "散華",
+    "Shorekeeper": "Shorekeeper",
     "Taoqi": "桃祈",
     "Verina": "ヴェリーナ",
     "Yangyang": "秧秧",
@@ -22,6 +25,7 @@
     "Yuanwu": "淵武",
     "Zhezhi": "折枝",
     "Xiangli Yao": "相里要",
+    "Youhu": "Youhu",
     "Abyss Surges": "怒涛の湖音",
     "Ages of Harvest": "歳華調和",
     "Amity Accord": "金鉄の志",
@@ -77,7 +81,8 @@
     "Variation": "奇妙バリエーション",
     "Verdant Summit": "蒼鱗連峰",
     "Rime-Draped Sprouts": "氷華の雅印",
-    "Verity's Handle": "万端の枢機"
+    "Verity's Handle": "万端の枢機",
+    "Stellar Symphony": "Stellar Symphony"
   },
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
