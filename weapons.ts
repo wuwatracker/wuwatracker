@@ -54,6 +54,11 @@ export const fiveStarWeaponMetadata = {
     imgSrc: "/assets/weapons/veritys-handle.webp",
     type: "Gauntlets",
   },
+  "Stellar Symphony": {
+    qualityLevel: 5,
+    imgSrc: "/assets/weapons/stellar-symphony.webp",
+    type: "Rectifier",
+  },
   "Abyss Surges": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/abyss-surges.webp",

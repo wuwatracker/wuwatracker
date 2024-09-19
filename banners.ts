@@ -135,6 +135,17 @@ export const rawBanners: BannerInfo[] = [
     endDate: "2024-09-28 11:59:59",
   },
   {
+    bannerId: 100008,
+    cardPoolType: 1,
+    name: "Featured Resonator",
+    alt: "Stellar Symphony",
+    rateUp5Names: ["Shorekeeper"],
+    rateUp4Names: ["Youhu"],
+    startDate: "2024-09-29 12:00",
+    endDate: "2024-10-19 09:59:59",
+    isCstStart: true,
+  },
+  {
     bannerId: 200001,
     cardPoolType: 2,
     name: "Featured Weapon",
@@ -216,10 +227,21 @@ export const rawBanners: BannerInfo[] = [
     startDate: "2024-09-07 10:00",
     endDate: "2024-09-28 11:59:59",
   },
+  {
+    bannerId: 200008,
+    cardPoolType: 2,
+    name: "Featured Weapon",
+    alt: "Stellar Symphony",
+    rateUp5Names: ["Stellar Symphony"],
+    rateUp4Names: [],
+    startDate: "2024-09-29 12:00",
+    endDate: "2024-10-19 09:59:59",
+    isCstStart: true,
+  },
   ...standardBanners,
 ];
 
 export const banners = rawBanners.filter((b) => {
-  const UNRELEASED_BANNERS: number[] = [];
+  const UNRELEASED_BANNERS: number[] = [100008, 200008];
   return !UNRELEASED_BANNERS.includes(b.bannerId);
 });

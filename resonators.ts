@@ -36,7 +36,7 @@ export const fiveStarResonatorMetadata = {
     id: 1302,
     qualityLevel: 5,
     imgSrc: "/assets/luckdraw/yinlin.webp",
-    element: "Conducto",
+    element: "Electro",
     portraitSrc: "/assets/portraits/yinlin.webp",
   },
   Jinhsi: {
@@ -67,11 +67,25 @@ export const fiveStarResonatorMetadata = {
     element: "Electro",
     portraitSrc: "/assets/portraits/xiangli-yao.webp",
   },
+  Shorekeeper: {
+    id: 1505,
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/shorekeeper.webp",
+    element: "Spectro",
+    portraitSrc: "/assets/portraits/shorekeeper.webp",
+  },
+  Camellya: {
+    id: 1506,
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/camellya.webp",
+    element: "Havoc",
+    portraitSrc: "/assets/portraits/camellya.webp",
+  },
   Calcharo: {
     id: 1301,
     qualityLevel: 5,
     imgSrc: "/assets/luckdraw/calcharo.webp",
-    element: "Conducto",
+    element: "Electro",
     portraitSrc: "/assets/portraits/calcharo.webp",
   },
   Verina: {
@@ -165,8 +179,22 @@ export const fourStarResonatorMetadata = {
     id: 1303,
     qualityLevel: 4,
     imgSrc: "/assets/luckdraw/yuanwu.webp",
-    element: "Conducto",
+    element: "Electro",
     portraitSrc: "/assets/portraits/yuanwu.webp",
+  },
+  Youhu: {
+    id: 1306,
+    qualityLevel: 4,
+    imgSrc: "/assets/luckdraw/youhu.webp",
+    element: "Glacio",
+    portraitSrc: "/assets/portraits/youhu.webp",
+  },
+  Lumi: {
+    id: 1603,
+    qualityLevel: 4,
+    imgSrc: "/assets/luckdraw/youhu.webp",
+    element: "Glacio",
+    portraitSrc: "/assets/portraits/youhu.webp",
   },
 } as ResonatorMetadata;
 
