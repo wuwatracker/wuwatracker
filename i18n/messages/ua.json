@@ -5,6 +5,7 @@
     "Aalto": "Алто",
     "Baizhi": "Байджи",
     "Calcharo": "Какаро",
+    "Camellya": "Camellya",
     "Changli": "Чанлі",
     "Chixia": "Чіся",
     "Danjin": "Даньдзінь",
@@ -13,8 +14,10 @@
     "Jinhsi": "Дзіньсі",
     "Jiyan": "Дзіянь",
     "Lingyang": "Лін'янь",
+    "Lumi": "Lumi",
     "Mortefi": "Мотефей",
     "Sanhua": "Саньхва",
+    "Shorekeeper": "Shorekeeper",
     "Taoqi": "Таоці",
     "Verina": "Веріна",
     "Yangyang": "Ян'ян",
@@ -22,6 +25,7 @@
     "Yuanwu": "Янву",
     "Zhezhi": "Джеджи",
     "Xiangli Yao": "Сянлі Яо",
+    "Youhu": "Youhu",
     "Abyss Surges": "Сплески безодні",
     "Ages of Harvest": "Епоха врожаю",
     "Amity Accord": "Дружня угода",
@@ -77,7 +81,8 @@
     "Variation": "Варіація",
     "Verdant Summit": "Зелена вершина",
     "Rime-Draped Sprouts": "Паростки в Паморозі",
-    "Verity's Handle": "Руків'я Істини"
+    "Verity's Handle": "Руків'я Істини",
+    "Stellar Symphony": "Stellar Symphony"
   },
   "CardPoolNames": {
     "Featured Resonator": "Особливий Резонатор",
