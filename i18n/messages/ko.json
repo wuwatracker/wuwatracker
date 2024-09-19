@@ -5,6 +5,7 @@
     "Aalto": "알토",
     "Baizhi": "설지",
     "Calcharo": "카카루",
+    "Camellya": "Camellya",
     "Changli": "장리",
     "Chixia": "치샤",
     "Danjin": "단근",
@@ -13,8 +14,10 @@
     "Jinhsi": "금희",
     "Jiyan": "기염",
     "Lingyang": "능양",
+    "Lumi": "Lumi",
     "Mortefi": "모르테피",
     "Sanhua": "산화",
+    "Shorekeeper": "Shorekeeper",
     "Taoqi": "도기",
     "Verina": "벨리나",
     "Yangyang": "양양",
@@ -22,6 +25,7 @@
     "Yuanwu": "연무",
     "Zhezhi": "절지",
     "Xiangli Yao": "상리요",
+    "Youhu": "Youhu",
     "Abyss Surges": "물결의 파동",
     "Ages of Harvest": "태평성대",
     "Amity Accord": "전우의 의리",
@@ -77,7 +81,8 @@
     "Variation": "판타지 변주",
     "Verdant Summit": "청룡의 천장",
     "Rime-Draped Sprouts": "옥수 비단",
-    "Verity's Handle": "팔방의 천추"
+    "Verity's Handle": "팔방의 천추",
+    "Stellar Symphony": "Stellar Symphony"
   },
   "CardPoolNames": {
     "Featured Resonator": "캐릭터 이벤트 튜닝",
