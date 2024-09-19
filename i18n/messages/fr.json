@@ -5,6 +5,7 @@
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
+    "Camellya": "Camellya",
     "Changli": "Changli",
     "Chixia": "Chixia",
     "Danjin": "Danjin",
@@ -13,8 +14,10 @@
     "Jinhsi": "Jinhsi",
     "Jiyan": "Jiyan",
     "Lingyang": "Lingyang",
+    "Lumi": "Lumi",
     "Mortefi": "Mortefi",
     "Sanhua": "Sanhua",
+    "Shorekeeper": "Shorekeeper",
     "Taoqi": "Taoqi",
     "Verina": "Verina",
     "Yangyang": "Yangyang",
@@ -22,6 +25,7 @@
     "Yuanwu": "Yuanwu",
     "Zhezhi": "Zhezhi",
     "Xiangli Yao": "Xiangli Yao",
+    "Youhu": "Youhu",
     "Abyss Surges": "Flux de l'Abîme",
     "Ages of Harvest": "Cycles de saisons",
     "Amity Accord": "Accord d'Amity",
@@ -77,7 +81,8 @@
     "Variation": "Variation fantastique",
     "Verdant Summit": "Sommet verdoyant",
     "Rime-Draped Sprouts": "Germe de glacier",
-    "Verity's Handle": "Poignée de la Vérité"
+    "Verity's Handle": "Poignée de la Vérité",
+    "Stellar Symphony": "Stellar Symphony"
   },
   "CardPoolNames": {
     "Featured Resonator": "Résonateur limité",
