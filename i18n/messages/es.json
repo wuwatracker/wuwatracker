@@ -108,15 +108,15 @@
   },
   "Common": {
     "Import History": "Importar historial",
-    "All": "All",
-    "Search": "Search"
+    "All": "Todo",
+    "Search": "Buscar"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your UID must contain 9 characters": "Tu UID debe contener 9 números",
       "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your URL contains an invalid server ID": "Tu URL tiene un ID de servidor inválido",
+      "Your server area is not supported at the moment": "El área de tu servidor aún no es soportado en este momento"
     }
   },
   "Metadata": {
@@ -176,7 +176,7 @@
     "Wiki": {
       "Resonator": {
         "title": "Resonadores - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Ve la información de los Resonadores de Wuthering Waves, perfiles, y usa la calculadora de materiales de WuWa Tracker para planear las mejoras de tu Resonador. El contador de pity de WuWa Tracker, usando los datos más recientes con las estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
       },
       "Item": {
         "title": "Objetos - WuWa Tracker",
@@ -184,8 +184,8 @@
       }
     },
     "Planner": {
-      "title": "Material Planner - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker is the premiere Wuthering Waves suite of tools for every player."
+      "title": "Planeador de materiales - WuWa Tracker",
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
     }
   },
   "Layout": {
