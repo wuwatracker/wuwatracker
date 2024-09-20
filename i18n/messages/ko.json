@@ -5,7 +5,7 @@
     "Aalto": "알토",
     "Baizhi": "설지",
     "Calcharo": "카카루",
-    "Camellya": "Camellya",
+    "Camellya": "카멜리아",
     "Changli": "장리",
     "Chixia": "치샤",
     "Danjin": "단근",
@@ -14,10 +14,10 @@
     "Jinhsi": "금희",
     "Jiyan": "기염",
     "Lingyang": "능양",
-    "Lumi": "Lumi",
+    "Lumi": "루미",
     "Mortefi": "모르테피",
     "Sanhua": "산화",
-    "Shorekeeper": "Shorekeeper",
+    "Shorekeeper": "파수인",
     "Taoqi": "도기",
     "Verina": "벨리나",
     "Yangyang": "양양",
@@ -25,7 +25,7 @@
     "Yuanwu": "연무",
     "Zhezhi": "절지",
     "Xiangli Yao": "상리요",
-    "Youhu": "Youhu",
+    "Youhu": "유호",
     "Abyss Surges": "물결의 파동",
     "Ages of Harvest": "태평성대",
     "Amity Accord": "전우의 의리",
@@ -82,7 +82,7 @@
     "Verdant Summit": "청룡의 천장",
     "Rime-Draped Sprouts": "옥수 비단",
     "Verity's Handle": "팔방의 천추",
-    "Stellar Symphony": "Stellar Symphony"
+    "Stellar Symphony": "뭇별의 교향곡"
   },
   "CardPoolNames": {
     "Featured Resonator": "캐릭터 이벤트 튜닝",
@@ -185,7 +185,7 @@
     },
     "Planner": {
       "title": "재료 계산기 - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "description": "공명자의 돌파 레벨, 스킬, 그리고 EXP 재료를 계산하기에 가장 적합한 명조: 워더링 웨이브 계산기입니다. WuWa Tracker는 게임 경험을 향상시킬 수 있는 풍부한 도구 모음입니다."
     }
   },
   "Layout": {
