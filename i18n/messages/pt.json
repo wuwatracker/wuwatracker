@@ -71,18 +71,29 @@
     "Rectifier of Voyager": "Retificador de Viajante",
     "Rectifier#25": "Retificador#25",
     "Static Mist": "Névoa Estática",
+    "Stellar Symphony": "Stellar Symphony",
     "Stonard": "Stonard",
     "Stringmaster": "Mestre das Cordas",
     "Sword of Night": "Espada da Noite",
     "Sword of Voyager": "Espada de Viajante",
     "Sword#18": "Espada#18",
     "Thunderbolt": "Raio do Trovão",
+    "Training Broadblade": "Training Broadblade",
+    "Training Gauntlets": "Training Gauntlets",
+    "Training Pistols": "Training Pistols",
+    "Training Rectifier": "Training Rectifier",
+    "Training Sword": "Training Sword",
+    "Tyro Broadblade": "Tyro Broadblade",
+    "Tyro Gauntlets": "Tyro Gauntlets",
+    "Tyro Pistols": "Tyro Pistols",
+    "Tyro Rectifier": "Tyro Rectifier",
+    "Tyro Sword": "Tyro Sword",
     "Undying Flame": "Chama Imortal",
     "Variation": "Variação",
     "Verdant Summit": "Cume Verdejante",
     "Rime-Draped Sprouts": "Brotos Geados",
     "Verity's Handle": "Cabo da Verdade",
-    "Stellar Symphony": "Stellar Symphony"
+    "Augment": "Augment"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonator em Destaque",
@@ -213,6 +224,7 @@
     "Import": "Importar",
     "Settings": "Configurações",
     "Resonators": "Resonators",
+    "Weapons": "Weapons",
     "Support Us": "Suporte-nos",
     "Sign In To Google": "Iniciar Sessão no Google",
     "Sign Out": "Terminar Sessão",
@@ -582,6 +594,9 @@
   "Wiki": {
     "Resonator": {
       "title": "Resonators"
+    },
+    "Weapon": {
+      "title": "Weapons"
     }
   },
   "Planner": {
