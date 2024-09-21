@@ -1377,7 +1377,7 @@ export const items = [
   },
   {
     id: 44010027,
-    slug: "test/universal-echo",
+    slug: "test-universal-echo",
     name: "test/Universal Echo",
     tags: ["Echo Development Material"],
     description:
@@ -1395,7 +1395,7 @@ export const items = [
   },
   {
     id: 44010028,
-    slug: "test/golden-universal-echo",
+    slug: "test-golden-universal-echo",
     name: "test/Golden Universal Echo",
     tags: ["Echo Development Material"],
     description:
