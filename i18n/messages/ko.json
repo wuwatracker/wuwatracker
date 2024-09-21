@@ -71,18 +71,29 @@
     "Rectifier of Voyager": "수행자의 증폭기 · 탐색",
     "Rectifier#25": "25형 증폭기 · 울림의 멜로디",
     "Static Mist": "부동의 안개",
+    "Stellar Symphony": "뭇별의 교향곡",
     "Stonard": "황금 권갑",
     "Stringmaster": "꼭두각시의 손",
     "Sword of Night": "흑야의 직검 · 흑뢰",
     "Sword of Voyager": "수행자의 직검 · 행적",
     "Sword#18": "18형 직검 · 순간의 칼빛",
     "Thunderbolt": "뇌전",
+    "Training Broadblade": "Training Broadblade",
+    "Training Gauntlets": "Training Gauntlets",
+    "Training Pistols": "Training Pistols",
+    "Training Rectifier": "Training Rectifier",
+    "Training Sword": "Training Sword",
+    "Tyro Broadblade": "Tyro Broadblade",
+    "Tyro Gauntlets": "Tyro Gauntlets",
+    "Tyro Pistols": "Tyro Pistols",
+    "Tyro Rectifier": "Tyro Rectifier",
+    "Tyro Sword": "Tyro Sword",
     "Undying Flame": "불멸의 성화",
     "Variation": "판타지 변주",
     "Verdant Summit": "청룡의 천장",
     "Rime-Draped Sprouts": "옥수 비단",
     "Verity's Handle": "팔방의 천추",
-    "Stellar Symphony": "뭇별의 교향곡"
+    "Augment": "Augment"
   },
   "CardPoolNames": {
     "Featured Resonator": "캐릭터 이벤트 튜닝",
@@ -213,6 +224,7 @@
     "Import": "제출하기",
     "Settings": "설정",
     "Resonators": "공명자",
+    "Weapons": "Weapons",
     "Support Us": "지원하기",
     "Sign In To Google": "Google로 로그인",
     "Sign Out": "로그아웃",
@@ -582,6 +594,9 @@
   "Wiki": {
     "Resonator": {
       "title": "공명자"
+    },
+    "Weapon": {
+      "title": "Weapons"
     }
   },
   "Planner": {
