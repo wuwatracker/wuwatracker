@@ -71,18 +71,29 @@
     "Rectifier of Voyager": "Gleichrichter der Voyager",
     "Rectifier#25": "Gleichrichter Nr. 25",
     "Static Mist": "Statische Nebel",
+    "Stellar Symphony": "Stellar Symphony",
     "Stonard": "Stonard",
     "Stringmaster": "Saitenmeister",
     "Sword of Night": "Schwert der Nacht",
     "Sword of Voyager": "Schwert des Voyager",
     "Sword#18": "Schwert Nr. 18",
     "Thunderbolt": "Donnerschlag",
+    "Training Broadblade": "Training Broadblade",
+    "Training Gauntlets": "Training Gauntlets",
+    "Training Pistols": "Training Pistols",
+    "Training Rectifier": "Training Rectifier",
+    "Training Sword": "Training Sword",
+    "Tyro Broadblade": "Tyro Broadblade",
+    "Tyro Gauntlets": "Tyro Gauntlets",
+    "Tyro Pistols": "Tyro Pistols",
+    "Tyro Rectifier": "Tyro Rectifier",
+    "Tyro Sword": "Tyro Sword",
     "Undying Flame": "Unsterbliche Flamme",
     "Variation": "Variation",
     "Verdant Summit": "Grüner Gipfel",
     "Rime-Draped Sprouts": "Rime-Draped Sprouts",
     "Verity's Handle": "Verity's Handle",
-    "Stellar Symphony": "Stellar Symphony"
+    "Augment": "Augment"
   },
   "CardPoolNames": {
     "Featured Resonator": "Hervorgehobenes Resonator-Zusammenrufen",
@@ -213,6 +224,7 @@
     "Import": "Import",
     "Settings": "Einstellungen",
     "Resonators": "Resonators",
+    "Weapons": "Weapons",
     "Support Us": "Unterstütze uns",
     "Sign In To Google": "Anmelden mit Google",
     "Sign Out": "abmelden",
@@ -582,6 +594,9 @@
   "Wiki": {
     "Resonator": {
       "title": "Resonators"
+    },
+    "Weapon": {
+      "title": "Weapons"
     }
   },
   "Planner": {
