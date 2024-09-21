@@ -78,22 +78,22 @@
     "Sword of Voyager": "探索者迅刀・旅路",
     "Sword#18": "瞬斬刀＃18",
     "Thunderbolt": "迸る雷霆",
-    "Training Broadblade": "Training Broadblade",
-    "Training Gauntlets": "Training Gauntlets",
-    "Training Pistols": "Training Pistols",
-    "Training Rectifier": "Training Rectifier",
-    "Training Sword": "Training Sword",
-    "Tyro Broadblade": "Tyro Broadblade",
-    "Tyro Gauntlets": "Tyro Gauntlets",
-    "Tyro Pistols": "Tyro Pistols",
-    "Tyro Rectifier": "Tyro Rectifier",
-    "Tyro Sword": "Tyro Sword",
+    "Training Broadblade": "稽古用長刃",
+    "Training Gauntlets": "稽古用手甲",
+    "Training Pistols": "稽古用拳銃",
+    "Training Rectifier": "稽古用増幅器",
+    "Training Sword": "稽古用迅刀",
+    "Tyro Broadblade": "原初の長刃・岩塊",
+    "Tyro Gauntlets": "原初の手甲・磐石",
+    "Tyro Pistols": "原初の拳銃・深森",
+    "Tyro Rectifier": "原初の増幅器・波音",
+    "Tyro Sword": "原初の迅刀・雨鳴",
     "Undying Flame": "燃え尽きぬ焔",
     "Variation": "奇妙バリエーション",
     "Verdant Summit": "蒼鱗連峰",
     "Rime-Draped Sprouts": "氷華の雅印",
     "Verity's Handle": "万端の枢機",
-    "Augment": "Augment"
+    "Augment": "清らかな音"
   },
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
@@ -224,7 +224,7 @@
     "Import": "インポート",
     "Settings": "設定",
     "Resonators": "共鳴者",
-    "Weapons": "Weapons",
+    "Weapons": "武器",
     "Support Us": "寄付",
     "Sign In To Google": "Googleでログイン",
     "Sign Out": "ログアウト",
@@ -596,7 +596,7 @@
       "title": "共鳴者"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "武器"
     }
   },
   "Planner": {
