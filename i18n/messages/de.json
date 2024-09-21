@@ -27,10 +27,10 @@
     "Xiangli Yao": "Xiangli Yao",
     "Youhu": "Youhu",
     "Abyss Surges": "Abgrundwogen",
-    "Ages of Harvest": "Ages of Harvest",
+    "Ages of Harvest": "Zeitalter der Ernte",
     "Amity Accord": "Freundschaftsabkommen",
     "Autumntrace": "Herbstspur",
-    "Beguiling Melody": "Beguiling Melody",
+    "Beguiling Melody": "Betörende Melodie",
     "Blazing Brilliance": "Blazing Brilliance",
     "Broadblade of Night": "Breitschwert der Nacht",
     "Broadblade of Voyager": "Breitschwert des Voyager",
@@ -92,7 +92,7 @@
     "Variation": "Variation",
     "Verdant Summit": "Grüner Gipfel",
     "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle",
+    "Verity's Handle": "Absolute Pulsation",
     "Augment": "Augment"
   },
   "CardPoolNames": {
@@ -100,33 +100,33 @@
     "Featured Weapon": "Hervorgehobene Waffen-Zusammenrufen",
     "Permanent Resonator": "Permanentes Charakter-Zusammenrufen",
     "Permanent Weapon": "Permanentes Waffen-Zusammenrufen",
-    "Novice Convene": "Novice Convene",
+    "Novice Convene": "Anfänger-Zusammenrufen",
     "Beginner's Choice": "Anfänger-Auswahl-Zusammenrufen",
     "Selector Ticket": "Auswahl-Ticket",
     "Tidal Chorus": "Gezeitenchor",
-    "Winter Brume": "Winter Brume",
+    "Winter Brume": "Winternebel",
     "Utterance of Marvels": "Äußerung von Wundern",
-    "Beginner's Choice Convene": "Beginner's Choice Convene",
-    "Giveback Event Convene": "Giveback Event Convene",
+    "Beginner's Choice Convene": "Anfänger-Zusammenrufen nach Wahl",
+    "Giveback Event Convene": "Zusammenrufen nach Anfängerwahl (Dank-Zusammenrufen)",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "Wenn der Donner strömt",
     "When Thunder Pours (Early)": "When Thunder Pours (Early)",
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy",
-    "Celestial Revelation": "Celestial Revelation",
+    "Celestial Revelation": "Himmlische Offenbarung",
     "Chromatic Prose": "Chromatic Prose"
   },
   "Common": {
     "Import History": "Import",
-    "All": "All",
-    "Search": "Search"
+    "All": "Alles",
+    "Search": "Suche"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
+      "Your UID must contain 9 characters": "Ihre UID muss 9 Charaktere beinhalten",
       "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
+      "Your URL contains an invalid server ID": "Ihre URL enthält eine ungültige Server-ID",
       "Your server area is not supported at the moment": "Your server area is not supported at the moment"
     }
   },
@@ -140,12 +140,12 @@
     },
     "Convene": {
       "Index": {
-        "title": "Convene History - WuWa Tracker",
+        "title": "Zusammenrufen-Information",
         "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Global": {
         "title": "",
-        "description": "Siehe globale Pull-Statistiken, die den {currentBanner} Banner mit dem {currentFeaturedResonator} darbieten! Benutze die Screenshot fertigen Dashboards um vor deinen Freunden anzuangeben. Der WuWa Tracker pity Zähler für Wuthering Waves benutzt die aktuellen Daten mit globalen Statistiken und mehr. Teile deine pulls mit Freunden und verfolge deinem Account!"
+        "description": "Siehe globale Pull-Statistiken, die den {currentBanner} Banner mit dem {currentFeaturedResonator} darbieten! Benutzen Sie die Screenshotfertigen Dashboards um vor deinen Freunden angeben zu können! WuWa Tracker ist ein Pull-Zähler fur Wuthering Waves, welches die aktuellen Daten mit globalen Statistiken und etc. benutzt. Teilen Sie Ihre Pulls mit Freunden und verfolge Ihrem Account!"
       },
       "Share": {
         "title": "Share History - WuWa Tracker",
