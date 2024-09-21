@@ -71,18 +71,29 @@
     "Rectifier of Voyager": "远行者矩阵·探幽",
     "Rectifier#25": "鸣动仪-25型",
     "Static Mist": "停驻之烟",
+    "Stellar Symphony": "Stellar Symphony",
     "Stonard": "金掌",
     "Stringmaster": "掣傀之手",
     "Sword of Night": "暗夜迅刀·黑闪",
     "Sword of Voyager": "远行者迅刀·旅迹",
     "Sword#18": "瞬斩刀-18型",
     "Thunderbolt": "奔雷",
+    "Training Broadblade": "Training Broadblade",
+    "Training Gauntlets": "Training Gauntlets",
+    "Training Pistols": "Training Pistols",
+    "Training Rectifier": "Training Rectifier",
+    "Training Sword": "Training Sword",
+    "Tyro Broadblade": "Tyro Broadblade",
+    "Tyro Gauntlets": "Tyro Gauntlets",
+    "Tyro Pistols": "Tyro Pistols",
+    "Tyro Rectifier": "Tyro Rectifier",
+    "Tyro Sword": "Tyro Sword",
     "Undying Flame": "无眠烈火",
     "Variation": "奇幻变奏",
     "Verdant Summit": "苍鳞千嶂",
     "Rime-Draped Sprouts": "琼枝冰绡",
     "Verity's Handle": "诸方玄枢",
-    "Stellar Symphony": "Stellar Symphony"
+    "Augment": "Augment"
   },
   "CardPoolNames": {
     "Featured Resonator": "角色活动唤取",
@@ -213,6 +224,7 @@
     "Import": "导入",
     "Settings": "设置",
     "Resonators": "共鸣者",
+    "Weapons": "Weapons",
     "Support Us": "支持我们",
     "Sign In To Google": "登录 Google",
     "Sign Out": "退出登录",
@@ -582,6 +594,9 @@
   "Wiki": {
     "Resonator": {
       "title": "共鸣者"
+    },
+    "Weapon": {
+      "title": "Weapons"
     }
   },
   "Planner": {
