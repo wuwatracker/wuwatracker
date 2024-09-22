@@ -1452,7 +1452,7 @@ export const items = [
     slug: "advanced-tuner",
     name: "Advanced Tuner",
     tags: ["Echo Development Material"],
-    description: "A device for Tuning 3-star Echoes. Unlocks one Substat.",
+    description: "A device for Tuning 4-star Echoes. Unlocks one Substat.",
     flavor:
       "Adjust Echoes' frequencies, remove any noise, and unleash their true potential.",
     qualityLevel: 4,
