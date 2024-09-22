@@ -196,7 +196,7 @@
     },
     "Planner": {
       "title": "Планировщик - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "description": "Лучший калькулятор для планирования возвышений и улучшений навыков ваших Резонаторов в Wuthering Waves! WuWa Tracker - главный набор инструментов для каждого игрока в Wuthering Waves."
     }
   },
   "Layout": {
@@ -224,7 +224,7 @@
     "Import": "Импорт данных",
     "Settings": "Настройки",
     "Resonators": "Резонаторы",
-    "Weapons": "Weapons",
+    "Weapons": "Оружие",
     "Support Us": "Поддержите нас",
     "Sign In To Google": "Войти в Google",
     "Sign Out": "Выйти",
@@ -596,7 +596,7 @@
       "title": "Резонаторы"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Оружие"
     }
   },
   "Planner": {
