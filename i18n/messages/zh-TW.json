@@ -224,7 +224,7 @@
     "Import": "匯入",
     "Settings": "設定",
     "Resonators": "共鳴者",
-    "Weapons": "Weapons",
+    "Weapons": "武器",
     "Support Us": "支持我們",
     "Sign In To Google": "使用Google帳號登入",
     "Sign Out": "登出",
@@ -596,7 +596,7 @@
       "title": "共鳴者"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "武器"
     }
   },
   "Planner": {
