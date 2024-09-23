@@ -5,6 +5,7 @@
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
+    "Camellya": "Camellya",
     "Changli": "Changli",
     "Chixia": "Chixia",
     "Danjin": "Danjin",
@@ -13,8 +14,10 @@
     "Jinhsi": "Jinhsi",
     "Jiyan": "Jiyan",
     "Lingyang": "Lingyang",
+    "Lumi": "Lumi",
     "Mortefi": "Mortefi",
     "Sanhua": "Sanhua",
+    "Shorekeeper": "Shorekeeper",
     "Taoqi": "Taoqi",
     "Verina": "Verina",
     "Yangyang": "Yangyang",
@@ -22,6 +25,7 @@
     "Yuanwu": "Yuanwu",
     "Zhezhi": "Zhezhi",
     "Xiangli Yao": "Xiangli Yao",
+    "Youhu": "Youhu",
     "Abyss Surges": "Flux de l'Abîme",
     "Ages of Harvest": "Cycles de saisons",
     "Amity Accord": "Accord d'Amity",
@@ -67,17 +71,29 @@
     "Rectifier of Voyager": "Amplificateur du Voyageur",
     "Rectifier#25": "Amplificateur #25",
     "Static Mist": "Brouillard stable",
+    "Stellar Symphony": "Stellar Symphony",
     "Stonard": "Main d'or",
     "Stringmaster": "Main du marionnettiste",
     "Sword of Night": "Épée de Nuit",
     "Sword of Voyager": "Épée du Voyageur",
     "Sword#18": "Épée #18",
     "Thunderbolt": "Tonnerre",
+    "Training Broadblade": "Training Broadblade",
+    "Training Gauntlets": "Training Gauntlets",
+    "Training Pistols": "Training Pistols",
+    "Training Rectifier": "Training Rectifier",
+    "Training Sword": "Training Sword",
+    "Tyro Broadblade": "Tyro Broadblade",
+    "Tyro Gauntlets": "Tyro Gauntlets",
+    "Tyro Pistols": "Tyro Pistols",
+    "Tyro Rectifier": "Tyro Rectifier",
+    "Tyro Sword": "Tyro Sword",
     "Undying Flame": "Flamme divine",
     "Variation": "Variation fantastique",
     "Verdant Summit": "Sommet verdoyant",
     "Rime-Draped Sprouts": "Germe de glacier",
-    "Verity's Handle": "Poignée de la Vérité"
+    "Verity's Handle": "Poignée de la Vérité",
+    "Augment": "Augment"
   },
   "CardPoolNames": {
     "Featured Resonator": "Résonateur limité",
@@ -180,7 +196,7 @@
     },
     "Planner": {
       "title": "Calculateur de matériaux - WuWa Tracker",
-      "description": "Le plus puissant calculateur de Wuthering Waves pour planifier l'augmentation du niveau de vos résonateurs, vos compétences et vos matériaux d'EXP ! WuWa Tracker est la première boite à outils de Wuthering Waves pour tous les joueurs."
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
     }
   },
   "Layout": {
@@ -208,6 +224,7 @@
     "Import": "Importer",
     "Settings": "Paramètres",
     "Resonators": "Résonateurs",
+    "Weapons": "Weapons",
     "Support Us": "Soutenez-nous",
     "Sign In To Google": "Se connecter via Google",
     "Sign Out": "Se déconnecter",
@@ -577,6 +594,9 @@
   "Wiki": {
     "Resonator": {
       "title": "Résonateurs"
+    },
+    "Weapon": {
+      "title": "Weapons"
     }
   },
   "Planner": {

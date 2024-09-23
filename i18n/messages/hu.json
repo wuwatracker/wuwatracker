@@ -5,6 +5,7 @@
     "Aalto": "Aalto",
     "Baizhi": "Baizhi",
     "Calcharo": "Calcharo",
+    "Camellya": "Camellya",
     "Changli": "Changli",
     "Chixia": "Chixia",
     "Danjin": "Danjin",
@@ -13,8 +14,10 @@
     "Jinhsi": "Jinhsi",
     "Jiyan": "Jiyan",
     "Lingyang": "Lingyang",
+    "Lumi": "Lumi",
     "Mortefi": "Mortefi",
     "Sanhua": "Sanhua",
+    "Shorekeeper": "Shorekeeper",
     "Taoqi": "Taoqi",
     "Verina": "Verina",
     "Yangyang": "Yangyang",
@@ -22,6 +25,7 @@
     "Yuanwu": "Yuanwu",
     "Zhezhi": "Zhezhi",
     "Xiangli Yao": "Xiangli Yao",
+    "Youhu": "Youhu",
     "Abyss Surges": "Abyss Surges",
     "Ages of Harvest": "Ages of Harvest",
     "Amity Accord": "Amity Accord",
@@ -67,17 +71,29 @@
     "Rectifier of Voyager": "Rectifier of Voyager",
     "Rectifier#25": "Rectifier#25",
     "Static Mist": "Static Mist",
+    "Stellar Symphony": "Stellar Symphony",
     "Stonard": "Stonard",
     "Stringmaster": "Stringmaster",
     "Sword of Night": "Sword of Night",
     "Sword of Voyager": "Sword of Voyager",
     "Sword#18": "Sword#18",
     "Thunderbolt": "Thunderbolt",
+    "Training Broadblade": "Training Broadblade",
+    "Training Gauntlets": "Training Gauntlets",
+    "Training Pistols": "Training Pistols",
+    "Training Rectifier": "Training Rectifier",
+    "Training Sword": "Training Sword",
+    "Tyro Broadblade": "Tyro Broadblade",
+    "Tyro Gauntlets": "Tyro Gauntlets",
+    "Tyro Pistols": "Tyro Pistols",
+    "Tyro Rectifier": "Tyro Rectifier",
+    "Tyro Sword": "Tyro Sword",
     "Undying Flame": "Undying Flame",
     "Variation": "Variation",
     "Verdant Summit": "Verdant Summit",
     "Rime-Draped Sprouts": "Rime-Draped Sprouts",
-    "Verity's Handle": "Verity's Handle"
+    "Verity's Handle": "Verity's Handle",
+    "Augment": "Augment"
   },
   "CardPoolNames": {
     "Featured Resonator": "Kiemelt karakter",
@@ -180,7 +196,7 @@
     },
     "Planner": {
       "title": "Alapanyag tervező - WuWa Tracker",
-      "description": "A leghatékonyabb Wuthering Waves tervező a karakterfejlődési szint, készség és EXP anyagok tervezéséhez! A WuWa Tracker a premier Wuthering Waves eszközcsomag minden játékos számára."
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
     }
   },
   "Layout": {
@@ -208,6 +224,7 @@
     "Import": "Importálás",
     "Settings": "Beállítások",
     "Resonators": "Karakterek",
+    "Weapons": "Weapons",
     "Support Us": "Támogatás",
     "Sign In To Google": "Bejelentkezés Google-be",
     "Sign Out": "Kijelentkezés",
@@ -577,6 +594,9 @@
   "Wiki": {
     "Resonator": {
       "title": "Karakterek"
+    },
+    "Weapon": {
+      "title": "Weapons"
     }
   },
   "Planner": {

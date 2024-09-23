@@ -5,6 +5,7 @@
     "Aalto": "アールト",
     "Baizhi": "白芷",
     "Calcharo": "カカロ",
+    "Camellya": "ツバキ",
     "Changli": "長離",
     "Chixia": "熾霞",
     "Danjin": "丹瑾",
@@ -13,8 +14,10 @@
     "Jinhsi": "今汐",
     "Jiyan": "忌炎",
     "Lingyang": "凌陽",
+    "Lumi": "灯灯",
     "Mortefi": "モルトフィー",
     "Sanhua": "散華",
+    "Shorekeeper": "ショアキーパー",
     "Taoqi": "桃祈",
     "Verina": "ヴェリーナ",
     "Yangyang": "秧秧",
@@ -22,6 +25,7 @@
     "Yuanwu": "淵武",
     "Zhezhi": "折枝",
     "Xiangli Yao": "相里要",
+    "Youhu": "釉瑚",
     "Abyss Surges": "怒涛の湖音",
     "Ages of Harvest": "歳華調和",
     "Amity Accord": "金鉄の志",
@@ -67,17 +71,29 @@
     "Rectifier of Voyager": "探索者増幅器・発見",
     "Rectifier#25": "鳴動儀＃25",
     "Static Mist": "不変の湖煙",
+    "Stellar Symphony": "星々のコンチェルト",
     "Stonard": "黄金の拳",
     "Stringmaster": "糸繰りの奇術",
     "Sword of Night": "暗夜の迅刀・黒閃",
     "Sword of Voyager": "探索者迅刀・旅路",
     "Sword#18": "瞬斬刀＃18",
     "Thunderbolt": "迸る雷霆",
+    "Training Broadblade": "稽古用長刃",
+    "Training Gauntlets": "稽古用手甲",
+    "Training Pistols": "稽古用拳銃",
+    "Training Rectifier": "稽古用増幅器",
+    "Training Sword": "稽古用迅刀",
+    "Tyro Broadblade": "原初の長刃・岩塊",
+    "Tyro Gauntlets": "原初の手甲・磐石",
+    "Tyro Pistols": "原初の拳銃・深森",
+    "Tyro Rectifier": "原初の増幅器・波音",
+    "Tyro Sword": "原初の迅刀・雨鳴",
     "Undying Flame": "燃え尽きぬ焔",
     "Variation": "奇妙バリエーション",
     "Verdant Summit": "蒼鱗連峰",
     "Rime-Draped Sprouts": "氷華の雅印",
-    "Verity's Handle": "万端の枢機"
+    "Verity's Handle": "万端の枢機",
+    "Augment": "清らかな音"
   },
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
@@ -180,7 +196,7 @@
     },
     "Planner": {
       "title": "Material Planner - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker is the premiere Wuthering Waves suite of tools for every player."
+      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
     }
   },
   "Layout": {
@@ -208,6 +224,7 @@
     "Import": "インポート",
     "Settings": "設定",
     "Resonators": "共鳴者",
+    "Weapons": "武器",
     "Support Us": "寄付",
     "Sign In To Google": "Googleでログイン",
     "Sign Out": "ログアウト",
@@ -577,6 +594,9 @@
   "Wiki": {
     "Resonator": {
       "title": "共鳴者"
+    },
+    "Weapon": {
+      "title": "武器"
     }
   },
   "Planner": {
