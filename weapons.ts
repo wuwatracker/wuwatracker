@@ -212,6 +212,31 @@ export const fourStarWeaponMetadata = {
     imgSrc: "/assets/weapons/lunar-cutter.webp",
     type: "Sword",
   },
+  "Endless Collapse": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/lunar-cutter.webp",
+    type: "Sword",
+  },
+  "Waning Redshift": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/waning-redshift.webp",
+    type: "Broadblade",
+  },
+  "Relativistic Jet": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/relativistic-jet.webp",
+    type: "Pistols",
+  },
+  "Celestial Spiral": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/celestial-spiral.webp",
+    type: "Gauntlets",
+  },
+  "Fusion Accretion": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/fusion-accretion.webp",
+    type: "Rectifier",
+  },
 } as WeaponMetadata;
 
 export const weaponMetadata = {
