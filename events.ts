@@ -74,6 +74,15 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
   ],
   activities: [
     {
+      name: "Where Stars Slumber - Area Exploration Event",
+      img: "https://snipboard.io/rZLHEJ.jpg",
+      startDate: "2024-09-29 11:00",
+      endDate: "2024-11-13 15:59",
+      url: "https://wutheringwaves.kurogames.com/en/main/news/detail/1361",
+      color: "#293a4e",
+      reliability: "Official",
+    },
+    {
       name: "Tower of Adversity: Hazard Zone",
       img: "https://snipboard.io/NnA3YO.jpg",
       startDate: "2024-08-19 04:00",
