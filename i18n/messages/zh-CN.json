@@ -192,6 +192,10 @@
       "Item": {
         "title": "物品 - WuWa Tracker",
         "description": "查看《鸣潮》物品的信息及其掉落位置，并追踪您的物品栏，且上述操作均可于本网站的同一处完成，免去切换网页或工具的麻烦。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+      },
+      "Weapon": {
+        "title": "Weapons - WuWa Tracker",
+        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
