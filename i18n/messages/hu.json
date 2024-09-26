@@ -192,6 +192,10 @@
       "Item": {
         "title": "Eszközök - WuWa Tracker",
         "description": "Nézd meg a Wuthering Waves teszközinformációkat, a leadási helyeket, és kövesd a készletedet - mindezt egy helyen. WuWa Tracker kívánság számláló Wuthering Waves számára, a naprakész adatok felhasználásával globális statisztikák és több. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+      },
+      "Weapon": {
+        "title": "Weapons - WuWa Tracker",
+        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
