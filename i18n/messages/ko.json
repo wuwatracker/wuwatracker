@@ -192,6 +192,10 @@
       "Item": {
         "title": "아이템 - WuWa Tracker",
         "description": "명조: 워더링 웨이브의 아이템 정보, 드랍 장소, 그리고 당신의 인벤토리를 확인하세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
+      },
+      "Weapon": {
+        "title": "Weapons - WuWa Tracker",
+        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
