@@ -192,6 +192,10 @@
       "Item": {
         "title": "Ressourcen - WuWa Tracker",
         "description": "Sehen Sie sich Wuthering Waves Gegenstandsinformationen, Drop-Positionen und Ihr Inventar an - alles an einem Ort. WuWa Tracker Pity-Zähler für Wuthering Waves, mit den aktuellen Daten, globalen Statistiken und mehr. Teilen Sie Ihre Pulls mit Ihren Freunden und verfolgen Sie Ihr Konto!"
+      },
+      "Weapon": {
+        "title": "Weapons - WuWa Tracker",
+        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
