@@ -131,7 +131,7 @@
   "Validation": {
     "GachaRecordQueryArgs": {
       "Your UID must contain 9 characters": "Tu UID debe contener 9 números",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
+      "Your record ID cannot be empty": "Tu ID del historial no puede estar vacío",
       "Your URL contains an invalid server ID": "Tu URL tiene un ID de servidor inválido",
       "Your server area is not supported at the moment": "El área de tu servidor aún no es soportado en este momento"
     }
@@ -197,11 +197,11 @@
       },
       "Item": {
         "title": "Objetos - WuWa Tracker",
-        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Ve la información del objeto de Wuthering Waves, su localización, y sigue tu inventario - todo en un solo lugar. El contador de pity de WuWa Tracker, usando los datos más recientes con las estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
-        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Armas - WuWa Tracker",
+        "description": "Ve la información del arma de Wuthering Waves, sus estadísticas, y sigue tu inventario - todo en un solo lugar. El contador de pity de WuWa Tracker, usando los datos más recientes con las estadísticas globales y más. ¡Comparte tus invocaciones con tus amigos y sigue tu cuenta!"
       }
     },
     "Planner": {
