@@ -194,13 +194,13 @@
         "description": "Nézd meg a Wuthering Waves teszközinformációkat, a leadási helyeket, és kövesd a készletedet - mindezt egy helyen. WuWa Tracker kívánság számláló Wuthering Waves számára, a naprakész adatok felhasználásával globális statisztikák és több. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
-        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Fegyverek - WuWa Tracker",
+        "description": "Nézd meg a Wuthering Waves fegyver információkat, a leadási helyeket, és kövesd a készletedet - mindezt egy helyen. WuWa Tracker kívánság számláló Wuthering Waves számára, a naprakész adatok felhasználásával globális statisztikák és több. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       }
     },
     "Planner": {
       "title": "Alapanyag tervező - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "description": "A leghatékonyabb Wuthering Waves tervező a karakterfejlődési szint, készség és EXP anyagok tervezéséhez! A WuWa Tracker gazdag eszköztárral rendelkezik, hogy fokozza a játékélményt."
     }
   },
   "Layout": {
@@ -228,7 +228,7 @@
     "Import": "Importálás",
     "Settings": "Beállítások",
     "Resonators": "Karakterek",
-    "Weapons": "Weapons",
+    "Weapons": "Fegyverek",
     "Support Us": "Támogatás",
     "Sign In To Google": "Bejelentkezés Google-be",
     "Sign Out": "Kijelentkezés",
@@ -600,7 +600,7 @@
       "title": "Karakterek"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Fegyverek"
     }
   },
   "Planner": {
