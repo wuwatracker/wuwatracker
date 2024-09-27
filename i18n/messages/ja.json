@@ -93,7 +93,12 @@
     "Verdant Summit": "蒼鱗連峰",
     "Rime-Draped Sprouts": "氷華の雅印",
     "Verity's Handle": "万端の枢機",
-    "Augment": "清らかな音"
+    "Augment": "清らかな音",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "冬尽きて、春息吹く",
     "Vermillion's Ploy": "星々を弄ぶ焔羽",
     "Celestial Revelation": "星々の野を駆ける千機",
-    "Chromatic Prose": "極彩色に染まる詩"
+    "Chromatic Prose": "極彩色に染まる詩",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "履歴をインポート",
