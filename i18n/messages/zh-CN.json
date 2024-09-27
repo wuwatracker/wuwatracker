@@ -93,7 +93,12 @@
     "Verdant Summit": "苍鳞千嶂",
     "Rime-Draped Sprouts": "琼枝冰绡",
     "Verity's Handle": "诸方玄枢",
-    "Augment": "Augment"
+    "Augment": "Augment",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "角色活动唤取",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "寒尽觉春生",
     "Vermillion's Ploy": "炽羽策阵星",
     "Celestial Revelation": "千机逐星野",
-    "Chromatic Prose": "赋彩作长吟"
+    "Chromatic Prose": "赋彩作长吟",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "导入历史记录",
