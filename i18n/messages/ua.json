@@ -93,7 +93,12 @@
     "Verdant Summit": "Зелена вершина",
     "Rime-Draped Sprouts": "Паростки в Паморозі",
     "Verity's Handle": "Руків'я Істини",
-    "Augment": "Augment"
+    "Augment": "Augment",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "Особливий Резонатор",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "Відродження відлиги",
     "Vermillion's Ploy": "Полум'яна хитрість",
     "Celestial Revelation": "Небесне Одкровення",
-    "Chromatic Prose": "Кольорова Проза"
+    "Chromatic Prose": "Кольорова Проза",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "Імпорт історії",
