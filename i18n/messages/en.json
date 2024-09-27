@@ -94,7 +94,12 @@
     "Verdant Summit": "Verdant Summit",
     "Rime-Draped Sprouts": "Rime-Draped Sprouts",
     "Verity's Handle": "Verity's Handle",
-    "Augment": "Augment"
+    "Augment": "Augment",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
 
   "CardPoolNames": {
@@ -119,7 +124,8 @@
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy",
     "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Chromatic Prose": "Chromatic Prose",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
 
   "Common": {
