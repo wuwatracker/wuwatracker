@@ -78,22 +78,22 @@
     "Sword of Voyager": "수행자의 직검 · 행적",
     "Sword#18": "18형 직검 · 순간의 칼빛",
     "Thunderbolt": "뇌전",
-    "Training Broadblade": "Training Broadblade",
-    "Training Gauntlets": "Training Gauntlets",
-    "Training Pistols": "Training Pistols",
-    "Training Rectifier": "Training Rectifier",
-    "Training Sword": "Training Sword",
-    "Tyro Broadblade": "Tyro Broadblade",
-    "Tyro Gauntlets": "Tyro Gauntlets",
-    "Tyro Pistols": "Tyro Pistols",
-    "Tyro Rectifier": "Tyro Rectifier",
-    "Tyro Sword": "Tyro Sword",
+    "Training Broadblade": "견습용 대검",
+    "Training Gauntlets": "견습용 권갑",
+    "Training Pistols": "견습용 권총",
+    "Training Rectifier": "견습용 증폭기",
+    "Training Sword": "견습용 직검",
+    "Tyro Broadblade": "태초의 대검",
+    "Tyro Gauntlets": "태초의 권갑",
+    "Tyro Pistols": "태초의 권총",
+    "Tyro Rectifier": "태초의 증폭기",
+    "Tyro Sword": "태초의 직검",
     "Undying Flame": "불멸의 성화",
     "Variation": "판타지 변주",
     "Verdant Summit": "청룡의 천장",
     "Rime-Draped Sprouts": "옥수 비단",
     "Verity's Handle": "팔방의 천추",
-    "Augment": "Augment"
+    "Augment": "청음"
   },
   "CardPoolNames": {
     "Featured Resonator": "캐릭터 이벤트 튜닝",
@@ -194,8 +194,8 @@
         "description": "명조: 워더링 웨이브의 아이템 정보, 드랍 장소, 그리고 당신의 인벤토리를 확인하세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
-        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "무기 - WuWa Tracker",
+        "description": "명조: 워더링 웨이브의 무기 정보, 속성, 그리고 당신의 인벤토리를 확인하세요. 최신 데이터와 글로벌 통계를 활용한 명조: 워더링 웨이브의 천장 카운터입니다. 친구들과 뽑기 결과를 공유하고 계정을 추적합니다!"
       }
     },
     "Planner": {
