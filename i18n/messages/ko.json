@@ -228,7 +228,7 @@
     "Import": "제출하기",
     "Settings": "설정",
     "Resonators": "공명자",
-    "Weapons": "Weapons",
+    "Weapons": "무기",
     "Support Us": "지원하기",
     "Sign In To Google": "Google로 로그인",
     "Sign Out": "로그아웃",
@@ -600,7 +600,7 @@
       "title": "공명자"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "무기"
     }
   },
   "Planner": {
