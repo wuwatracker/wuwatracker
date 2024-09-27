@@ -93,7 +93,12 @@
     "Verdant Summit": "Grüner Gipfel",
     "Rime-Draped Sprouts": "Rime-Draped Sprouts",
     "Verity's Handle": "Absolute Pulsation",
-    "Augment": "Augmentation"
+    "Augment": "Augmentation",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "Hervorgehobenes Resonator-Zusammenrufen",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy",
     "Celestial Revelation": "Himmlische Offenbarung",
-    "Chromatic Prose": "Chromatic Prose"
+    "Chromatic Prose": "Chromatic Prose",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "Import",
