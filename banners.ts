@@ -138,12 +138,22 @@ export const rawBanners: BannerInfo[] = [
     bannerId: 100008,
     cardPoolType: 1,
     name: "Featured Resonator",
-    alt: "Stellar Symphony",
+    alt: "Til the Sea Turns Clear",
     rateUp5Names: ["Shorekeeper"],
     rateUp4Names: ["Taoqi", "Yangyang", "Chixia"],
     startDate: "2024-09-29 05:00",
-    endDate: "2024-10-19 09:59:59",
+    endDate: "2024-10-24 09:59:59",
     isCstStart: true,
+  },
+  {
+    bannerId: 100009,
+    cardPoolType: 1,
+    name: "Featured Resonator",
+    alt: "Prevail the Lasting Night",
+    rateUp5Names: ["Jiyan"],
+    rateUp4Names: ["Youhu", "Sanhua", "Mortefi"],
+    startDate: "2024-10-24 10:00",
+    endDate: "2024-11-13 11:59:59",
   },
   {
     bannerId: 200001,
@@ -233,15 +243,25 @@ export const rawBanners: BannerInfo[] = [
     name: "Featured Weapon",
     alt: "Stellar Symphony",
     rateUp5Names: ["Stellar Symphony"],
-    rateUp4Names: ["Discord", "Commando of Conviction", "Amity Accord"],
+    rateUp4Names: ["Endless Collapse", "Discord", "Comet Flare"],
     startDate: "2024-09-29 05:00",
-    endDate: "2024-10-19 09:59:59",
+    endDate: "2024-10-24 09:59:59",
     isCstStart: true,
+  },
+  {
+    bannerId: 200009,
+    cardPoolType: 2,
+    name: "Featured Weapon",
+    alt: "Verdant Summit",
+    rateUp5Names: ["Verdant Summit"],
+    rateUp4Names: ["Celestial Spiral", "Variation", "Helios Cleaver"],
+    startDate: "2024-10-24 10:00",
+    endDate: "2024-11-13 11:59:59",
   },
   ...standardBanners,
 ];
 
 export const banners = rawBanners.filter((b) => {
-  const UNRELEASED_BANNERS: number[] = [100008, 200008];
+  const UNRELEASED_BANNERS: number[] = [100008, 200008, 100009, 200009];
   return !UNRELEASED_BANNERS.includes(b.bannerId);
 });
