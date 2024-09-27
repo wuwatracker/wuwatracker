@@ -93,7 +93,12 @@
     "Verdant Summit": "Cumbre verde",
     "Rime-Draped Sprouts": "Brotes escarchados",
     "Verity's Handle": "Mango de la verdad",
-    "Augment": "Consonante sorda"
+    "Augment": "Consonante sorda",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonador destacado",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "Deshielo en primavera",
     "Vermillion's Ploy": "La estratagema de bermellón",
     "Celestial Revelation": "Revelación celestial",
-    "Chromatic Prose": "Prosa cromática"
+    "Chromatic Prose": "Prosa cromática",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "Importar historial",
