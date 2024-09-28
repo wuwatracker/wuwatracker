@@ -93,11 +93,11 @@
     "Verdant Summit": "Sommet verdoyant",
     "Rime-Draped Sprouts": "Germe de glacier",
     "Verity's Handle": "Poignée de la Vérité",
-    "Augment": "Augment",
-    "Endless Collapse": "Endless Collapse",
+    "Augment": "Dévoisant",
+    "Endless Collapse": "Effondrement éternel",
     "Waning Redshift": "Waning Redshift",
     "Relativistic Jet": "Relativistic Jet",
-    "Celestial Spiral": "Celestial Spiral",
+    "Celestial Spiral": "Spirale céleste",
     "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
@@ -121,7 +121,7 @@
     "Vermillion's Ploy": "Phénix flamboyant",
     "Celestial Revelation": "Inquisition éthérée",
     "Chromatic Prose": "Prose chromatique",
-    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
+    "Til the Sea Turns Clear": "Quand la Mer se Fane"
   },
   "Common": {
     "Import History": "Importer votre historique",
@@ -200,8 +200,8 @@
         "description": "Consultez la liste des objets de Wuthering Waves et leurs emplacements et surveiller votre inventaire, tout au même endroit. Wuwa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
-        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Armes - WuWa Tracker",
+        "description": "Consultez la liste les armes de Wuthering Waves, leurs atributs et surveiller votre inventaire, tout au même endroit. Wuwa Tracker est un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Partagez vos invocations avec vos amis et suivez votre compte !"
       }
     },
     "Planner": {
