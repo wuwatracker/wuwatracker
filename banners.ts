@@ -262,6 +262,6 @@ export const rawBanners: BannerInfo[] = [
 ];
 
 export const banners = rawBanners.filter((b) => {
-  const UNRELEASED_BANNERS: number[] = [100008, 200008, 100009, 200009];
+  const UNRELEASED_BANNERS: number[] = [100009, 200009];
   return !UNRELEASED_BANNERS.includes(b.bannerId);
 });
