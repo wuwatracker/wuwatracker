@@ -93,7 +93,12 @@
     "Verdant Summit": "Verdant Summit",
     "Rime-Draped Sprouts": "Rime-Draped Sprouts",
     "Verity's Handle": "Verity's Handle",
-    "Augment": "Augment"
+    "Augment": "Augment",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "Рекомендуемый Резонатор",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy",
     "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Chromatic Prose": "Chromatic Prose",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "Импортировать",
@@ -192,6 +198,10 @@
       "Item": {
         "title": "Предметы - WuWa Tracker",
         "description": "Просматривайте информацию о предметах и местах их получения в Wuthering Waves. WuWa Tracker - это счетчик круток для Wuthering Waves, использующий актуальные данные с глобальной статистикой и многое другое. Делитесь своими достижениями с друзьями и следите за прогрессом своего аккаунта!"
+      },
+      "Weapon": {
+        "title": "Weapons - WuWa Tracker",
+        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
