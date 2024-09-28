@@ -206,7 +206,7 @@
     },
     "Planner": {
       "title": "Planeador de materiales - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "description": "¡La calculadora de Wuthering Waves más poderosa para planificar el nivel de ascensión, habilidad y materiales de EXP de tu resonador! WuWa Tracker tiene una amplia gama de herramientas para mejorar tu experiencia."
     }
   },
   "Layout": {
@@ -214,31 +214,31 @@
       "label": "Ayuda a traducir"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "No estamos afiliados con Wuthering Waves. Todos los elementos, contenido del juego, y materiales que no son de nuestra propiedad, son marcas comerciales y con derechos de autor registrados por Kuro Games.",
       "Privacy Policy": "Políticas de privacidad",
       "Terms & Conditions": "Términos y condiciones"
     }
   },
   "MenuList": {
     "Tools": "Herramientas",
-    "Inventory": "Inventory",
+    "Inventory": "Inventario",
     "Guides": "Guías",
     "Config": "Configuraciones",
     "Convene Tracker": "Mis tiradas",
     "Global Stats": "Datos Globales",
     "Share History": "Compartir historial",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "Planificador",
+    "Items": "Objetos",
     "Achievements": "Logros",
     "Timeline": "Cronograma",
     "Import": "Importar",
     "Settings": "Ajustes",
-    "Resonators": "Resonators",
-    "Weapons": "Weapons",
+    "Resonators": "Resonadores",
+    "Weapons": "Armas",
     "Support Us": "Apóyanos",
     "Sign In To Google": "Iniciar sesión con Google",
     "Sign Out": "Cerrar Sesión",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "Pedir ayuda"
   },
   "Dashboard": {
     "title": "Panel",
@@ -272,7 +272,7 @@
   "Achievements": {
     "title": "Logros",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "no se han encontrado logros",
       "toast": {
         "import-success": "Datos importados exitosamente.",
         "import-invalid": "Por favor importa datos válidos.",
@@ -287,9 +287,9 @@
       },
       "Hidden": "Oculto",
       "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Completion": "Estado",
+      "Complete": "Completo",
+      "Incomplete": "Incompleto",
       "Click to upload": "Clic para subir archivo",
       "or drag and drop": "o arrastra y suelta",
       "Import": "Importar",
@@ -322,8 +322,8 @@
     "UserRecentConvenes": {
       "Recent Convenes": "Invocaciones recientes",
       "no-filters": "no se ha seleccionado ningún filtro",
-      "no-records": "no records to show",
-      "note-max": "This summary only shows up to {num} recent pulls."
+      "no-records": "no hay registros que mostrar",
+      "note-max": "Este resumen solo muestra hasta {num} tiradas recientes."
     },
     "UserPullHistoryTable": {
       "Pull History": "Historial de invocación",
@@ -338,35 +338,35 @@
       "Pulls": "Tiradas"
     },
     "BannerSwitcher": {
-      "All Banners": "All Banners",
-      "no-banners": "No banners found.",
-      "search": "Search banner..."
+      "All Banners": "Todos los banners",
+      "no-banners": "No se ha encontrado banners.",
+      "search": "Buscar banner..."
     },
     "WidgetLuck": {
-      "title": "{num}✦ Luck Rating",
-      "no-luck": "this banner has no luck stats",
-      "top": "Top {percentile}%",
-      "bottom": "Bottom {percentile}%",
-      "luckier": "Luckier than {percentile}% of players",
-      "unluckier": "Unluckier than {percentile}% of players",
-      "Pull more to unlock": "Pull more to unlock",
-      "You need more pulls to view statistics": "You need more pulls to view statistics",
+      "title": "Ratio de suerte de {num}✦",
+      "no-luck": "este banner no tiene estadísticas de suerte",
+      "top": "{percentile}% superior",
+      "bottom": "{percentile}% inferior",
+      "luckier": "Tienes más suerte que el {percentile}% de los jugadores",
+      "unluckier": "Tienes peor suerte que el {percentile}% de los jugadores",
+      "Pull more to unlock": "Invoca más para desbloquear",
+      "You need more pulls to view statistics": "Necesitas más tiradas para ver las estadísticas",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Pity promedio",
+          "formula": "¿Cuál es tu promedio de pity de {qualityLevel}-estrellas?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Tasa de invocación",
+          "formula": "¿Qué porcentaje de todas tus tiradas fueron {qualityLevel}-estrellas?"
         },
         "RateUpWins5": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "50/50 Ganados",
+          "formula": "¿Qué porcentaje de tus tiradas 50/50 has ganado?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Personajes destacados ganados",
+          "formula": "¿Qué tan seguidos fueron tus tiradas de 4-estrellas destacadas?"
         }
       }
     },
@@ -395,11 +395,11 @@
   },
   "Import": {
     "title": "Importar",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "Esta URL ha expirado. Por favor abre tu Historial de invocación e importa de nuevo.",
+    "invalid-url": "Tu URL de historial de invocación es inválida.",
+    "import-success": "¡URL del historial de invocación importada exitosamente!",
+    "expiration-notice-title": "Expiración de la URL",
+    "expiration-notice-content": "Desde el parche 1.2 tu URL ahora expirará después de una hora. Para ver tus tiradas actualizadas, por favor asegúrate de abrir tu historial de invocación en el juego antes de importar de nuevo.",
     "Import Tutorial": "Tutorial para importar",
     "PC": {
       "title": "PC",
@@ -552,14 +552,14 @@
     "Report an Issue": "Reportar un problema",
     "SettingCloudSync": {
       "UserProfilePicker": {
-        "no-pulls": "No pulls found...",
-        "pick-a-profile": "Select a profile..."
+        "no-pulls": "No se han encontrado tiradas...",
+        "pick-a-profile": "Elige un perfil..."
       },
       "sign-out-success": "Has cerrado sesión exitosamente.",
       "is-synced": "Los datos están sincronizados",
       "is-not-synced": "Los datos NO están sincronizados",
       "Cloud Backup": "Copia en la nube",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "Guarda tus datos automáticamente usando Google Drive y accede a ellos desde cualquier dispositivo.",
       "Guest": "Invitado",
       "Sign In to Google": "Iniciar sesión con Google",
       "Log Out": "Cerrar sesión",
@@ -603,20 +603,20 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "Resonadores"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Armas"
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "Planeador de materiales"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "Has cerrado sesión exitosamente.",
+    "re-login-to-sync": "Tienes que iniciar sesión de nuevo para continuar sincronizando tus datos.",
+    "drive-pulls-in-sync": "Tus tiradas están sincronizadas con Google Drive.",
+    "drive-pulls-imported": "Se ha importado exitosamente tus tiradas desde Google Drive.",
+    "drive-pulls-saved": "Se ha guardado exitosamente tus tiradas en Google Drive."
   }
 }
