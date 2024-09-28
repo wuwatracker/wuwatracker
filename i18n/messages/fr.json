@@ -71,7 +71,7 @@
     "Rectifier of Voyager": "Amplificateur du Voyageur",
     "Rectifier#25": "Amplificateur #25",
     "Static Mist": "Brouillard stable",
-    "Stellar Symphony": "Stellar Symphony",
+    "Stellar Symphony": "Symphonie stellaire",
     "Stonard": "Main d'or",
     "Stringmaster": "Main du marionnettiste",
     "Sword of Night": "Épée de Nuit",
@@ -206,7 +206,7 @@
     },
     "Planner": {
       "title": "Calculateur de matériaux - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "description": "Le plus puissant calculateur de Wuthering Waves pour planifier l'augmentation du niveau de vos résonateurs, vos compétences et vos matériaux d'EXP ! WuWa Tracker mets à disposition de nombreux outils pour améliorer votre expérience du jeu."
     }
   },
   "Layout": {
@@ -234,7 +234,7 @@
     "Import": "Importer",
     "Settings": "Paramètres",
     "Resonators": "Résonateurs",
-    "Weapons": "Weapons",
+    "Weapons": "Armes",
     "Support Us": "Soutenez-nous",
     "Sign In To Google": "Se connecter via Google",
     "Sign Out": "Se déconnecter",
@@ -606,7 +606,7 @@
       "title": "Résonateurs"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Armes"
     }
   },
   "Planner": {
