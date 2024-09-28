@@ -93,7 +93,12 @@
     "Verdant Summit": "Verdant Summit",
     "Rime-Draped Sprouts": "Rime-Draped Sprouts",
     "Verity's Handle": "Verity's Handle",
-    "Augment": "Augment"
+    "Augment": "Augment",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "Kiemelt karakter",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "Thawborn Renewal",
     "Vermillion's Ploy": "Vermillion's Ploy",
     "Celestial Revelation": "Celestial Revelation",
-    "Chromatic Prose": "Chromatic Prose"
+    "Chromatic Prose": "Chromatic Prose",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "Előzmények importálása",
@@ -192,11 +198,15 @@
       "Item": {
         "title": "Eszközök - WuWa Tracker",
         "description": "Nézd meg a Wuthering Waves teszközinformációkat, a leadási helyeket, és kövesd a készletedet - mindezt egy helyen. WuWa Tracker kívánság számláló Wuthering Waves számára, a naprakész adatok felhasználásával globális statisztikák és több. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
+      },
+      "Weapon": {
+        "title": "Fegyverek - WuWa Tracker",
+        "description": "Nézd meg a Wuthering Waves fegyver információkat, a leadási helyeket, és kövesd a készletedet - mindezt egy helyen. WuWa Tracker kívánság számláló Wuthering Waves számára, a naprakész adatok felhasználásával globális statisztikák és több. Oszd meg a húzásaidat barátaiddal, és kövesd a fiókodat!"
       }
     },
     "Planner": {
       "title": "Alapanyag tervező - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "description": "A leghatékonyabb Wuthering Waves tervező a karakterfejlődési szint, készség és EXP anyagok tervezéséhez! A WuWa Tracker gazdag eszköztárral rendelkezik, hogy fokozza a játékélményt."
     }
   },
   "Layout": {
@@ -224,7 +234,7 @@
     "Import": "Importálás",
     "Settings": "Beállítások",
     "Resonators": "Karakterek",
-    "Weapons": "Weapons",
+    "Weapons": "Fegyverek",
     "Support Us": "Támogatás",
     "Sign In To Google": "Bejelentkezés Google-be",
     "Sign Out": "Kijelentkezés",
@@ -596,7 +606,7 @@
       "title": "Karakterek"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Fegyverek"
     }
   },
   "Planner": {

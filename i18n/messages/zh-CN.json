@@ -93,7 +93,12 @@
     "Verdant Summit": "苍鳞千嶂",
     "Rime-Draped Sprouts": "琼枝冰绡",
     "Verity's Handle": "诸方玄枢",
-    "Augment": "Augment"
+    "Augment": "Augment",
+    "Endless Collapse": "Endless Collapse",
+    "Waning Redshift": "Waning Redshift",
+    "Relativistic Jet": "Relativistic Jet",
+    "Celestial Spiral": "Celestial Spiral",
+    "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
     "Featured Resonator": "角色活动唤取",
@@ -115,7 +120,8 @@
     "Thawborn Renewal": "寒尽觉春生",
     "Vermillion's Ploy": "炽羽策阵星",
     "Celestial Revelation": "千机逐星野",
-    "Chromatic Prose": "赋彩作长吟"
+    "Chromatic Prose": "赋彩作长吟",
+    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
   },
   "Common": {
     "Import History": "导入历史记录",
@@ -192,6 +198,10 @@
       "Item": {
         "title": "物品 - WuWa Tracker",
         "description": "查看《鸣潮》物品的信息及其掉落位置，并追踪您的物品栏，且上述操作均可于本网站的同一处完成，免去切换网页或工具的麻烦。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
+      },
+      "Weapon": {
+        "title": "Weapons - WuWa Tracker",
+        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
