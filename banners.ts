@@ -255,7 +255,7 @@ export const rawBanners: BannerInfo[] = [
     alt: "Verdant Summit",
     rateUp5Names: ["Verdant Summit"],
     rateUp4Names: ["Celestial Spiral", "Variation", "Helios Cleaver"],
-    startDate: "2024-10-24 10:00",
+    startDate: "2024-10-24 09:00",
     endDate: "2024-11-13 11:59:59",
   },
   ...standardBanners,
