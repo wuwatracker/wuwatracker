@@ -5,7 +5,7 @@
     "Aalto": "秋水",
     "Baizhi": "白芷",
     "Calcharo": "卡卡罗",
-    "Camellya": "Camellya",
+    "Camellya": "椿",
     "Changli": "长离",
     "Chixia": "炽霞",
     "Danjin": "丹瑾",
@@ -14,10 +14,10 @@
     "Jinhsi": "今汐",
     "Jiyan": "忌炎",
     "Lingyang": "凌阳",
-    "Lumi": "Lumi",
+    "Lumi": "灯灯",
     "Mortefi": "莫特斐",
     "Sanhua": "散华",
-    "Shorekeeper": "Shorekeeper",
+    "Shorekeeper": "守岸人",
     "Taoqi": "桃祈",
     "Verina": "维里奈",
     "Yangyang": "秧秧",
@@ -25,7 +25,7 @@
     "Yuanwu": "渊武",
     "Zhezhi": "折枝",
     "Xiangli Yao": "相里要",
-    "Youhu": "Youhu",
+    "Youhu": "釉瑚",
     "Abyss Surges": "擎渊怒涛",
     "Ages of Harvest": "时和岁稔",
     "Amity Accord": "袍泽之固",
@@ -71,34 +71,34 @@
     "Rectifier of Voyager": "远行者矩阵·探幽",
     "Rectifier#25": "鸣动仪-25型",
     "Static Mist": "停驻之烟",
-    "Stellar Symphony": "Stellar Symphony",
+    "Stellar Symphony": "星序协响",
     "Stonard": "金掌",
     "Stringmaster": "掣傀之手",
     "Sword of Night": "暗夜迅刀·黑闪",
     "Sword of Voyager": "远行者迅刀·旅迹",
     "Sword#18": "瞬斩刀-18型",
     "Thunderbolt": "奔雷",
-    "Training Broadblade": "Training Broadblade",
-    "Training Gauntlets": "Training Gauntlets",
-    "Training Pistols": "Training Pistols",
-    "Training Rectifier": "Training Rectifier",
-    "Training Sword": "Training Sword",
-    "Tyro Broadblade": "Tyro Broadblade",
-    "Tyro Gauntlets": "Tyro Gauntlets",
-    "Tyro Pistols": "Tyro Pistols",
-    "Tyro Rectifier": "Tyro Rectifier",
-    "Tyro Sword": "Tyro Sword",
+    "Training Broadblade": "教学长刃",
+    "Training Gauntlets": "教学臂铠",
+    "Training Pistols": "教学佩枪",
+    "Training Rectifier": "教学音感仪",
+    "Training Sword": "教学迅刀",
+    "Tyro Broadblade": "原初长刃・朴石",
+    "Tyro Gauntlets": "原初臂铠・磐岩",
+    "Tyro Pistols": "原初佩枪・穿林",
+    "Tyro Rectifier": "原初音感仪・听浪",
+    "Tyro Sword": "原初迅刀・鸣雨",
     "Undying Flame": "无眠烈火",
     "Variation": "奇幻变奏",
     "Verdant Summit": "苍鳞千嶂",
     "Rime-Draped Sprouts": "琼枝冰绡",
     "Verity's Handle": "诸方玄枢",
-    "Augment": "Augment",
-    "Endless Collapse": "Endless Collapse",
-    "Waning Redshift": "Waning Redshift",
-    "Relativistic Jet": "Relativistic Jet",
-    "Celestial Spiral": "Celestial Spiral",
-    "Fusion Accretion": "Fusion Accretion"
+    "Augment": "清音",
+    "Endless Collapse": "永续坍缩",
+    "Waning Redshift": "凋亡频移",
+    "Relativistic Jet": "悖论喷流",
+    "Celestial Spiral": "尘云旋臂",
+    "Fusion Accretion": "核熔星盘"
   },
   "CardPoolNames": {
     "Featured Resonator": "角色活动唤取",
@@ -121,7 +121,7 @@
     "Vermillion's Ploy": "炽羽策阵星",
     "Celestial Revelation": "千机逐星野",
     "Chromatic Prose": "赋彩作长吟",
-    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
+    "Til the Sea Turns Clear": "直至海水褪色"
   },
   "Common": {
     "Import History": "导入历史记录",
@@ -200,13 +200,13 @@
         "description": "查看《鸣潮》物品的信息及其掉落位置，并追踪您的物品栏，且上述操作均可于本网站的同一处完成，免去切换网页或工具的麻烦。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
-        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "武器 - WuWa Tracker",
+        "description": "查看《鸣潮》武器的信息及属性，并追踪您的物品栏，且上述操作均可于本网站的同一处完成，免去切换网页或工具的麻烦。WuWa Tracker 使用了全球最新统计数据为《鸣潮》计算保底。您可以与朋友分享你的抽卡记录，并轻松追踪您的账户！"
       }
     },
     "Planner": {
       "title": "材料规划工具 - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "description": "功能最强大的《鸣潮》计算器，能够规划您在升级共鸣者时所消耗的等级突破材料、技能材料和经验材料。WuWa Tracker 拥有丰富的工具套件，能够让您游戏的体验更佳。"
     }
   },
   "Layout": {
@@ -234,7 +234,7 @@
     "Import": "导入",
     "Settings": "设置",
     "Resonators": "共鸣者",
-    "Weapons": "Weapons",
+    "Weapons": "武器",
     "Support Us": "支持我们",
     "Sign In To Google": "登录 Google",
     "Sign Out": "退出登录",
@@ -606,7 +606,7 @@
       "title": "共鸣者"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "武器"
     }
   },
   "Planner": {
