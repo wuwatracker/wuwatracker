@@ -65,7 +65,7 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
       group: 0,
     },
     {
-      name: "Stellar Symphony - Shorekeeper Weapon Banner",
+      name: "Verdant Summit - Jiyan Weapon Banner",
       img: "https://snipboard.io/MugnOr.jpg",
       description:
         "Featured 4* are; Celestial Spiral, Variation, Helios Cleaver.",
