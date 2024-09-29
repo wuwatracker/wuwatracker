@@ -572,6 +572,7 @@ export const items = [
     qualityLevel: 1,
     dropLocations: [
       "Overworld Collection",
+      "Collection Spots",
       "Heron Wetland",
       "Shifang Pharmacy",
     ],
@@ -594,6 +595,7 @@ export const items = [
     qualityLevel: 1,
     dropLocations: [
       "Overworld Collection",
+      "Collection Spots",
       "Withered Line",
       "Camp Overwatch",
       "Shifang Pharmacy",
@@ -617,6 +619,7 @@ export const items = [
     qualityLevel: 1,
     dropLocations: [
       "Overworld Collection",
+      "Collection Spots",
       "Tiger's Maw Mine",
       "Shifang Pharmacy",
     ],
@@ -637,7 +640,12 @@ export const items = [
     flavor:
       "A vibrant flower, with its sap often processed into dye.\nKnown for its fragrance and water-resistant properties, the flower is commonly used to produce seal ink paste for official or personalized stamps.",
     qualityLevel: 1,
-    dropLocations: ["Overworld Collection", "Taoyuan Vale", "Shifang Pharmacy"],
+    dropLocations: [
+      "Overworld Collection",
+      "Collection Spots",
+      "Taoyuan Vale",
+      "Shifang Pharmacy",
+    ],
     sortIndex: 0,
     iconSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconRup/T_IconRup_SM_Gat_18A_UI.webp",
@@ -657,6 +665,7 @@ export const items = [
     qualityLevel: 1,
     dropLocations: [
       "Overworld Collection",
+      "Collection Spots",
       "Sea of Flames",
       "Shifang Pharmacy",
     ],
@@ -682,6 +691,7 @@ export const items = [
       "Giant Banyan",
       "Forbidden Forest",
       "Shifang Pharmacy",
+      "Collection Spots",
     ],
     sortIndex: 0,
     iconSrc:
@@ -702,6 +712,7 @@ export const items = [
     qualityLevel: 1,
     dropLocations: [
       "Overworld Collection",
+      "Collection Spots",
       "Bell-Borne Ravine",
       "Shifang Pharmacy",
     ],
@@ -722,7 +733,13 @@ export const items = [
     flavor:
       "Violet Coral, commonly found trapped in the shallow beaches, is always revitalized with the flow and withered with the ebb.",
     qualityLevel: 1,
-    dropLocations: ["Overworld Collection", "Norfall Barrens", "Wuming Bay"],
+    dropLocations: [
+      "Overworld Collection",
+      "Collection Spots",
+      "Norfall Barrens",
+      "Wuming Bay",
+      "Shifang Pharmacy",
+    ],
     sortIndex: 0,
     iconSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconC/T_IconC_Sep_061_UI.webp",
@@ -1490,9 +1507,14 @@ export const items = [
     tags: ["Ascension Material"],
     description: "A material used for Resonator Ascension.",
     flavor:
-      "Berries resembling feather-like berries, the people of Hongzhen call them Linglong Hearts.\nThey have an incredibly spicy taste and are said to be able to refresh the mind and enhance intelligence when consumed.",
+      "Berries resembling feathers, the people of Hongzhen call them Linglong Hearts.\nThey have an incredibly spicy taste and are said to be able to refresh the mind and enhance intelligence when consumed.",
     qualityLevel: 1,
-    dropLocations: ["Luminous Shore", "Mt. Firmament", "Shifang Pharmacy"],
+    dropLocations: [
+      "Luminous Shore",
+      "Collection Spots",
+      "Mt. Firmament",
+      "Shifang Pharmacy",
+    ],
     sortIndex: 0,
     iconSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconC/T_IconC_029_UI.webp",
@@ -1510,7 +1532,12 @@ export const items = [
     flavor:
       "A tranquil flower, casting its gentle radiance amidst the shadows.",
     qualityLevel: 1,
-    dropLocations: ["Mianloong Chamber", "Mt. Firmament", "Shifang Pharmacy"],
+    dropLocations: [
+      "Mianloong Chamber",
+      "Collection Spots",
+      "Mt. Firmament",
+      "Shifang Pharmacy",
+    ],
     sortIndex: 0,
     iconSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconC/T_IconC_030_UI.webp",
@@ -1529,7 +1556,7 @@ export const items = [
     flavor:
       "A ritual vessel gifted by Sentinel Jué.\nLegend holds that upon the Lament's arrival in Jinzhou, time became entangled, with no more clear line between mornings and nights.\nThe Magistrate used the Sentinel's dagger as the gnomon of the sundial to determine the date and time.",
     qualityLevel: 4,
-    dropLocations: ["Can be obtained by challenging Sentinel Jué."],
+    dropLocations: ["Sentinel Jué"],
     sortIndex: 5,
     iconSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_005_UI.webp",
@@ -1537,5 +1564,41 @@ export const items = [
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMout160/T_IconMout160_005_UI.webp",
     iconSmallSrc:
       "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMout80/T_IconMout80_005_UI.webp",
+  },
+  {
+    id: 42310230,
+    slug: "nova",
+    name: "Nova",
+    tags: ["Ascension Material"],
+    description: "A material used for Resonator Ascension.",
+    flavor:
+      "An unstable crystal precipitated out of highly concentrated Remnant Energy. It is so unsteady that it starts to sublimate as soon as it is formed, disappearing into thin air as energy. Its existence reminds one of the transience of the life of a Nova.",
+    qualityLevel: 1,
+    dropLocations: ["Black Shores", "Collection Spots", "KU-Money's Shop"],
+    sortIndex: 0,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask/T_IconTask_Task_084_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask160/T_IconTask160_Task_084_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconTask80/T_IconTask80_Task_084_UI.webp",
+  },
+  {
+    id: 41400154,
+    slug: "topological-confinement",
+    name: "Topological Confinement",
+    tags: ["Resonator Ascension Material"],
+    description: "Fallacy of No Return's drop, used for Resonator Ascension.",
+    flavor:
+      "A dataset with an ever-changing topology that serves to create an infinite, eternal representation of reality. The Tethys System created this prison of causality, where unknown variations, including love and hope, are forever trapped.",
+    qualityLevel: 4,
+    dropLocations: ["Fallacy of No Return"],
+    sortIndex: 5,
+    iconSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMout/T_IconMout_L_015_UI.webp",
+    iconMiddleSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMout160/T_IconMout160_L_015_UI.webp",
+    iconSmallSrc:
+      "static/Client/Content/Aki/UI/UIResources/Common/Image/IconMout80/T_IconMout80_L_015_UI.webp",
   },
 ];
