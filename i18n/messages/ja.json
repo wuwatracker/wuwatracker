@@ -94,11 +94,11 @@
     "Rime-Draped Sprouts": "氷華の雅印",
     "Verity's Handle": "万端の枢機",
     "Augment": "清らかな音",
-    "Endless Collapse": "Endless Collapse",
-    "Waning Redshift": "Waning Redshift",
-    "Relativistic Jet": "Relativistic Jet",
-    "Celestial Spiral": "Celestial Spiral",
-    "Fusion Accretion": "Fusion Accretion"
+    "Endless Collapse": "永遠を砕く重力崩壊",
+    "Waning Redshift": "破滅に迫る赤方偏移",
+    "Relativistic Jet": "悖理を説く宇宙ジェット",
+    "Celestial Spiral": "星屑が捩れる渦巻腕",
+    "Fusion Accretion": "コアが溶融する降着円盤"
   },
   "CardPoolNames": {
     "Featured Resonator": "ピックアップ共鳴者",
@@ -121,7 +121,7 @@
     "Vermillion's Ploy": "星々を弄ぶ焔羽",
     "Celestial Revelation": "星々の野を駆ける千機",
     "Chromatic Prose": "極彩色に染まる詩",
-    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
+    "Til the Sea Turns Clear": "汐の色褪せる頃に"
   },
   "Common": {
     "Import History": "履歴をインポート",
@@ -200,7 +200,7 @@
         "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
+        "title": "武器 - WuWa Tracker",
         "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
