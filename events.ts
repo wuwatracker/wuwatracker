@@ -198,8 +198,8 @@ const rawEvents: { banners: Event[]; activities: Event[] } = {
     {
       name: "Tower of Adversity: Hazard Revisited",
       img: "https://snipboard.io/NnA3YO.jpg",
-      startDate: "2024-09-16 04:00",
-      endDate: "2024-09-30 04:00",
+      startDate: "2024-09-30 04:00",
+      endDate: "2024-10-13 15:00",
       color: "#18235f",
       reliability: "Official",
       group: EVENT_GROUP.TOWER_OF_ADVERSITY,
