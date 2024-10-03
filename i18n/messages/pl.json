@@ -347,7 +347,7 @@
       "no-luck": "this banner has no luck stats",
       "top": "Top {percentile}%",
       "bottom": "Dolne {percentile}%",
-      "luckier": "Luckier than {percentile}% of players",
+      "luckier": "Więcej szczęścia niż {percentile} proc. graczy",
       "unluckier": "Unluckier than {percentile}% of players",
       "Pull more to unlock": "Pull more to unlock",
       "You need more pulls to view statistics": "You need more pulls to view statistics",
@@ -412,8 +412,8 @@
     },
     "iOS": "iOS",
     "Heading": {
-      "title": "Choose a Method",
-      "description": "If the automatic method doesn't work for you, try doing it manually using the other tutorial. If you still need help, please visit our <link>Discord Server</link>.",
+      "title": "Wybierz Metodę",
+      "description": "",
       "description-android": "If the first method doesn't work for you, try the other one. If you still need help, please visit our <link>Discord Server</link>."
     },
     "PC1Tutorial": {
