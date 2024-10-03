@@ -184,7 +184,7 @@
     },
     "Terms & Conditions": {
       "title": "Terms & Conditions - WuWa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
+      "description": "Niniejsze warunki określają zasady i regulacje korzystania ze strony internetowej i usług WuWa Tracker."
     },
     "Timeline": {
       "title": "Event Timeline - WuWa Tracker",
@@ -270,7 +270,7 @@
     }
   },
   "Achievements": {
-    "title": "Achievements",
+    "title": "Osiągnięcia",
     "AchievementsPageContent": {
       "no-achievements": "no achievements found",
       "toast": {
@@ -346,7 +346,7 @@
       "title": "{num}✦ Luck Rating",
       "no-luck": "this banner has no luck stats",
       "top": "Top {percentile}%",
-      "bottom": "Bottom {percentile}%",
+      "bottom": "Dolne {percentile}%",
       "luckier": "Luckier than {percentile}% of players",
       "unluckier": "Unluckier than {percentile}% of players",
       "Pull more to unlock": "Pull more to unlock",
