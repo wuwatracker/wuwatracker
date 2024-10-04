@@ -101,23 +101,23 @@
     "Fusion Accretion": "Fusion Accretion"
   },
   "CardPoolNames": {
-    "Featured Resonator": "Featured Resonator",
-    "Featured Weapon": "Featured Weapon",
+    "Featured Resonator": "Wyróżniony Baner Postaci",
+    "Featured Weapon": "Wyróżniony Baner Broni",
     "Permanent Resonator": "Permanent Resonator",
-    "Permanent Weapon": "Permanent Weapon",
-    "Novice Convene": "Novice Convene",
-    "Beginner's Choice": "Beginner's Choice",
-    "Selector Ticket": "Selector Ticket",
+    "Permanent Weapon": "Permanentna Broń",
+    "Novice Convene": "Baner nowicjusza",
+    "Beginner's Choice": "Wybór początkującego",
+    "Selector Ticket": "Znacznik Wyboru",
     "Tidal Chorus": "Tidal Chorus",
     "Winter Brume": "Winter Brume",
     "Utterance of Marvels": "Utterance of Marvels",
-    "Beginner's Choice Convene": "Beginner's Choice Convene",
-    "Giveback Event Convene": "Giveback Event Convene",
+    "Beginner's Choice Convene": "Baner wyboru początkującego",
+    "Giveback Event Convene": "Baner Wydarzenia Giveback",
     "Absolute Pulsation": "Absolute Pulsation",
     "Prevail the Lasting Night": "Prevail the Lasting Night",
     "When Thunder Pours": "When Thunder Pours",
     "When Thunder Pours (Early)": "When Thunder Pours (Early)",
-    "Thawborn Renewal": "Thawborn Renewal",
+    "Thawborn Renewal": "Thawborn Renewa",
     "Vermillion's Ploy": "Vermillion's Ploy",
     "Celestial Revelation": "Celestial Revelation",
     "Chromatic Prose": "Chromatic Prose",
@@ -187,7 +187,7 @@
       "description": "Niniejsze warunki określają zasady i regulacje korzystania ze strony internetowej i usług WuWa Tracker."
     },
     "Timeline": {
-      "title": "Event Timeline - WuWa Tracker",
+      "title": "Oś Czasu Wydarzeń - WuWa Tracker",
       "description": "Korzystając z lokalnej strefy czasowej lub dowolnej strefy czasowej serwera Wuthering Waves, możesz przeglądać harmonogram wszystkich banerów, wydarzenia w grze, okresy Tower of Adversity oraz Depths of Illusive Realm - wszystko w jednym miejscu. WuWa Tracker to licznik pity dla Wuthering Waves wykorzystujący aktualne dane z globalnymi statystykami i nie tylko. Synchronizuj Swoje dane między urządzeniami, udostępniaj Swoje pulle ze swoimi znajomymi oraz śledź Swoje konto z łatwością!"
     },
     "Wiki": {
@@ -272,7 +272,7 @@
   "Achievements": {
     "title": "Osiągnięcia",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "nie znaleziono osiągnięć",
       "toast": {
         "import-success": "Pomyślnie zaimportowano dane.",
         "import-invalid": "Proszę importować poprawne dane.",
@@ -365,7 +365,7 @@
           "formula": "Jaki procent 50/50 wygrałeś?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
+          "title": "",
           "formula": "How often were your 4-star pulls rate-up?"
         }
       }
