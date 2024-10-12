@@ -71,34 +71,34 @@
     "Rectifier of Voyager": "Rectifier of Voyager",
     "Rectifier#25": "Pháp khí số 25",
     "Static Mist": "Sương Tĩnh",
-    "Stellar Symphony": "Stellar Symphony",
+    "Stellar Symphony": "Tinh Tú Hòa Ca",
     "Stonard": "Tựa Thạch",
     "Stringmaster": "Khôi Lỗi Sư",
     "Sword of Night": "Đoản Kiếm của Màn Đêm",
     "Sword of Voyager": "Đoản Kiếm của Nhà Du hành",
     "Sword#18": "Đoản kiếm số 18",
     "Thunderbolt": "Thunderbolt",
-    "Training Broadblade": "Training Broadblade",
-    "Training Gauntlets": "Training Gauntlets",
-    "Training Pistols": "Training Pistols",
-    "Training Rectifier": "Training Rectifier",
-    "Training Sword": "Training Sword",
-    "Tyro Broadblade": "Tyro Broadblade",
-    "Tyro Gauntlets": "Tyro Gauntlets",
-    "Tyro Pistols": "Tyro Pistols",
-    "Tyro Rectifier": "Tyro Rectifier",
-    "Tyro Sword": "Tyro Sword",
+    "Training Broadblade": "Đại Kiếm Đấu Tập",
+    "Training Gauntlets": "Găng Đấu Tập",
+    "Training Pistols": "Súng Đấu Tập",
+    "Training Rectifier": "Bộ Chỉnh Lưu Đấu Tập",
+    "Training Sword": "Kiếm Đơn Đấu Tập",
+    "Tyro Broadblade": "Đại Kiếm Tập Sự",
+    "Tyro Gauntlets": "Găng Tập Sự",
+    "Tyro Pistols": "Súng Tập Sự",
+    "Tyro Rectifier": "Bộ Chỉnh Lưu Tập Sự",
+    "Tyro Sword": "Kiếm Đơn Tập Sự",
     "Undying Flame": "Hỏa Diểm Bất Tận",
     "Variation": "Variation",
     "Verdant Summit": "Verdant Summit",
     "Rime-Draped Sprouts": "Chồi Xuân Ẩn Giấu",
     "Verity's Handle": "Ngưỡng Cửa Sự Thật",
-    "Augment": "Augment",
-    "Endless Collapse": "Endless Collapse",
-    "Waning Redshift": "Waning Redshift",
-    "Relativistic Jet": "Relativistic Jet",
-    "Celestial Spiral": "Celestial Spiral",
-    "Fusion Accretion": "Fusion Accretion"
+    "Augment": "Phóng Đại",
+    "Endless Collapse": "Va Chạm Không Hồi Kết",
+    "Waning Redshift": "Dịch Chuyển Đỏ Chậm Dần",
+    "Relativistic Jet": "Tia Phun Tương Đối Tính",
+    "Celestial Spiral": "Xương Sống Thiên Không",
+    "Fusion Accretion": "Hạt Nhân Bồi Tụ"
   },
   "CardPoolNames": {
     "Featured Resonator": "Nhân Vật Giới Hạn",
@@ -121,19 +121,19 @@
     "Vermillion's Ploy": "Châu Sa Tinh Nghịch",
     "Celestial Revelation": "Phát Hiện Sáng Suốt",
     "Chromatic Prose": "Áng Văn Rực Rỡ",
-    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
+    "Til the Sea Turns Clear": "Khi Biển Sâu Trong Vắt"
   },
   "Common": {
     "Import History": "Nhập Lịch sử Triệu hồi",
-    "All": "All",
-    "Search": "Search"
+    "All": "Tất cả",
+    "Search": "Tìm kiếm"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "UID của bạn phải bao gồm 9 kí tự",
+      "Your record ID cannot be empty": "Lịch sử ID của bạn không thể để trống",
+      "Your URL contains an invalid server ID": "UID của bạn chứa ID server không hợp lệ",
+      "Your server area is not supported at the moment": "Server khu vực của bạn hiện không hỗ trợ"
     }
   },
   "Metadata": {
@@ -147,66 +147,66 @@
     "Convene": {
       "Index": {
         "title": "Lịch sử Quay",
-        "description": "View your updated Wuthering Waves pull statistics and recent Convenes. Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "description": "Xem thống kê về việc triệu hồi trong Wuthering Waves và lịch sử triệu hồi của Bạn. Sử dụng bảng điều khiển sẵn sàng cho ảnh chụp để khoe với bạn bè! Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
       },
       "Global": {
-        "title": "Global Statistics - WuWa Tracker",
-        "description": "View global pull statistics for the {currentBanner} banner, featuring {currentFeaturedResonator}! Use screenshot-ready dashboards to brag to your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Thống kê toàn cầu - Wuwa Tracker",
+        "description": "Xem thống kê toàn cầu cho banner {currentBanner}, đặc trưng với {currentFeaturedResonator}! Sử dụng bảng điều khiển sẵn sàng cho ảnh chụp để khoe với bạn bè! Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
       },
       "Share": {
-        "title": "Share History - WuWa Tracker",
-        "description": "Create a Convene history card with your pull history to share with your friends! WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Chia sẻ lịch sử - Wuwa Tracker",
+        "description": "Tạo thẻ Lịch sử Triệu hồi với lịch sử quay của bạn để chia sẻ với bạn bè! Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
       }
     },
     "Error": {
-      "title": "An Error Occurred",
-      "description": "An error occurred while using WuWa Tracker. Please send a report to our Discord server so that we can address it promptly."
+      "title": "Đã xảy ra lỗi",
+      "description": "Đã xảy ra lỗi trong khi sử dụng Wuwa Tracker. Vui lòng gửi báo cáo đến máy chủ Discord của chúng tôi để chúng tôi có thể khắc phục vấn đề một cách nhanh chóng."
     },
     "Import": {
-      "title": "Import Convene History - WuWa Tracker",
-      "description": "Follow our interactive tutorial to display your Wuthering Waves data and view your statistics. We support imports from PC, Android and iOS devices with automatic methods. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Nhập Lịch sử Quay - Wuwa Tracker",
+      "description": "Theo hướng dẫn tương tác của chúng tôi để hiển thị dữ liệu Wuthering Waves và xem thống kê của bạn. Chúng tôi hỗ trợ nhập từ các thiết bị PC, Android và iOS với các phương pháp tự động. Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
     },
     "Not Found": {
       "title": "Không tìm thấy",
-      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "description": "Trang này không được tìm thấy trên Wuwa Tracker. Vui lòng quay lại trang chủ để bắt đầu theo dõi dữ liệu Lịch sử Triệu hồi Wuthering Waves."
     },
     "Privacy Policy": {
-      "title": "Privacy Policy - WuWa Tracker",
-      "description": "This privacy policy document outlines the types of personal information that is received and collected by WuWa Tracker and how it is used. WuWa Tracker is a pity counter for Wuthering Waves, using the up-to-date data with global statistics and more."
+      "title": "Chính sách bảo mật - Wuwa Tracker",
+      "description": "Tài liệu chính sách bảo mật này mô tả các loại thông tin cá nhân được nhận và thu thập bởi Wuwa Tracker và cách sử dụng nó. Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác."
     },
     "Sequences": {
-      "title": "Sequences - WuWa Tracker",
+      "title": "Chuỗi - Wuwa Tracker",
       "description": "Xem những Resonator và Vũ khí trùng lặp của bạn và xem thông tin liên quan đến chúng. Bạn có thể trưng bày chúng cho bạn bè!"
     },
     "Settings": {
-      "title": "Settings - WuWa Tracker",
-      "description": "Synchronize your data over Google by signing in. Manage your Wuthering Waves pull data all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Cài đặt - Wuwa Tracker",
+      "description": "Đồng bộ hóa dữ liệu qua Google bằng cách đăng nhập. Quản lý dữ liệu rút thăm Wuthering Waves tất cả trong một nơi. Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
     },
     "Terms & Conditions": {
-      "title": "Terms & Conditions - WuWa Tracker",
-      "description": "These terms and conditions outline the rules and regulations for the use of WuWa Tracker's website and services."
+      "title": "Điều khoản và Điều kiện - Wuwa Tracker",
+      "description": "Những điều khoản và điều kiện này mô tả các quy định và quy tắc cho việc sử dụng trang web và dịch vụ của Wuwa Tracker."
     },
     "Timeline": {
-      "title": "Event Timeline - WuWa Tracker",
-      "description": "Using your local time zone or any Wuthering Waves server time zone, you can view every banner schedule, in-game events, Tower of Adversity & Depths of Illusive Realm periods - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+      "title": "Dòng thời gian sự kiện - Wuwa Tracker",
+      "description": "Sử dụng múi giờ địa phương của bạn hoặc bất kỳ múi giờ máy chủ Wuthering Waves nào để xem lịch biểu của từng biểu ngữ, các sự kiện trong trò chơi, Tower of Adversity & Depths of Illusive Realm - tất cả trong một nơi. Wuwa Tracker là bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều tính năng khác. Chia sẻ kết quả với bạn bè và dễ dàng theo dõi tài khoản!"
     },
     "Wiki": {
       "Resonator": {
-        "title": "Resonators - WuWa Tracker",
-        "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Cộng Hưởng Giả - WuWa Tracker",
+        "description": "Xem thông tin về Cộng hưởng giả Wuthering Waves, hồ sơ, và sử dụng hệ thống tính toán của WuWa Tracker để lên kế hoạch nâng cấp Cộng hưởng giả của bạn. WuWa Tracker là hệ thống ghi lại pity cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều hơn nữa. Chia sẻ lượt Quay của bạn với bạn bè cũng như theo dõi tài khoản!"
       },
       "Item": {
-        "title": "Items - WuWa Tracker",
-        "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Vật phẩm - WuWa Tracker",
+        "description": "Xem thông tin về vật phẩm Wuthering Waves, vị trí rớt đồ và theo dõi kho đồ của bạn - tất cả trong một nơi. Bộ đếm pity của WuWa Tracker cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều hơn nữa. Chia sẻ lượt rút của bạn với bạn bè và theo dõi tài khoản của bạn!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
-        "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
+        "title": "Vũ khí - WuWa Tracker",
+        "description": "Xem thông tin về vật phẩm Wuthering Waves, vị trí rớt đồ và theo dõi kho đồ của bạn - tất cả trong một nơi. Bộ đếm pity của WuWa Tracker cho Wuthering Waves, sử dụng dữ liệu mới nhất với thống kê toàn cầu và nhiều hơn nữa. Chia sẻ lượt rút của bạn với bạn bè và theo dõi tài khoản của bạn!"
       }
     },
     "Planner": {
-      "title": "Material Planner - WuWa Tracker",
-      "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
+      "title": "Kế hoạch thu thập tài nguyên - WuWa Tracker",
+      "description": "Hệ thống Wuthering Waves tối ưu hóa kế hoạch cho cấp độ thăng tiến, kỹ năng và vật liệu EXP cho Cộng hưởng Giả của bạn! WuWa Tracker có một bộ công cụ phong phú để nâng cao trải nghiệm chơi game của bạn."
     }
   },
   "Layout": {
@@ -214,31 +214,31 @@
       "label": "Hỗ trợ dịch"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Trang này không liên kết với Wuthering Waves. Tất cả thương hiệu và bản quyền dữ liệu, nội dung và tài nguyên của trò chơi đều thuộc về Nhà phát hành Kuro Games.",
       "Privacy Policy": "Chính sách Quyền riêng tư",
       "Terms & Conditions": "Điều khoản Dịch vụ"
     }
   },
   "MenuList": {
     "Tools": "Công cụ",
-    "Inventory": "Inventory",
+    "Inventory": "Kho đồ",
     "Guides": "Hướng dẫn",
     "Config": "Thiết lập",
     "Convene Tracker": "Theo dõi Lượt Quay",
     "Global Stats": "Thống kê Toàn cầu",
     "Share History": "Chia sẻ Lịch sử Quay",
-    "Planner": "Planner",
-    "Items": "Items",
+    "Planner": "Kế Hoạch",
+    "Items": "Vật phẩm",
     "Achievements": "Thành Tựu",
     "Timeline": "Timeline",
     "Import": "Nhập Dữ Liệu",
     "Settings": "Cài Đặt",
-    "Resonators": "Resonators",
-    "Weapons": "Weapons",
+    "Resonators": "Cộng hưởng giả",
+    "Weapons": "Vũ Khí",
     "Support Us": "Ủng Hộ Chúng Tôi",
     "Sign In To Google": "Đăng nhập vào Google",
     "Sign Out": "Đăng xuất",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "Tìm kiếm trợ giúp"
   },
   "Dashboard": {
     "title": "Tổng Quan",
@@ -251,7 +251,7 @@
         "data": "dữ liệu",
         "updates": "cập nhật"
       },
-      "title": "WuWa Tracker helps you track",
+      "title": "Wuwa Tracker giúp bạn theo dõi",
       "description": "Một bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu cập nhật với số liệu thống kê toàn cầu và hơn thế nữa. Chúng tôi mong muốn cung cấp những công cụ tốt nhất để giới thiệu tiến trình Wuthering Waves của bạn với bạn bè."
     },
     "Tutorial": {
@@ -272,7 +272,7 @@
   "Achievements": {
     "title": "Thành tựu",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "không phát hiện thành tựu",
       "toast": {
         "import-success": "Nhập dữ liệu thành công.",
         "import-invalid": "Vui lòng nhập dữ liệu hợp lệ.",
@@ -286,10 +286,10 @@
         "description": "Sử dụng dữ liệu đã xuất ra trước đó và đồng bộ hóa nó với trình duyệt của bạn."
       },
       "Hidden": "Đã ẩn",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "Hiện",
+      "Completion": "Tiến độ",
+      "Complete": "Hoàn tất",
+      "Incomplete": "Chưa hoàn tất",
       "Click to upload": "Bấm để tải lên",
       "or drag and drop": "hoặc kéo và thả",
       "Import": "Nhập",
@@ -301,14 +301,14 @@
     "title": "Theo dõi Triệu hồi",
     "ConvenePageContent": {
       "Scroll for More": "Cuộn để biết thêm chi tiết",
-      "Switch View": "Switch View",
-      "Detailed View": "Detailed View",
-      "Import History": "Import History",
-      "Pull History": "Pull History",
-      "Global Statistics": "Global Statistics",
-      "Overview": "Overview",
-      "Recent": "Recent",
-      "Table": "Table"
+      "Switch View": "Đổi cách xem",
+      "Detailed View": "Xem chi tiết",
+      "Import History": "Nhập Lịch sử Quay",
+      "Pull History": "Lịch sử Quay",
+      "Global Statistics": "Dữ liệu toàn cầu",
+      "Overview": "Tổng quan",
+      "Recent": "Gần đây",
+      "Table": "Bảng"
     },
     "ConveneCategoryGlobal": {
       "Global Statistics": "Thống kê toàn cầu"
@@ -317,13 +317,13 @@
       "Convene Categories": "Mục Triệu Hồi"
     },
     "ConveneCategoryPity": {
-      "pity-counter": "{num}✦ Pity"
+      "pity-counter": "✦ Pity"
     },
     "UserRecentConvenes": {
-      "Recent Convenes": "Recent Convenes",
-      "no-filters": "no filters selected",
-      "no-records": "no records to show",
-      "note-max": "This summary only shows up to {num} recent pulls."
+      "Recent Convenes": "Lượt Quay gần đây",
+      "no-filters": "không có bộ lọc được chọn",
+      "no-records": "không thể hiện dữ liệu",
+      "note-max": "\"Tóm tắt này chỉ hiển thị {num} lượt quay gần đây."
     },
     "UserPullHistoryTable": {
       "Pull History": "Lịch sử Triệu hồi",
@@ -338,35 +338,35 @@
       "Pulls": "Đã quay được"
     },
     "BannerSwitcher": {
-      "All Banners": "All Banners",
-      "no-banners": "No banners found.",
-      "search": "Search banner..."
+      "All Banners": "Tất cả Banner",
+      "no-banners": "Không phát hiện Banner.",
+      "search": "Tìm banner..."
     },
     "WidgetLuck": {
-      "title": "{num}✦ Luck Rating",
-      "no-luck": "this banner has no luck stats",
+      "title": "{num}✦Tỉ lệ may mắn",
+      "no-luck": "banner nay không có số liệu May mắn",
       "top": "Top {percentile}%",
       "bottom": "Bottom {percentile}%",
-      "luckier": "Luckier than {percentile}% of players",
-      "unluckier": "Unluckier than {percentile}% of players",
-      "Pull more to unlock": "Pull more to unlock",
-      "You need more pulls to view statistics": "You need more pulls to view statistics",
+      "luckier": "May hơn {percentile}% người chơi khác",
+      "unluckier": "Xui hơn {percentile}% người chơi khác",
+      "Pull more to unlock": "Quay thêm để mở khóa",
+      "You need more pulls to view statistics": "Bạn cần nhiều lượt quay hơn để xem số liệu này",
       "Percentiles": {
         "AvgPity": {
-          "title": "Average Pity",
-          "formula": "What is your average {qualityLevel}-star pity?"
+          "title": "Pity trung bình",
+          "formula": "Trung bình pity {qualityLevel}* của bạn là?"
         },
         "PullRatio": {
-          "title": "Pull Ratio",
-          "formula": "What percentage of your total pulls were {qualityLevel}-stars?"
+          "title": "Tỉ lệ quay",
+          "formula": "Bao nhiêu trong tổng lượt quay của bạn là {qualityLevel}*?"
         },
         "RateUpWins5": {
-          "title": "50/50 Wins",
-          "formula": "What percentage of 50/50 pulls did you win?"
+          "title": "Số lần thắng 50/50 của bạn :) ",
+          "formula": "Tỉ lệ thắng 50/50 của bạn =)))?"
         },
         "RateUpWins4": {
-          "title": "Rate-up Wins",
-          "formula": "How often were your 4-star pulls rate-up?"
+          "title": "Lần thắng Tăng tỉ lệ Quay",
+          "formula": "Bạn có hay roll được nhân vật 4* được tăng tỉ lệ không?"
         }
       }
     },
@@ -378,7 +378,7 @@
       "Pulls By Pity": "Lượt Quay Theo Pity",
       "Pulls By Name": "Đã Quay Ra Theo Tên",
       "Pulls": "Đã Quay Ra",
-      "Showing total pulls at each pull number": "Showing total pulls at each pull number"
+      "Showing total pulls at each pull number": "Xem chi tiết tổng số lượt quay"
     },
     "SharePageContent": {
       "title": "Chia sẻ",
@@ -395,11 +395,11 @@
   },
   "Import": {
     "title": "Nhập",
-    "expired-url": "This URL has expired. Please open your Convene history & import again.",
-    "invalid-url": "Your Convene History URL is invalid.",
-    "import-success": "Successfully imported Convene History URL!",
-    "expiration-notice-title": "URL Expiration",
-    "expiration-notice-content": "As of patch 1.2, your URL will now expire after an hour. To see updated pulls, please make sure you open your in-game Convene History before re-importing.",
+    "expired-url": "URL này đã hết hạn. Vui lòng mở Lịch sử Quay và nhập lại.",
+    "invalid-url": "URL Lịch sử Quay của bạn không hợp lệ.",
+    "import-success": "Nhập URL Lịch sử quay thành công!",
+    "expiration-notice-title": "Thông báo hết hạn URL",
+    "expiration-notice-content": "Kể từ phiên bản 1.2, URL của bạn sẽ hết hạn sau một giờ. Để cập nhật lịch sử Quay, hãy đảm bảo mở Lịch Sử Quay trong trò chơi trước khi nhập lại.",
     "Import Tutorial": "Hướng Dẫn Nhập",
     "PC": {
       "title": "PC",
@@ -552,14 +552,14 @@
     "Report an Issue": "Báo cáo vấn đề",
     "SettingCloudSync": {
       "UserProfilePicker": {
-        "no-pulls": "No pulls found...",
-        "pick-a-profile": "Select a profile..."
+        "no-pulls": "Không có ghi nhận lượt Quay...",
+        "pick-a-profile": "Chọn hồ sơ..."
       },
       "sign-out-success": "Đăng xuất thành công.",
       "is-synced": "Dữ liệu đã được đồng bộ",
       "is-not-synced": "Dữ liệu CHƯA được đồng bộ",
       "Cloud Backup": "Sao lưu dữ liệu từ xa",
-      "description": "Save your data automatically using Google Drive and access your data in any device.",
+      "description": "Tự động lưu dữ liệu của bạn bằng Google Drive và truy cập dữ liệu của bạn trên bất kỳ thiết bị nào.",
       "Guest": "Khách",
       "Sign In to Google": "Đăng nhập vào Google",
       "Log Out": "Đăng xuất",
@@ -584,7 +584,7 @@
     },
     "SettingGlobalStats": {
       "title": "Chính sách",
-      "description": "Manage WuWa Tracker's permissions when it comes to handling your data."
+      "description": "Quản lý quyền của Wuwa Tracker khi xử lý dữ liệu của bạn."
     },
     "GlobalStatsCheckbox": {
       "Submit pull data for global statistics": "Gửi lịch sử triệu hồi cho thống kê toàn cầu"
@@ -603,20 +603,20 @@
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "Cộng hưởng giả"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Vũ Khí"
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "Kế hoạch khai thác tài nguyên"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "Đăng xuất thành công.",
+    "re-login-to-sync": "Bạn cần đăng nhập lại trước khi đồng bộ dữ liệu.",
+    "drive-pulls-in-sync": "Lượt quay được đồng bộ với Google Drive.",
+    "drive-pulls-imported": "Nhập thành công Lịch sử quay từ Google Drive.",
+    "drive-pulls-saved": "Lưu thành công Lịch sử quay từ Google Drive."
   }
 }
