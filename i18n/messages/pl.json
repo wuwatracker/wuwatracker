@@ -252,7 +252,8 @@
         "updates": "aktualizacje"
       },
       "title": "WuWa Tracker pozwala Ci śledzić",
-      "description": "Licznik pity dla Wuthering Waves wykorzystujący aktualne dane z globalnymi statystykami i nie tylko. Celujemy w dostarczanie najlepszych narzędzi do udostępniania Swoich postępów w Wuthering Waves Swoim znajomym."
+      "description": "Licznik pity dla Wuthering Waves wykorzystujący aktualne dane z globalnymi statystykami i nie tylko. Celujemy w dostarczanie najlepszych narzędzi do udostępniania Swoich postępów w Wuthering Waves Swoim znajomym.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "Zacznij",
