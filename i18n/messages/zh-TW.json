@@ -252,7 +252,8 @@
         "updates": "更新"
       },
       "title": "WuWa Tracker 協助追蹤",
-      "description": "結合即時全區域抽卡數據的鳴潮喚取計算平台，提供一個可以與朋友分享遊戲進度的展示工具。"
+      "description": "結合即時全區域抽卡數據的鳴潮喚取計算平台，提供一個可以與朋友分享遊戲進度的展示工具。",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "立即分析",
