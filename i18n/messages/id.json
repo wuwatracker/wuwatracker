@@ -252,7 +252,8 @@
         "updates": "pembaruan"
       },
       "title": "Wuwa Tracker membantu anda melacak",
-      "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah."
+      "description": "Sebuah penghitung Pity untuk Wuthering Waves, menggunakan data terbaru dengan statistik global dan masih banyak lagi. Sinkronkan data Anda di semua perangkat dan bagikan hasil gacha Anda dengan teman serta lacak Pity akun Anda dengan mudah.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "Ayo Mulai!",
