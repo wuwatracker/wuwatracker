@@ -252,7 +252,8 @@
         "updates": "การอัปเดต"
       },
       "title": "WuWa Tracker เครื่องมือช่วยติดตาม",
-      "description": "เครื่องมือ 3rd Party ของ Wuthering Waves อิงข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ เรามุ่งหวังที่จะให้บริการเครื่องมือที่ดีที่สุดให้กับคุณและให้เพื่อนๆใน Wuthering Waves"
+      "description": "เครื่องมือ 3rd Party ของ Wuthering Waves อิงข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ เรามุ่งหวังที่จะให้บริการเครื่องมือที่ดีที่สุดให้กับคุณและให้เพื่อนๆใน Wuthering Waves",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "เตรียมตัวเบื้องต้น",
