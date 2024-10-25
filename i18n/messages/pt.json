@@ -252,7 +252,8 @@
         "updates": "atualizações"
       },
       "title": "WuWa Tracker ajuda a acompanhar",
-      "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer as melhores ferramentas para mostrar o seu progresso em Wuthering Waves para os seus amigos."
+      "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer as melhores ferramentas para mostrar o seu progresso em Wuthering Waves para os seus amigos.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "Início",
