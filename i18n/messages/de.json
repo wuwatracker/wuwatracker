@@ -252,7 +252,8 @@
         "updates": "Updates"
       },
       "title": "WuWa Tracker hilft Ihnen mit dem Verfolgen",
-      "description": "Ein Pity-Zähler für Wuthering Waves das die neusten Daten mit nutzt mit globalen Statistiken und mehr. Unser Ziel ist es, die besten Hilfsmittel zur Verfügung zu stellen, mit denen Sie Ihren Freunden Ihre Fortschritte bei Wuthering Waves zeigen können."
+      "description": "Ein Pity-Zähler für Wuthering Waves das die neusten Daten mit nutzt mit globalen Statistiken und mehr. Unser Ziel ist es, die besten Hilfsmittel zur Verfügung zu stellen, mit denen Sie Ihren Freunden Ihre Fortschritte bei Wuthering Waves zeigen können.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "Los geht's",

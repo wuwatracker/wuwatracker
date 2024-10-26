@@ -252,7 +252,8 @@
         "updates": "updates"
       },
       "title": "WuWa Tracker helps you track",
-      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends."
+      "description": "A pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. We aim to provide the best tools to showcase your Wuthering Waves progress to your friends.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "Get Started",

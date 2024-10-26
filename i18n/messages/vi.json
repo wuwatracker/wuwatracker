@@ -252,7 +252,8 @@
         "updates": "cập nhật"
       },
       "title": "Wuwa Tracker giúp bạn theo dõi",
-      "description": "Một bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu cập nhật với số liệu thống kê toàn cầu và hơn thế nữa. Chúng tôi mong muốn cung cấp những công cụ tốt nhất để giới thiệu tiến trình Wuthering Waves của bạn với bạn bè."
+      "description": "Một bộ đếm pity cho Wuthering Waves, sử dụng dữ liệu cập nhật với số liệu thống kê toàn cầu và hơn thế nữa. Chúng tôi mong muốn cung cấp những công cụ tốt nhất để giới thiệu tiến trình Wuthering Waves của bạn với bạn bè.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "Bắt Đầu",

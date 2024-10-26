@@ -252,7 +252,8 @@
         "updates": "updates"
       },
       "title": "WuWa Tracker helps you track",
-      "description": "글로벌 통계 등이 포함된 최신 데이터를 사용한 명조: 워더링 웨이브 천장 카운터. 당신의 게임 진행 상황을 친구들에게 보여줄 수 있는 최고의 도구를 제공하는 것을 목표로 합니다."
+      "description": "글로벌 통계 등이 포함된 최신 데이터를 사용한 명조: 워더링 웨이브 천장 카운터. 당신의 게임 진행 상황을 친구들에게 보여줄 수 있는 최고의 도구를 제공하는 것을 목표로 합니다.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "시작하기.",

@@ -5,7 +5,7 @@
     "Aalto": "Алто",
     "Baizhi": "Байджи",
     "Calcharo": "Какаро",
-    "Camellya": "Camellya",
+    "Camellya": "Камелія",
     "Changli": "Чанлі",
     "Chixia": "Чіся",
     "Danjin": "Даньдзінь",
@@ -14,10 +14,10 @@
     "Jinhsi": "Дзіньсі",
     "Jiyan": "Дзіянь",
     "Lingyang": "Лін'янь",
-    "Lumi": "Lumi",
+    "Lumi": "Люмі",
     "Mortefi": "Мотефей",
     "Sanhua": "Саньхва",
-    "Shorekeeper": "Shorekeeper",
+    "Shorekeeper": "Хранителька Берегів",
     "Taoqi": "Таоці",
     "Verina": "Веріна",
     "Yangyang": "Ян'ян",
@@ -25,7 +25,7 @@
     "Yuanwu": "Янву",
     "Zhezhi": "Джеджи",
     "Xiangli Yao": "Сянлі Яо",
-    "Youhu": "Youhu",
+    "Youhu": "Йовху",
     "Abyss Surges": "Сплески безодні",
     "Ages of Harvest": "Епоха врожаю",
     "Amity Accord": "Дружня угода",
@@ -71,18 +71,18 @@
     "Rectifier of Voyager": "Випрямляч Вояджера",
     "Rectifier#25": "Випрямляч#25",
     "Static Mist": "Постійний тума",
-    "Stellar Symphony": "Stellar Symphony",
+    "Stellar Symphony": "Зоряна Симфонія",
     "Stonard": "Стонард",
     "Stringmaster": "Струнний майстер",
     "Sword of Night": "Меч Ночі",
     "Sword of Voyager": "Меч Вояджера",
     "Sword#18": "Меч#18",
     "Thunderbolt": "Блискавка",
-    "Training Broadblade": "Training Broadblade",
+    "Training Broadblade": "Тренувальний клинок",
     "Training Gauntlets": "Training Gauntlets",
-    "Training Pistols": "Training Pistols",
+    "Training Pistols": "Тренувальні Пістолети",
     "Training Rectifier": "Training Rectifier",
-    "Training Sword": "Training Sword",
+    "Training Sword": "Тренувальний меч",
     "Tyro Broadblade": "Tyro Broadblade",
     "Tyro Gauntlets": "Tyro Gauntlets",
     "Tyro Pistols": "Tyro Pistols",
@@ -192,7 +192,7 @@
     },
     "Wiki": {
       "Resonator": {
-        "title": "Резонатори - WuWa Трекер",
+        "title": "Резонатори - WuWa Tracker",
         "description": "View Wuthering Waves Resonator information, profiles, and use WuWa Tracker's material calculator to plan your Resonator upgrades. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Item": {
@@ -200,12 +200,12 @@
         "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
+        "title": "Зброя - WuWa Tracker",
         "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
     "Planner": {
-      "title": "Планер Матеріалів - WuWa Трекер",
+      "title": "Планер Матеріалів - WuWa Tracker",
       "description": "The most powerful Wuthering Waves calculator for planning your Resonator Ascension level, skill, and EXP materials! WuWa Tracker has a rich suite of tools to enhance your game experience."
     }
   },
@@ -234,7 +234,7 @@
     "Import": "Імпорт",
     "Settings": "Налаштування",
     "Resonators": "Резонатори",
-    "Weapons": "Weapons",
+    "Weapons": "Зброя",
     "Support Us": "Підтримати",
     "Sign In To Google": "Вхід в Google",
     "Sign Out": "Вийти",
@@ -252,7 +252,8 @@
         "updates": "оновлення"
       },
       "title": "WuWa Tracker допомагає відстежувати",
-      "description": "Лічильник гранту для Wuthering Waves, використовує дані з глобальною статистикою та багато іншого. Ми прагнемо надати найкращі інструменти, щоб похизуватися вашим прогресом з вашими друзям."
+      "description": "Лічильник гранту для Wuthering Waves, використовує дані з глобальною статистикою та багато іншого. Ми прагнемо надати найкращі інструменти, щоб похизуватися вашим прогресом з вашими друзям.",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "Почати",
@@ -272,7 +273,7 @@
   "Achievements": {
     "title": "Досягнення",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "жодних досягнень не знайдено",
       "toast": {
         "import-success": "Дані успішно імпортовано.",
         "import-invalid": "Будь ласка, імпортуйте дійсні дані.",
@@ -606,7 +607,7 @@
       "title": "Резонатори"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Зброя"
     }
   },
   "Planner": {

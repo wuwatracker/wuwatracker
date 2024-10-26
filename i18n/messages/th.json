@@ -126,7 +126,7 @@
   "Common": {
     "Import History": "นำเข้าประวัติ",
     "All": "All",
-    "Search": "Search"
+    "Search": "ค้นหาความสำเร็จ"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -200,7 +200,7 @@
         "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
+        "title": "อาวุธ - WuWa Tracker",
         "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
@@ -234,7 +234,7 @@
     "Import": "นำเข้า",
     "Settings": "ตั้งค่า",
     "Resonators": "เรโซเนเตอร์",
-    "Weapons": "Weapons",
+    "Weapons": "อาวุธ",
     "Support Us": "สนับสนุนพวกเรา",
     "Sign In To Google": "เข้าสู่ระบบบัญชี Google",
     "Sign Out": "ออกจากระบบ",
@@ -252,7 +252,8 @@
         "updates": "การอัปเดต"
       },
       "title": "WuWa Tracker เครื่องมือช่วยติดตาม",
-      "description": "เครื่องมือ 3rd Party ของ Wuthering Waves อิงข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ เรามุ่งหวังที่จะให้บริการเครื่องมือที่ดีที่สุดให้กับคุณและให้เพื่อนๆใน Wuthering Waves"
+      "description": "เครื่องมือ 3rd Party ของ Wuthering Waves อิงข้อมูลที่อัปเดตล่าสุดพร้อมสถิติทั่วโลกและอื่นๆ เรามุ่งหวังที่จะให้บริการเครื่องมือที่ดีที่สุดให้กับคุณและให้เพื่อนๆใน Wuthering Waves",
+      "character-img-greeting": "Stay focused, Rover."
     },
     "Tutorial": {
       "title": "เตรียมตัวเบื้องต้น",
@@ -272,7 +273,7 @@
   "Achievements": {
     "title": "รางวัลความสำเร็จ",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "ไม่พบความสำเร็จ",
       "toast": {
         "import-success": "นำเข้าข้อมูลสำเร็จ",
         "import-invalid": "นำเข้าข้อมูลไม่ถูกต้อง โปรดนำเข้าข้อมูลใหม่อีกครั้ง",
@@ -286,10 +287,10 @@
         "description": "อัปโหลดความสำเร็จก่อนหน้าของคุณและซิงค์เข้ากับเบราว์เซอร์"
       },
       "Hidden": "ความสำเร็จลับ",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "แสดงทั่วไป",
+      "Completion": "ความสมบูรณ์",
+      "Complete": "สำเร็จ",
+      "Incomplete": "ไม่สำเร็จ",
       "Click to upload": "กดที่นี่เพื่ออัปโหลด",
       "or drag and drop": "หรือลากแล้วปล่อยไฟล์",
       "Import": "อัปโหลดข้อมูล",
@@ -606,7 +607,7 @@
       "title": "เรโซเนเตอร์"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "อาวุธ"
     }
   },
   "Planner": {
