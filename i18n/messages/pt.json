@@ -125,8 +125,8 @@
   },
   "Common": {
     "Import History": "Importar Histórico",
-    "All": "All",
-    "Search": "Search"
+    "All": "Tudo",
+    "Search": "Procurar"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -234,7 +234,7 @@
     "Import": "Importar",
     "Settings": "Configurações",
     "Resonators": "Resonators",
-    "Weapons": "Weapons",
+    "Weapons": "Armas",
     "Support Us": "Suporte-nos",
     "Sign In To Google": "Iniciar Sessão no Google",
     "Sign Out": "Terminar Sessão",
