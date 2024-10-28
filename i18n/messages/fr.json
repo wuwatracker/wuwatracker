@@ -359,11 +359,11 @@
         },
         "PullRatio": {
           "title": "Ratio d'invocation",
-          "formula": "Quel pourcentage de vos invocations a été des {qualityLevel} étoiles?"
+          "formula": "Quel pourcentage de vos invocations ont été des {qualityLevel} étoiles"
         },
         "RateUpWins5": {
           "title": "50/50 gagnés",
-          "formula": "Quel pourcentage de 50/50 avez-vous gagné ?"
+          "formula": "Quel pourcentage de 50/50 vous avez gagné"
         },
         "RateUpWins4": {
           "title": "En vedette",
