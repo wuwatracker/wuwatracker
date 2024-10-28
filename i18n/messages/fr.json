@@ -355,7 +355,7 @@
       "Percentiles": {
         "AvgPity": {
           "title": "Pity moyenne",
-          "formula": "Quel est votre pity moyenne d'obtention d'un {qualityLevel} étoiles ?"
+          "formula": "À quelle pity vous obtenez, en moyenne, un {qualityLevel} étoiles"
         },
         "PullRatio": {
           "title": "Ratio d'invocation",
@@ -367,7 +367,7 @@
         },
         "RateUpWins4": {
           "title": "En vedette",
-          "formula": "Quel est votre chance d'obtenir un résonateur 4 étoiles qui est sur la bannière ?"
+          "formula": "Quel pourcentage de vos 4 étoiles obtenu sont sur la bannière"
         }
       }
     },
