@@ -71,34 +71,34 @@
     "Rectifier of Voyager": "Retificador de Viajante",
     "Rectifier#25": "Retificador#25",
     "Static Mist": "Névoa Estática",
-    "Stellar Symphony": "Stellar Symphony",
+    "Stellar Symphony": "Sinfonia Estelar",
     "Stonard": "Stonard",
     "Stringmaster": "Mestre das Cordas",
     "Sword of Night": "Espada da Noite",
     "Sword of Voyager": "Espada de Viajante",
     "Sword#18": "Espada#18",
     "Thunderbolt": "Raio do Trovão",
-    "Training Broadblade": "Training Broadblade",
-    "Training Gauntlets": "Training Gauntlets",
-    "Training Pistols": "Training Pistols",
-    "Training Rectifier": "Training Rectifier",
-    "Training Sword": "Training Sword",
-    "Tyro Broadblade": "Tyro Broadblade",
-    "Tyro Gauntlets": "Tyro Gauntlets",
-    "Tyro Pistols": "Tyro Pistols",
-    "Tyro Rectifier": "Tyro Rectifier",
-    "Tyro Sword": "Tyro Sword",
+    "Training Broadblade": "Espadão de Treinamento",
+    "Training Gauntlets": "Manoplas de Treinamento",
+    "Training Pistols": "Pistolas de Treinamento",
+    "Training Rectifier": "Retificador de Treinamento",
+    "Training Sword": "Espada de Treinamento",
+    "Tyro Broadblade": "Espadão Tyro",
+    "Tyro Gauntlets": "Manoplas Tyro",
+    "Tyro Pistols": "Pistolas Tyro",
+    "Tyro Rectifier": "Retificador Tyro",
+    "Tyro Sword": "Espada Tyro",
     "Undying Flame": "Chama Imortal",
     "Variation": "Variação",
     "Verdant Summit": "Cume Verdejante",
     "Rime-Draped Sprouts": "Brotos Geados",
     "Verity's Handle": "Cabo da Verdade",
-    "Augment": "Augment",
-    "Endless Collapse": "Endless Collapse",
-    "Waning Redshift": "Waning Redshift",
-    "Relativistic Jet": "Relativistic Jet",
-    "Celestial Spiral": "Celestial Spiral",
-    "Fusion Accretion": "Fusion Accretion"
+    "Augment": "Aumento",
+    "Endless Collapse": "Colapso Eterno",
+    "Waning Redshift": "Vermelho Minguante",
+    "Relativistic Jet": "Jato Relativista",
+    "Celestial Spiral": "Espiral Celestial",
+    "Fusion Accretion": "Acumulo de Fusão"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonator em Destaque",
@@ -121,17 +121,17 @@
     "Vermillion's Ploy": "Estratagema Rubro",
     "Celestial Revelation": "Revelação Celestial",
     "Chromatic Prose": "Prosa Cromática",
-    "Til the Sea Turns Clear": "Til the Sea Turns Clear"
+    "Til the Sea Turns Clear": "Até o Mar Ficar Claro"
   },
   "Common": {
     "Import History": "Importar Histórico",
-    "All": "All",
-    "Search": "Search"
+    "All": "Tudo",
+    "Search": "Procurar"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
       "Your UID must contain 9 characters": "O seu UID tem de conter 9 caracteres",
-      "Your record ID cannot be empty": "O seu ID salvo não pode estar vazio",
+      "Your record ID cannot be empty": "O ID salvo não pode estar vazio",
       "Your URL contains an invalid server ID": "O seu URL contém um ID de servidor inválido",
       "Your server area is not supported at the moment": "A área do seu servidor não é suportada de momento"
     }
@@ -200,7 +200,7 @@
         "description": "View Wuthering Waves item information, drop locations, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       },
       "Weapon": {
-        "title": "Weapons - WuWa Tracker",
+        "title": "Armas - WuWa Tracker",
         "description": "View Wuthering Waves weapon information, attributes, and track your inventory - all in one place. WuWa Tracker pity counter for Wuthering Waves, using the up-to-date data with global statistics and more. Share your pulls with your friends and track your account!"
       }
     },
@@ -214,7 +214,7 @@
       "label": "Ajude a traduzir"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Não somos afiliados com Wuthering Waves. Todo o conteúdo e materiais usados não são nossa propriedade e têm trademarks e copyrights reservados por Kuro Games.",
       "Privacy Policy": "Política de Privacidade",
       "Terms & Conditions": "Termos & Condições"
     }
@@ -234,7 +234,7 @@
     "Import": "Importar",
     "Settings": "Configurações",
     "Resonators": "Resonators",
-    "Weapons": "Weapons",
+    "Weapons": "Armas",
     "Support Us": "Suporte-nos",
     "Sign In To Google": "Iniciar Sessão no Google",
     "Sign Out": "Terminar Sessão",
@@ -253,7 +253,7 @@
       },
       "title": "WuWa Tracker ajuda a acompanhar",
       "description": "Um contador de pity para Wuthering Waves, usando os dados atualizados com estatísticas globais e mais. Alvejamos fornecer as melhores ferramentas para mostrar o seu progresso em Wuthering Waves para os seus amigos.",
-      "character-img-greeting": "Stay focused, Rover."
+      "character-img-greeting": "Concentre-se, Rover."
     },
     "Tutorial": {
       "title": "Início",
@@ -273,7 +273,7 @@
   "Achievements": {
     "title": "Conquistas",
     "AchievementsPageContent": {
-      "no-achievements": "no achievements found",
+      "no-achievements": "nenhuma conquista encontrada",
       "toast": {
         "import-success": "Dados importados com sucesso.",
         "import-invalid": "Por favor importe dados válidos.",
@@ -287,10 +287,10 @@
         "description": "Use dados previamente exportados e sincronize-os com o seu navegador."
       },
       "Hidden": "Escondido",
-      "Visible": "Visible",
-      "Completion": "Completion",
-      "Complete": "Complete",
-      "Incomplete": "Incomplete",
+      "Visible": "Visível",
+      "Completion": "Estado",
+      "Complete": "Completo",
+      "Incomplete": "Incompleto",
       "Click to upload": "Clique para fazer upload",
       "or drag and drop": "ou arraste e largue",
       "Import": "Importar",
@@ -607,7 +607,7 @@
       "title": "Resonators"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Armas"
     }
   },
   "Planner": {

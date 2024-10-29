@@ -95,10 +95,10 @@
     "Verity's Handle": "Poignée de la Vérité",
     "Augment": "Dévoisant",
     "Endless Collapse": "Effondrement éternel",
-    "Waning Redshift": "Waning Redshift",
-    "Relativistic Jet": "Relativistic Jet",
+    "Waning Redshift": "Spectre en déclin",
+    "Relativistic Jet": "Jets relativistes",
     "Celestial Spiral": "Spirale céleste",
-    "Fusion Accretion": "Fusion Accretion"
+    "Fusion Accretion": "Accrétion de fusion"
   },
   "CardPoolNames": {
     "Featured Resonator": "Résonateur limité",
@@ -253,7 +253,7 @@
       },
       "title": "WuWa tracker vous aide à suivre",
       "description": "Un compteur de pity pour Wuthering Waves, utilisant les données les plus récentes avec des statistiques mondiales et plus encore. Nous voulons fournir les meilleurs outils pour partager votre progression dans Wuthering Waves avec vos amis.",
-      "character-img-greeting": "Stay focused, Rover."
+      "character-img-greeting": "Restez concentré, Nomade."
     },
     "Tutorial": {
       "title": "Commençons",
@@ -355,19 +355,19 @@
       "Percentiles": {
         "AvgPity": {
           "title": "Pity moyenne",
-          "formula": "Quel est votre pity moyenne d'obtention d'un {qualityLevel} étoiles ?"
+          "formula": "À quelle pity vous obtenez, en moyenne, un {qualityLevel} étoiles"
         },
         "PullRatio": {
           "title": "Ratio d'invocation",
-          "formula": "Quel pourcentage de vos invocations a été des {qualityLevel} étoiles?"
+          "formula": "Quel pourcentage de vos invocations ont été des {qualityLevel} étoiles"
         },
         "RateUpWins5": {
           "title": "50/50 gagnés",
-          "formula": "Quel pourcentage de 50/50 avez-vous gagné ?"
+          "formula": "Quel pourcentage de 50/50 vous avez gagné"
         },
         "RateUpWins4": {
           "title": "En vedette",
-          "formula": "Quel est votre chance d'obtenir un résonateur 4 étoiles qui est sur la bannière ?"
+          "formula": "Quel pourcentage de vos 4 étoiles obtenu sont sur la bannière"
         }
       }
     },
