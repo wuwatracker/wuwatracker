@@ -597,9 +597,44 @@
     "description": "Mira los eventos de Wuthering Waves en tu zona horaria local o en los <link>tiempos de servidores</link>.",
     "github-update-message": "Actualizado el {time} por {author}.",
     "Edit this page on GitHub": "Editar está página en GitHub",
+    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
     "ResetTimers": {
       "title": "Tiempos de reinicio diario de servidores",
-      "description": "Compara tu tiempo local con el tiempo del servidor de Wuthering Waves para planear tu siguiente aventura."
+      "description": "Compara tu tiempo local con el tiempo del servidor de Wuthering Waves para planear tu siguiente aventura.",
+      "Your Local Time": "Your Local Time",
+      "Current Server Time": "Current Server Time",
+      "Resets in": "Resets in",
+      "server-time-disclaimer": "Other server timers are displayed in their local time."
+    },
+    "TimelineItem": {
+      "Event has ended": "Event has ended",
+      "ends-in": "Ends in {timeLeft}",
+      "starts-in": "Starts in {timeLeft}",
+      "Local Time": "Local Time",
+      "Server Time": "Server Time"
+    },
+    "Months": {
+      "January": "January",
+      "February": "February",
+      "March": "March",
+      "April": "April",
+      "May": "May",
+      "June": "June",
+      "July": "July",
+      "August": "August",
+      "September": "September",
+      "October": "October",
+      "November": "November",
+      "December": "December"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "Mo",
+      "Tu": "Tu",
+      "We": "We",
+      "Th": "Th",
+      "Fr": "Fr",
+      "Sa": "Sa",
+      "Su": "Su"
     }
   },
   "Wiki": {
