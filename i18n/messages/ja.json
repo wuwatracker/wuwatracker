@@ -597,22 +597,22 @@
     "description": "鳴朝に行われているイベントを現地の標準時で見るか，他の <link>サーバー時間</link> に見ること",
     "github-update-message": "最終更新日 {time} by {author}",
     "Edit this page on GitHub": "GitHubでこのページを編集する",
-    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
+    "Show times adjusted to your local time zone": "表示する時間を現地時間に調整する",
     "ResetTimers": {
       "title": "日付更新時間",
       "description": "次の冒険に備えてサーバーの日付更新時間を比べよう。",
       "Your Local Time": "現地時間",
       "Current Server Time": "サーバー時間",
       "Resets in": "日付更新するまで",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "server-time-disclaimer": "他のサーバー時間はそれぞれの現地時間で表示されています。"
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "Event has ended": "イベントは終了しました",
+      "ends-in": "終了まで残り {timeLeft}",
+      "starts-in": "開始まであと {timeLeft}",
+      "time-left": "残り {timeLeft}",
+      "Local Time": "現地時間",
+      "Server Time": "サーバー時間"
     },
     "Months": {
       "January": "一月",
