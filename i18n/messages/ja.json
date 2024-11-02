@@ -601,9 +601,9 @@
     "ResetTimers": {
       "title": "日付更新時間",
       "description": "次の冒険に備えてサーバーの日付更新時間を比べよう。",
-      "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
-      "Resets in": "Resets in",
+      "Your Local Time": "現地時間",
+      "Current Server Time": "サーバー時間",
+      "Resets in": "日付更新するまで",
       "server-time-disclaimer": "Other server timers are displayed in their local time."
     },
     "TimelineItem": {
@@ -615,27 +615,27 @@
       "Server Time": "Server Time"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
-      "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "January": "一月",
+      "February": "二月",
+      "March": "三月",
+      "April": "四月",
+      "May": "五月",
+      "June": "六月",
+      "July": "七月",
+      "August": "八月",
+      "September": "九月",
+      "October": "十月",
+      "November": "十一月",
+      "December": "十二月"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
-      "Sa": "Sa",
-      "Su": "Su"
+      "Mo": "月",
+      "Tu": "火",
+      "We": "水",
+      "Th": "木",
+      "Fr": "金",
+      "Sa": "土",
+      "Su": "日"
     }
   },
   "Wiki": {
