@@ -597,9 +597,44 @@
     "description": "Nézd meg a Wuthering Waves eseményeit a helyi időzónádban vagy más <link>szerveridők</link>-ben.",
     "github-update-message": "Frissítette {time} a {author}.",
     "Edit this page on GitHub": "Szerkeszd ezt az oldalt a GitHub-on",
+    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
     "ResetTimers": {
       "title": "Szerver napi időzítő visszaállítása",
-      "description": "Hasonlítsd össze a helyi idődet a Wuthering Waves játék szervereivel, hogy megtervezhesd a következő kalandodat."
+      "description": "Hasonlítsd össze a helyi idődet a Wuthering Waves játék szervereivel, hogy megtervezhesd a következő kalandodat.",
+      "Your Local Time": "Your Local Time",
+      "Current Server Time": "Current Server Time",
+      "Resets in": "Resets in",
+      "server-time-disclaimer": "Other server timers are displayed in their local time."
+    },
+    "TimelineItem": {
+      "Event has ended": "Event has ended",
+      "ends-in": "Ends in {timeLeft}",
+      "starts-in": "Starts in {timeLeft}",
+      "Local Time": "Local Time",
+      "Server Time": "Server Time"
+    },
+    "Months": {
+      "January": "January",
+      "February": "February",
+      "March": "March",
+      "April": "April",
+      "May": "May",
+      "June": "June",
+      "July": "July",
+      "August": "August",
+      "September": "September",
+      "October": "October",
+      "November": "November",
+      "December": "December"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "Mo",
+      "Tu": "Tu",
+      "We": "We",
+      "Th": "Th",
+      "Fr": "Fr",
+      "Sa": "Sa",
+      "Su": "Su"
     }
   },
   "Wiki": {
