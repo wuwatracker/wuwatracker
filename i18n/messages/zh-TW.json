@@ -611,31 +611,31 @@
       "ends-in": "Ends in {timeLeft}",
       "starts-in": "Starts in {timeLeft}",
       "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "Local Time": "當地時間",
+      "Server Time": "伺服器時間"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
-      "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "January": "一月",
+      "February": "二月",
+      "March": "三月",
+      "April": "四月",
+      "May": "五月",
+      "June": "六月",
+      "July": "七月",
+      "August": "八月",
+      "September": "九月",
+      "October": "十月",
+      "November": "十一月",
+      "December": "十二月"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
-      "Sa": "Sa",
-      "Su": "Su"
+      "Mo": "一",
+      "Tu": "二",
+      "We": "三",
+      "Th": "四",
+      "Fr": "五",
+      "Sa": "六",
+      "Su": "日"
     }
   },
   "Wiki": {
