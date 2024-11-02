@@ -610,6 +610,7 @@
       "Event has ended": "Event has ended",
       "ends-in": "Ends in {timeLeft}",
       "starts-in": "Starts in {timeLeft}",
+      "time-left": "{timeLeft} left",
       "Local Time": "Local Time",
       "Server Time": "Server Time"
     },
