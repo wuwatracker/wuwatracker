@@ -597,9 +597,44 @@
     "description": "Lihat event Wuthering Waves di zona waktu lokal Anda atau di <link>Waktu Server</link> lainnya.",
     "github-update-message": "Diperbarui pada {time} oleh {author}.",
     "Edit this page on GitHub": "Edit halaman ini di GitHub",
+    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
     "ResetTimers": {
       "title": "Timer Reset Harian Server",
-      "description": "Bandingkan waktu setempat Anda dengan server game Wuthering Waves untuk merencanakan petualangan Anda berikutnya."
+      "description": "Bandingkan waktu setempat Anda dengan server game Wuthering Waves untuk merencanakan petualangan Anda berikutnya.",
+      "Your Local Time": "Your Local Time",
+      "Current Server Time": "Current Server Time",
+      "Resets in": "Resets in",
+      "server-time-disclaimer": "Other server timers are displayed in their local time."
+    },
+    "TimelineItem": {
+      "Event has ended": "Event has ended",
+      "ends-in": "Ends in {timeLeft}",
+      "starts-in": "Starts in {timeLeft}",
+      "Local Time": "Local Time",
+      "Server Time": "Server Time"
+    },
+    "Months": {
+      "January": "January",
+      "February": "February",
+      "March": "March",
+      "April": "April",
+      "May": "May",
+      "June": "June",
+      "July": "July",
+      "August": "August",
+      "September": "September",
+      "October": "October",
+      "November": "November",
+      "December": "December"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "Mo",
+      "Tu": "Tu",
+      "We": "We",
+      "Th": "Th",
+      "Fr": "Fr",
+      "Sa": "Sa",
+      "Su": "Su"
     }
   },
   "Wiki": {
