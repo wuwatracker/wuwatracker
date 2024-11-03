@@ -597,9 +597,45 @@
     "description": "以您本地的时区或其他<link>服务器时间</link>查看《鸣潮》的活动。",
     "github-update-message": "由 {author} 编辑于 {time}。",
     "Edit this page on GitHub": "在GitHub上编辑此页",
+    "Show times adjusted to your local time zone": "显示匹配您本地时区的时间",
     "ResetTimers": {
       "title": "服务器每日刷新计时器",
-      "description": "将您本地的时间与《鸣潮》游戏服务器进行比较，并以此规划您接下来的冒险旅程。"
+      "description": "将您本地的时间与《鸣潮》游戏服务器进行比较，并以此规划您接下来的冒险旅程。",
+      "Your Local Time": "您的本地时间",
+      "Current Server Time": "当前服务器时间",
+      "Resets in": "距离重置尚余",
+      "server-time-disclaimer": "其他服务器计时器以其当地时间显示。"
+    },
+    "TimelineItem": {
+      "Event has ended": "活动已结束",
+      "ends-in": "将于 {timeLeft} 后结束",
+      "starts-in": "将于 {timeLeft} 后开始",
+      "time-left": "尚余 {timeLeft}",
+      "Local Time": "本地时间",
+      "Server Time": "服务器时间"
+    },
+    "Months": {
+      "January": "一月",
+      "February": "二月",
+      "March": "三月",
+      "April": "四月",
+      "May": "五月",
+      "June": "六月",
+      "July": "七月",
+      "August": "八月",
+      "September": "九月",
+      "October": "十月",
+      "November": "十一月",
+      "December": "十二月"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "一",
+      "Tu": "二",
+      "We": "三",
+      "Th": "四",
+      "Fr": "五",
+      "Sa": "六",
+      "Su": "日"
     }
   },
   "Wiki": {

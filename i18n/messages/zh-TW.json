@@ -597,9 +597,45 @@
     "description": "在您的時區或者<link>其他時區</link>檢視鳴潮活動",
     "github-update-message": "在 {time} 被 {author} 更新",
     "Edit this page on GitHub": "在 GitHub 編輯此頁",
+    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
     "ResetTimers": {
       "title": "伺服器每日重置計時器",
-      "description": "比對您的時區與鳴潮伺服器的時間以規劃您的下次冒險"
+      "description": "比對您的時區與鳴潮伺服器的時間以規劃您的下次冒險",
+      "Your Local Time": "Your Local Time",
+      "Current Server Time": "Current Server Time",
+      "Resets in": "Resets in",
+      "server-time-disclaimer": "Other server timers are displayed in their local time."
+    },
+    "TimelineItem": {
+      "Event has ended": "Event has ended",
+      "ends-in": "Ends in {timeLeft}",
+      "starts-in": "Starts in {timeLeft}",
+      "time-left": "{timeLeft} left",
+      "Local Time": "當地時間",
+      "Server Time": "伺服器時間"
+    },
+    "Months": {
+      "January": "一月",
+      "February": "二月",
+      "March": "三月",
+      "April": "四月",
+      "May": "五月",
+      "June": "六月",
+      "July": "七月",
+      "August": "八月",
+      "September": "九月",
+      "October": "十月",
+      "November": "十一月",
+      "December": "十二月"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "一",
+      "Tu": "二",
+      "We": "三",
+      "Th": "四",
+      "Fr": "五",
+      "Sa": "六",
+      "Su": "日"
     }
   },
   "Wiki": {

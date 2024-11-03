@@ -597,9 +597,45 @@
     "description": "Переглядайте події Wuthering Waves за локальним часом або в іншому <link>часовому поясі сервера</link>.",
     "github-update-message": "Оновлено {time} користувачем {author}.",
     "Edit this page on GitHub": "Редагувати цю сторінку на GitHub",
+    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
     "ResetTimers": {
       "title": "Таймери за розкладом сервера",
-      "description": "Порівняйте свій місцевий час з часовими поясами серверами Wuthering Waves, щоб спланувати ваші наступні пригоди."
+      "description": "Порівняйте свій місцевий час з часовими поясами серверами Wuthering Waves, щоб спланувати ваші наступні пригоди.",
+      "Your Local Time": "Your Local Time",
+      "Current Server Time": "Current Server Time",
+      "Resets in": "Resets in",
+      "server-time-disclaimer": "Other server timers are displayed in their local time."
+    },
+    "TimelineItem": {
+      "Event has ended": "Event has ended",
+      "ends-in": "Ends in {timeLeft}",
+      "starts-in": "Starts in {timeLeft}",
+      "time-left": "{timeLeft} left",
+      "Local Time": "Local Time",
+      "Server Time": "Server Time"
+    },
+    "Months": {
+      "January": "January",
+      "February": "February",
+      "March": "March",
+      "April": "April",
+      "May": "May",
+      "June": "June",
+      "July": "July",
+      "August": "August",
+      "September": "September",
+      "October": "October",
+      "November": "November",
+      "December": "December"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "Mo",
+      "Tu": "Tu",
+      "We": "We",
+      "Th": "Th",
+      "Fr": "Fr",
+      "Sa": "Sa",
+      "Su": "Su"
     }
   },
   "Wiki": {

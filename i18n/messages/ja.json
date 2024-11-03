@@ -168,7 +168,7 @@
     },
     "Not Found": {
       "title": "ページが見つかりません - Wuwa Tracker",
-      "description": "This page is not found on WuWa Tracker. Please go back to the main page to start tracking your Wuthering Waves Convene History data."
+      "description": "WuWa Tracker にこのページは見つかりませんでした。集音履歴を追跡するにはホームページにお戻りください。"
     },
     "Privacy Policy": {
       "title": "プライバシーポリシー - WuWa Tracker",
@@ -214,7 +214,7 @@
       "label": "翻訳の手助け"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "私たちは鳴潮の関連組織ではありません。すべてのゲームアセット、コンテンツ、素材はKuro Gamesの商標および著作権です。",
       "Privacy Policy": "プライバシーポリシー",
       "Terms & Conditions": "利用規約"
     }
@@ -594,12 +594,48 @@
   "Timeline": {
     "title": "スケジュール",
     "heading": "イベントスケジュール",
-    "description": "鳴朝に行われているイベントを現地の標準時で見るか，他の <link>サーバー時間</link> に見ること",
+    "description": "現地時間か <link>サーバー時間</link> で鳴潮イベントを確認しよう",
     "github-update-message": "最終更新日 {time} by {author}",
     "Edit this page on GitHub": "GitHubでこのページを編集する",
+    "Show times adjusted to your local time zone": "表示する時間を現地時間に調整する",
     "ResetTimers": {
       "title": "日付更新時間",
-      "description": "次の冒険に備えてサーバーの日付更新時間を比べよう。"
+      "description": "次の冒険に備えてサーバーの日付更新時間を比べよう。",
+      "Your Local Time": "現地時間",
+      "Current Server Time": "サーバー時間",
+      "Resets in": "日付更新するまで",
+      "server-time-disclaimer": "他のサーバー時間はそれぞれの現地時間で表示されています"
+    },
+    "TimelineItem": {
+      "Event has ended": "イベントは終了しました",
+      "ends-in": "終了まで残り {timeLeft}",
+      "starts-in": "開始まであと {timeLeft}",
+      "time-left": "残り {timeLeft}",
+      "Local Time": "現地時間",
+      "Server Time": "サーバー時間"
+    },
+    "Months": {
+      "January": "一月",
+      "February": "二月",
+      "March": "三月",
+      "April": "四月",
+      "May": "五月",
+      "June": "六月",
+      "July": "七月",
+      "August": "八月",
+      "September": "九月",
+      "October": "十月",
+      "November": "十一月",
+      "December": "十二月"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "月",
+      "Tu": "火",
+      "We": "水",
+      "Th": "木",
+      "Fr": "金",
+      "Sa": "土",
+      "Su": "日"
     }
   },
   "Wiki": {

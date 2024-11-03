@@ -597,9 +597,45 @@
     "description": "Xem các sự kiện của Wuthering Waves theo múi giờ địa phương của bạn hoặc <link>các múi giờ của Server</link> khác.",
     "github-update-message": "Cập nhật vào lúc {time} bởi {author}.",
     "Edit this page on GitHub": "Chỉnh sửa trang này trên GitHub",
+    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
     "ResetTimers": {
       "title": "Bộ đếm thời gian của các Server",
-      "description": "So sánh giờ địa phương của bạn với máy chủ Wuthering Waves để lên kế hoạch cho cuộc phiêu lưu tiếp theo của bạn."
+      "description": "So sánh giờ địa phương của bạn với máy chủ Wuthering Waves để lên kế hoạch cho cuộc phiêu lưu tiếp theo của bạn.",
+      "Your Local Time": "Your Local Time",
+      "Current Server Time": "Current Server Time",
+      "Resets in": "Resets in",
+      "server-time-disclaimer": "Other server timers are displayed in their local time."
+    },
+    "TimelineItem": {
+      "Event has ended": "Event has ended",
+      "ends-in": "Ends in {timeLeft}",
+      "starts-in": "Starts in {timeLeft}",
+      "time-left": "{timeLeft} left",
+      "Local Time": "Local Time",
+      "Server Time": "Server Time"
+    },
+    "Months": {
+      "January": "January",
+      "February": "February",
+      "March": "March",
+      "April": "April",
+      "May": "May",
+      "June": "June",
+      "July": "July",
+      "August": "August",
+      "September": "September",
+      "October": "October",
+      "November": "November",
+      "December": "December"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "Mo",
+      "Tu": "Tu",
+      "We": "We",
+      "Th": "Th",
+      "Fr": "Fr",
+      "Sa": "Sa",
+      "Su": "Su"
     }
   },
   "Wiki": {

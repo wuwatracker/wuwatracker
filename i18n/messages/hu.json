@@ -253,7 +253,7 @@
       },
       "title": "WuWa Tracker segít követni",
       "description": "A Wuthering Waves kívánság számlálója, a legfrissebb adatok felhasználásával, globális statisztikákkal és egyebekkel. Célunk, hogy a legjobb eszközöket nyújtsuk ahhoz, hogy bemutathasd barátaidnak a Wuthering Waves fejlődésedet.",
-      "character-img-greeting": "Stay focused, Rover."
+      "character-img-greeting": "Koncentrálj, Rover."
     },
     "Tutorial": {
       "title": "Kezdjünk hozzá",
@@ -597,9 +597,45 @@
     "description": "Nézd meg a Wuthering Waves eseményeit a helyi időzónádban vagy más <link>szerveridők</link>-ben.",
     "github-update-message": "Frissítette {time} a {author}.",
     "Edit this page on GitHub": "Szerkeszd ezt az oldalt a GitHub-on",
+    "Show times adjusted to your local time zone": "A helyi időzónához igazított időpontok megjelenítése",
     "ResetTimers": {
       "title": "Szerver napi időzítő visszaállítása",
-      "description": "Hasonlítsd össze a helyi idődet a Wuthering Waves játék szervereivel, hogy megtervezhesd a következő kalandodat."
+      "description": "Hasonlítsd össze a helyi idődet a Wuthering Waves játék szervereivel, hogy megtervezhesd a következő kalandodat.",
+      "Your Local Time": "Helyi idő",
+      "Current Server Time": "Jelenlegi szerver idő",
+      "Resets in": "Visszaállítódik",
+      "server-time-disclaimer": "Más szerverek idejei a helyi idő szerint jelennek meg."
+    },
+    "TimelineItem": {
+      "Event has ended": "Az esemény véget ért",
+      "ends-in": "Véget ér {timeLeft}",
+      "starts-in": "Elkezdődik {timeLeft}",
+      "time-left": "{tumeLeft} maradt",
+      "Local Time": "Helyi idő",
+      "Server Time": "Szerver idő"
+    },
+    "Months": {
+      "January": "Január",
+      "February": "Február",
+      "March": "Március",
+      "April": "Április",
+      "May": "Május",
+      "June": "Június",
+      "July": "Július",
+      "August": "Augusztus",
+      "September": "Szeptember",
+      "October": "Október",
+      "November": "November",
+      "December": "December"
+    },
+    "DaysOfTheWeek": {
+      "Mo": "Hé",
+      "Tu": "Ke",
+      "We": "Sze",
+      "Th": "Csü",
+      "Fr": "Pén",
+      "Sa": "Szo",
+      "Su": "Va"
     }
   },
   "Wiki": {
