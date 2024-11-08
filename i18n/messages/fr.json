@@ -599,7 +599,7 @@
     "Edit this page on GitHub": "Modifiez cette page sur GitHub",
     "Show times adjusted to your local time zone": "Ajuster l'heure en fonction de votre fuseau horaire",
     "ResetTimers": {
-      "title": "Minuteur de réinitialisation quotidienne des serveurs",
+      "title": "Horloge de réinitialisation quotidienne des serveurs",
       "description": "Comparez votre fuseau horaire à ceux des serveurs de Wuthering Waves pour planifier votre prochaine aventure.",
       "Your Local Time": "Votre heure locale",
       "Current Server Time": "Heure du serveur",
@@ -608,7 +608,7 @@
     },
     "TimelineItem": {
       "Event has ended": "L'événement est terminé",
-      "ends-in": "Termine dans {timeLeft}",
+      "ends-in": "Se termine dans {timeLeft}",
       "starts-in": "Commence dans {timeLeft}",
       "time-left": "{timeLeft} restant",
       "Local Time": "Heure locale",
