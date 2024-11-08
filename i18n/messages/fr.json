@@ -597,7 +597,7 @@
     "description": "Suivez les événements de Wuthering Waves sur votre fuseau horaire ou avec d'autres <link>horaires de serveur</link>.",
     "github-update-message": "Mis à jour le {time} par {author}.",
     "Edit this page on GitHub": "Modifiez cette page sur GitHub",
-    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
+    "Show times adjusted to your local time zone": "Ajuster l'heure en fonction de votre fuseau horaire",
     "ResetTimers": {
       "title": "Minuteur de réinitialisation quotidienne des serveurs",
       "description": "Comparez votre fuseau horaire à ceux des serveurs de Wuthering Waves pour planifier votre prochaine aventure.",
