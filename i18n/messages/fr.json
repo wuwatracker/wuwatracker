@@ -601,41 +601,41 @@
     "ResetTimers": {
       "title": "Minuteur de réinitialisation quotidienne des serveurs",
       "description": "Comparez votre fuseau horaire à ceux des serveurs de Wuthering Waves pour planifier votre prochaine aventure.",
-      "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
-      "Resets in": "Resets in",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "Your Local Time": "Votre heure locale",
+      "Current Server Time": "Heure du serveur",
+      "Resets in": "Réinitialisation dans",
+      "server-time-disclaimer": "Les horloges des autres serveurs sont affichées dans leurs heures locales."
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "Event has ended": "L'événement est terminé",
+      "ends-in": "Termine dans {timeLeft}",
+      "starts-in": "Commence dans {timeLeft}",
+      "time-left": "{timeLeft} restant",
+      "Local Time": "Heure locale",
+      "Server Time": "Heure du serveur"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
-      "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "January": "Janvier",
+      "February": "Février",
+      "March": "Mars",
+      "April": "Avril",
+      "May": "Mai",
+      "June": "Juin",
+      "July": "Juillet",
+      "August": "Aout",
+      "September": "Septembre",
+      "October": "Octobre",
+      "November": "Novembre",
+      "December": "Décembre"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
+      "Mo": "Lu",
+      "Tu": "Ma",
+      "We": "Me",
+      "Th": "Je",
+      "Fr": "Ve",
       "Sa": "Sa",
-      "Su": "Su"
+      "Su": "Di"
     }
   },
   "Wiki": {
