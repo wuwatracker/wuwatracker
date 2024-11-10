@@ -157,18 +157,18 @@ export const rawBanners: BannerInfo[] = [
   },
   {
     bannerId: 100010,
-    cardPoolType: 2,
+    cardPoolType: 1,
     name: "Featured Resonator",
     alt: "End of Lost Trail",
     rateUp5Names: ["Camellya"],
     rateUp4Names: ["Danjin", "Yangyang", "Aalto"],
-    startDate: "2024-11-13 12:00",
+    startDate: "2024-11-14 04:00", // maintenance end is supposed to be 11:00, but we set it earlier as a precaution
     endDate: "2024-12-12 09:59:59",
     isCstStart: true,
   },
   {
     bannerId: 100011,
-    cardPoolType: 2,
+    cardPoolType: 1,
     name: "Featured Resonator",
     alt: "Yinlin & Xiangli Yao Rerun",
     rateUp5Names: ["Yinlin", "Xiangli Yao"],
@@ -286,7 +286,7 @@ export const rawBanners: BannerInfo[] = [
     alt: "Absolute Pulsation",
     rateUp5Names: ["Red Spring"],
     rateUp4Names: ["Fusion Accretion", "Commando of Conviction", "Novaburst"],
-    startDate: "2024-11-13 12:00",
+    startDate: "2024-11-14 04:00", // maintenance end is supposed to be 11:00, but we set it earlier as a precaution
     endDate: "2024-12-12 09:59:59",
     isCstStart: true,
   },
@@ -304,6 +304,6 @@ export const rawBanners: BannerInfo[] = [
 ];
 
 export const banners = rawBanners.filter((b) => {
-  const UNRELEASED_BANNERS: number[] = [100010, 100011, 200010, 200011];
+  const UNRELEASED_BANNERS: number[] = [100010, 200010, 100011, 200011];
   return !UNRELEASED_BANNERS.includes(b.bannerId);
 });
