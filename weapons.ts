@@ -59,6 +59,11 @@ export const fiveStarWeaponMetadata = {
     imgSrc: "/assets/weapons/stellar-symphony.webp",
     type: "Rectifier",
   },
+  "Red Spring": {
+    qualityLevel: 5,
+    imgSrc: "/assets/weapons/red-spring.webp",
+    type: "Sword",
+  },
   "Abyss Surges": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/abyss-surges.webp",
