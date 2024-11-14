@@ -70,6 +70,8 @@
     "Rectifier of Night": "Retificador da Noite",
     "Rectifier of Voyager": "Retificador de Viajante",
     "Rectifier#25": "Retificador#25",
+    "Red Spring": "Primavera Vermelha",
+    "Somnoire Anchor": "Somnoire Anchor",
     "Static Mist": "Névoa Estática",
     "Stellar Symphony": "Sinfonia Estelar",
     "Stonard": "Stonard",
@@ -121,7 +123,8 @@
     "Vermillion's Ploy": "Estratagema Rubro",
     "Celestial Revelation": "Revelação Celestial",
     "Chromatic Prose": "Prosa Cromática",
-    "Til the Sea Turns Clear": "Até o Mar Ficar Claro"
+    "Til the Sea Turns Clear": "Até o Mar Ficar Claro",
+    "End of Lost Trail": "Fim do Trilho Perdido"
   },
   "Common": {
     "Import History": "Importar Histórico",
@@ -597,45 +600,45 @@
     "description": "Veja os eventos de Wuthering Waves no seu fuso horário local ou em outros <link>Horários dos Servidores</link>.",
     "github-update-message": "Atualizado em {time} por {author}.",
     "Edit this page on GitHub": "Edite esta página no GitHub",
-    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
+    "Show times adjusted to your local time zone": "Mostra horas ajustadas ao seu fuso horário local",
     "ResetTimers": {
       "title": "Temporizadores de Reset Diário dos Servidores",
       "description": "Compare o seu fuso horário local com o dos servidores de Wuthering Waves para planejar a sua próxima aventura.",
-      "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
-      "Resets in": "Resets in",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "Your Local Time": "Suas Horas Locais",
+      "Current Server Time": "Horas do Servidor atual",
+      "Resets in": "Reseta em",
+      "server-time-disclaimer": "Horas de servidores diferentes são exibidas nos seus horários locais."
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "Event has ended": "O Evento terminou",
+      "ends-in": "Termina em {timeLeft}",
+      "starts-in": "Inicia em {timeLeft}",
+      "time-left": "{timeLeft} restantes",
+      "Local Time": "Horário Local",
+      "Server Time": "Horário do Servidor"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
-      "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "January": "Janeiro",
+      "February": "Fevereiro",
+      "March": "Março",
+      "April": "Abril",
+      "May": "Maio",
+      "June": "Junho",
+      "July": "Julho",
+      "August": "Agosto",
+      "September": "Setembro",
+      "October": "Outubro",
+      "November": "Novembro",
+      "December": "Dezembro"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
-      "Sa": "Sa",
-      "Su": "Su"
+      "Mo": "Seg",
+      "Tu": "Ter",
+      "We": "Qua",
+      "Th": "Qui",
+      "Fr": "Sex",
+      "Sa": "Sáb",
+      "Su": "Dom"
     }
   },
   "Wiki": {
