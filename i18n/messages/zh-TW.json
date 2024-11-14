@@ -70,6 +70,8 @@
     "Rectifier of Night": "暗夜矩陣．暝光",
     "Rectifier of Voyager": "遠行者矩陣．探幽",
     "Rectifier#25": "鳴動儀-25型",
+    "Red Spring": "裁春",
+    "Somnoire Anchor": "心之錨",
     "Static Mist": "停駐之煙",
     "Stellar Symphony": "星序協響",
     "Stonard": "金掌",
@@ -121,7 +123,8 @@
     "Vermillion's Ploy": "熾羽策陣星",
     "Celestial Revelation": "千機逐星野",
     "Chromatic Prose": "賦彩作長吟",
-    "Til the Sea Turns Clear": "直至海水褪色"
+    "Til the Sea Turns Clear": "直至海水褪色",
+    "End of Lost Trail": "徘徊迷宮盡處"
   },
   "Common": {
     "Import History": "匯入歷史紀錄",
@@ -597,20 +600,20 @@
     "description": "在您的時區或者<link>其他時區</link>檢視鳴潮活動",
     "github-update-message": "在 {time} 被 {author} 更新",
     "Edit this page on GitHub": "在 GitHub 編輯此頁",
-    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
+    "Show times adjusted to your local time zone": "轉換為您的時區",
     "ResetTimers": {
       "title": "伺服器每日重置計時器",
       "description": "比對您的時區與鳴潮伺服器的時間以規劃您的下次冒險",
-      "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
-      "Resets in": "Resets in",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "Your Local Time": "您的當地時間",
+      "Current Server Time": "伺服器時間",
+      "Resets in": "距離重置尚餘",
+      "server-time-disclaimer": "其他伺服器時間以其當地時間顯示。"
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
+      "Event has ended": "活動已結束",
+      "ends-in": "距離結束尚餘 {timeLeft}",
+      "starts-in": "距離開始尚餘 {timeLeft}",
+      "time-left": "剩餘 {timeLeft}",
       "Local Time": "當地時間",
       "Server Time": "伺服器時間"
     },
