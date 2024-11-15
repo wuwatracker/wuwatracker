@@ -70,8 +70,8 @@
     "Rectifier of Night": "Rectificador de la noche",
     "Rectifier of Voyager": "Rectificador del viajero",
     "Rectifier#25": "Rectificador #25",
-    "Red Spring": "Red Spring",
-    "Somnoire Anchor": "Somnoire Anchor",
+    "Red Spring": "Primavera roja",
+    "Somnoire Anchor": "Ancla de Somnolencia",
     "Static Mist": "Niebla estática",
     "Stellar Symphony": "Sinfonia estelar",
     "Stonard": "Stonard",
@@ -96,11 +96,11 @@
     "Rime-Draped Sprouts": "Brotes escarchados",
     "Verity's Handle": "Mango de la verdad",
     "Augment": "Consonante sorda",
-    "Endless Collapse": "Endless Collapse",
-    "Waning Redshift": "Waning Redshift",
-    "Relativistic Jet": "Relativistic Jet",
-    "Celestial Spiral": "Celestial Spiral",
-    "Fusion Accretion": "Fusion Accretion"
+    "Endless Collapse": "Colapso interminable",
+    "Waning Redshift": "Corrimiento al rojo",
+    "Relativistic Jet": "Chorro relativista",
+    "Celestial Spiral": "Espiral celestial",
+    "Fusion Accretion": "Acreción de fusion"
   },
   "CardPoolNames": {
     "Featured Resonator": "Resonador destacado",
@@ -123,8 +123,8 @@
     "Vermillion's Ploy": "La estratagema de bermellón",
     "Celestial Revelation": "Revelación celestial",
     "Chromatic Prose": "Prosa cromática",
-    "Til the Sea Turns Clear": "Til the Sea Turns Clear",
-    "End of Lost Trail": "End of Lost Trail"
+    "Til the Sea Turns Clear": "Hasta que el mar pierda su color",
+    "End of Lost Trail": "Fin del camino perdido"
   },
   "Common": {
     "Import History": "Importar historial",
@@ -256,7 +256,7 @@
       },
       "title": "WuWa Tracker te ayuda a seguir tus",
       "description": "Un contador de pity para Wuthering Waves, usando los datos más recientes con las estadísticas globales, y más. Nuestro objetivo es proporcionar las mejores herramientas para mostrar tu progreso en Wuthering Waves a tus amigos.",
-      "character-img-greeting": "Stay focused, Rover."
+      "character-img-greeting": "Mantente concentrado, Errante."
     },
     "Tutorial": {
       "title": "Empecemos",
@@ -600,45 +600,45 @@
     "description": "Mira los eventos de Wuthering Waves en tu zona horaria local o en los <link>tiempos de servidores</link>.",
     "github-update-message": "Actualizado el {time} por {author}.",
     "Edit this page on GitHub": "Editar está página en GitHub",
-    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
+    "Show times adjusted to your local time zone": "Mostrar los tiempos con tu franja horaria local",
     "ResetTimers": {
       "title": "Tiempos de reinicio diario de servidores",
       "description": "Compara tu tiempo local con el tiempo del servidor de Wuthering Waves para planear tu siguiente aventura.",
-      "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
-      "Resets in": "Resets in",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "Your Local Time": "Tu hora local",
+      "Current Server Time": "Tiempo actual del servidor",
+      "Resets in": "Resets en",
+      "server-time-disclaimer": "Las horas de los otros servidores se muestran con su hora local."
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "Event has ended": "El evento ha terminado",
+      "ends-in": "Termina en {timeLeft}",
+      "starts-in": "Empieza en {timeLeft}",
+      "time-left": "Quedan {timeLeft}",
+      "Local Time": "Hora local",
+      "Server Time": "Hora del servidor"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
-      "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "January": "Enero",
+      "February": "Febrero",
+      "March": "Marzo",
+      "April": "Abril",
+      "May": "Mayo",
+      "June": "Junio",
+      "July": "Julio",
+      "August": "Agosto",
+      "September": "Septiembre",
+      "October": "Octubre",
+      "November": "Noviembre",
+      "December": "Diciembre"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
+      "Mo": "Lu",
+      "Tu": "Ma",
+      "We": "Mi",
+      "Th": "Ju",
+      "Fr": "Vi",
       "Sa": "Sa",
-      "Su": "Su"
+      "Su": "Do"
     }
   },
   "Wiki": {
