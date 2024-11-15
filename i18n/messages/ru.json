@@ -600,45 +600,45 @@
     "description": "Просматривайте даты внутриигровых событий по своему часовому поясу, или используя один из <link>часовых поясов серверов игры</link>.",
     "github-update-message": "Обновлено {time} пользователем {author}.",
     "Edit this page on GitHub": "Edit this page on GitHub",
-    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
+    "Show times adjusted to your local time zone": "Отображать время в вашем часовом поясе",
     "ResetTimers": {
       "title": "Таймеры ежедневного обновления серверов",
       "description": "Сравните свое местное время со временем игровых серверов Wuthering Waves, чтобы спланировать свое следующее приключение.",
-      "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
-      "Resets in": "Resets in",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "Your Local Time": "Ваше местное время",
+      "Current Server Time": "Время сервера",
+      "Resets in": "Перезагрузка через",
+      "server-time-disclaimer": "Таймеры других серверов отображаются в их собственных часовых поясах."
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "Event has ended": "Событие завершилось",
+      "ends-in": "Завершится через {timeLeft}",
+      "starts-in": "Начнётся через {timeLeft}",
+      "time-left": "Осталось {timeLeft}",
+      "Local Time": "Местное время",
+      "Server Time": "Время сервера"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
-      "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "January": "Январь",
+      "February": "Февраль",
+      "March": "Март",
+      "April": "Апрель",
+      "May": "Май",
+      "June": "Июнь",
+      "July": "Июль",
+      "August": "Август",
+      "September": "Сентябрь",
+      "October": "Октябрь",
+      "November": "Ноябрь",
+      "December": "Декабрь"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
-      "Sa": "Sa",
-      "Su": "Su"
+      "Mo": "Пн",
+      "Tu": "Вт",
+      "We": "Ср",
+      "Th": "Чт",
+      "Fr": "Пт",
+      "Sa": "Сб",
+      "Su": "Вс"
     }
   },
   "Wiki": {
