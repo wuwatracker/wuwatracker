@@ -228,6 +228,9 @@
       "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
       "Privacy Policy": "Privacy Policy",
       "Terms & Conditions": "Terms & Conditions"
+    },
+    "NavbarBanners": {
+      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
     }
   },
 
