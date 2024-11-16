@@ -603,45 +603,45 @@
     "description": "게임 내 이벤트를 현지 시간이나 <link>서버 시간</link>으로 보세요.",
     "github-update-message": "최종 업데이트: {time} by {author}",
     "Edit this page on GitHub": "GitHub에서 이 페이지를 편집하기",
-    "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
+    "Show times adjusted to your local time zone": "현지 시간대에 기반하여 시간을 보기",
     "ResetTimers": {
       "title": "일일 서버 초기화 타이머",
       "description": "다음 여정에 대비해 현지 시간과 일일 서버 초기화 시간을 비교하세요.",
       "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
+      "Current Server Time": "현재 서버 시간",
       "Resets in": "Resets in",
       "server-time-disclaimer": "Other server timers are displayed in their local time."
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
+      "Event has ended": "이벤트가 종료됨",
+      "ends-in": "종료까지 {timeLeft}",
       "starts-in": "Starts in {timeLeft}",
       "time-left": "{timeLeft} left",
       "Local Time": "Local Time",
       "Server Time": "Server Time"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
-      "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "January": "1월",
+      "February": "2월",
+      "March": "3월",
+      "April": "4월",
+      "May": "5월",
+      "June": "6월",
+      "July": "7월",
+      "August": "8월",
+      "September": "9월",
+      "October": "10월",
+      "November": "11월",
+      "December": "12월"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
-      "Sa": "Sa",
-      "Su": "Su"
+      "Mo": "월",
+      "Tu": "화",
+      "We": "수",
+      "Th": "목",
+      "Fr": "금",
+      "Sa": "토",
+      "Su": "일"
     }
   },
   "Wiki": {
