@@ -220,6 +220,9 @@
       "disclaimer": "本网站与《鸣潮》并无关联。所有不属于我们的游戏资源、游戏内容、商标素材及版权均归属于库洛游戏。",
       "Privacy Policy": "隐私政策",
       "Terms & Conditions": "使用条款"
+    },
+    "NavbarBanners": {
+      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
     }
   },
   "MenuList": {
