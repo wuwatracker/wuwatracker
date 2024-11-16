@@ -222,7 +222,7 @@
       "Terms & Conditions": "Szolgáltatási feltételek"
     },
     "NavbarBanners": {
-      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
+      "url-expired": "Az URL címed lejárt. A húzásod frissítéséhez nyisd meg a játékbeli Convene előzményeidet és <link>importáld újra az URL címedet</link>."
     }
   },
   "MenuList": {
