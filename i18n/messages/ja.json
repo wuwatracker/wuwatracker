@@ -220,6 +220,9 @@
       "disclaimer": "私たちは鳴潮の関連組織ではありません。すべてのゲームアセット、コンテンツ、素材はKuro Gamesの商標および著作権です。",
       "Privacy Policy": "プライバシーポリシー",
       "Terms & Conditions": "利用規約"
+    },
+    "NavbarBanners": {
+      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
     }
   },
   "MenuList": {
