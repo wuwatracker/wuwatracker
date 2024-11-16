@@ -220,6 +220,9 @@
       "disclaimer": "Сайт не аффилирован с игрой Wuthering Waves, все ресурсы, игровой контент и материалы являются товарными знаками и принадлежат Kuro Games.",
       "Privacy Policy": "Политика конфиденциальности",
       "Terms & Conditions": "Условия использования сервиса"
+    },
+    "NavbarBanners": {
+      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
     }
   },
   "MenuList": {
