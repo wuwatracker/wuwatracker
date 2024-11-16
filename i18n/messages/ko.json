@@ -220,6 +220,9 @@
       "disclaimer": "우리는 Wuthering Waves와 연관이 없습니다. 모든 게임 에셋, 콘텐츠와 소재의 트레이드마크와 저작권은 Kuro Games에 있습니다.",
       "Privacy Policy": "개인정보 보호정책",
       "Terms & Conditions": "이용 약관"
+    },
+    "NavbarBanners": {
+      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
     }
   },
   "MenuList": {
