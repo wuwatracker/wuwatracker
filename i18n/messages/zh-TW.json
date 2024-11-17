@@ -220,6 +220,9 @@
       "disclaimer": "本網站內容、素材、及相關版權皆歸庫洛遊戲所有。本網站與鳴潮無任何關聯。",
       "Privacy Policy": "隱私權政策",
       "Terms & Conditions": "服務條款"
+    },
+    "NavbarBanners": {
+      "url-expired": "您的 URL 已失效。要更新您的喚取記錄，請開啟遊戲內的「喚取記錄」並 <link>重新導入您的 URL</link>。"
     }
   },
   "MenuList": {

@@ -220,6 +220,9 @@
       "disclaimer": "Nous ne sommes pas affiliés à Wuthering Waves. Toutes les ressources et tout le contenu sont la propriété de Kuro Games.",
       "Privacy Policy": "Politique de confidentialité",
       "Terms & Conditions": "Conditions d'utilisation"
+    },
+    "NavbarBanners": {
+      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
     }
   },
   "MenuList": {

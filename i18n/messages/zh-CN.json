@@ -70,8 +70,8 @@
     "Rectifier of Night": "暗夜矩阵・暝光",
     "Rectifier of Voyager": "远行者矩阵・探幽",
     "Rectifier#25": "鸣动仪-25型",
-    "Red Spring": "Red Spring",
-    "Somnoire Anchor": "Somnoire Anchor",
+    "Red Spring": "裁春",
+    "Somnoire Anchor": "心之锚",
     "Static Mist": "停驻之烟",
     "Stellar Symphony": "星序协响",
     "Stonard": "金掌",
@@ -124,7 +124,7 @@
     "Celestial Revelation": "千机逐星野",
     "Chromatic Prose": "赋彩作长吟",
     "Til the Sea Turns Clear": "直至海水褪色",
-    "End of Lost Trail": "End of Lost Trail"
+    "End of Lost Trail": "徘徊迷宫尽处"
   },
   "Common": {
     "Import History": "导入历史记录",
@@ -220,6 +220,9 @@
       "disclaimer": "本网站与《鸣潮》并无关联。所有不属于我们的游戏资源、游戏内容、商标素材及版权均归属于库洛游戏。",
       "Privacy Policy": "隐私政策",
       "Terms & Conditions": "使用条款"
+    },
+    "NavbarBanners": {
+      "url-expired": "您的 URL 已到期失效。为了更新抽取记录，请打开您的游戏内唤取历史并<link>再次导入您的 URL</link>"
     }
   },
   "MenuList": {

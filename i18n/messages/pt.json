@@ -71,7 +71,7 @@
     "Rectifier of Voyager": "Retificador de Viajante",
     "Rectifier#25": "Retificador#25",
     "Red Spring": "Primavera Vermelha",
-    "Somnoire Anchor": "Somnoire Anchor",
+    "Somnoire Anchor": "Âncora Sonâmbula",
     "Static Mist": "Névoa Estática",
     "Stellar Symphony": "Sinfonia Estelar",
     "Stonard": "Stonard",
@@ -220,6 +220,9 @@
       "disclaimer": "Não somos afiliados com Wuthering Waves. Todo o conteúdo e materiais usados não são nossa propriedade e têm trademarks e copyrights reservados por Kuro Games.",
       "Privacy Policy": "Política de Privacidade",
       "Terms & Conditions": "Termos & Condições"
+    },
+    "NavbarBanners": {
+      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
     }
   },
   "MenuList": {

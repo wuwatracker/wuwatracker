@@ -220,6 +220,9 @@
       "disclaimer": "Nem állunk kapcsolatban a Wuthering Waves vállalattal. Minden játékeszköz, tartalom és anyag, amely nem a mi tulajdonunk, a Kuro Games védjegye és szerzői joga.",
       "Privacy Policy": "Adatvédelmi irányelvek",
       "Terms & Conditions": "Szolgáltatási feltételek"
+    },
+    "NavbarBanners": {
+      "url-expired": "Az URL címed lejárt. A húzásod frissítéséhez nyisd meg a játékbeli Convene előzményeidet és <link>importáld újra az URL címedet</link>."
     }
   },
   "MenuList": {
