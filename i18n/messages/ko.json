@@ -70,8 +70,8 @@
     "Rectifier of Night": "흑야의 증폭기 · 흑광",
     "Rectifier of Voyager": "수행자의 증폭기 · 탐색",
     "Rectifier#25": "25형 증폭기 · 울림의 멜로디",
-    "Red Spring": "Red Spring",
-    "Somnoire Anchor": "Somnoire Anchor",
+    "Red Spring": "날카로운 봄",
+    "Somnoire Anchor": "마음의 닻",
     "Static Mist": "부동의 안개",
     "Stellar Symphony": "뭇별의 교향곡",
     "Stonard": "황금 권갑",
@@ -124,7 +124,7 @@
     "Celestial Revelation": "별바다의 기관 문명을 찾아서",
     "Chromatic Prose": "채색의 운율",
     "Til the Sea Turns Clear": "그윽한 바닷물이 마를 때까지",
-    "End of Lost Trail": "End of Lost Trail"
+    "End of Lost Trail": "미로 속에서 마주하는 마음"
   },
   "Common": {
     "Import History": "기록 제출하기",
@@ -222,7 +222,7 @@
       "Terms & Conditions": "이용 약관"
     },
     "NavbarBanners": {
-      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
+      "url-expired": "URL이 만료되었습니다. 튜닝 기록을 열고 <link>URL을 다시 제출해주세요</link>"
     }
   },
   "MenuList": {
@@ -607,18 +607,18 @@
     "ResetTimers": {
       "title": "일일 서버 초기화 타이머",
       "description": "다음 여정에 대비해 현지 시간과 일일 서버 초기화 시간을 비교하세요.",
-      "Your Local Time": "Your Local Time",
+      "Your Local Time": "당신의 현지 시간",
       "Current Server Time": "현재 서버 시간",
-      "Resets in": "Resets in",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "Resets in": "리셋까지",
+      "server-time-disclaimer": "다른 서버 시간 타이머는 그들의 현지 시간에 따라 표시됩니다."
     },
     "TimelineItem": {
       "Event has ended": "이벤트가 종료됨",
       "ends-in": "종료까지 {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "starts-in": "시작까지 {timeLeft}",
+      "time-left": "{timeLeft} 남음",
+      "Local Time": "현지 시간",
+      "Server Time": "서버 시간"
     },
     "Months": {
       "January": "1월",
