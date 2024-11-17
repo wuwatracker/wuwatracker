@@ -222,7 +222,7 @@
       "Terms & Conditions": "Условия использования сервиса"
     },
     "NavbarBanners": {
-      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
+      "url-expired": "Срок действия вашего URL истек. Для обновления ваших круток, откройте в игре историю круток и <link>повторно импортируйте свой URL</link>"
     }
   },
   "MenuList": {
@@ -603,14 +603,14 @@
     "description": "Просматривайте даты внутриигровых событий по своему часовому поясу, или используя один из <link>часовых поясов серверов игры</link>.",
     "github-update-message": "Обновлено {time} пользователем {author}.",
     "Edit this page on GitHub": "Edit this page on GitHub",
-    "Show times adjusted to your local time zone": "Отображать время в вашем часовом поясе",
+    "Show times adjusted to your local time zone": "Показать время с учетом вашего часового пояса",
     "ResetTimers": {
       "title": "Таймеры ежедневного обновления серверов",
       "description": "Сравните свое местное время со временем игровых серверов Wuthering Waves, чтобы спланировать свое следующее приключение.",
       "Your Local Time": "Ваше местное время",
       "Current Server Time": "Время сервера",
       "Resets in": "Перезагрузка через",
-      "server-time-disclaimer": "Таймеры других серверов отображаются в их собственных часовых поясах."
+      "server-time-disclaimer": "Таймеры других серверов указаны в их местном времени."
     },
     "TimelineItem": {
       "Event has ended": "Событие завершилось",
