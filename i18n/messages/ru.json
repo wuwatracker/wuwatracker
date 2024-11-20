@@ -610,7 +610,7 @@
       "Your Local Time": "Ваше местное время",
       "Current Server Time": "Время сервера",
       "Resets in": "Перезагрузка через",
-      "server-time-disclaimer": "Таймеры других серверов указаны в их местном времени."
+      "server-time-disclaimer": "На других серверах указывается их местное время."
     },
     "TimelineItem": {
       "Event has ended": "Событие завершилось",
