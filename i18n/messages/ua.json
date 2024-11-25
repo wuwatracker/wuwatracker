@@ -70,7 +70,7 @@
     "Rectifier of Night": "Випрямляч Ночі",
     "Rectifier of Voyager": "Випрямляч Вояджера",
     "Rectifier#25": "Випрямляч#25",
-    "Red Spring": "Red Spring",
+    "Red Spring": "Червона весна",
     "Somnoire Anchor": "Somnoire Anchor",
     "Static Mist": "Постійний тума",
     "Stellar Symphony": "Зоряна Симфонія",
@@ -128,8 +128,8 @@
   },
   "Common": {
     "Import History": "Імпорт історії",
-    "All": "All",
-    "Search": "Search"
+    "All": "Всі",
+    "Search": "Пошук"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
@@ -629,19 +629,19 @@
       "June": "June",
       "July": "July",
       "August": "August",
-      "September": "September",
-      "October": "October",
-      "November": "November",
-      "December": "December"
+      "September": "Вересень",
+      "October": "Жовтень",
+      "November": "Листопад",
+      "December": "Грудень"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
-      "Sa": "Sa",
-      "Su": "Su"
+      "Mo": "Пн",
+      "Tu": "Вт",
+      "We": "Ср",
+      "Th": "Чт",
+      "Fr": "Пт",
+      "Sa": "Сб",
+      "Su": "Нд"
     }
   },
   "Wiki": {
