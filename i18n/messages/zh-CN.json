@@ -125,7 +125,7 @@
     "Chromatic Prose": "赋彩作长吟",
     "Til the Sea Turns Clear": "直至海水褪色",
     "End of Lost Trail": "徘徊迷宫尽处",
-    "Yinlin & Xiangli Yao": "Yinlin & Xiangli Yao Rerun"
+    "Yinlin & Xiangli Yao": "惊霆雨时节和千机逐星野"
   },
   "Common": {
     "Import History": "导入历史记录",
@@ -595,7 +595,7 @@
       "description": "管理 WuWa Tracker 在处理您的数据时所涉及的权限"
     },
     "GlobalStatsCheckbox": {
-      "Submit pull data for global statistics": "提交抽卡数据至全球统计数据中。"
+      "Submit pull data for global statistics": "将抽取数据提交至全球统计数据"
     }
   },
   "Timeline": {
@@ -617,7 +617,7 @@
       "Event has ended": "活动已结束",
       "ends-in": "将于 {timeLeft} 后结束",
       "starts-in": "将于 {timeLeft} 后开始",
-      "time-left": "尚余 {timeLeft}",
+      "time-left": "距离结束尚余 {timeLeft}",
       "Local Time": "本地时间",
       "Server Time": "服务器时间"
     },
