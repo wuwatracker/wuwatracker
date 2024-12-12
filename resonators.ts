@@ -192,9 +192,9 @@ export const fourStarResonatorMetadata = {
   Lumi: {
     id: 1603,
     qualityLevel: 4,
-    imgSrc: "/assets/luckdraw/youhu.webp",
-    element: "Glacio",
-    portraitSrc: "/assets/portraits/youhu.webp",
+    imgSrc: "/assets/luckdraw/lumi.webp",
+    element: "Electro",
+    portraitSrc: "/assets/portraits/lumi.webp",
   },
 } as ResonatorMetadata;
 
