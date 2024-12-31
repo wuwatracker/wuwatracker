@@ -81,6 +81,20 @@ export const fiveStarResonatorMetadata = {
     element: "Havoc",
     portraitSrc: "/assets/portraits/camellya.webp",
   },
+  Carlotta: {
+    id: 1107,
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/carlotta.webp",
+    element: "Glacio",
+    portraitSrc: "/assets/portraits/carlotta.webp",
+  },
+  Roccia: {
+    id: 1606,
+    qualityLevel: 5,
+    imgSrc: "/assets/luckdraw/roccia.webp",
+    element: "Havoc",
+    portraitSrc: "/assets/portraits/roccia.webp",
+  },
   Calcharo: {
     id: 1301,
     qualityLevel: 5,

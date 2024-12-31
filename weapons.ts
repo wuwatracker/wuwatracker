@@ -64,6 +64,16 @@ export const fiveStarWeaponMetadata = {
     imgSrc: "/assets/weapons/red-spring.webp",
     type: "Sword",
   },
+  "The Last Dance": {
+    qualityLevel: 5,
+    imgSrc: "/assets/weapons/the-last-dance.webp",
+    type: "Pistols",
+  },
+  Tragicomedy: {
+    qualityLevel: 5,
+    imgSrc: "/assets/weapons/tragicomedy.webp",
+    type: "Gauntlets",
+  },
   "Abyss Surges": {
     qualityLevel: 5,
     imgSrc: "/assets/weapons/abyss-surges.webp",
@@ -240,6 +250,36 @@ export const fourStarWeaponMetadata = {
   "Fusion Accretion": {
     qualityLevel: 4,
     imgSrc: "/assets/weapons/fusion-accretion.webp",
+    type: "Rectifier",
+  },
+  "Meditations on Mercy": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/meditations-on-mercy.webp",
+    type: "Broadblade",
+  },
+  "Fables of Wisdom": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/fables-of-wisdom.webp",
+    type: "Sword",
+  },
+  "Romance in Farewell": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/romance-in-farewell.webp",
+    type: "Pistols",
+  },
+  "Legend of Drunken Hero": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/legend-of-drunken-hero.webp",
+    type: "Gauntlets",
+  },
+  "Call of the Abyss": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/call-of-the-abyss.webp",
+    type: "Rectifier",
+  },
+  "Waltz in Masquerade": {
+    qualityLevel: 4,
+    imgSrc: "/assets/weapons/waltz-in-masquerade.webp",
     type: "Rectifier",
   },
 } as WeaponMetadata;
