@@ -183,7 +183,7 @@ export const rawBanners: BannerInfo[] = [
     alt: "Carlotta & Zhezhi",
     rateUp5Names: ["Carlotta", "Zhezhi"],
     rateUp4Names: ["Sanhua", "Chixia", "Mortefi"],
-    startDate: "2025-01-01 12:00:00", // set early as precaution, actual maintenance starts & ends @ 01-02 4:00 - 11:00 (UTC+8)
+    startDate: "2025-01-01 04:00:00",
     endDate: "2025-01-23 09:59:59",
     isCstStart: true,
   },
@@ -328,7 +328,7 @@ export const rawBanners: BannerInfo[] = [
     alt: "Absolute Pulsation",
     rateUp5Names: ["The Last Dance", "Rime-Draped Sprouts"],
     rateUp4Names: ["Relativistic Jet", "Fusion Accretion", "Amity Accord"],
-    startDate: "2025-01-01 12:00:00", // set early as precaution, actual maintenance starts & ends @ 01-02 4:00 - 11:00 (UTC+8)
+    startDate: "2025-01-02 04:00:00",
     endDate: "2025-01-23 09:59:59",
     isCstStart: true,
   },
