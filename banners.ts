@@ -183,7 +183,7 @@ export const rawBanners: BannerInfo[] = [
     alt: "Carlotta & Zhezhi",
     rateUp5Names: ["Carlotta", "Zhezhi"],
     rateUp4Names: ["Sanhua", "Chixia", "Mortefi"],
-    startDate: "2025-01-01 04:00:00",
+    startDate: "2025-01-02 04:00:00",
     endDate: "2025-01-23 09:59:59",
     isCstStart: true,
   },
@@ -346,6 +346,6 @@ export const rawBanners: BannerInfo[] = [
 ];
 
 export const banners = rawBanners.filter((b) => {
-  const UNRELEASED_BANNERS: number[] = [100012, 100013, 200012, 200013];
+  const UNRELEASED_BANNERS: number[] = [100013, 200013];
   return !UNRELEASED_BANNERS.includes(b.bannerId);
 });
