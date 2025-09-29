@@ -168,7 +168,7 @@ search_steam_paths() {
     
     for path in "${steam_paths[@]}"; do
         if [[ -d "$path" ]]; then
-            echo -e "${GREEN}Found potential Steam installation: $path  ${RESET}" >&2
+            echo -e "${GREEN}Found potential Steam installation: $path ${RESET}" >&2
 
             # Modified: Changed to O(1) Scanning via Assoc Array, prevents duplicates
             if [[ -n "${checked_directories[$path]}" ]]; then
