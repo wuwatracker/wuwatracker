@@ -83,7 +83,7 @@ log_check() {
             echo -e "\n${RED}ERROR: Your Engine.ini file contains a setting that prevents you from importing your data.${RESET}" >&2
             echo "The file is located at: $engine_ini_path"
             echo "Please manually edit this file to remove or comment out the '[Core.Log]' section with 'Global=off' or 'Global=none'."
-            echo "${YELLOW}After editing, restart your game and open the Convene History page before running this script again.${RESET}"
+            echo -e "${YELLOW}After editing, restart your game and open the Convene History page before running this script again.${RESET}"
             read -p "Press Enter to continue..."
             exit 1
         fi
@@ -112,10 +112,10 @@ log_check() {
     if [[ -n "$gacha_url_entry" || -n "$debug_url" ]]; then
         if [[ -n "$gacha_url_entry" ]]; then
             url_to_copy="$gacha_url_entry"
-            echo "${GREEN}URL found in $gacha_log_path${RESET}"
+            echo -e "${GREEN}URL found in $gacha_log_path${RESET}"
         elif [[ -n "$debug_url" ]]; then
             url_to_copy="$debug_url"
-            echo "${GREEN}URL found in $debug_log_path${RESET}"
+            echo -e "${GREEN}URL found in $debug_log_path${RESET}"
         fi
         
         if [[ -n "$url_to_copy" ]]; then
@@ -168,7 +168,7 @@ search_steam_paths() {
     
     for path in "${steam_paths[@]}"; do
         if [[ -d "$path" ]]; then
-            echo "Found potential Steam installation: $path" >&2
+            echo -e "${GREEN}Found potential Steam installation: $path ${RESET}" >&2
 
             # Modified: Changed to O(1) Scanning via Assoc Array, prevents duplicates
             if [[ -n "${checked_directories[$path]}" ]]; then
@@ -225,7 +225,7 @@ search_wine_paths() {
     
     for path in "${wine_paths[@]}"; do
         if [[ -d "$path" ]]; then
-            echo "Found potential Wine installation: $path" >&2
+            echo -e "${GREEN}Found potential Wine installation: $path${RESET}" >&2
             
             # Check if already processed
             if [[ -n "${checked_directories[$path]}" ]]; then
@@ -262,7 +262,7 @@ search_lutris_paths() {
     if [[ -d "$lutris_base" ]]; then
         while IFS= read -r -d '' game_dir; do
             if [[ $(basename "$game_dir") == *"wuthering"* ]] || [[ $(basename "$game_dir") == *"Wuthering"* ]]; then
-                echo "Found potential Lutris installation: $game_dir" >&2
+                echo -e "${GREEN}Found potential Lutris installation: $game_dir${RESET}" >&2
                 
                 # Check if already processed
                 if [[ -n "${checked_directories[$game_dir]}" ]]; then
@@ -385,7 +385,7 @@ search_mounted_drives() {
                 continue
             fi
             
-            echo "${GREEN}Found potential game folder: $path${RESET}" >&2
+            echo -e "${GREEN}Found potential game folder: $path${RESET}" >&2
             
             # Check if already processed
             if [[ -n "${checked_directories[$path]}" ]]; then
