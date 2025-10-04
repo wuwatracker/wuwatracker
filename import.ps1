@@ -24,7 +24,6 @@
     When redistributing this script, you must include this license notice and credits in all copies or substantial portions of the script.
     The script must not be used in a way that violates the terms of the GNU General Public License v3.0.
 #>
-
 Add-Type -AssemblyName System.Web
 $gamePath = $null
 $urlFound = $false
@@ -33,6 +32,13 @@ $folderFound = $false
 $err = ""
 $checkedDirectories = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 $originalErrorPreference = $ErrorActionPreference
+$IsAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
+
+if ($IsAdmin) {
+    Write-Host "Running as Administrator" -ForegroundColor Green
+} else {
+    Write-Host "Running as Normal User" -ForegroundColor Green
+}
 
 # We silence errors for path searching to not confuse users
 $ErrorActionPreference = "SilentlyContinue"
@@ -70,6 +76,7 @@ function LogCheck {
                 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
                 exit
             }
+A
 
             if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
                 Write-Host "`n"
@@ -347,7 +354,20 @@ if (!$urlFound) {
 
 if (!$urlFound) {
     $urlFound = SearchAllDiskLetters
+
+    # Retry as admin if still not found
+    if (!$urlFound -and -not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
+        Write-Host "`nAutomatic detection failed." -ForegroundColor Yellow
+        Write-Host "Some directories may require administrator access to read." -ForegroundColor Yellow
+        $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
+        if ($retry -eq "Y" -or $retry -eq "y") {
+            Write-Host "Restarting script with elevated permissions..." -ForegroundColor Cyan
+            Start-Process powershell.exe "-NoProfile -ExecutionPolicy Bypass -File `"$PSCommandPath`"" -Verb RunAs
+            exit
+        }
+    }
 }
+
 
 $ErrorActionPreference = $originalErrorPreference
 
