@@ -76,7 +76,7 @@ function LogCheck {
                 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
                 exit
             }
-A
+
 
             if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
                 Write-Host "`n"
@@ -429,3 +429,4 @@ Write-Host @"
         Write-Host "Invalid game location. Did you set your game location properly?" -ForegroundColor Red
     }
 }
+
