@@ -438,3 +438,4 @@ Write-Host @"
         Write-Host "Invalid game location. Did you set your game location properly?" -ForegroundColor Red
     }
 }
+
