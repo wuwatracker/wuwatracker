@@ -35,9 +35,9 @@ $originalErrorPreference = $ErrorActionPreference
 $IsAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
 
 if ($IsAdmin) {
-    Write-Host "Running as Administrator" -ForegroundColor Green
+    Write-Host "Running as Administrator" -ForegroundColor DarkMagenta
 } else {
-    Write-Host "Running as Normal User" -ForegroundColor Green
+    Write-Host "Running as Normal User" -ForegroundColor DarkMagenta
 }
 
 # We silence errors for path searching to not confuse users
@@ -76,13 +76,19 @@ function LogCheck {
                 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
                 exit
             }
-A
+
 
             if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
                 Write-Host "`n"
                 Write-Warning "You need administrator rights to modify the game's Program Files. Attempting to restart PowerShell as admin..."
-                Start-Process powershell.exe "-File `"$PSCommandPath`"" -Verb RunAs
-                exit
+                $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
+                if ($retry -eq "Y" -or $retry -eq "y") {
+
+                    Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
+                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/refs/heads/main/import.ps1 | iex"'
+                    Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
+                    exit
+                }
             }
             
             $backupPath = $engineIniPath + ".backup"
@@ -355,17 +361,20 @@ if (!$urlFound) {
 if (!$urlFound) {
     $urlFound = SearchAllDiskLetters
 
-    # Retry as admin if still not found
     if (!$urlFound -and -not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
         Write-Host "`nAutomatic detection failed." -ForegroundColor Yellow
         Write-Host "Some directories may require administrator access to read." -ForegroundColor Yellow
-        $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
+        $retry = Read-Host "Would you like to retry as Administrator (Y - Retry as Administrator /N - Input a game path manually)"
         if ($retry -eq "Y" -or $retry -eq "y") {
-            Write-Host "Restarting script with elevated permissions..." -ForegroundColor Cyan
-            Start-Process powershell.exe "-NoProfile -ExecutionPolicy Bypass -File `"$PSCommandPath`"" -Verb RunAs
+
+            Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
+            $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/refs/heads/main/import.ps1 | iex"'
+            Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
             exit
         }
     }
+
+
 }
 
 
