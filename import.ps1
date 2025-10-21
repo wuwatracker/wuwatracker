@@ -24,7 +24,6 @@
     When redistributing this script, you must include this license notice and credits in all copies or substantial portions of the script.
     The script must not be used in a way that violates the terms of the GNU General Public License v3.0.
 #>
-
 Add-Type -AssemblyName System.Web
 $gamePath = $null
 $urlFound = $false
@@ -33,13 +32,19 @@ $folderFound = $false
 $err = ""
 $checkedDirectories = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 $originalErrorPreference = $ErrorActionPreference
+$IsAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
+
+if ($IsAdmin) {
+    Write-Host "Running as Administrator" -ForegroundColor DarkMagenta
+} else {
+    Write-Host "Running as Normal User" -ForegroundColor DarkMagenta
+}
 
 # We silence errors for path searching to not confuse users
 $ErrorActionPreference = "SilentlyContinue"
 
 Write-Output "Attempting to find URL automatically..."
 
-#Args: [0] - $gamepath
 function LogCheck {
     if (!(Test-Path $args[0])) {
         $folderFound = $false
@@ -50,6 +55,7 @@ function LogCheck {
     else {
         $folderFound = $true
     }
+
     $gachaLogPath = $args[0] + '\Client\Saved\Logs\Client.log'
     $debugLogPath = $args[0] + '\Client\Binaries\Win64\ThirdParty\KrPcSdk_Global\KRSDKRes\KRSDKWebView\debug.log'
     $engineIniPath = $args[0] + '\Client\Saved\Config\WindowsNoEditor\Engine.ini'
@@ -59,11 +65,11 @@ function LogCheck {
         $engineIniContent = Get-Content $engineIniPath -Raw
         if ($engineIniContent -match '\[Core\.Log\][\r\n]+Global=(off|none)') {
             $logDisabled = $true
-            
+
             Write-Host "`nERROR: Your Engine.ini file contains a setting that prevents you from importing your data. Would you like us to attempt to automatically fix it?" -ForegroundColor Red
             Write-Host "`nWe can automatically edit your $engineIniPath file to re-enable logging. You will need to re-import and run this script afterwards.`n"
             Write-Warning "We are not responsible for any consequences from this script. Please proceed at your own risk!`n`n"
-            
+
             $confirmation = Read-Host "Do you want to proceed? (Y/N)"
             if ($confirmation -ne 'Y' -and $confirmation -ne 'y') {
                 Write-Host "`nERROR: Unable to import data due to bad Engine.ini file. Press any key to continue..." -ForegroundColor Red
@@ -74,20 +80,77 @@ function LogCheck {
             if (-NOT ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) {
                 Write-Host "`n"
                 Write-Warning "You need administrator rights to modify the game's Program Files. Attempting to restart PowerShell as admin..."
-                Start-Process powershell.exe "-File `"$PSCommandPath`"" -Verb RunAs
-                exit
+                $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
+                if ($retry -eq "Y" -or $retry -eq "y") {
+                    Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
+                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://github.com/wuwatracker/wuwatracker/blob/main/import.ps1 | iex"'
+                    Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
+                    exit
+                }
             }
-            
+
             $backupPath = $engineIniPath + ".backup"
             Copy-Item -Path $engineIniPath -Destination $backupPath -Force
             Write-Host "Created backup at $backupPath" -ForegroundColor Green
-            
+
             $newContent = $engineIniContent -replace '\[Core\.Log\][^\[]*', ''
             Set-Content -Path $engineIniPath -Value $newContent
             Write-Host "`nSuccessfully modified Engine.ini to enable logging." -ForegroundColor Green
             Write-Host "`nPlease restart your game and open the Convene History page before running this script again." -ForegroundColor Yellow
             $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown')
             exit
+        }
+    }
+    # $gachaLogPath must be the full path to Client.log
+    if (Test-Path $gachaLogPath) {
+        try {
+            # Backup ACL (XML)
+            $acl = Get-Acl -Path $gachaLogPath
+            $denyRules = $acl.Access | Where-Object { $_.AccessControlType -eq 'Deny' -and $_.FileSystemRights -match 'Read' }
+
+            if ($denyRules) {
+                Write-Warning "Found $($denyRules.Count) Deny ACE(s) blocking read access."
+
+                $confirm = Read-Host "Remove these deny ACEs and repair permissions? (Y/N)"
+                if ($confirm -notmatch '^[Yy]$') {
+                    Write-Host "User declined. Skipping ACL changes." -ForegroundColor Yellow
+                }
+                else {
+                    foreach ($rule in $denyRules) {
+                        # Identity might be an NTAccount or a SID; get a friendly name if possible
+                        $id = $rule.IdentityReference.Value
+                        try {
+                            if ($id -match '^S-\d-\d+-(\d+-){1,}\d+$') {
+                                # It's a SID — try to translate
+                                $sid = New-Object System.Security.Principal.SecurityIdentifier($id)
+                                $idFriendly = $sid.Translate([System.Security.Principal.NTAccount]).Value
+                            } else {
+                                $idFriendly = $id
+                            }
+                        } catch {
+                            # fallback to raw value if translation fails
+                            $idFriendly = $id
+                        }
+
+                        Write-Host "Removing Deny ACE for: $idFriendly" -ForegroundColor Cyan
+
+                        # Use icacls to remove deny ACEs for this principal
+                        # Note: quote the principal in case it contains spaces
+                        $icaclsCmd = "icacls `"$gachaLogPath`" /remove:d `"$idFriendly`" /C"
+                        cmd.exe /c $icaclsCmd | Out-Null
+                    }
+
+                    # Re-apply owner and grant admins full control for good measure
+                    takeown /F "$gachaLogPath" | Out-Null
+                    icacls "$gachaLogPath" /grant Administrators:F /C | Out-Null
+
+                    Write-Host "Deny ACEs removed (where possible) and permissions repaired." -ForegroundColor Green
+                }
+            } else {
+                Write-Host "No Deny ACEs blocking read found." -ForegroundColor Green
+            }
+        } catch {
+            Write-Warning "Failed to inspect/modify ACLs for ${gachaLogPath}: $_"
         }
     }
 
@@ -136,21 +199,22 @@ function LogCheck {
     return $folderFound, $logFound, $urlFound
 }
 
+
 function SearchAllDiskLetters {
     Write-Host "Searching all disk letters (A-Z) for Wuthering Waves Game folder..." -ForegroundColor Yellow
-    
+
     $availableDrives = Get-PSDrive -PSProvider FileSystem | Select-Object -ExpandProperty Name
     Write-Host "Available drives: $($availableDrives -join ', ')" -ForegroundColor Yellow
-    
+
     foreach ($driveLetter in [char[]](65..90)) {
         $drive = "$($driveLetter):"
-        
+
         if ($driveLetter -notin $availableDrives) {
             continue
         }
-        
+
         Write-Host "Searching drive $drive..."
-        
+
         $gamePaths = @(
             "$drive\SteamLibrary\steamapps\common\Wuthering Waves",
             "$drive\SteamLibrary\steamapps\common\Wuthering Waves\Wuthering Waves Game",
@@ -176,14 +240,14 @@ function SearchAllDiskLetters {
             "$drive\Program Files (x86)\Wuthering Waves\Wuthering Waves Game"
         )
 
-    
+
         foreach ($path in $gamePaths) {
             if (!(Test-Path $path)) {
                 continue
             }
-            
+
             Write-Host "Found potential game folder: $path" -ForegroundColor Green
-            
+
             if ($path -like "*OneDrive*") {
                 $err += "Skipping path as it contains 'OneDrive': $($path)`n"
                 continue
@@ -193,14 +257,14 @@ function SearchAllDiskLetters {
                 $err += "Already checked: $($path)`n"
                 continue
             }
-            
+
             $checkedDirectories.Add($path) | Out-Null
             $folderFound, $logFound, $urlFound = LogCheck $path
-            
-            if ($urlFound) { 
+
+            if ($urlFound) {
                 return $true
             }
-            elseif ($logFound) {                
+            elseif ($logFound) {
                 $err += "Path checked: $($path).`n"
                 $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
                 $err += "Contact Us if you think this is correct directory and still facing issues.`n"
@@ -213,7 +277,7 @@ function SearchAllDiskLetters {
             }
         }
     }
-    
+
     return $false
 }
 
@@ -260,7 +324,7 @@ if (!$urlFound) {
     }
 }
 
-# Firewall 
+# Firewall
 if (!$urlFound) {
     $firewallPath = "Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules"
     try {
@@ -342,12 +406,28 @@ if (!$urlFound) {
     catch {
         Write-Output "[ERROR] Cannot access registry: $_"
         $gamePath = $null
-    }  
+    }
 }
 
 if (!$urlFound) {
     $urlFound = SearchAllDiskLetters
+
+    if (!$urlFound -and -not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
+        Write-Host "`nAutomatic detection failed." -ForegroundColor Yellow
+        Write-Host "Some directories may require administrator access to read." -ForegroundColor Yellow
+        $retry = Read-Host "Would you like to retry as Administrator (Y - Retry as Administrator /N - Input a game path manually)"
+        if ($retry -eq "Y" -or $retry -eq "y") {
+
+            Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
+            $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://github.com/wuwatracker/wuwatracker/blob/main/import.ps1 | iex"'
+            Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
+            exit
+        }
+    }
+
+
 }
+
 
 $ErrorActionPreference = $originalErrorPreference
 
@@ -356,7 +436,7 @@ Write-Host $err -ForegroundColor Magenta
 # Manual
 while (!$urlFound) {
     Write-Host "Game install location not found or log files missing. Did you open your in-game Convene History first?" -ForegroundColor Red
-   
+
 Write-Host @"
     +--------------------------------------------------+
     |         ARE YOU USING A THIRD-PARTY APP?         |
@@ -369,10 +449,10 @@ Write-Host @"
     | reinstalling the game before importing again.    |
     +--------------------------------------------------+
 "@ -ForegroundColor Yellow
-  
+
 
     Write-Host "If you think that any of the above installation directory is correct and you've tried disabling third-party apps & reinstalling, please join our Discord server for help: https://wuwatracker.com/discord."
-   
+
     Write-Host "`nOtherwise, please enter the game install location path."
     Write-Host 'Common install locations:'
     Write-Host '  C:\Wuthering Waves' -ForegroundColor Yellow
@@ -392,7 +472,7 @@ Write-Host @"
         Write-Host "`n`n`nUser provided path: $($path)" -ForegroundColor Magenta
         $folderFound, $logFound, $urlFound = LogCheck $path
         if ($urlFound) { break }
-        elseif ($logFound) {            
+        elseif ($logFound) {
             $err += "Path checked: $($gamePath).`n"
             $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
             $err += "If this is the correct directory and you're still facing issues, raise a ticket in wuwatracker.com/discord`n"
