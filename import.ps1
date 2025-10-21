@@ -18,7 +18,7 @@
     - Thanks to @timas130 for adding CN server support
     - Thanks to @mei.yue on Discord for helping us debug OneDrive issues
     - Thanks to @phenom for sharing the v2 launcher new Client.log directory path
-    - Thanks to @thekiwibirdddd for optimizing the search logic to O(1) to use a HashSet lookup and avoid duplicate checks
+    - Thanks to @thekiwibirdddd for optimizing the search logic and updating ACEs to bypass read-only logfiles
 
     [Redistribution Provision]
     When redistributing this script, you must include this license notice and credits in all copies or substantial portions of the script.
@@ -431,7 +431,9 @@ if (!$urlFound) {
 
 $ErrorActionPreference = $originalErrorPreference
 
-Write-Host $err -ForegroundColor Magenta
+if (!$urlFound) {
+    Write-Host $err -ForegroundColor Magenta
+}
 
 # Manual
 while (!$urlFound) {
