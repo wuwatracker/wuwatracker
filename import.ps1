@@ -2,7 +2,7 @@
     [License]
     This script is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
-    Copyright (C) 2025 Luzefiru
+    Copyright (C) 2026 Luzefiru
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
@@ -491,3 +491,4 @@ Write-Host @"
         Write-Host "Invalid game location. Did you set your game location properly?" -ForegroundColor Red
     }
 }
+
