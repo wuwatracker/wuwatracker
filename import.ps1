@@ -45,12 +45,16 @@ $ErrorActionPreference = "SilentlyContinue"
 
 Write-Output "Attempting to find URL automatically..."
 
+# Collects every Client.log / debug.log found across all installations;
+# URL extraction happens once at the end using the newest file
+# We do this because some users have multiple installations and thus, outdated logfiles
+$Script:collectedLogFiles = [System.Collections.Generic.List[PSCustomObject]]::new()
+
 function LogCheck {
     if (!(Test-Path $args[0])) {
         $folderFound = $false
         $logFound = $false
-        $urlFound = $false
-        return $folderFound, $logFound, $urlFound
+        return $folderFound, $logFound
     }
     else {
         $folderFound = $true
@@ -156,47 +160,51 @@ function LogCheck {
 
     if (Test-Path $gachaLogPath) {
         $logFound = $true
-        $gachaUrlEntry = Select-String -Path $gachaLogPath -Pattern "https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record*" | Select-Object -Last 1
-        if ([string]::IsNullOrWhiteSpace($gachaUrlEntry)) {
-            $gachaUrlEntry = $null
+        $fileInfo = Get-Item $gachaLogPath -ErrorAction SilentlyContinue
+        if ($fileInfo) {
+            $Script:collectedLogFiles.Add([PSCustomObject]@{
+                Path          = $gachaLogPath
+                Type          = 'client'
+                LastWriteTime = $fileInfo.LastWriteTime
+            })
+            Write-Host "  Queued Client.log: $gachaLogPath (Modified: $($fileInfo.LastWriteTime))" -ForegroundColor DarkGray
         }
-    }
-    else {
-        $gachaUrlEntry = $null
     }
 
     if (Test-Path $debugLogPath) {
         $logFound = $true
-        $debugUrlEntry = Select-String -Path $debugLogPath -Pattern '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"' | Select-Object -Last 1
-        if ([string]::IsNullOrWhiteSpace($debugUrlEntry)) {
-            $debugUrl = $null
+        $fileInfo = Get-Item $debugLogPath -ErrorAction SilentlyContinue
+        if ($fileInfo) {
+            $Script:collectedLogFiles.Add([PSCustomObject]@{
+                Path          = $debugLogPath
+                Type          = 'debug'
+                LastWriteTime = $fileInfo.LastWriteTime
+            })
+            Write-Host "  Queued debug.log: $debugLogPath (Modified: $($fileInfo.LastWriteTime))" -ForegroundColor DarkGray
         }
-        else {
-            $debugUrl = $debugUrlEntry.Matches.Groups[1].Value
-        }
-    }
-    else {
-        $debugUrl = $null
     }
 
-    if ($gachaUrlEntry -or $debugUrl) {
-        if ($gachaUrlEntry) {
+    return $folderFound, $logFound
+}
+
+function ExtractUrlFromLog {
+    param([PSCustomObject]$logFile)
+    $urlToCopy = $null
+
+    if ($logFile.Type -eq 'client') {
+        $gachaUrlEntry = Select-String -Path $logFile.Path -Pattern "https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record*" | Select-Object -Last 1
+        if (![string]::IsNullOrWhiteSpace($gachaUrlEntry)) {
             $urlToCopy = $gachaUrlEntry -replace '.*?(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)[^"]*).*', '$1'
-            Write-Host "URL found in $($gachaLogPath)"
-        }
-        if ([string]::IsNullOrWhiteSpace($urlToCopy)) {
-            $urlToCopy = $debugUrl
-            Write-Host "URL found in $($debugLogPath)"
-        }
-
-        if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
-            $urlFound = $true
-            Write-Host "`nConvene Record URL: $urlToCopy"
-            Set-Clipboard $urlToCopy
-            Write-Host "`nLink copied to clipboard, paste it in wuwatracker.com and click the Import History button." -ForegroundColor Green
         }
     }
-    return $folderFound, $logFound, $urlFound
+    elseif ($logFile.Type -eq 'debug') {
+        $debugUrlEntry = Select-String -Path $logFile.Path -Pattern '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"' | Select-Object -Last 1
+        if (![string]::IsNullOrWhiteSpace($debugUrlEntry)) {
+            $urlToCopy = $debugUrlEntry.Matches.Groups[1].Value
+        }
+    }
+
+    return $urlToCopy
 }
 
 
@@ -259,15 +267,10 @@ function SearchAllDiskLetters {
             }
 
             $checkedDirectories.Add($path) | Out-Null
-            $folderFound, $logFound, $urlFound = LogCheck $path
+            $folderFound, $logFound = LogCheck $path
 
-            if ($urlFound) {
-                return $true
-            }
-            elseif ($logFound) {
+            if ($logFound) {
                 $err += "Path checked: $($path).`n"
-                $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
-                $err += "Contact Us if you think this is correct directory and still facing issues.`n"
             }
             elseif ($folderFound) {
                 $err += "No logs found at $path`n"
@@ -277,9 +280,8 @@ function SearchAllDiskLetters {
             }
         }
     }
-
-    return $false
 }
+
 
 # MUI Cache
 if (!$urlFound) {
@@ -300,12 +302,9 @@ if (!$urlFound) {
                     continue
                 }
                 $checkedDirectories.Add($gamePath) | Out-Null
-                $folderFound, $logFound, $urlFound = LogCheck $gamePath
-                if ($urlFound) { break }
-                elseif ($logFound) {
+                $folderFound, $logFound = LogCheck $gamePath
+                if ($logFound) {
                     $err += "Path checked: $($gamePath).`n"
-                    $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
-                    $err += "Contact Us if you think this is correct directory and still facing issues.`n"
                 }
                 elseif ($folderFound) {
                     $err += "No logs found at $gamePath`n"
@@ -344,12 +343,9 @@ if (!$urlFound) {
                 }
 
                 $checkedDirectories.Add($gamePath) | Out-Null
-                $folderFound, $logFound, $urlFound = LogCheck $gamePath
-                if ($urlFound) { break }
-                elseif ($logFound) {
+                $folderFound, $logFound = LogCheck $gamePath
+                if ($logFound) {
                     $err += "Path checked: $($gamePath).`n"
-                    $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
-                    $err += "Contact Us if you think this is correct directory and still facing issues.`n"
                 }
                 elseif ($folderFound) {
                     $err += "No logs found at $gamePath`n"
@@ -383,19 +379,15 @@ if (!$urlFound) {
             }
             else {
                 $checkedDirectories.Add($gamePath) | Out-Null
-                $folderFound, $logFound, $urlFound = LogCheck $gamePath
-                if (!$urlFound) {
-                    if ($logFound) {
-                        $err += "Path checked: $($gamePath).`n"
-                        $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
-                        $err += "Contact Us if you think this is correct directory and still facing issues.`n"
-                    }
-                    elseif ($folderFound) {
-                        $err += "No logs found at $gamePath`n"
-                    }
-                    else {
-                        $err += "No Installation found at $gamePath`n"
-                    }
+                $folderFound, $logFound = LogCheck $gamePath
+                if ($logFound) {
+                    $err += "Path checked: $($gamePath).`n"
+                }
+                elseif ($folderFound) {
+                    $err += "No logs found at $gamePath`n"
+                }
+                else {
+                    $err += "No Installation found at $gamePath`n"
                 }
             }
         }
@@ -410,22 +402,46 @@ if (!$urlFound) {
 }
 
 if (!$urlFound) {
-    $urlFound = SearchAllDiskLetters
+    SearchAllDiskLetters
+}
 
-    if (!$urlFound -and -not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
-        Write-Host "`nAutomatic detection failed." -ForegroundColor Yellow
-        Write-Host "Some directories may require administrator access to read." -ForegroundColor Yellow
-        $retry = Read-Host "Would you like to retry as Administrator (Y - Retry as Administrator /N - Input a game path manually)"
-        if ($retry -eq "Y" -or $retry -eq "y") {
+# Sort all collected log files by newest and pick the newest one
+if (!$urlFound -and $Script:collectedLogFiles.Count -gt 0) {
+    Write-Host "`nCollected $($Script:collectedLogFiles.Count) log file(s) across all installations. Selecting newest for URL extraction..." -ForegroundColor Cyan
+    $sortedLogs = $Script:collectedLogFiles | Sort-Object LastWriteTime -Descending
+    Write-Host "Log files ranked by age (newest first):" -ForegroundColor DarkGray
+    foreach ($lf in $sortedLogs) {
+        Write-Host "  [$($lf.LastWriteTime)] $($lf.Path)" -ForegroundColor DarkGray
+    }
 
-            Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-            $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://github.com/wuwatracker/wuwatracker/blob/main/import.ps1 | iex"'
-            Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
-            exit
+    foreach ($logFile in $sortedLogs) {
+        $urlToCopy = ExtractUrlFromLog $logFile
+        if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
+            $urlFound = $true
+            Write-Host "`nURL found in $($logFile.Path)" -ForegroundColor Cyan
+            Write-Host "`nConvene Record URL: $urlToCopy"
+            Set-Clipboard $urlToCopy
+            Write-Host "`nLink copied to clipboard, paste it in wuwatracker.com and click the Import History button." -ForegroundColor Green
+            break
         }
     }
 
+    if (!$urlFound) {
+        $logFound = $true
+        $err += "Log files were found but contain no Convene History URL. Please open your Convene History in-game first!`n"
+    }
+}
 
+if (!$urlFound -and $Script:collectedLogFiles.Count -eq 0 -and -not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) {
+    Write-Host "`nAutomatic detection failed." -ForegroundColor Yellow
+    Write-Host "Some directories may require administrator access to read." -ForegroundColor Yellow
+    $retry = Read-Host "Would you like to retry as Administrator (Y - Retry as Administrator /N - Input a game path manually)"
+    if ($retry -eq "Y" -or $retry -eq "y") {
+        Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
+        $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://github.com/wuwatracker/wuwatracker/blob/main/import.ps1 | iex"'
+        Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
+        exit
+    }
 }
 
 
@@ -472,12 +488,26 @@ Write-Host @"
         }
         $gamePath = $path
         Write-Host "`n`n`nUser provided path: $($path)" -ForegroundColor Magenta
-        $folderFound, $logFound, $urlFound = LogCheck $path
-        if ($urlFound) { break }
-        elseif ($logFound) {
-            $err += "Path checked: $($gamePath).`n"
-            $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
-            $err += "If this is the correct directory and you're still facing issues, raise a ticket in wuwatracker.com/discord`n"
+        $folderFound, $logFound = LogCheck $path
+        # Extract URL immediately from any newly added log files for this manual path
+        if ($logFound -and $Script:collectedLogFiles.Count -gt 0) {
+            $sortedLogs = $Script:collectedLogFiles | Sort-Object LastWriteTime -Descending
+            foreach ($logFile in $sortedLogs) {
+                $urlToCopy = ExtractUrlFromLog $logFile
+                if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
+                    $urlFound = $true
+                    Write-Host "`nURL found in $($logFile.Path)" -ForegroundColor Cyan
+                    Write-Host "`nConvene Record URL: $urlToCopy"
+                    Set-Clipboard $urlToCopy
+                    Write-Host "`nLink copied to clipboard, paste it in wuwatracker.com and click the Import History button." -ForegroundColor Green
+                    break
+                }
+            }
+            if (!$urlFound) {
+                $err += "Path checked: $($gamePath).`n"
+                $err += "Cannot find the convene history URL in both Client.log and debug.log! Please open your Convene History first!`n"
+                $err += "If this is the correct directory and you're still facing issues, raise a ticket in wuwatracker.com/discord`n"
+            }
         }
         elseif ($folderFound) {
             Write-Host "No logs found at $gamePath`n"
@@ -491,4 +521,3 @@ Write-Host @"
         Write-Host "Invalid game location. Did you set your game location properly?" -ForegroundColor Red
     }
 }
-
