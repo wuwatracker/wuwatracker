@@ -28,9 +28,6 @@
   </a>
   <br>
   <br>
-  <a href="https://github.com/Luzefiru/wuwatracker/deployments/Production">
-    <img src="https://img.shields.io/github/deployments/luzefiru/wuwatracker/production?label=vercel&logo=vercel&logoColor=white" alt="deployment status" style="height: 20px;">
-  </a>
   <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat&logo=Crowdin&logoColor=white" alt="translation provider" style="height: 20px;"/>
 </h5>
 
