@@ -19,6 +19,7 @@
     - Thanks to @mei.yue on Discord for helping us debug OneDrive issues
     - Thanks to @phenom for sharing the v2 launcher new Client.log directory path
     - Thanks to @thekiwibirdddd for optimizing the search logic and updating ACEs to bypass read-only logfiles
+    - Thanks to @RabbyDevs for sending the decoder script after Kuro added XOR obfuscation to the Client.log file, it was originally discovered by his friend @kyuxu
 
     [Redistribution Provision]
     When redistributing this script, you must include this license notice and credits in all copies or substantial portions of the script.
@@ -187,14 +188,49 @@ function LogCheck {
     return $folderFound, $logFound
 }
 
+function GetConveneUrlFromText {
+    param([string]$content)
+
+    $urlMatches = [regex]::Matches($content, 'https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"\s]*')
+    if ($urlMatches.Count -eq 0) {
+        return $null
+    }
+
+    return $urlMatches[$urlMatches.Count - 1].Value
+}
+
+function GetDecryptedClientLogContent {
+    param([string]$path)
+
+    $bytes = [System.IO.File]::ReadAllBytes($path)
+    for ($i = 0; $i -lt $bytes.Length; $i++) {
+        $byte = [int]$bytes[$i]
+        if ((($byte -band 0x0F) % 2) -eq 1) {
+            $bytes[$i] = [byte]($byte -bxor 0xA5)
+        }
+        else {
+            $bytes[$i] = [byte]($byte -bxor 0xEF)
+        }
+    }
+
+    return [System.Text.Encoding]::UTF8.GetString($bytes)
+}
+
 function ExtractUrlFromLog {
     param([PSCustomObject]$logFile)
     $urlToCopy = $null
 
     if ($logFile.Type -eq 'client') {
-        $gachaUrlEntry = Select-String -Path $logFile.Path -Pattern "https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record*" | Select-Object -Last 1
-        if (![string]::IsNullOrWhiteSpace($gachaUrlEntry)) {
-            $urlToCopy = $gachaUrlEntry -replace '.*?(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)[^"]*).*', '$1'
+        try {
+            $clientLogContent = GetDecryptedClientLogContent $logFile.Path
+            $urlToCopy = GetConveneUrlFromText $clientLogContent
+            if ([string]::IsNullOrWhiteSpace($urlToCopy)) {
+                $rawClientLogContent = [System.IO.File]::ReadAllText($logFile.Path)
+                $urlToCopy = GetConveneUrlFromText $rawClientLogContent
+            }
+        }
+        catch {
+            Write-Warning "Failed to decrypt/read Client.log at $($logFile.Path): $_"
         }
     }
     elseif ($logFile.Type -eq 'debug') {
@@ -438,7 +474,7 @@ if (!$urlFound -and $Script:collectedLogFiles.Count -eq 0 -and -not ([Security.P
     $retry = Read-Host "Would you like to retry as Administrator (Y - Retry as Administrator /N - Input a game path manually)"
     if ($retry -eq "Y" -or $retry -eq "y") {
         Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-        $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/18ab17a981a54176a959fc234cfa955888878edf/import.ps1 | iex"'
+        $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/main/import.ps1 | iex"'
         Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
         exit
     }
@@ -521,4 +557,3 @@ Write-Host @"
         Write-Host "Invalid game location. Did you set your game location properly?" -ForegroundColor Red
     }
 }
-
