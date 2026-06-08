@@ -24,6 +24,7 @@
     - Primarily used by WuWa Tracker at https://wuwatracker.com/import (visit the page for usage instructions)
     - originally created by @Yumeo (https://git.yumeo.dev/Yumeo/wuwa-wish-url-finder)
     - improvements by @thekiwibirdddd (color output & optimized search logic)
+    - Thanks to @RabbyDevs for sending the decoder script after Kuro added XOR obfuscation to the Client.log file, it was originally discovered by his friend @kyuxu
 '
 
 game_path=""
@@ -57,6 +58,34 @@ echo -e "${GRAY}Attempting to find URL automatically...${RESET}"
 log_error() {
     local msg="$1"
     err_msgs+=("$msg")
+}
+
+decrypt_client_log() {
+    local log_path="$1"
+
+    if command -v python3 >/dev/null 2>&1; then
+        python3 - "$log_path" <<'PY'
+import sys
+
+with open(sys.argv[1], "rb") as file:
+    data = file.read()
+
+sys.stdout.buffer.write(
+    bytes(
+        byte ^ (0xA5 if (byte & 0x0F) % 2 == 1 else 0xEF)
+        for byte in data
+    )
+)
+PY
+    elif command -v perl >/dev/null 2>&1; then
+        perl -0777 -pe 's/(.)/chr((ord($1) & 0x0f) % 2 == 1 ? ord($1) ^ 0xa5 : ord($1) ^ 0xef)/gse' "$log_path"
+    else
+        return 1
+    fi
+}
+
+extract_convene_url() {
+    grep -aEo 'https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"[:space:]]*' | tail -1
 }
 
 # Function to check for logs and extract URL
@@ -95,8 +124,10 @@ log_check() {
     # Check Client.log for gacha URL
     if [[ -f "$gacha_log_path" ]]; then
         log_found=true
-        # Replace grep -o with grep -Eo to use extended regex, cleaner, more readable and less trash
-        gacha_url_entry=$(grep -Eo 'https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*' "$gacha_log_path" | tail -1)
+        gacha_url_entry=$(decrypt_client_log "$gacha_log_path" | extract_convene_url)
+        if [[ -z "$gacha_url_entry" ]]; then
+            gacha_url_entry=$(grep -aEo 'https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"[:space:]]*' "$gacha_log_path" | tail -1)
+        fi
     fi
     
     # Check debug.log for gacha URL
