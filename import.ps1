@@ -88,7 +88,7 @@ function LogCheck {
                 $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
                 if ($retry -eq "Y" -or $retry -eq "y") {
                     Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/18ab17a981a54176a959fc234cfa955888878edf/import.ps1 | iex"'
+                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/f9a042eed67c7f2c2f32ee6bf87312a4083e6b5c/import.ps1 | iex"'
                     Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
                     exit
                 }
