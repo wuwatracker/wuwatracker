@@ -199,10 +199,38 @@ function GetConveneUrlFromText {
     return $urlMatches[$urlMatches.Count - 1].Value
 }
 
+function ReadSharedFileBytes {
+    param([string]$path)
+
+    $stream = $null
+    $memoryStream = $null
+    try {
+        $fileShare = [System.IO.FileShare]([System.IO.FileShare]::ReadWrite -bor [System.IO.FileShare]::Delete)
+        $stream = [System.IO.File]::Open($path, [System.IO.FileMode]::Open, [System.IO.FileAccess]::Read, $fileShare)
+        $memoryStream = [System.IO.MemoryStream]::new()
+        $stream.CopyTo($memoryStream)
+        return $memoryStream.ToArray()
+    }
+    finally {
+        if ($memoryStream) {
+            $memoryStream.Dispose()
+        }
+        if ($stream) {
+            $stream.Dispose()
+        }
+    }
+}
+
+function GetSharedFileContent {
+    param([string]$path)
+
+    return [System.Text.Encoding]::UTF8.GetString((ReadSharedFileBytes $path))
+}
+
 function GetDecryptedClientLogContent {
     param([string]$path)
 
-    $bytes = [System.IO.File]::ReadAllBytes($path)
+    $bytes = ReadSharedFileBytes $path
     for ($i = 0; $i -lt $bytes.Length; $i++) {
         $byte = [int]$bytes[$i]
         if ((($byte -band 0x0F) % 2) -eq 1) {
@@ -225,7 +253,7 @@ function ExtractUrlFromLog {
             $clientLogContent = GetDecryptedClientLogContent $logFile.Path
             $urlToCopy = GetConveneUrlFromText $clientLogContent
             if ([string]::IsNullOrWhiteSpace($urlToCopy)) {
-                $rawClientLogContent = [System.IO.File]::ReadAllText($logFile.Path)
+                $rawClientLogContent = GetSharedFileContent $logFile.Path
                 $urlToCopy = GetConveneUrlFromText $rawClientLogContent
             }
         }
@@ -234,9 +262,15 @@ function ExtractUrlFromLog {
         }
     }
     elseif ($logFile.Type -eq 'debug') {
-        $debugUrlEntry = Select-String -Path $logFile.Path -Pattern '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"' | Select-Object -Last 1
-        if (![string]::IsNullOrWhiteSpace($debugUrlEntry)) {
-            $urlToCopy = $debugUrlEntry.Matches.Groups[1].Value
+        try {
+            $debugLogContent = GetSharedFileContent $logFile.Path
+            $debugUrlMatches = [regex]::Matches($debugLogContent, '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"')
+            if ($debugUrlMatches.Count -gt 0) {
+                $urlToCopy = $debugUrlMatches[$debugUrlMatches.Count - 1].Groups[1].Value
+            }
+        }
+        catch {
+            Write-Warning "Failed to read debug.log at $($logFile.Path): $_"
         }
     }
 

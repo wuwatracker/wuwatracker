@@ -60,15 +60,25 @@ log_error() {
     err_msgs+=("$msg")
 }
 
-decrypt_client_log() {
+read_log_file() {
     local log_path="$1"
 
+    for _ in 1 2 3; do
+        if cat "$log_path" 2>/dev/null; then
+            return 0
+        fi
+        sleep 0.2
+    done
+
+    return 1
+}
+
+decrypt_client_log() {
     if command -v python3 >/dev/null 2>&1; then
-        python3 - "$log_path" <<'PY'
+        python3 - <<'PY'
 import sys
 
-with open(sys.argv[1], "rb") as file:
-    data = file.read()
+data = sys.stdin.buffer.read()
 
 sys.stdout.buffer.write(
     bytes(
@@ -78,7 +88,7 @@ sys.stdout.buffer.write(
 )
 PY
     elif command -v perl >/dev/null 2>&1; then
-        perl -0777 -pe 's/(.)/chr((ord($1) & 0x0f) % 2 == 1 ? ord($1) ^ 0xa5 : ord($1) ^ 0xef)/gse' "$log_path"
+        perl -0777 -pe 's/(.)/chr((ord($1) & 0x0f) % 2 == 1 ? ord($1) ^ 0xa5 : ord($1) ^ 0xef)/gse'
     else
         return 1
     fi
@@ -124,9 +134,9 @@ log_check() {
     # Check Client.log for gacha URL
     if [[ -f "$gacha_log_path" ]]; then
         log_found=true
-        gacha_url_entry=$(decrypt_client_log "$gacha_log_path" | extract_convene_url)
+        gacha_url_entry=$(read_log_file "$gacha_log_path" | decrypt_client_log | extract_convene_url)
         if [[ -z "$gacha_url_entry" ]]; then
-            gacha_url_entry=$(grep -aEo 'https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"[:space:]]*' "$gacha_log_path" | tail -1)
+            gacha_url_entry=$(read_log_file "$gacha_log_path" | extract_convene_url)
         fi
     fi
     
@@ -134,7 +144,7 @@ log_check() {
     if [[ -f "$debug_log_path" ]]; then
         log_found=true
         # Same as above, Sed also replaced with Sed -E for consistency
-        debug_url=$(grep -Eo '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"' "$debug_log_path" \
+        debug_url=$(read_log_file "$debug_log_path" | grep -Eo '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"' \
             | sed -E 's/.*"((https:\/\/)[^"]*)".*/\1/' | tail -1)
     fi
     
