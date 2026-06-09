@@ -50,6 +50,47 @@ Write-Output "Attempting to find URL automatically..."
 # URL extraction happens once at the end using the newest file
 # We do this because some users have multiple installations and thus, outdated logfiles
 $Script:collectedLogFiles = [System.Collections.Generic.List[PSCustomObject]]::new()
+$Script:spinnerFrames = @('|', '/', '-', '\')
+$Script:spinnerIndex = 0
+$Script:spinnerEnabled = -not [Console]::IsOutputRedirected
+
+function WriteSpinnerFrame {
+    param([string]$message)
+
+    if ([string]::IsNullOrWhiteSpace($message) -or !$Script:spinnerEnabled) {
+        return
+    }
+
+    try {
+        $frame = $Script:spinnerFrames[$Script:spinnerIndex % $Script:spinnerFrames.Count]
+        $Script:spinnerIndex++
+        Write-Host "`r$frame $message" -NoNewline -ForegroundColor Cyan
+    }
+    catch {
+        $Script:spinnerEnabled = $false
+    }
+}
+
+function ClearSpinnerLine {
+    if (!$Script:spinnerEnabled) {
+        return
+    }
+
+    try {
+        $width = [Math]::Max([Console]::WindowWidth - 1, 80)
+        Write-Host ("`r" + (" " * $width) + "`r") -NoNewline
+    }
+    catch {
+        Write-Host "`r" -NoNewline
+    }
+}
+
+function CompleteSpinner {
+    param([string]$message)
+
+    ClearSpinnerLine
+    Write-Host $message -ForegroundColor Cyan
+}
 
 function LogCheck {
     if (!(Test-Path $args[0])) {
@@ -228,10 +269,17 @@ function GetSharedFileContent {
 }
 
 function GetDecryptedClientLogContent {
-    param([string]$path)
+    param(
+        [string]$path,
+        [string]$spinnerMessage = $null
+    )
 
     $bytes = ReadSharedFileBytes $path
     for ($i = 0; $i -lt $bytes.Length; $i++) {
+        if ($spinnerMessage -and ($i % 65536) -eq 0) {
+            WriteSpinnerFrame $spinnerMessage
+        }
+
         $byte = [int]$bytes[$i]
         if ((($byte -band 0x0F) % 2) -eq 1) {
             $bytes[$i] = [byte]($byte -bxor 0xA5)
@@ -245,14 +293,20 @@ function GetDecryptedClientLogContent {
 }
 
 function ExtractUrlFromLog {
-    param([PSCustomObject]$logFile)
+    param(
+        [PSCustomObject]$logFile,
+        [string]$spinnerMessage = $null
+    )
     $urlToCopy = $null
+
+    WriteSpinnerFrame $spinnerMessage
 
     if ($logFile.Type -eq 'client') {
         try {
-            $clientLogContent = GetDecryptedClientLogContent $logFile.Path
+            $clientLogContent = GetDecryptedClientLogContent $logFile.Path $spinnerMessage
             $urlToCopy = GetConveneUrlFromText $clientLogContent
             if ([string]::IsNullOrWhiteSpace($urlToCopy)) {
+                WriteSpinnerFrame $spinnerMessage
                 $rawClientLogContent = GetSharedFileContent $logFile.Path
                 $urlToCopy = GetConveneUrlFromText $rawClientLogContent
             }
@@ -263,6 +317,7 @@ function ExtractUrlFromLog {
     }
     elseif ($logFile.Type -eq 'debug') {
         try {
+            WriteSpinnerFrame $spinnerMessage
             $debugLogContent = GetSharedFileContent $logFile.Path
             $debugUrlMatches = [regex]::Matches($debugLogContent, '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"')
             if ($debugUrlMatches.Count -gt 0) {
@@ -477,23 +532,33 @@ if (!$urlFound) {
 
 # Sort all collected log files by newest and pick the newest one
 if (!$urlFound -and $Script:collectedLogFiles.Count -gt 0) {
-    Write-Host "`nCollected $($Script:collectedLogFiles.Count) log file(s) across all installations. Selecting newest for URL extraction..." -ForegroundColor Cyan
+    $selectionMessage = "Collected $($Script:collectedLogFiles.Count) log file(s) across all installations. Selecting newest for URL extraction..."
+    Write-Host ""
+    WriteSpinnerFrame $selectionMessage
     $sortedLogs = $Script:collectedLogFiles | Sort-Object LastWriteTime -Descending
+
+    $matchedLogFile = $null
+    $urlToCopy = $null
+    foreach ($logFile in $sortedLogs) {
+        $urlToCopy = ExtractUrlFromLog $logFile $selectionMessage
+        if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
+            $urlFound = $true
+            $matchedLogFile = $logFile
+            break
+        }
+    }
+
+    CompleteSpinner $selectionMessage
     Write-Host "Log files ranked by age (newest first):" -ForegroundColor DarkGray
     foreach ($lf in $sortedLogs) {
         Write-Host "  [$($lf.LastWriteTime)] $($lf.Path)" -ForegroundColor DarkGray
     }
 
-    foreach ($logFile in $sortedLogs) {
-        $urlToCopy = ExtractUrlFromLog $logFile
-        if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
-            $urlFound = $true
-            Write-Host "`nURL found in $($logFile.Path)" -ForegroundColor Cyan
-            Write-Host "`nConvene Record URL: $urlToCopy"
-            Set-Clipboard $urlToCopy
-            Write-Host "`nLink copied to clipboard, paste it in wuwatracker.com and click the Import History button." -ForegroundColor Green
-            break
-        }
+    if ($urlFound) {
+        Write-Host "`nURL found in $($matchedLogFile.Path)" -ForegroundColor Cyan
+        Write-Host "`nConvene Record URL: $urlToCopy"
+        Set-Clipboard $urlToCopy
+        Write-Host "`nLink copied to clipboard, paste it in wuwatracker.com and click the Import History button." -ForegroundColor Green
     }
 
     if (!$urlFound) {
