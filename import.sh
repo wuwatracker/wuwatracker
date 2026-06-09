@@ -32,10 +32,11 @@ url_found=false
 log_found=false
 folder_found=false
 err_msgs=()
-declare -A checked_directories=() 
+checked_directories=()
+spinner_pid=""
 
 # Detect color support
-if command -v tput >/dev/null && [ $(tput colors) -ge 8 ]; then
+if command -v tput >/dev/null 2>&1 && [ "$(tput colors 2>/dev/null || echo 0)" -ge 8 ]; then
     RED="\e[31m"
     GREEN="\e[32m"
     YELLOW="\e[33m"
@@ -60,6 +61,69 @@ log_error() {
     err_msgs+=("$msg")
 }
 
+has_checked_directory() {
+    local target="$1"
+
+    for checked_directory in "${checked_directories[@]}"; do
+        if [[ "$checked_directory" == "$target" ]]; then
+            return 0
+        fi
+    done
+
+    return 1
+}
+
+mark_checked_directory() {
+    checked_directories+=("$1")
+}
+
+start_spinner() {
+    local message="$1"
+
+    if [[ ! -t 2 ]]; then
+        echo "$message" >&2
+        return 0
+    fi
+
+    (
+        local i=0
+        local frame=""
+
+        while :; do
+            case $((i % 4)) in
+                0) frame="|" ;;
+                1) frame="/" ;;
+                2) frame="-" ;;
+                3) frame="\\" ;;
+            esac
+
+            printf "\r%s %s" "$frame" "$message" >&2
+            i=$((i + 1))
+            sleep 0.1
+        done
+    ) &
+    spinner_pid=$!
+}
+
+stop_spinner() {
+    local message="$1"
+
+    if [[ -n "$spinner_pid" ]]; then
+        kill "$spinner_pid" 2>/dev/null
+        wait "$spinner_pid" 2>/dev/null
+        spinner_pid=""
+
+        if [[ -t 2 ]]; then
+            printf "\r%*s\r" "${COLUMNS:-80}" "" >&2
+            if [[ -n "$message" ]]; then
+                echo "$message" >&2
+            fi
+        fi
+    fi
+}
+
+trap 'stop_spinner ""' EXIT
+
 read_log_file() {
     local log_path="$1"
 
@@ -75,7 +139,7 @@ read_log_file() {
 
 decrypt_client_log() {
     if command -v python3 >/dev/null 2>&1; then
-        python3 - <<'PY'
+        python3 -c '
 import sys
 
 data = sys.stdin.buffer.read()
@@ -86,7 +150,7 @@ sys.stdout.buffer.write(
         for byte in data
     )
 )
-PY
+'
     elif command -v perl >/dev/null 2>&1; then
         perl -0777 -pe 's/(.)/chr((ord($1) & 0x0f) % 2 == 1 ? ord($1) ^ 0xa5 : ord($1) ^ 0xef)/gse'
     else
@@ -130,6 +194,21 @@ log_check() {
     
     local gacha_url_entry=""
     local debug_url=""
+    local collected_log_count=0
+    local spinner_message=""
+
+    if [[ -f "$gacha_log_path" ]]; then
+        collected_log_count=$((collected_log_count + 1))
+    fi
+
+    if [[ -f "$debug_log_path" ]]; then
+        collected_log_count=$((collected_log_count + 1))
+    fi
+
+    if [[ "$collected_log_count" -gt 0 ]]; then
+        spinner_message="Collected $collected_log_count log file(s) in this installation. Selecting newest for URL extraction..."
+        start_spinner "$spinner_message"
+    fi
     
     # Check Client.log for gacha URL
     if [[ -f "$gacha_log_path" ]]; then
@@ -146,6 +225,10 @@ log_check() {
         # Same as above, Sed also replaced with Sed -E for consistency
         debug_url=$(read_log_file "$debug_log_path" | grep -Eo '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"' \
             | sed -E 's/.*"((https:\/\/)[^"]*)".*/\1/' | tail -1)
+    fi
+
+    if [[ "$collected_log_count" -gt 0 ]]; then
+        stop_spinner "$spinner_message"
     fi
     
     local url_to_copy=""
@@ -173,6 +256,9 @@ log_check() {
                 echo -e "\n${GREEN}Link copied to clipboard!${RESET}"
             elif command -v wl-copy >/dev/null 2>&1; then
                 echo "$url_to_copy" | wl-copy
+                echo -e "\n${GREEN}Link copied to clipboard!${RESET}"
+            elif command -v pbcopy >/dev/null 2>&1; then
+                echo "$url_to_copy" | pbcopy
                 echo -e "\n${GREEN}Link copied to clipboard!${RESET}"
             else
                 echo -e "\n${YELLOW}Clipboard tool not found. Please manually copy the URL above.${RESET}"
@@ -211,13 +297,12 @@ search_steam_paths() {
         if [[ -d "$path" ]]; then
             echo -e "${GREEN}Found potential Steam installation: $path ${RESET}" >&2
 
-            # Modified: Changed to O(1) Scanning via Assoc Array, prevents duplicates
-            if [[ -n "${checked_directories[$path]}" ]]; then
+            if has_checked_directory "$path"; then
                 log_error "Already checked: $path"
                 continue
             fi
 
-            checked_directories["$path"]=1
+            mark_checked_directory "$path"
 
             # Try both the direct path and Wuthering Waves Game subdirectory
             for game_dir in "$path" "$path/Wuthering Waves Game"; do
@@ -269,11 +354,11 @@ search_wine_paths() {
             echo -e "${GREEN}Found potential Wine installation: $path${RESET}" >&2
             
             # Check if already processed
-            if [[ -n "${checked_directories[$path]}" ]]; then
+            if has_checked_directory "$path"; then
                 log_error "Already checked: $path"
                 continue
             fi
-            checked_directories["$path"]=1
+            mark_checked_directory "$path"
 
             # Try both the direct path and Wuthering Waves Game subdirectory
             for game_dir in "$path" "$path/Wuthering Waves Game"; do
@@ -306,11 +391,11 @@ search_lutris_paths() {
                 echo -e "${GREEN}Found potential Lutris installation: $game_dir${RESET}" >&2
                 
                 # Check if already processed
-                if [[ -n "${checked_directories[$game_dir]}" ]]; then
+                if has_checked_directory "$game_dir"; then
                     log_error "Already checked: $game_dir"
                     continue
                 fi
-                checked_directories["$game_dir"]=1
+                mark_checked_directory "$game_dir"
                 
                 if log_check "$game_dir"; then
                     return 0
@@ -429,11 +514,11 @@ search_mounted_drives() {
             echo -e "${GREEN}Found potential game folder: $path${RESET}" >&2
             
             # Check if already processed
-            if [[ -n "${checked_directories[$path]}" ]]; then
+            if has_checked_directory "$path"; then
                 log_error "Already checked: $path"
                 continue
             fi
-            checked_directories["$path"]=1
+            mark_checked_directory "$path"
 
             if log_check "$path"; then
                 return 0
@@ -497,9 +582,11 @@ while [[ "$url_found" != true ]]; do
     read -p "Input your installation location (otherwise, type \"exit\" to quit): " path
     
     if [[ -n "$path" ]]; then
-        if [[ "${path,,}" == "exit" ]]; then
-            break
-        fi
+        case "$path" in
+            [Ee][Xx][Ii][Tt])
+                break
+                ;;
+        esac
         game_path="$path"
         echo -e "\n\n\n${MAGENTA}User provided path: $path${RESET}" >&2
         
