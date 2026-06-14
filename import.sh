@@ -222,9 +222,7 @@ log_check() {
     # Check debug.log for gacha URL
     if [[ -f "$debug_log_path" ]]; then
         log_found=true
-        # Same as above, Sed also replaced with Sed -E for consistency
-        debug_url=$(read_log_file "$debug_log_path" | grep -Eo '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"' \
-            | sed -E 's/.*"((https:\/\/)[^"]*)".*/\1/' | tail -1)
+        debug_url=$(read_log_file "$debug_log_path" | extract_convene_url)
     fi
 
     if [[ "$collected_log_count" -gt 0 ]]; then

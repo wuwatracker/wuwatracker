@@ -207,6 +207,7 @@ function LogCheck {
             $Script:collectedLogFiles.Add([PSCustomObject]@{
                 Path          = $gachaLogPath
                 Type          = 'client'
+                InstallPath   = $args[0]
                 LastWriteTime = $fileInfo.LastWriteTime
             })
             Write-Host "  Queued Client.log: $gachaLogPath (Modified: $($fileInfo.LastWriteTime))" -ForegroundColor DarkGray
@@ -220,6 +221,7 @@ function LogCheck {
             $Script:collectedLogFiles.Add([PSCustomObject]@{
                 Path          = $debugLogPath
                 Type          = 'debug'
+                InstallPath   = $args[0]
                 LastWriteTime = $fileInfo.LastWriteTime
             })
             Write-Host "  Queued debug.log: $debugLogPath (Modified: $($fileInfo.LastWriteTime))" -ForegroundColor DarkGray
@@ -319,10 +321,7 @@ function ExtractUrlFromLog {
         try {
             WriteSpinnerFrame $spinnerMessage
             $debugLogContent = GetSharedFileContent $logFile.Path
-            $debugUrlMatches = [regex]::Matches($debugLogContent, '"#url": "(https://aki-gm-resources(-oversea)?\.aki-game\.(net|com)/aki/gacha/index\.html#/record[^"]*)"')
-            if ($debugUrlMatches.Count -gt 0) {
-                $urlToCopy = $debugUrlMatches[$debugUrlMatches.Count - 1].Groups[1].Value
-            }
+            $urlToCopy = GetConveneUrlFromText $debugLogContent
         }
         catch {
             Write-Warning "Failed to read debug.log at $($logFile.Path): $_"
@@ -540,6 +539,22 @@ if (!$urlFound -and $Script:collectedLogFiles.Count -gt 0) {
     $matchedLogFile = $null
     $urlToCopy = $null
     foreach ($logFile in $sortedLogs) {
+        if ($logFile.Type -eq 'debug') {
+            $siblingClientLog = $Script:collectedLogFiles |
+                Where-Object { $_.Type -eq 'client' -and $_.InstallPath -eq $logFile.InstallPath } |
+                Sort-Object LastWriteTime -Descending |
+                Select-Object -First 1
+
+            if ($siblingClientLog) {
+                $urlToCopy = ExtractUrlFromLog $siblingClientLog $selectionMessage
+                if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
+                    $urlFound = $true
+                    $matchedLogFile = $siblingClientLog
+                    break
+                }
+            }
+        }
+
         $urlToCopy = ExtractUrlFromLog $logFile $selectionMessage
         if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
             $urlFound = $true
@@ -628,6 +643,25 @@ Write-Host @"
         if ($logFound -and $Script:collectedLogFiles.Count -gt 0) {
             $sortedLogs = $Script:collectedLogFiles | Sort-Object LastWriteTime -Descending
             foreach ($logFile in $sortedLogs) {
+                if ($logFile.Type -eq 'debug') {
+                    $siblingClientLog = $Script:collectedLogFiles |
+                        Where-Object { $_.Type -eq 'client' -and $_.InstallPath -eq $logFile.InstallPath } |
+                        Sort-Object LastWriteTime -Descending |
+                        Select-Object -First 1
+
+                    if ($siblingClientLog) {
+                        $urlToCopy = ExtractUrlFromLog $siblingClientLog
+                        if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
+                            $urlFound = $true
+                            Write-Host "`nURL found in $($siblingClientLog.Path)" -ForegroundColor Cyan
+                            Write-Host "`nConvene Record URL: $urlToCopy"
+                            Set-Clipboard $urlToCopy
+                            Write-Host "`nLink copied to clipboard, paste it in wuwatracker.com and click the Import History button." -ForegroundColor Green
+                            break
+                        }
+                    }
+                }
+
                 $urlToCopy = ExtractUrlFromLog $logFile
                 if (![string]::IsNullOrWhiteSpace($urlToCopy)) {
                     $urlFound = $true
