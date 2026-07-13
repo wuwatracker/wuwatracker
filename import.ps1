@@ -376,6 +376,162 @@ function ExtractUrlFromLog {
     return $urlToCopy
 }
 
+function GetXboxGamingRootLocations {
+    param(
+        [string]$gamingRootPath,
+        [string]$driveRoot
+    )
+
+    try {
+        [byte[]]$bytes = [System.IO.File]::ReadAllBytes($gamingRootPath)
+    }
+    catch {
+        Write-Warning "Unable to read Xbox Game root file at ${gamingRootPath}: $_"
+        return
+    }
+
+    # .GamingRoot contains the RGBX magic value, a UInt32 location count, then
+    # that many null-terminated UTF-16LE paths relative to the drive root.
+    [byte[]]$expectedHeader = @(0x52, 0x47, 0x42, 0x58)
+    if ($bytes.Length -lt 10) {
+        Write-Warning "Ignoring invalid Xbox Game root file at $gamingRootPath (file is too short)."
+        return
+    }
+
+    for ($i = 0; $i -lt $expectedHeader.Length; $i++) {
+        if ($bytes[$i] -ne $expectedHeader[$i]) {
+            Write-Warning "Ignoring invalid Xbox Game root file at $gamingRootPath (unexpected header)."
+            return
+        }
+    }
+
+    [uint32]$locationCount = [System.BitConverter]::ToUInt32($bytes, 4)
+    if ($locationCount -eq 0 -or $locationCount -ge [byte]::MaxValue) {
+        Write-Warning "Ignoring invalid Xbox Game root file at $gamingRootPath (invalid location count: $locationCount)."
+        return
+    }
+
+    try {
+        $normalizedDriveRoot = [System.IO.Path]::GetFullPath($driveRoot)
+        $expectedPathRoot = [System.IO.Path]::GetPathRoot($normalizedDriveRoot)
+    }
+    catch {
+        Write-Warning "Unable to normalize Xbox Game drive root ${driveRoot}: $_"
+        return
+    }
+
+    $offset = 8
+    for ([uint32]$locationIndex = 0; $locationIndex -lt $locationCount; $locationIndex++) {
+        $terminatorOffset = -1
+        for ($i = $offset; ($i + 1) -lt $bytes.Length; $i += 2) {
+            if ($bytes[$i] -eq 0 -and $bytes[$i + 1] -eq 0) {
+                $terminatorOffset = $i
+                break
+            }
+        }
+
+        if ($terminatorOffset -le $offset) {
+            Write-Warning "Ignoring incomplete Xbox Game root data in $gamingRootPath."
+            return
+        }
+
+        try {
+            $location = [System.Text.Encoding]::Unicode.GetString($bytes, $offset, $terminatorOffset - $offset).Trim()
+            $offset = $terminatorOffset + 2
+
+            if ([string]::IsNullOrWhiteSpace($location)) {
+                continue
+            }
+
+            # Current .GamingRoot files use drive-relative locations such as
+            # \XboxGames. Also accept an absolute location if it points to the
+            # same drive, while rejecting malformed cross-drive/UNC values.
+            if ($location -match '^[A-Za-z]:[\\/]') {
+                $fullLocation = [System.IO.Path]::GetFullPath($location)
+            }
+            else {
+                $relativeLocation = $location.TrimStart([char[]]@('\', '/'))
+                $fullLocation = [System.IO.Path]::GetFullPath([System.IO.Path]::Combine($normalizedDriveRoot, $relativeLocation))
+            }
+
+            if (![string]::Equals([System.IO.Path]::GetPathRoot($fullLocation), $expectedPathRoot, [System.StringComparison]::OrdinalIgnoreCase)) {
+                Write-Warning "Ignoring Xbox Game location outside drive ${driveRoot}: $location"
+                continue
+            }
+
+            Write-Output $fullLocation.TrimEnd([char[]]@('\', '/'))
+        }
+        catch {
+            Write-Warning "Ignoring invalid Xbox Game location '$location' in ${gamingRootPath}: $_"
+        }
+    }
+}
+
+function SearchXboxInstallations {
+    $gamingRootFiles = @()
+
+    foreach ($drive in @(Get-PSDrive -PSProvider FileSystem -ErrorAction SilentlyContinue)) {
+        if ([string]::IsNullOrWhiteSpace($drive.Root)) {
+            continue
+        }
+
+        try {
+            $normalizedRoot = [System.IO.Path]::GetFullPath($drive.Root)
+            $pathRoot = [System.IO.Path]::GetPathRoot($normalizedRoot)
+            if (![string]::Equals($normalizedRoot.TrimEnd([char[]]@('\', '/')), $pathRoot.TrimEnd([char[]]@('\', '/')), [System.StringComparison]::OrdinalIgnoreCase)) {
+                continue
+            }
+        }
+        catch {
+            continue
+        }
+
+        $gamingRootPath = Join-Path $normalizedRoot '.GamingRoot'
+        if (Test-Path -LiteralPath $gamingRootPath -PathType Leaf) {
+            $gamingRootFiles += [PSCustomObject]@{
+                Name = $normalizedRoot.TrimEnd([char[]]@('\', '/'))
+                Root = $normalizedRoot
+                Path = $gamingRootPath
+            }
+        }
+    }
+
+    if ($gamingRootFiles.Count -eq 0) {
+        return
+    }
+
+    Write-Host "Found drive with Xbox Game root: $((@($gamingRootFiles | Select-Object -ExpandProperty Name) | Sort-Object -Unique) -join ', ')" -ForegroundColor Green
+
+    foreach ($gamingRootFile in $gamingRootFiles) {
+        $locations = @(GetXboxGamingRootLocations $gamingRootFile.Path $gamingRootFile.Root)
+        foreach ($location in @($locations | Sort-Object -Unique)) {
+            Write-Host "Checking Location for $location" -ForegroundColor Yellow
+
+            $xboxGamePath = Join-Path $location 'Wuthering Waves\Content'
+            if (!(Test-Path -LiteralPath $xboxGamePath -PathType Container)) {
+                continue
+            }
+
+            try {
+                $xboxGamePath = [System.IO.Path]::GetFullPath($xboxGamePath).TrimEnd([char[]]@('\', '/'))
+            }
+            catch {
+                Write-Warning "Unable to normalize Xbox Wuthering Waves path ${xboxGamePath}: $_"
+                continue
+            }
+
+            Write-Host "Found Wuthering Waves install at: $xboxGamePath" -ForegroundColor Green
+
+            if ($checkedDirectories.Contains($xboxGamePath)) {
+                continue
+            }
+
+            $checkedDirectories.Add($xboxGamePath) | Out-Null
+            $folderFound, $logFound = LogCheck $xboxGamePath
+        }
+    }
+}
+
 
 function SearchAllDiskLetters {
     Write-Host "Searching all disk letters (A-Z) for Wuthering Waves Game folder..." -ForegroundColor Yellow
@@ -568,6 +724,10 @@ if (!$urlFound) {
         Write-Output "[ERROR] Cannot access registry: $_"
         $gamePath = $null
     }
+}
+
+if (!$urlFound) {
+    SearchXboxInstallations
 }
 
 if (!$urlFound) {
