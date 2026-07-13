@@ -31,6 +31,7 @@ $urlFound = $false
 $logFound = $false
 $folderFound = $false
 $err = ""
+$Script:compiledClientLogXorDecoderFailed = $false
 $checkedDirectories = [System.Collections.Generic.HashSet[string]]::new([System.StringComparer]::OrdinalIgnoreCase)
 $originalErrorPreference = $ErrorActionPreference
 $IsAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
@@ -242,6 +243,43 @@ function GetConveneUrlFromText {
     return $urlMatches[$urlMatches.Count - 1].Value
 }
 
+function InvokeCompiledClientLogXorDecode {
+    param([byte[]]$bytes)
+
+    if ($Script:compiledClientLogXorDecoderFailed) {
+        return $false
+    }
+
+    try {
+        if ($null -eq ('WuWaTracker.Import.ClientLogXorDecoderV1' -as [type])) {
+            Add-Type -TypeDefinition @"
+namespace WuWaTracker.Import
+{
+    public static class ClientLogXorDecoderV1
+    {
+        public static void Decode(byte[] data)
+        {
+            for (int i = 0; i < data.Length; i++)
+            {
+                byte b = data[i];
+                // Equivalent to the original PowerShell check: ((b & 0x0F) % 2) == 1
+                data[i] = (byte)(b ^ (((b & 1) != 0) ? 0xA5 : 0xEF));
+            }
+        }
+    }
+}
+"@ -ErrorAction Stop | Out-Null
+        }
+
+        [WuWaTracker.Import.ClientLogXorDecoderV1]::Decode($bytes)
+        return $true
+    }
+    catch {
+        $Script:compiledClientLogXorDecoderFailed = $true
+        return $false
+    }
+}
+
 function ReadSharedFileBytes {
     param([string]$path)
 
@@ -252,7 +290,7 @@ function ReadSharedFileBytes {
         $stream = [System.IO.File]::Open($path, [System.IO.FileMode]::Open, [System.IO.FileAccess]::Read, $fileShare)
         $memoryStream = [System.IO.MemoryStream]::new()
         $stream.CopyTo($memoryStream)
-        return $memoryStream.ToArray()
+        return ,$memoryStream.ToArray()
     }
     finally {
         if ($memoryStream) {
@@ -276,7 +314,14 @@ function GetDecryptedClientLogContent {
         [string]$spinnerMessage = $null
     )
 
-    $bytes = ReadSharedFileBytes $path
+    [byte[]]$bytes = ReadSharedFileBytes $path
+    WriteSpinnerFrame $spinnerMessage
+
+    if (InvokeCompiledClientLogXorDecode $bytes) {
+        WriteSpinnerFrame $spinnerMessage
+        return [System.Text.Encoding]::UTF8.GetString($bytes)
+    }
+
     for ($i = 0; $i -lt $bytes.Length; $i++) {
         if ($spinnerMessage -and ($i % 65536) -eq 0) {
             WriteSpinnerFrame $spinnerMessage
