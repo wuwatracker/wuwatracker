@@ -130,7 +130,7 @@ function LogCheck {
                 $retry = Read-Host "Would you like to retry as Administrator? (Y/N)"
                 if ($retry -eq "Y" -or $retry -eq "y") {
                     Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/57c7474f0e6d2cfa33bd76a94dd277559d95e151/import.ps1 | iex"'
+                    $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/710dffa66d45a1f27bcda2c7a1139253a0b46ed5/import.ps1 | iex"'
                     Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
                     exit
                 }
@@ -793,7 +793,7 @@ if (!$urlFound -and $Script:collectedLogFiles.Count -eq 0 -and -not ([Security.P
     $retry = Read-Host "Would you like to retry as Administrator (Y - Retry as Administrator /N - Input a game path manually)"
     if ($retry -eq "Y" -or $retry -eq "y") {
         Write-Host "Restarting script with elevated permissions and fetching latest import script..." -ForegroundColor Cyan
-        $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/57c7474f0e6d2cfa33bd76a94dd277559d95e151/import.ps1 | iex"'
+        $elevatedCommand = '-NoProfile -Command "iwr -UseBasicParsing -Headers @{''User-Agent''=''"Mozilla/5.0""''} https://raw.githubusercontent.com/wuwatracker/wuwatracker/710dffa66d45a1f27bcda2c7a1139253a0b46ed5/import.ps1 | iex"'
         Start-Process powershell.exe -ArgumentList $elevatedCommand -Verb RunAs
         exit
     }
