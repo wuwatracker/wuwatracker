@@ -38,6 +38,19 @@ log_types=()
 log_install_paths=()
 log_mtimes=()
 unreadable_logs=()
+
+prompt_read() {
+    local __reply
+    if [[ -t 0 ]]; then
+        read -r -p "$2" __reply || return 1
+    elif { exec 3</dev/tty; } 2>/dev/null; then
+        read -r -p "$2" __reply <&3 || { exec 3<&-; return 1; }
+        exec 3<&-
+    else
+        return 1
+    fi
+    printf -v "$1" '%s' "$__reply"
+}
 discovery_roots=()
 candidate_used=()
 candidate_url=""
@@ -209,7 +222,7 @@ check_engine_ini() {
         echo "The file is located at: $engine_ini_path" >&2
         echo "Please manually edit this file to remove or comment out the '[Core.Log]' section with 'Global=off' or 'Global=none'." >&2
         echo -e "${YELLOW}After editing, restart your game and open the Convene History page before running this script again.${RESET}" >&2
-        read -p "Press Enter to continue..."
+        prompt_read _dummy "Press Enter to continue..." || true
         exit 1
     fi
 }
@@ -638,8 +651,18 @@ main() {
         echo -e "  ${YELLOW}~/.wine/drive_c/Program Files/Epic Games/WutheringWavesj3oFh${RESET}" >&2
         echo -e "  ${YELLOW}~/Games/wuthering-waves${RESET}" >&2
 
-        read -p "Input your installation location (otherwise, type \"exit\" to quit): " path
-    
+        if ! prompt_read path "Input your installation location (otherwise, type \"exit\" to quit): "; then
+            echo -e "\n${RED}No input received.${RESET}" >&2
+            break
+        fi
+
+        path="${path#"${path%%[![:space:]]*}"}"
+        path="${path%"${path##*[![:space:]]}"}"
+        if [[ "$path" == \"*\" || "$path" == \'*\' ]]; then
+            path="${path:1:${#path}-2}"
+        fi
+        path="${path/#\~/$HOME}"
+
         if [[ -n "$path" ]]; then
             case "$path" in
                 [Ee][Xx][Ii][Tt])
